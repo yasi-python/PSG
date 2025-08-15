@@ -96,6 +96,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [50]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
                 "❔ XX | 🔒 VLESS | @connectshu [1]",
@@ -113,7 +114,7 @@
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
-                "🇩🇪 DE | 🔒 VLESS | @game_file2020 [2]",
+                "🇩🇪 DE | 🔒 VLESS | @game_file2020 [1]",
                 "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [3]",
                 "❔ XX | 🔒 VLESS | @ip_cf_config [6]",
@@ -144,6 +145,7 @@
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [1]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
+                "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [17]",
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [4]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [3]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [2]",
@@ -175,7 +177,6 @@
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇺🇸 US | 🔒 VLESS | @v2rayngrit [12]",
                 "❔ XX | 🔒 VLESS | @v2rayngrit [14]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayngrit [16]",
                 "❔ XX | 🔒 VLESS | @v2rayngseven [3]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayprotocol [2]",
                 "❔ XX | 🔒 VLESS | @v2rayturbo [1]",
@@ -237,6 +238,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [50]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
                 "❔ XX | 🔒 VLESS | @connectshu [1]",
@@ -254,7 +256,7 @@
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
-                "🇩🇪 DE | 🔒 VLESS | @game_file2020 [2]",
+                "🇩🇪 DE | 🔒 VLESS | @game_file2020 [1]",
                 "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [3]",
                 "❔ XX | 🔒 VLESS | @ip_cf_config [6]",
@@ -285,6 +287,7 @@
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [1]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
+                "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [17]",
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [4]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [3]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [2]",
@@ -316,7 +319,6 @@
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇺🇸 US | 🔒 VLESS | @v2rayngrit [12]",
                 "❔ XX | 🔒 VLESS | @v2rayngrit [14]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayngrit [16]",
                 "❔ XX | 🔒 VLESS | @v2rayngseven [3]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayprotocol [2]",
                 "❔ XX | 🔒 VLESS | @v2rayturbo [1]",
@@ -846,6 +848,29 @@
             }
         },
         {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [50]",
+            "type": "vless",
+            "server": "nevn2.iovpn.click",
+            "server_port": 443,
+            "uuid": "f8e17967-9c69-40c3-a2fb-e139a2a7c2c8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "b6ztnkLamEySQKDw_IdLqHEx0X88Y0sI7s5BLa0YUGU",
+                    "short_id": "016cc6e2de6b"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
             "type": "vless",
             "server": "s1.aparat-movies-download.ir",
@@ -1281,7 +1306,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @game_file2020 [2]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @game_file2020 [1]",
             "type": "vless",
             "server": "vip1.proxystore11.news",
             "server_port": 2052,
@@ -2045,6 +2070,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [17]",
+            "type": "vless",
+            "server": "greenwolf.fonixapp.org",
+            "server_port": 12901,
+            "uuid": "d2bcb15b-8cf0-402c-af32-6b04615144c9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "canva.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM",
+                    "short_id": "b538b3"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @proxycrone [4]",
             "type": "vless",
             "server": "sqz.outis6.xyz",
@@ -2770,29 +2818,6 @@
                     "enabled": true,
                     "public_key": "GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ",
                     "short_id": "974a74bf"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayngrit [16]",
-            "type": "vless",
-            "server": "greenwolf.fonixapp.org",
-            "server_port": 12901,
-            "uuid": "d2bcb15b-8cf0-402c-af32-6b04615144c9",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "canva.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM",
-                    "short_id": "b538b3"
                 }
             }
         },

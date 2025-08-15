@@ -139,7 +139,8 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [31]",
                 "🚩 CF | 🔒 VLESS | @farahvpn [18]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [59]",
+                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [54]",
+                "🚩 CF | 🔓 VLESS | @fastfreeconfig [56]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [15]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [16]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
@@ -288,7 +289,7 @@
                 "🚩 CF | 🔒 VLESS | @proxy_iranv2 [3]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
                 "🇮🇷 IR | 🔓 VLESS | @proxy_kuto [1]",
-                "🇮🇹 IT | 🔓 VLESS | @proxy_mtproto_vpns_free [18]",
+                "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [17]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [16]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [3]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
@@ -373,6 +374,7 @@
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
                 "🇮🇷 IR | 🔓 VLESS | @vip_vpn_2022 [6]",
                 "❔ XX | 🔒 VLESS | @vipnetmeli [1]",
+                "🚩 CF | 🔒 VLESS | @vmesc [19]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [14]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [15]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [16]",
@@ -458,7 +460,8 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [31]",
                 "🚩 CF | 🔒 VLESS | @farahvpn [18]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [59]",
+                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [54]",
+                "🚩 CF | 🔓 VLESS | @fastfreeconfig [56]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [15]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [16]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
@@ -607,7 +610,7 @@
                 "🚩 CF | 🔒 VLESS | @proxy_iranv2 [3]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
                 "🇮🇷 IR | 🔓 VLESS | @proxy_kuto [1]",
-                "🇮🇹 IT | 🔓 VLESS | @proxy_mtproto_vpns_free [18]",
+                "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [17]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [16]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [3]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
@@ -692,6 +695,7 @@
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
                 "🇮🇷 IR | 🔓 VLESS | @vip_vpn_2022 [6]",
                 "❔ XX | 🔒 VLESS | @vipnetmeli [1]",
+                "🚩 CF | 🔒 VLESS | @vmesc [19]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [14]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [15]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [16]",
@@ -1611,18 +1615,27 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @fastfreeconfig [59]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [54]",
             "type": "vless",
-            "server": "www.Speedtest.Net",
+            "server": "telegram.turboo-server.com.co",
             "server_port": 2095,
-            "uuid": "DIGIV2raY",
+            "uuid": "turboo-server",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @fastfreeconfig [56]",
+            "type": "vless",
+            "server": "cafearz.com",
+            "server_port": 8080,
+            "uuid": "026ce330-bb63-42fa-fac9-254275728d40",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/DigiconnecT?ed=1024",
+                "path": "/olem/ws?ed=1024",
                 "headers": {
-                    "Host": "www.Speedtest.Net"
+                    "Host": "cafearz.com"
                 }
             }
         },
@@ -4187,13 +4200,27 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇹 IT | 🔓 VLESS | @proxy_mtproto_vpns_free [18]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [17]",
             "type": "vless",
-            "server": "filmnet.filimnet.com",
-            "server_port": 80,
-            "uuid": "49f29f5e-ae18-4c6b-ac44-773a5c8133c1",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "greenwolf.fonixapp.org",
+            "server_port": 12901,
+            "uuid": "d2bcb15b-8cf0-402c-af32-6b04615144c9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "canva.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM",
+                    "short_id": "b538b3"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔒 VLESS | @proxycrone [16]",
@@ -5709,6 +5736,31 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "okala.com"
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vmesc [19]",
+            "type": "vless",
+            "server": "privasi.turah.my.id",
+            "server_port": 443,
+            "uuid": "0fbf4f81-2598-4b6a-a623-0ead4cb9efa8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "privasi.turah.my.id",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Free-CF-Proxy-AD192.3.113.4-19318",
+                "headers": {
+                    "Host": "privasi.turah.my.id"
+                }
             }
         },
         {
