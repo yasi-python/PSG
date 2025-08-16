@@ -796,9 +796,9 @@
     },
     "hope_net": {
         "types": [
+            "trojan",
             "ss",
             "vmess",
-            "trojan",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -964,8 +964,8 @@
     "jiedianf": {
         "types": [
             "vmess",
-            "trojan",
             "vless",
+            "trojan",
             "ss"
         ],
         "title": "免费节点 分享频道",
@@ -983,8 +983,8 @@
     },
     "jiujied": {
         "types": [
-            "trojan",
             "vless",
+            "trojan",
             "ss"
         ],
         "title": "布丁节点分享",
@@ -2188,7 +2188,6 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
             "ss",
             "trojan",
             "vmess"
@@ -2252,7 +2251,6 @@
     },
     "v2raych": {
         "types": [
-            "ss",
             "vless",
             "trojan"
         ],

@@ -92,6 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🚩 CF | 🔓 VLESS | @config_proxy [37]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [12]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [8]",
@@ -118,6 +119,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🚩 CF | 🔓 VLESS | @config_proxy [37]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [12]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [8]",
@@ -218,6 +220,15 @@
                     "Host": "127.0.0.1"
                 }
             }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @config_proxy [37]",
+            "type": "vless",
+            "server": "104.17.148.232",
+            "server_port": 8880,
+            "uuid": "23fe4fa5-fda2-485f-8e00-fa72284af2a2",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🔒 VLESS | @customvpnserver [12]",

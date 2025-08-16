@@ -114,8 +114,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [13]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [5]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [6]",
-                "🇬🇧 GB | 🔒 VLESS | @proxycrone [17]",
-                "🇸🇬 SG | 🔒 VLESS | @proxycrone [18]",
+                "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
+                "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
+                "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -180,8 +181,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [13]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [5]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [6]",
-                "🇬🇧 GB | 🔒 VLESS | @proxycrone [17]",
-                "🇸🇬 SG | 🔒 VLESS | @proxycrone [18]",
+                "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
+                "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
+                "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -1110,7 +1112,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @proxycrone [17]",
+            "tag": "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
             "type": "vless",
             "server": "85.239.60.43",
             "server_port": 8443,
@@ -1133,7 +1135,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @proxycrone [18]",
+            "tag": "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
             "type": "vless",
             "server": "91.242.241.45",
             "server_port": 8443,
@@ -1151,6 +1153,29 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
+            "type": "vless",
+            "server": "80.74.29.212",
+            "server_port": 8443,
+            "uuid": "4808ded8-1646-4c3c-8b4c-6b6fedc3cde9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA",
                     "short_id": ""
                 }
             }
