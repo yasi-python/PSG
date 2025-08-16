@@ -98,6 +98,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [5]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [13]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [43]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -146,6 +147,7 @@
                 "❔ XX | 🔒 VLESS | @proxystore11 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [8]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [12]",
+                "🇮🇹 IT | 🔓 VLESS | @prrofile_purple [143]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [2]",
                 "❔ XX | 🔓 VLESS | @v2graphy [9]",
@@ -173,6 +175,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [5]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [13]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [43]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -221,6 +224,7 @@
                 "❔ XX | 🔒 VLESS | @proxystore11 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [8]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [12]",
+                "🇮🇹 IT | 🔓 VLESS | @prrofile_purple [143]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [2]",
                 "❔ XX | 🔓 VLESS | @v2graphy [9]",
@@ -382,6 +386,24 @@
                     "enabled": true,
                     "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
                     "short_id": "aeba"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [43]",
+            "type": "vless",
+            "server": "sss13712.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "7606bb75-416a-4f99-ba20-019cb25543cf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss13712.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -972,6 +994,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇮🇹 IT | 🔓 VLESS | @prrofile_purple [143]",
+            "type": "vless",
+            "server": "filmnet.filimnet.com",
+            "server_port": 80,
+            "uuid": "0afa42bd-838e-42ca-a36b-24ca2e5c5a69",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
