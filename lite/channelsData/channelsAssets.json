@@ -396,7 +396,8 @@
         "types": [
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -774,9 +775,9 @@
     },
     "hope_net": {
         "types": [
-            "vless",
-            "trojan",
             "vmess",
+            "trojan",
+            "vless",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1367,8 +1368,7 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2201,9 +2201,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
             "ss",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2620,14 +2620,6 @@
         ],
         "title": "Securit_y_Breach",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn_proxy_v2ry.jpg"
-    },
-    "vpn_zvpn": {
-        "types": [
-            "vless",
-            "ss"
-        ],
-        "title": "فیلترشکن Z VPN",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn_zvpn.jpg"
     },
     "vpncostume": {
         "types": [
