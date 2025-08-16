@@ -63,7 +63,8 @@
     },
     "arv2ra": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "کانفینگ آلفا و v2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/arv2ra.jpg"
@@ -114,9 +115,9 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
+            "ss",
             "vless",
-            "ss"
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -502,7 +503,8 @@
     "free1_vpn": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "Free_VPN √ v2ray √ NapsternetV √ custom √ injector √",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free1_vpn.jpg"
@@ -772,10 +774,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
-            "vless",
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -828,7 +829,9 @@
     },
     "injectormconf": {
         "types": [
-            "vless"
+            "vless",
+            "vmess",
+            "ss"
         ],
         "title": "Master clud",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/injectormconf.jpg"
@@ -1342,8 +1345,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1996,7 +1999,8 @@
     },
     "teamvpnpro": {
         "types": [
-            "trojan"
+            "trojan",
+            "vless"
         ],
         "title": "VPN💥TEAMPRO",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/teamvpnpro.jpg"
@@ -2203,7 +2207,8 @@
     },
     "v2ray_v_vpn": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "فروش ویتوری| خریدکانفینگ | v2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_v_vpn.jpg"
@@ -2255,7 +2260,8 @@
     },
     "v2rayn5": {
         "types": [
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "V2rayNG / FAST VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayn5.jpg"
@@ -2301,7 +2307,8 @@
     },
     "v2rayngc": {
         "types": [
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "V2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngc.jpg"
