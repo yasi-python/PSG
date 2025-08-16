@@ -110,8 +110,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [19]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [23]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
-                "🇩🇪 DE | 🔓 VLESS | @falcunargo [9]",
-                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [47]",
+                "🇩🇪 DE | 🔓 VLESS | @falcunargo [7]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
@@ -123,7 +122,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @lexernet [3]",
                 "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [17]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇮🇹 IT | 🔓 VLESS | @netmellianti [13]",
+                "🇮🇹 IT | 🔓 VLESS | @netmellianti [12]",
                 "🇺🇸 US | 🔓 VLESS | @nofiltering2 [8]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [3]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [6]",
@@ -142,6 +141,7 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayopen [3]",
                 "🇩🇪 DE | 🔓 VLESS | @v2rayopen [9]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
@@ -186,8 +186,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [19]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [23]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
-                "🇩🇪 DE | 🔓 VLESS | @falcunargo [9]",
-                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [47]",
+                "🇩🇪 DE | 🔓 VLESS | @falcunargo [7]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
@@ -199,7 +198,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @lexernet [3]",
                 "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [17]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇮🇹 IT | 🔓 VLESS | @netmellianti [13]",
+                "🇮🇹 IT | 🔓 VLESS | @netmellianti [12]",
                 "🇺🇸 US | 🔓 VLESS | @nofiltering2 [8]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [3]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [6]",
@@ -218,6 +217,7 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayopen [3]",
                 "🇩🇪 DE | 🔓 VLESS | @v2rayopen [9]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
@@ -619,7 +619,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @falcunargo [9]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @falcunargo [7]",
             "type": "vless",
             "server": "sss94870.tas-bazi.com",
             "server_port": 443,
@@ -629,24 +629,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "sss94870.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [47]",
-            "type": "vless",
-            "server": "sss71534.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "aa077dd1-0a53-4313-8800-c9ac79a97003",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss71534.tas-bazi.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -805,7 +787,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇹 IT | 🔓 VLESS | @netmellianti [13]",
+            "tag": "🇮🇹 IT | 🔓 VLESS | @netmellianti [12]",
             "type": "vless",
             "server": "filmnet.filimnet.com",
             "server_port": 80,
@@ -1079,6 +1061,24 @@
             "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayopen [3]",
+            "type": "vless",
+            "server": "sss71534.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "aa077dd1-0a53-4313-8800-c9ac79a97003",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss71534.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayopen [9]",
