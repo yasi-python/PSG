@@ -98,7 +98,6 @@
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @evay_vpn [18]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [20]",
-                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇭🇰 HK | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇳🇱 NL | 🔒 VLESS | @freakconfig [19]",
                 "🇳🇱 NL | 🔒 VLESS | @freakconfig [20]",
@@ -124,7 +123,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇳🇱 NL | 🔒 VLESS | @outline_ir [19]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [16]",
-                "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [15]",
+                "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [13]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [5]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [6]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [17]",
@@ -135,7 +134,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
                 "🇩🇪 DE | 🔒 VLESS | @ultrasurf_12 [3]",
-                "🇩🇪 DE | 🔒 VLESS | @v2aryng_vpn [15]",
+                "🇩🇪 DE | 🔒 VLESS | @v2aryng_vpn [14]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇭🇺 HU | 🔒 VLESS | @v2ray_sos [5]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -165,7 +164,6 @@
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @evay_vpn [18]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [20]",
-                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇭🇰 HK | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇳🇱 NL | 🔒 VLESS | @freakconfig [19]",
                 "🇳🇱 NL | 🔒 VLESS | @freakconfig [20]",
@@ -191,7 +189,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇳🇱 NL | 🔒 VLESS | @outline_ir [19]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [16]",
-                "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [15]",
+                "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [13]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [5]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [6]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [17]",
@@ -202,7 +200,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
                 "🇩🇪 DE | 🔒 VLESS | @ultrasurf_12 [3]",
-                "🇩🇪 DE | 🔒 VLESS | @v2aryng_vpn [15]",
+                "🇩🇪 DE | 🔒 VLESS | @v2aryng_vpn [14]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇭🇺 HU | 🔒 VLESS | @v2ray_sos [5]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -441,33 +439,6 @@
                     "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
                     "short_id": "e8ab71d0"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
-            "type": "vless",
-            "server": "95.164.16.166",
-            "server_port": 3567,
-            "uuid": "9fdef857-437d-40af-82ca-2c76de893eb6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "maps.google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3iP1kIE9A4r0dbC6OoERB95RKv6tZmCHUaNq4tf90lo",
-                    "short_id": "86"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"
             }
         },
         {
@@ -1070,7 +1041,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [15]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [13]",
             "type": "vless",
             "server": "45.146.202.222",
             "server_port": 34045,
@@ -1339,7 +1310,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2aryng_vpn [15]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2aryng_vpn [14]",
             "type": "vless",
             "server": "95.169.170.209",
             "server_port": 34045,
