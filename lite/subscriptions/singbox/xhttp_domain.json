@@ -98,6 +98,8 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [10]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
+                "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
@@ -105,9 +107,8 @@
                 "🇩🇪 DE | 🔓 VLESS | @lexernet [3]",
                 "🇮🇹 IT | 🔓 VLESS | @netmellianti [12]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [3]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [12]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [12]",
                 "🇩🇪 DE | 🔓 VLESS | @v2ray_v_vpn [42]",
-                "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -125,6 +126,8 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [10]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
+                "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
@@ -132,9 +135,8 @@
                 "🇩🇪 DE | 🔓 VLESS | @lexernet [3]",
                 "🇮🇹 IT | 🔓 VLESS | @netmellianti [12]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [3]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [12]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [12]",
                 "🇩🇪 DE | 🔓 VLESS | @v2ray_v_vpn [42]",
-                "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -276,6 +278,24 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
+            "type": "vless",
+            "server": "EXPRESSVPN_420.fAst.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "a1cff861-43ed-42f1-bed0-b0aec2f9f668",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
+            "type": "vless",
+            "server": "viop.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
             "type": "vless",
             "server": "alman.netblocksir.ir",
@@ -362,7 +382,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [12]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [12]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
@@ -396,15 +416,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-            "type": "vless",
-            "server": "viop.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
