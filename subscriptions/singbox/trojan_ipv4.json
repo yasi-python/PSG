@@ -108,6 +108,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
+                "🇷🇺 RU | 🔒 TROJAN | @fastfreeconfig [60]",
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [11]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
@@ -120,7 +121,6 @@
                 "🇳🇱 NL | 🔒 TROJAN | @manstervpn [64]",
                 "🚩 CF | 🔒 TROJAN | @manstervpn [65]",
                 "🚩 CF | 🔒 TROJAN | @manstervpn [67]",
-                "🇷🇺 RU | 🔒 TROJAN | @maradona_vpn [2]",
                 "🇷🇺 RU | 🔒 TROJAN | @maradona_vpn [3]",
                 "🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]",
                 "🇫🇷 FR | 🔒 TROJAN | @mt_proxy [1]",
@@ -144,7 +144,7 @@
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇳🇱 NL | 🔓 TROJAN | @v2raych [16]",
+                "🇪🇪 EE | 🔓 TROJAN | @v2raych [16]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -191,6 +191,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
+                "🇷🇺 RU | 🔒 TROJAN | @fastfreeconfig [60]",
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [11]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
@@ -203,7 +204,6 @@
                 "🇳🇱 NL | 🔒 TROJAN | @manstervpn [64]",
                 "🚩 CF | 🔒 TROJAN | @manstervpn [65]",
                 "🚩 CF | 🔒 TROJAN | @manstervpn [67]",
-                "🇷🇺 RU | 🔒 TROJAN | @maradona_vpn [2]",
                 "🇷🇺 RU | 🔒 TROJAN | @maradona_vpn [3]",
                 "🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]",
                 "🇫🇷 FR | 🔒 TROJAN | @mt_proxy [1]",
@@ -227,7 +227,7 @@
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇳🇱 NL | 🔓 TROJAN | @v2raych [16]",
+                "🇪🇪 EE | 🔓 TROJAN | @v2raych [16]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -597,6 +597,26 @@
             }
         },
         {
+            "tag": "🇷🇺 RU | 🔒 TROJAN | @fastfreeconfig [60]",
+            "type": "trojan",
+            "server": "185.59.218.220",
+            "server_port": 443,
+            "password": "Maradona_vpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "teo.history-paint.art",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "grpc20337"
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔒 TROJAN | @free_serverir [11]",
             "type": "trojan",
             "server": "192.3.107.252",
@@ -805,26 +825,6 @@
                 "headers": {
                     "Host": "mindrOOm-5cz.pAgEs.dEV"
                 }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 TROJAN | @maradona_vpn [2]",
-            "type": "trojan",
-            "server": "185.59.218.220",
-            "server_port": 443,
-            "password": "Maradona_vpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "teo.history-paint.art",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "grpc20337"
             }
         },
         {
@@ -1210,14 +1210,14 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔓 TROJAN | @v2raych [16]",
+            "tag": "🇪🇪 EE | 🔓 TROJAN | @v2raych [16]",
             "type": "trojan",
-            "server": "94.242.229.89",
+            "server": "45.80.108.245",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "94.242.229.89",
+                "server_name": "45.80.108.245",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
