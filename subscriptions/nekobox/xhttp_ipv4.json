@@ -81,6 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [10]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [32]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @flyv2ray [1]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [10]",
@@ -99,7 +100,7 @@
                 "🇺🇸 US | 🔒 VLESS | @manzariyeh_rasht [21]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [5]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [14]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [21]",
@@ -146,6 +147,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [10]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [32]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @flyv2ray [1]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [10]",
@@ -164,7 +166,7 @@
                 "🇺🇸 US | 🔒 VLESS | @manzariyeh_rasht [21]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [5]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [14]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [21]",
@@ -297,6 +299,24 @@
             "uuid": "724383d8-33c6-4e8d-9db4-0184a89efa33",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [32]",
+            "type": "vless",
+            "server": "172.233.179.39",
+            "server_port": 443,
+            "uuid": "fe858a71-b4e2-4767-bd6b-f4616773f112",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.233.179.39",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
@@ -563,7 +583,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [5]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
             "type": "vless",
             "server": "51.81.153.46",
             "server_port": 443,
