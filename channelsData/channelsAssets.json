@@ -156,8 +156,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess",
             "ss",
+            "vmess",
             "hy2"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -409,8 +409,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -817,8 +817,8 @@
     },
     "imhdiyvp": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Vpn💚",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/imhdiyvp.jpg"
@@ -2129,7 +2129,6 @@
     },
     "v2ray1_ng": {
         "types": [
-            "vmess",
             "vless",
             "ss"
         ],
@@ -2164,8 +2163,9 @@
     "v2ray_free_conf": {
         "types": [
             "vmess",
+            "ss",
             "trojan",
-            "ss"
+            "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2228,7 +2228,8 @@
         "types": [
             "vless",
             "trojan",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2814,8 +2815,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "免费节点 🏆【1小时前更新】",
