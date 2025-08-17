@@ -104,6 +104,7 @@
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [14]",
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [9]",
                 "🇺🇸 US | 🔒 SS | @torang_vpn [4]",
+                "❔ XX | 🔒 SS | @v2raych [19]",
                 "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [8]",
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
@@ -149,6 +150,7 @@
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [14]",
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [9]",
                 "🇺🇸 US | 🔒 SS | @torang_vpn [4]",
+                "❔ XX | 🔒 SS | @v2raych [19]",
                 "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [8]",
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
@@ -440,6 +442,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "W74XFALLLuw6m5IA"
+        },
+        {
+            "tag": "❔ XX | 🔒 SS | @v2raych [19]",
+            "type": "shadowsocks",
+            "server": "www2.broadalx.cfd",
+            "server_port": 40934,
+            "method": "chacha20-ietf-poly1305",
+            "password": "SP7XTds5KimZEkzVWiEB8EZWXTBFQSVrZNdux9pfnAsAav5ZyzpSYBG3rjzREQsBqU4kbP4vqBjitPB71puscebEQ4FrE3oX"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",

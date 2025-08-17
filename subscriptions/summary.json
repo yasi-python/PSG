@@ -1,6 +1,6 @@
 {
     "meta": {
-        "last_updated": "2025-08-17T10:21:36+00:00",
+        "last_updated": "2025-08-17T11:18:00+00:00",
         "author": "yasi-python/PSG"
     },
     "sources": {
@@ -11,41 +11,41 @@
     },
     "configs": {
         "total_extracted_raw": 4144,
-        "total_valid_processed": 3581,
+        "total_valid_processed": 3588,
         "breakdown_by_protocol": {
-            "vless": 2592,
-            "vmess": 478,
-            "ss": 358,
-            "trojan": 132,
+            "vless": 2598,
+            "vmess": 470,
+            "ss": 359,
+            "trojan": 140,
             "hy2": 6,
             "tuic": 15
         }
     },
     "outputs": {
-        "main_aggregate_size": 3052,
+        "main_aggregate_size": 3053,
         "location_files_created": 55,
         "channel_files_created": 368,
         "country_distribution": {
-            "CF": 991,
-            "XX": 625,
-            "DE": 504,
-            "US": 399,
-            "IR": 200,
-            "FR": 147,
-            "NL": 133,
-            "GB": 108,
-            "SE": 99,
-            "FI": 56,
-            "RU": 32,
-            "SG": 31,
-            "CA": 31,
+            "CF": 988,
+            "XX": 629,
+            "DE": 500,
+            "US": 395,
+            "IR": 206,
+            "FR": 149,
+            "NL": 136,
+            "GB": 111,
+            "SE": 95,
+            "FI": 54,
+            "SG": 34,
+            "RU": 30,
+            "CA": 30,
             "TR": 23,
+            "PL": 23,
             "CN": 23,
-            "PL": 22,
             "HK": 22,
-            "JP": 17,
-            "IT": 11,
-            "AT": 10,
+            "JP": 19,
+            "IT": 12,
+            "AT": 12,
             "IN": 8,
             "UA": 6,
             "LV": 6,
@@ -60,12 +60,12 @@
             "KR": 3,
             "IE": 2,
             "GI": 2,
-            "IL": 2,
             "PT": 2,
             "KZ": 2,
             "PH": 2,
             "BR": 2,
             "BG": 2,
+            "IL": 1,
             "VG": 1,
             "NO": 1,
             "IS": 1,
@@ -85,7 +85,8 @@
             "RS": 1,
             "BZ": 1,
             "ZA": 1,
-            "ID": 1
+            "ID": 1,
+            "HR": 1
         }
     }
 }
