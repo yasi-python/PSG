@@ -394,9 +394,9 @@
     },
     "fastfreeconfig": {
         "types": [
+            "trojan",
             "ss",
-            "vless",
-            "trojan"
+            "vless"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -993,9 +993,9 @@
     },
     "jiedianssr": {
         "types": [
-            "trojan",
             "vless",
             "vmess",
+            "trojan",
             "ss"
         ],
         "title": "ssr 小火箭 免费节点",
