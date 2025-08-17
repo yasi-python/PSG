@@ -85,7 +85,6 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [10]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
-                "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
@@ -96,7 +95,7 @@
                 "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
                 "🇮🇹 IT | 🔓 VLESS | @prrofile_purple [138]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesc [18]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesc [17]",
                 "🇩🇪 DE | 🔓 VLESS | @vpn_ioss [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -114,7 +113,6 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [10]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
-                "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
@@ -125,7 +123,7 @@
                 "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
                 "🇮🇹 IT | 🔓 VLESS | @prrofile_purple [138]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesc [18]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesc [17]",
                 "🇩🇪 DE | 🔓 VLESS | @vpn_ioss [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -263,15 +261,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
-            "type": "vless",
-            "server": "EXPRESSVPN_420.fAst.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "a1cff861-43ed-42f1-bed0-b0aec2f9f668",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
             "type": "vless",
             "server": "alman.netblocksir.ir",
@@ -394,7 +383,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesc [18]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesc [17]",
             "type": "vless",
             "server": "sss18019.tas-bazi.com",
             "server_port": 443,
