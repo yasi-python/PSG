@@ -155,8 +155,8 @@
     },
     "config_proxy": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -408,8 +408,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "trojan",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -740,14 +740,6 @@
         "title": "Golf VPN | کانال رسمی",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/golf_vpn.jpg"
     },
-    "goodbyefiltering": {
-        "types": [
-            "vless",
-            "tuic"
-        ],
-        "title": "جوربع",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/goodbyefiltering.jpg"
-    },
     "grizzlyvpn": {
         "types": [
             "vless"
@@ -787,7 +779,8 @@
     },
     "hope_net": {
         "types": [
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1721,6 +1714,7 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2161,8 +2155,8 @@
     "v2ray_free_conf": {
         "types": [
             "vmess",
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2225,6 +2219,7 @@
     "v2raych": {
         "types": [
             "vmess",
+            "trojan",
             "vless",
             "ss"
         ],
@@ -2248,6 +2243,7 @@
     "v2rayfree": {
         "types": [
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",

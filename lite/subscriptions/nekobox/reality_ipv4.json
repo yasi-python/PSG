@@ -95,6 +95,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
+                "🇺🇸 US | 🔒 VLESS | @iran_mehr_vpn [16]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
@@ -161,6 +162,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
+                "🇺🇸 US | 🔒 VLESS | @iran_mehr_vpn [16]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
@@ -649,6 +651,29 @@
                     "enabled": true,
                     "public_key": "JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc",
                     "short_id": "8b62ab46"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @iran_mehr_vpn [16]",
+            "type": "vless",
+            "server": "198.89.125.185",
+            "server_port": 53591,
+            "uuid": "684d05e9-cff7-425c-89a4-1b645e297bd2",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "at6LtZMUQvyT6ffDN4wwh3IdmCMmDMqaxQaaA6Lr4kM",
+                    "short_id": "9b88beec"
                 }
             }
         },
