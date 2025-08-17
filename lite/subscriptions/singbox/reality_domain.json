@@ -111,7 +111,7 @@
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
-                "🇫🇷 FR | 🔒 VLESS | @orange_vpns [12]",
+                "🇰🇷 KR | 🔒 VLESS | @orange_vpns [12]",
                 "🇭🇷 HR | 🔒 VLESS | @outline_vpn [19]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
@@ -120,7 +120,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇩🇪 DE | 🔒 VLESS | @qrv2ray [12]",
+                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [17]",
@@ -132,7 +132,6 @@
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
                 "❔ XX | 🔒 VLESS | @vp22ray [10]",
                 "❔ XX | 🔒 VLESS | @vp22ray [11]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [18]",
                 "🇫🇮 FI | 🔒 VLESS | @vpnv2raytop [4]",
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [15]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
@@ -166,7 +165,7 @@
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
-                "🇫🇷 FR | 🔒 VLESS | @orange_vpns [12]",
+                "🇰🇷 KR | 🔒 VLESS | @orange_vpns [12]",
                 "🇭🇷 HR | 🔒 VLESS | @outline_vpn [19]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
@@ -175,7 +174,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇩🇪 DE | 🔒 VLESS | @qrv2ray [12]",
+                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [17]",
@@ -187,7 +186,6 @@
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
                 "❔ XX | 🔒 VLESS | @vp22ray [10]",
                 "❔ XX | 🔒 VLESS | @vp22ray [11]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [18]",
                 "🇫🇮 FI | 🔒 VLESS | @vpnv2raytop [4]",
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [15]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
@@ -759,7 +757,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @orange_vpns [12]",
+            "tag": "🇰🇷 KR | 🔒 VLESS | @orange_vpns [12]",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -970,7 +968,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @qrv2ray [12]",
+            "tag": "🇸🇬 SG | 🔒 VLESS | @qrv2ray [12]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -1250,29 +1248,6 @@
                     "enabled": true,
                     "public_key": "XEpHiKs6YbcMrBR4YTRXLlIlO5RfGcVUUcbt4KZc7TY",
                     "short_id": "d90b293e"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [18]",
-            "type": "vless",
-            "server": "uuk5v.tok8888.com",
-            "server_port": 8443,
-            "uuid": "7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.apple.com.cn",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4",
-                    "short_id": ""
                 }
             }
         },
