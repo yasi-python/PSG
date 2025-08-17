@@ -103,6 +103,7 @@
                 "🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]",
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
                 "🇹🇷 TR | 🔒 SS | @free1ss [13]",
+                "🇳🇱 NL | 🔒 SS | @free1ss [15]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
                 "🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]",
                 "🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]",
@@ -166,6 +167,7 @@
                 "🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]",
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
                 "🇹🇷 TR | 🔒 SS | @free1ss [13]",
+                "🇳🇱 NL | 🔒 SS | @free1ss [15]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
                 "🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]",
                 "🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]",
@@ -380,6 +382,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "AKhiUzBeTzHy"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 SS | @free1ss [15]",
+            "type": "shadowsocks",
+            "server": "193.29.139.202",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
             "tag": "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
