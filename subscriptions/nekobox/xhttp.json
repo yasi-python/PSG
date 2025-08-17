@@ -89,8 +89,8 @@
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
-                "🇩🇪 DE | 🔓 VLESS | @dalton_ping [2]",
-                "🇺🇸 US | 🔓 VLESS | @dalton_ping [4]",
+                "🇩🇪 DE | 🔓 VLESS | @dalton_ping [1]",
+                "🇺🇸 US | 🔓 VLESS | @dalton_ping [3]",
                 "❔ XX | 🔓 VLESS | @dgkbza [8]",
                 "❔ XX | 🔓 VLESS | @dgkbza [19]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -113,11 +113,11 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
                 "🇩🇪 DE | 🔓 VLESS | @falcunargo [2]",
                 "🇩🇪 DE | 🔓 VLESS | @falcunargo [11]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [56]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
-                "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [3]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [20]",
@@ -201,7 +201,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnod [4]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -221,8 +221,8 @@
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
-                "🇩🇪 DE | 🔓 VLESS | @dalton_ping [2]",
-                "🇺🇸 US | 🔓 VLESS | @dalton_ping [4]",
+                "🇩🇪 DE | 🔓 VLESS | @dalton_ping [1]",
+                "🇺🇸 US | 🔓 VLESS | @dalton_ping [3]",
                 "❔ XX | 🔓 VLESS | @dgkbza [8]",
                 "❔ XX | 🔓 VLESS | @dgkbza [19]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -245,11 +245,11 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
                 "🇩🇪 DE | 🔓 VLESS | @falcunargo [2]",
                 "🇩🇪 DE | 🔓 VLESS | @falcunargo [11]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [56]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
-                "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [3]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [20]",
@@ -333,7 +333,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnod [4]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -519,7 +519,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @dalton_ping [2]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @dalton_ping [1]",
             "type": "vless",
             "server": "sss94870.tas-bazi.com",
             "server_port": 443,
@@ -537,7 +537,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @dalton_ping [4]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @dalton_ping [3]",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
@@ -776,6 +776,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [56]",
+            "type": "vless",
+            "server": "45.grizzzlyyyy.ir",
+            "server_port": 26790,
+            "uuid": "bc465b6c-cf16-46e9-83aa-2a4eb1c34f29",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "init.itunes.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "r8WfLlHqw76XJkfJKHMgk0MlDAL6n7Mu5lQqvezgAjI",
+                    "short_id": "bba58c5a0af751"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
             "type": "vless",
             "server": "alman.netblocksir.ir",
@@ -810,29 +833,6 @@
             "uuid": "6a45de8b-46e5-4da4-b242-3e18f3228087",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [2]",
-            "type": "vless",
-            "server": "45.grizzzlyyyy.ir",
-            "server_port": 26790,
-            "uuid": "bc465b6c-cf16-46e9-83aa-2a4eb1c34f29",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "init.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r8WfLlHqw76XJkfJKHMgk0MlDAL6n7Mu5lQqvezgAjI",
-                    "short_id": "bba58c5a0af751"
-                }
-            }
         },
         {
             "tag": "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [3]",
@@ -2159,7 +2159,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "51.81.153.46",
             "server_port": 443,
