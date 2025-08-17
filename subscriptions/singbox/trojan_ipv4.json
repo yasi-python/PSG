@@ -108,7 +108,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
-                "🇫🇷 FR | 🔒 TROJAN | @fastfreeconfig [58]",
+                "🇫🇷 FR | 🔒 TROJAN | @fastfreeconfig [46]",
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [11]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
@@ -137,6 +137,7 @@
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [10]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [11]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [12]",
+                "🇫🇷 FR | 🔒 TROJAN | @privatevpns [13]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [14]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [15]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
@@ -147,7 +148,6 @@
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
                 "a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🚩 CF | 🔒 TROJAN | @v2rayngconfiig [5]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [3]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [4]",
@@ -190,7 +190,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
-                "🇫🇷 FR | 🔒 TROJAN | @fastfreeconfig [58]",
+                "🇫🇷 FR | 🔒 TROJAN | @fastfreeconfig [46]",
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [11]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
@@ -219,6 +219,7 @@
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [10]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [11]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [12]",
+                "🇫🇷 FR | 🔒 TROJAN | @privatevpns [13]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [14]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [15]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
@@ -229,7 +230,6 @@
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
                 "a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🚩 CF | 🔒 TROJAN | @v2rayngconfiig [5]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [3]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [4]",
@@ -595,14 +595,14 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @fastfreeconfig [58]",
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @fastfreeconfig [46]",
             "type": "trojan",
-            "server": "35.181.13.3",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
+            "server": "51.91.11.29",
+            "server_port": 80,
+            "password": "e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad",
             "tls": {
                 "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
+                "server_name": "",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1096,6 +1096,22 @@
             }
         },
         {
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @privatevpns [13]",
+            "type": "trojan",
+            "server": "35.181.13.3",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇫🇷 FR | 🔒 TROJAN | @privatevpns [14]",
             "type": "trojan",
             "server": "35.181.23.234",
@@ -1248,22 +1264,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "trj.rollingnext.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
-            "type": "trojan",
-            "server": "51.91.11.29",
-            "server_port": 80,
-            "password": "e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad",
-            "tls": {
-                "enabled": true,
-                "server_name": "",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
