@@ -80,14 +80,13 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [43]",
+                "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [6]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [12]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @evay_vpn [18]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [20]",
-                "🇮🇷 IR | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇭🇰 HK | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇳🇱 NL | 🔒 VLESS | @freakconfig [19]",
                 "🇨🇭 CH | 🔒 VLESS | @freakconfig [20]",
@@ -152,14 +151,13 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [43]",
+                "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [6]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [12]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @evay_vpn [18]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [20]",
-                "🇮🇷 IR | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇭🇰 HK | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇳🇱 NL | 🔒 VLESS | @freakconfig [19]",
                 "🇨🇭 CH | 🔒 VLESS | @freakconfig [20]",
@@ -304,7 +302,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [43]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [6]",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -465,29 +463,6 @@
                     "enabled": true,
                     "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
                     "short_id": "e8ab71d0"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔒 VLESS | @fastfreeconfig [57]",
-            "type": "vless",
-            "server": "62.60.210.177",
-            "server_port": 1982,
-            "uuid": "006782eb-9d5e-4ba8-96e1-76fae61f7565",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "colorlib.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "w9sVgbNqh7vGoDX90e8AH1tFoEE-aoDrBij_aGRyzAU",
-                    "short_id": ""
                 }
             }
         },

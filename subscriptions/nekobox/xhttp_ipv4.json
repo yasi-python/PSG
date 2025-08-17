@@ -80,6 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [10]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @flyv2ray [1]",
@@ -102,10 +103,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [19]",
                 "🇺🇸 US | 🔓 VLESS | @orange_vpns [13]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [1]",
-                "🇩🇪 DE | 🔒 VLESS | @parsashonam [15]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [7]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
-                "🇺🇸 US | 🔓 VLESS | @prrofile_purple [133]",
+                "🇺🇸 US | 🔓 VLESS | @prrofile_purple [139]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
@@ -144,6 +144,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [10]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @flyv2ray [1]",
@@ -166,10 +167,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [19]",
                 "🇺🇸 US | 🔓 VLESS | @orange_vpns [13]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [1]",
-                "🇩🇪 DE | 🔒 VLESS | @parsashonam [15]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [7]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
-                "🇺🇸 US | 🔓 VLESS | @prrofile_purple [133]",
+                "🇺🇸 US | 🔓 VLESS | @prrofile_purple [139]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
@@ -284,6 +284,29 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [6]",
+            "type": "vless",
+            "server": "91.99.16.244",
+            "server_port": 443,
+            "uuid": "Parsashonam-300",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "Google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
+                    "short_id": "61e683d41fdb"
                 }
             }
         },
@@ -616,29 +639,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @parsashonam [15]",
-            "type": "vless",
-            "server": "91.99.16.244",
-            "server_port": 443,
-            "uuid": "Parsashonam-300",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "Google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
-                    "short_id": "61e683d41fdb"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [7]",
             "type": "vless",
             "server": "91.98.35.181",
@@ -685,7 +685,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @prrofile_purple [133]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @prrofile_purple [139]",
             "type": "vless",
             "server": "135.148.232.166",
             "server_port": 443,
