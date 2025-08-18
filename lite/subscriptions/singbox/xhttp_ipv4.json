@@ -93,7 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
-                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
+                "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [9]",
@@ -103,6 +103,7 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
+                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [141]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -124,7 +125,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
-                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
+                "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [9]",
@@ -134,6 +135,7 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
+                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [141]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -253,16 +255,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [58]",
             "type": "vless",
-            "server": "91.107.241.250",
-            "server_port": 6000,
-            "uuid": "330e627f-3752-467a-b0a5-d46d07b5acf9",
+            "server": "45.150.33.157",
+            "server_port": 50810,
+            "uuid": "0a806f40-bd95-42c3-8457-f520f80bfd61",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "wiredminds.de",
+                "server_name": "zhaket.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -270,8 +272,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ",
-                    "short_id": "243e"
+                    "public_key": "J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg",
+                    "short_id": "aa60a00122200b76"
                 }
             }
         },
@@ -418,6 +420,29 @@
                     "enabled": true,
                     "public_key": "z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY",
                     "short_id": "4c"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [141]",
+            "type": "vless",
+            "server": "91.107.241.250",
+            "server_port": 6000,
+            "uuid": "330e627f-3752-467a-b0a5-d46d07b5acf9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "wiredminds.de",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ",
+                    "short_id": "243e"
                 }
             }
         },

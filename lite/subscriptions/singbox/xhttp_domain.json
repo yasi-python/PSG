@@ -92,18 +92,17 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇧🇪 BE | 🔓 VLESS | @config_proxy [57]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [10]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
+                "❔ XX | 🔓 VLESS | @fastfreeconfig [59]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇩🇪 DE | 🔓 VLESS | @lranonline_new [4]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [13]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [14]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [11]",
@@ -121,18 +120,17 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇧🇪 BE | 🔓 VLESS | @config_proxy [57]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [10]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
+                "❔ XX | 🔓 VLESS | @fastfreeconfig [59]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [21]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇩🇪 DE | 🔓 VLESS | @lranonline_new [4]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [13]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [14]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [11]",
@@ -226,24 +224,6 @@
             }
         },
         {
-            "tag": "🇧🇪 BE | 🔓 VLESS | @config_proxy [57]",
-            "type": "vless",
-            "server": "mooosi.ir-ddos.com",
-            "server_port": 443,
-            "uuid": "e24da0db-e130-4774-a241-06ba3ad4ff71",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "mooosi.ir-ddos.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
@@ -289,6 +269,24 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "❔ XX | 🔓 VLESS | @fastfreeconfig [59]",
+            "type": "vless",
+            "server": "server134372561849834943.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server134372561849834943.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
             "type": "vless",
             "server": "alman.netblocksir.ir",
@@ -332,24 +330,6 @@
             "uuid": "f353fbf3-b6a1-4524-b916-f65bc077511f",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @lranonline_new [4]",
-            "type": "vless",
-            "server": "sss35225.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "ee845a26-9d15-4cac-b3a0-fc0c0c8135af",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss35225.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [13]",
