@@ -142,11 +142,9 @@
                 "🇩🇪 DE | 🔓 VLESS | @vmesc [15]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [13]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [5]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [33]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [37]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @flyv2ray [1]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [6]",
@@ -196,8 +194,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇺🇸 US | 🔓 VLESS | @vpnod [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]"
+                "🇺🇸 US | 🔓 VLESS | @vpnod [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -270,11 +267,9 @@
                 "🇩🇪 DE | 🔓 VLESS | @vmesc [15]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [13]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [5]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [33]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [37]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @flyv2ray [1]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [6]",
@@ -324,8 +319,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇺🇸 US | 🔓 VLESS | @vpnod [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]"
+                "🇺🇸 US | 🔓 VLESS | @vpnod [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1157,7 +1151,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [13]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "vpconnect.ahadbala.ir",
             "server_port": 80,
@@ -1194,38 +1188,6 @@
                     "enabled": true,
                     "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
                     "short_id": "61e683d41fdb"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [33]",
-            "type": "vless",
-            "server": "216.22.5.158",
-            "server_port": 8880,
-            "uuid": "8d15b73e-da60-4d4e-a76f-cea00cc68085",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [37]",
-            "type": "vless",
-            "server": "64.44.158.121",
-            "server_port": 80,
-            "uuid": "4342b5a9-ccc2-46fa-8e12-f9ba36259d3b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s",
-                    "short_id": "9fd097cb4d"
                 }
             }
         },
@@ -2116,29 +2078,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "91.98.35.181",
-            "server_port": 2222,
-            "uuid": "bda11a81-5b59-4326-bec4-7614f96d8990",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cp7.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hVdqTCOU_RnpET66_cj-Cr84e2VGwx-c3MgKwrTLhjk",
-                    "short_id": "c96c4bf5d8"
                 }
             }
         }
