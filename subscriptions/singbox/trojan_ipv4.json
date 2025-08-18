@@ -144,9 +144,8 @@
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🚩 CF | 🔓 TROJAN | @v2raych [12]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [15]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2raych [17]",
+                "🚩 CF | 🔓 TROJAN | @v2raych [10]",
+                "🚩 CF | 🔓 TROJAN | @v2raych [11]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -229,9 +228,8 @@
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🚩 CF | 🔓 TROJAN | @v2raych [12]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [15]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2raych [17]",
+                "🚩 CF | 🔓 TROJAN | @v2raych [10]",
+                "🚩 CF | 🔓 TROJAN | @v2raych [11]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -1214,9 +1212,9 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @v2raych [12]",
+            "tag": "🚩 CF | 🔓 TROJAN | @v2raych [10]",
             "type": "trojan",
-            "server": "104.19.168.73",
+            "server": "104.17.237.148",
             "server_port": 443,
             "password": "blue2024",
             "tls": {
@@ -1237,37 +1235,14 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @v2raych [15]",
+            "tag": "🚩 CF | 🔓 TROJAN | @v2raych [11]",
             "type": "trojan",
-            "server": "104.17.234.12",
+            "server": "104.17.114.140",
             "server_port": 443,
-            "password": "VPNCUSTOMIZE",
+            "password": "blue2024",
             "tls": {
                 "enabled": true,
-                "server_name": "1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @v2raych [17]",
-            "type": "trojan",
-            "server": "13.38.223.196",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
+                "server_name": "ha.lii2010.us.kg",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

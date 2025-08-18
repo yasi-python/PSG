@@ -75,9 +75,8 @@ proxies:
   - {"name":"🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]","type":"trojan","server":"18.198.129.207","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]","type":"trojan","server":"51.91.11.29","port":80,"password":"598c19f3-a48e-47cd-8451-1ba04ea094d0","skip-cert-verify":false}
   - {"name":"🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]","type":"trojan","server":"135.181.253.237","port":443,"password":"cba32ac1-abbb-4371-ba50-19eb5c38748c","skip-cert-verify":false}
-  - {"name":"🚩 CF | 🔓 TROJAN | @v2raych [12]","type":"trojan","server":"104.19.168.73","port":443,"password":"blue2024","skip-cert-verify":false}
-  - {"name":"🚩 CF | 🔒 TROJAN | @v2raych [15]","type":"trojan","server":"104.17.234.12","port":443,"password":"VPNCUSTOMIZE","skip-cert-verify":false}
-  - {"name":"🇫🇷 FR | 🔒 TROJAN | @v2raych [17]","type":"trojan","server":"13.38.223.196","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
+  - {"name":"🚩 CF | 🔓 TROJAN | @v2raych [10]","type":"trojan","server":"104.17.237.148","port":443,"password":"blue2024","skip-cert-verify":false}
+  - {"name":"🚩 CF | 🔓 TROJAN | @v2raych [11]","type":"trojan","server":"104.17.114.140","port":443,"password":"blue2024","skip-cert-verify":false}
   - {"name":"🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]","type":"trojan","server":"145.239.237.92","port":443,"password":"f0532122-948c-46cf-a392-15cc8233d1c0","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]","type":"trojan","server":"146.19.215.81","port":443,"password":"769c2da7-add3-42e8-a03c-07be9fcf483c","skip-cert-verify":false}
   - {"name":"🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]","type":"trojan","server":"15.222.9.61","port":22222,"password":"telegram-id-directvpn","skip-cert-verify":false}
@@ -163,9 +162,8 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]'
       - '🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]'
       - '🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]'
-      - '🚩 CF | 🔓 TROJAN | @v2raych [12]'
-      - '🚩 CF | 🔒 TROJAN | @v2raych [15]'
-      - '🇫🇷 FR | 🔒 TROJAN | @v2raych [17]'
+      - '🚩 CF | 🔓 TROJAN | @v2raych [10]'
+      - '🚩 CF | 🔓 TROJAN | @v2raych [11]'
       - '🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]'
       - '🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]'
       - '🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]'

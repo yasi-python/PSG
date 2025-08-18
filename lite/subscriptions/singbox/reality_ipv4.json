@@ -119,8 +119,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
+                "🇫🇮 FI | 🔒 VLESS | @mowjproxy [3]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇫🇮 FI | 🔒 VLESS | @netmellianti [15]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇬🇧 GB | 🔒 VLESS | @outline_ir [18]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
@@ -184,8 +184,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
+                "🇫🇮 FI | 🔒 VLESS | @mowjproxy [3]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇫🇮 FI | 🔒 VLESS | @netmellianti [15]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇬🇧 GB | 🔒 VLESS | @outline_ir [18]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
@@ -943,6 +943,29 @@
             }
         },
         {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @mowjproxy [3]",
+            "type": "vless",
+            "server": "65.109.187.52",
+            "server_port": 80,
+            "uuid": "cb212ce0-be0b-4d69-a80c-0b3904764f21",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "connectivitycheck.gstatic.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "qz662d61nkl7U5m4wCNCQJBNDVVFrMlCKOovQFEg8mk",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
             "type": "vless",
             "server": "62.60.179.68",
@@ -962,29 +985,6 @@
                     "enabled": true,
                     "public_key": "e3dW-3-dYEVMkTUNOlqVZY2RuSXK-DxhvmdVn1lijxY",
                     "short_id": "8c0bcf"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @netmellianti [15]",
-            "type": "vless",
-            "server": "65.109.187.52",
-            "server_port": 80,
-            "uuid": "cb212ce0-be0b-4d69-a80c-0b3904764f21",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "connectivitycheck.gstatic.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "qz662d61nkl7U5m4wCNCQJBNDVVFrMlCKOovQFEg8mk",
-                    "short_id": ""
                 }
             }
         },
