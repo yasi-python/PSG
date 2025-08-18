@@ -147,8 +147,8 @@
     },
     "config_proxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -401,9 +401,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
-            "tuic",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -772,9 +771,8 @@
     },
     "hope_net": {
         "types": [
-            "vless",
-            "vmess",
-            "trojan"
+            "trojan",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1124,13 +1122,6 @@
         "title": "Lombo",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/lombo_channel.jpg"
     },
-    "lranonline_new": {
-        "types": [
-            "vless"
-        ],
-        "title": "Iran Online New",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/lranonline_new.jpg"
-    },
     "luckyvpn": {
         "types": [
             "vless"
@@ -1194,7 +1185,8 @@
     },
     "manzariyeh_rasht": {
         "types": [
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "🌲🌲منظریه نگـو بهشت رشت بگـو🌴🌴",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/manzariyeh_rasht.jpg"
@@ -1205,13 +1197,6 @@
         ],
         "title": "Maradona_vpn",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/maradona_vpn.jpg"
-    },
-    "marzazad": {
-        "types": [
-            "vless"
-        ],
-        "title": "v2ray | MARZ AZAD🚀",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/marzazad.jpg"
     },
     "mastervpnshop1": {
         "types": [
@@ -1340,8 +1325,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1422,13 +1407,6 @@
         ],
         "title": "n2vpn",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/n2vpn.jpg"
-    },
-    "napsterntvtm": {
-        "types": [
-            "vmess"
-        ],
-        "title": "NapsternetVTm🇮🇷",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/napsterntvtm.jpg"
     },
     "narco_nett": {
         "types": [
@@ -2153,10 +2131,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
+            "ss",
             "vless",
             "trojan",
-            "ss"
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2217,6 +2195,7 @@
     },
     "v2raych": {
         "types": [
+            "vmess",
             "vless",
             "trojan"
         ],
