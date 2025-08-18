@@ -92,13 +92,13 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔒 VLESS | @config_proxy [46]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @evay_vpn [18]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [20]",
+                "🇺🇸 US | 🔒 VLESS | @fastfreeconfig [59]",
                 "🇭🇰 HK | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -129,7 +129,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
-                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [147]",
+                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [141]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
@@ -158,13 +158,13 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔒 VLESS | @config_proxy [46]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @evay_vpn [18]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [20]",
+                "🇺🇸 US | 🔒 VLESS | @fastfreeconfig [59]",
                 "🇭🇰 HK | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -195,7 +195,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
-                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [147]",
+                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [141]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
@@ -296,29 +296,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @config_proxy [46]",
-            "type": "vless",
-            "server": "170.39.216.138",
-            "server_port": 8442,
-            "uuid": "35322039-3820-4534-a039-372035362035",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA",
-                    "short_id": "59b75803"
                 }
             }
         },
@@ -461,6 +438,29 @@
                     "enabled": true,
                     "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
                     "short_id": "e8ab71d0"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @fastfreeconfig [59]",
+            "type": "vless",
+            "server": "185.236.232.237",
+            "server_port": 1001,
+            "uuid": "c7c922da-ab54-433c-8046-1f9bf9d95c23",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "telewebion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0",
+                    "short_id": "5fab0deb"
                 }
             }
         },
@@ -1175,7 +1175,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [147]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [141]",
             "type": "vless",
             "server": "91.107.241.250",
             "server_port": 6000,
