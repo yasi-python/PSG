@@ -84,7 +84,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @Fr33C0nfig [52]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [52]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
@@ -100,7 +99,7 @@
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
-                "🇸🇬 SG | 🔒 VLESS | @orange_vpns [12]",
+                "🇫🇷 FR | 🔒 VLESS | @orange_vpns [12]",
                 "🇭🇷 HR | 🔒 VLESS | @outline_ir [20]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
@@ -109,7 +108,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [12]",
+                "🇺🇸 US | 🔒 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [16]",
@@ -139,7 +138,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @Fr33C0nfig [52]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [52]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
@@ -155,7 +153,7 @@
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
-                "🇸🇬 SG | 🔒 VLESS | @orange_vpns [12]",
+                "🇫🇷 FR | 🔒 VLESS | @orange_vpns [12]",
                 "🇭🇷 HR | 🔒 VLESS | @outline_ir [20]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
@@ -164,7 +162,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [12]",
+                "🇺🇸 US | 🔒 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [16]",
@@ -367,29 +365,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [52]",
-            "type": "vless",
-            "server": "realtime.www.speedtest.net.ftp.debian.org.xn--fjqyexxidv2znoe9rk1n8agb1e05q.com",
-            "server_port": 2250,
-            "uuid": "f6a0ed7a-2f9e-4fbd-83d4-fa3926591394",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RdhlZ8FX6D8znsqujb8fJ29mGJocrN2m8DEbdULkV0w",
-                    "short_id": "3a622700e73c6642"
-                }
             }
         },
         {
@@ -774,7 +749,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @orange_vpns [12]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @orange_vpns [12]",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -985,7 +960,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @qrv2ray [12]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @qrv2ray [12]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
