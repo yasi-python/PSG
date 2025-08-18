@@ -98,7 +98,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
-                "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [55]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
@@ -112,7 +111,7 @@
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
-                "🇰🇷 KR | 🔒 VLESS | @orange_vpns [12]",
+                "🇸🇬 SG | 🔒 VLESS | @orange_vpns [12]",
                 "🇭🇷 HR | 🔒 VLESS | @outline_ir [20]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
@@ -127,6 +126,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [16]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
+                "🇳🇱 NL | 🔒 VLESS | @v2graphy [11]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
@@ -152,7 +152,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
-                "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [55]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
@@ -166,7 +165,7 @@
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
-                "🇰🇷 KR | 🔒 VLESS | @orange_vpns [12]",
+                "🇸🇬 SG | 🔒 VLESS | @orange_vpns [12]",
                 "🇭🇷 HR | 🔒 VLESS | @outline_ir [20]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
@@ -181,6 +180,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [16]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
+                "🇳🇱 NL | 🔒 VLESS | @v2graphy [11]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
@@ -423,29 +423,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:"
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [55]",
-            "type": "vless",
-            "server": "s2.sbarshia.ir",
-            "server_port": 8443,
-            "uuid": "2be7495d-847b-40ea-a517-b5779effb7ac",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "divar.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0",
-                    "short_id": "fdf18126a0768480"
-                }
             }
         },
         {
@@ -780,7 +757,7 @@
             }
         },
         {
-            "tag": "🇰🇷 KR | 🔒 VLESS | @orange_vpns [12]",
+            "tag": "🇸🇬 SG | 🔒 VLESS | @orange_vpns [12]",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1129,6 +1106,29 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "ea1058117be12087"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @v2graphy [11]",
+            "type": "vless",
+            "server": "s2.sbarshia.ir",
+            "server_port": 8443,
+            "uuid": "2be7495d-847b-40ea-a517-b5779effb7ac",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "divar.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0",
+                    "short_id": "fdf18126a0768480"
                 }
             }
         },
