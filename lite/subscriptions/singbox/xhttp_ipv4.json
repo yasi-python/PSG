@@ -95,6 +95,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @falcunargo [6]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [59]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [9]",
@@ -104,9 +105,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [5]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [6]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [2]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [4]",
                 "🇺🇸 US | 🔓 VLESS | @netmellianti [16]",
+                "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [14]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
@@ -128,6 +131,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @falcunargo [6]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [59]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [9]",
@@ -137,9 +141,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [5]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [6]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [2]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [4]",
                 "🇺🇸 US | 🔓 VLESS | @netmellianti [16]",
+                "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [14]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
@@ -284,6 +290,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [59]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "80dea69e-d239-42ea-be46-aab32ffe3ab1",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
             "type": "vless",
             "server": "91.99.16.244",
@@ -416,7 +431,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [5]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [2]",
             "type": "vless",
             "server": "199.232.208.19",
             "server_port": 80,
@@ -425,11 +440,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [6]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "5d825960-130e-4171-b383-79c5a82ae336",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [4]",
+            "type": "vless",
+            "server": "199.232.208.19",
+            "server_port": 80,
+            "uuid": "2d2f3546-50e2-4665-846f-18ee6d2e39be",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -439,6 +463,15 @@
             "server": "199.232.208.19",
             "server_port": 80,
             "uuid": "59d9bc03-a747-4521-99a1-3da24a85b051",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [14]",
+            "type": "vless",
+            "server": "199.232.208.19",
+            "server_port": 80,
+            "uuid": "2d2f3546-50e2-4665-846f-18ee6d2e39be",
             "flow": "",
             "packet_encoding": "xudp"
         },
