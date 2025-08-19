@@ -398,9 +398,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
-            "tuic",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -837,14 +836,6 @@
         ],
         "title": "ipV2rayNG",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/ipv2rayng.jpg"
-    },
-    "ir_netproxy": {
-        "types": [
-            "vmess",
-            "ss"
-        ],
-        "title": "IR_NetProxy",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/ir_netproxy.jpg"
     },
     "iran_access": {
         "types": [
@@ -1688,8 +1679,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2194,7 +2185,6 @@
     "v2raych": {
         "types": [
             "vless",
-            "trojan",
             "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -2216,8 +2206,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2rayfree.jpg"
