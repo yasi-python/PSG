@@ -96,6 +96,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [19]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -116,9 +117,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [15]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
-                "🇨🇭 CH | 🔒 VLESS | @outline_vpn [19]",
+                "🇨🇭 CH | 🔒 VLESS | @outline_vpn [18]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
                 "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
@@ -157,6 +157,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [19]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -177,9 +178,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [15]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
-                "🇨🇭 CH | 🔒 VLESS | @outline_vpn [19]",
+                "🇨🇭 CH | 🔒 VLESS | @outline_vpn [18]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
                 "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
@@ -382,6 +382,29 @@
                     "enabled": true,
                     "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
                     "short_id": "e8ab71d0"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [57]",
+            "type": "vless",
+            "server": "91.99.210.158",
+            "server_port": 443,
+            "uuid": "1343298e-2118-435d-9dcc-9f8c3fd60cef",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens",
+                    "short_id": "370dd394052f2386"
                 }
             }
         },
@@ -866,29 +889,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [15]",
-            "type": "vless",
-            "server": "91.99.210.158",
-            "server_port": 443,
-            "uuid": "1343298e-2118-435d-9dcc-9f8c3fd60cef",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens",
-                    "short_id": "370dd394052f2386"
-                }
-            }
-        },
-        {
             "tag": "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
             "type": "vless",
             "server": "31.56.206.70",
@@ -912,7 +912,7 @@
             }
         },
         {
-            "tag": "🇨🇭 CH | 🔒 VLESS | @outline_vpn [19]",
+            "tag": "🇨🇭 CH | 🔒 VLESS | @outline_vpn [18]",
             "type": "vless",
             "server": "5.182.36.251",
             "server_port": 16331,
