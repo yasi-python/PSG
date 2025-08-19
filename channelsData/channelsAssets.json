@@ -398,8 +398,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
+            "trojan",
             "ss",
-            "trojan"
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -769,8 +770,8 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "vmess",
+            "trojan",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1688,9 +1689,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vmess",
             "vless",
-            "ss"
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2130,9 +2130,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
-            "trojan",
             "vmess",
+            "trojan",
+            "ss",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2194,9 +2194,9 @@
     },
     "v2raych": {
         "types": [
+            "vmess",
             "vless",
-            "ss",
-            "vmess"
+            "ss"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2217,9 +2217,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vmess",
             "vless",
-            "ss"
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2rayfree.jpg"
