@@ -106,8 +106,8 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -377,10 +377,10 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless",
-            "ss",
             "trojan",
-            "tuic"
+            "vless",
+            "tuic",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -1313,8 +1313,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2122,9 +2122,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "ss",
             "trojan",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2362,21 +2362,6 @@
         ],
         "title": "کانفیگ فیلترشکن v2ray vpn",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvpnchannel.jpg"
-    },
-    "v2rayy_vpn13": {
-        "types": [
-            "vless",
-            "ss"
-        ],
-        "title": "V2ray.vpn",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayy_vpn13.jpg"
-    },
-    "v2rayza": {
-        "types": [
-            "vless"
-        ],
-        "title": "V2rayza🔥",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayza.jpg"
     },
     "v2ryngfree": {
         "types": [

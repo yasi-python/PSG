@@ -398,9 +398,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
             "trojan",
-            "tuic"
+            "tuic",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -1325,8 +1325,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2131,9 +2131,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "ss",
             "trojan",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2197,7 +2197,6 @@
         "types": [
             "vless",
             "ss",
-            "trojan",
             "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
