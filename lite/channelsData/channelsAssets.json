@@ -31,7 +31,6 @@
     },
     "argo_vpn1": {
         "types": [
-            "vless",
             "vmess",
             "ss"
         ],
@@ -387,8 +386,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
@@ -760,8 +759,8 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "trojan",
+            "vmess",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1331,8 +1330,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1459,8 +1458,8 @@
     },
     "netfreedom0": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess",
             "trojan"
         ],
@@ -2140,10 +2139,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
-            "vless",
             "trojan",
-            "vmess"
+            "vmess",
+            "ss",
+            "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
