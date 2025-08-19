@@ -92,8 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [41]",
-                "🇦🇪 AE | 🔒 VLESS | @config_proxy [42]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [45]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -153,8 +152,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [41]",
-                "🇦🇪 AE | 🔒 VLESS | @config_proxy [42]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [45]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -290,39 +288,16 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [41]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [45]",
             "type": "vless",
-            "server": "136.244.96.41",
-            "server_port": 8990,
-            "uuid": "9757007b-f75f-4f33-9456-a64bfbad30e2",
+            "server": "5.181.171.10",
+            "server_port": 443,
+            "uuid": "d71357cc-638a-0b8a-ac7d-dd580e294281",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA",
-                    "short_id": "9912311de4630f2d"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇪 AE | 🔒 VLESS | @config_proxy [42]",
-            "type": "vless",
-            "server": "93.127.180.76",
-            "server_port": 32366,
-            "uuid": "305ee92e-b09e-4cae-92d3-fbbee519df28",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
+                "server_name": "speed.cloudflare.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -330,8 +305,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "7zQkfmylLlg4bGtYU7OwPl5qNwRUzeZaycUjcIsONUk",
-                    "short_id": "36989f45e183f0"
+                    "public_key": "YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y",
+                    "short_id": ""
                 }
             }
         },
