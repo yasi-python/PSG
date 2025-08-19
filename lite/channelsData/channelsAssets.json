@@ -448,13 +448,6 @@
         "title": "پروکسی | proxy | filtershekan",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/filtershekan_channel.jpg"
     },
-    "fire_vpn_channel": {
-        "types": [
-            "vless"
-        ],
-        "title": "FireVPN",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fire_vpn_channel.jpg"
-    },
     "flash_proxies": {
         "types": [
             "vless"
@@ -2356,8 +2349,8 @@
     },
     "v2raytg": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "V2ray TG ™",
