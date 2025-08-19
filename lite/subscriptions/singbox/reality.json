@@ -110,7 +110,7 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
-                "🇯🇵 JP | 🔒 VLESS | @lexernet [3]",
+                "🇺🇸 US | 🔒 VLESS | @lexernet [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -120,7 +120,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [11]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [16]",
@@ -165,6 +165,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [14]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇨🇭 CH | 🔒 VLESS | @outline_vpn [18]",
+                "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [16]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
                 "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
@@ -219,7 +220,7 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
-                "🇯🇵 JP | 🔒 VLESS | @lexernet [3]",
+                "🇺🇸 US | 🔒 VLESS | @lexernet [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -229,7 +230,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [11]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [16]",
@@ -274,6 +275,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [14]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇨🇭 CH | 🔒 VLESS | @outline_vpn [18]",
+                "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [16]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
                 "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
@@ -840,7 +842,7 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🔒 VLESS | @lexernet [3]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @lexernet [3]",
             "type": "vless",
             "server": "amazon-20.cristiano.name.ng",
             "server_port": 443,
@@ -1082,7 +1084,7 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -2162,6 +2164,33 @@
                     "public_key": "wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk",
                     "short_id": "910aab"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [16]",
+            "type": "vless",
+            "server": "87.120.205.207",
+            "server_port": 2025,
+            "uuid": "ebac2049-8367-4eab-a1a5-8b742b2fd3b6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk",
+                    "short_id": "a76e2f1d45"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "das12327gsgsyu"
             }
         },
         {

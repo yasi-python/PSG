@@ -371,8 +371,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
+            "tuic",
             "ss",
-            "tuic"
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -734,8 +735,8 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1569,8 +1570,8 @@
     },
     "outlinev2rayng": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "پروکسی تله کد | فیلترشکن رایگان V2ray - Outline",
@@ -2112,10 +2113,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
-            "trojan",
-            "vless"
+            "ss",
+            "vless",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2428,9 +2429,9 @@
     },
     "vmesc": {
         "types": [
-            "ss",
             "vless",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"
