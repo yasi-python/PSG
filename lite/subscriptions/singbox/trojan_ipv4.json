@@ -95,7 +95,6 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
-                "🇩🇪 DE | 🔒 TROJAN | @fastfreeconfig [58]",
                 "🇨🇭 CH | 🔒 TROJAN | @freakconfig [17]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [19]",
@@ -127,7 +126,6 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
-                "🇩🇪 DE | 🔒 TROJAN | @fastfreeconfig [58]",
                 "🇨🇭 CH | 🔒 TROJAN | @freakconfig [17]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [19]",
@@ -280,22 +278,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @fastfreeconfig [58]",
-            "type": "trojan",
-            "server": "146.19.215.81",
-            "server_port": 443,
-            "password": "769c2da7-add3-42e8-a03c-07be9fcf483c",
-            "tls": {
-                "enabled": true,
-                "server_name": "zaelot.cc",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇨🇭 CH | 🔒 TROJAN | @freakconfig [17]",
             "type": "trojan",
             "server": "45.155.54.117",
@@ -314,7 +296,7 @@
         {
             "tag": "🚩 CF | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
-            "server": "104.24.237.141",
+            "server": "198.41.208.189",
             "server_port": 443,
             "password": "blue2024",
             "tls": {
@@ -330,12 +312,12 @@
         {
             "tag": "🚩 CF | 🔓 TROJAN | @hope_net [19]",
             "type": "trojan",
-            "server": "104.18.231.2",
+            "server": "104.16.39.226",
             "server_port": 443,
-            "password": "NISHIKUITAN111",
+            "password": "blue2024",
             "tls": {
                 "enabled": true,
-                "server_name": "104.18.231.2",
+                "server_name": "ha.lii2010.us.kg",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -346,7 +328,7 @@
         {
             "tag": "🚩 CF | 🔓 TROJAN | @hope_net [20]",
             "type": "trojan",
-            "server": "104.19.238.246",
+            "server": "104.20.25.249",
             "server_port": 443,
             "password": "blue2024",
             "tls": {
