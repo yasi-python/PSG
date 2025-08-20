@@ -80,7 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [56]",
+                "🇸🇪 SE | 🔒 VLESS | @config_proxy [62]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @falcunargo [6]",
@@ -99,16 +99,16 @@
                 "🇩🇪 DE | 🔒 VLESS | @manzariyeh_rasht [8]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [5]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [4]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇺🇸 US | 🔒 VLESS | @netmellianti [4]",
                 "🇺🇸 US | 🔓 VLESS | @netmellianti [16]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [12]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [19]",
-                "🇺🇸 US | 🔓 VLESS | @orange_vpns [8]",
+                "🇺🇸 US | 🔓 VLESS | @orange_vpns [6]",
                 "🇩🇪 DE | 🔓 VLESS | @outlinev2rayng [6]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [14]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [5]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [3]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
@@ -146,7 +146,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [56]",
+                "🇸🇪 SE | 🔒 VLESS | @config_proxy [62]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @falcunargo [6]",
@@ -165,16 +165,16 @@
                 "🇩🇪 DE | 🔒 VLESS | @manzariyeh_rasht [8]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [5]",
+                "🇺🇸 US | 🔓 VLESS | @mowjproxy [4]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇺🇸 US | 🔒 VLESS | @netmellianti [4]",
                 "🇺🇸 US | 🔓 VLESS | @netmellianti [16]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [12]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [19]",
-                "🇺🇸 US | 🔓 VLESS | @orange_vpns [8]",
+                "🇺🇸 US | 🔓 VLESS | @orange_vpns [6]",
                 "🇩🇪 DE | 🔓 VLESS | @outlinev2rayng [6]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [14]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [5]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [3]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
@@ -292,25 +292,20 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [56]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @config_proxy [62]",
             "type": "vless",
-            "server": "174.138.61.120",
-            "server_port": 2053,
-            "uuid": "7296dc74-e800-4d0e-a589-01342e41ca13",
-            "flow": "xtls-rprx-vision",
+            "server": "185.146.173.52",
+            "server_port": 443,
+            "uuid": "fdba3cde-eb87-4869-bb29-c71bc82cd89d",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "google.com",
+                "server_name": "chat.black-melo.store",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "l7cy77hFGhLZqNgcuDzHK5adIA9GPfvwbal2HW5QeyU",
-                    "short_id": "c886"
                 }
             }
         },
@@ -560,7 +555,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [5]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [4]",
             "type": "vless",
             "server": "199.232.208.18",
             "server_port": 80,
@@ -656,7 +651,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @orange_vpns [8]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @orange_vpns [6]",
             "type": "vless",
             "server": "172.234.236.56",
             "server_port": 443,
@@ -706,7 +701,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [5]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [3]",
             "type": "vless",
             "server": "91.99.220.150",
             "server_port": 8443,
