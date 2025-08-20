@@ -400,7 +400,8 @@
         "types": [
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -2122,9 +2123,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "ss",
             "trojan",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2187,7 +2188,6 @@
     "v2raych": {
         "types": [
             "vless",
-            "ss",
             "vmess",
             "trojan"
         ],

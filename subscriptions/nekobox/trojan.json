@@ -99,10 +99,10 @@
                 "🇨🇭 CH | 🔒 TROJAN | @freakconfig [13]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [9]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇬🇧 GB | 🔒 TROJAN | @hope_net [11]",
+                "🇬🇧 GB | 🔒 TROJAN | @hope_net [9]",
+                "🇸🇪 SE | 🔒 TROJAN | @hope_net [11]",
                 "🇸🇪 SE | 🔒 TROJAN | @hope_net [13]",
-                "🇸🇪 SE | 🔒 TROJAN | @hope_net [15]",
-                "🇮🇪 IE | 🔓 TROJAN | @hope_net [21]",
+                "🇮🇪 IE | 🔓 TROJAN | @hope_net [19]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -137,7 +137,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2raych [20]",
+                "🇯🇵 JP | 🔒 TROJAN | @v2raych [20]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -221,10 +221,10 @@
                 "🇨🇭 CH | 🔒 TROJAN | @freakconfig [13]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [9]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇬🇧 GB | 🔒 TROJAN | @hope_net [11]",
+                "🇬🇧 GB | 🔒 TROJAN | @hope_net [9]",
+                "🇸🇪 SE | 🔒 TROJAN | @hope_net [11]",
                 "🇸🇪 SE | 🔒 TROJAN | @hope_net [13]",
-                "🇸🇪 SE | 🔒 TROJAN | @hope_net [15]",
-                "🇮🇪 IE | 🔓 TROJAN | @hope_net [21]",
+                "🇮🇪 IE | 🔓 TROJAN | @hope_net [19]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -259,7 +259,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2raych [20]",
+                "🇯🇵 JP | 🔒 TROJAN | @v2raych [20]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -706,7 +706,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇬🇧 GB | 🔒 TROJAN | @hope_net [11]",
+            "tag": "🇬🇧 GB | 🔒 TROJAN | @hope_net [9]",
             "type": "trojan",
             "server": "35.178.160.100",
             "server_port": 22222,
@@ -722,7 +722,7 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 TROJAN | @hope_net [13]",
+            "tag": "🇸🇪 SE | 🔒 TROJAN | @hope_net [11]",
             "type": "trojan",
             "server": "13.48.66.57",
             "server_port": 22222,
@@ -738,7 +738,7 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 TROJAN | @hope_net [15]",
+            "tag": "🇸🇪 SE | 🔒 TROJAN | @hope_net [13]",
             "type": "trojan",
             "server": "16.16.22.11",
             "server_port": 22222,
@@ -754,7 +754,7 @@
             }
         },
         {
-            "tag": "🇮🇪 IE | 🔓 TROJAN | @hope_net [21]",
+            "tag": "🇮🇪 IE | 🔓 TROJAN | @hope_net [19]",
             "type": "trojan",
             "server": "54.78.3.62",
             "server_port": 22222,
@@ -1349,14 +1349,14 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @v2raych [20]",
+            "tag": "🇯🇵 JP | 🔒 TROJAN | @v2raych [20]",
             "type": "trojan",
-            "server": "13.38.172.192",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
+            "server": "13.114.50.226",
+            "server_port": 22002,
+            "password": "52f6c7c1-85ef-4fcb-900d-35a4f8adb537",
             "tls": {
                 "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
+                "server_name": "sg-02.365cloud.me",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
