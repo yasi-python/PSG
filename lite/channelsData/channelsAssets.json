@@ -372,8 +372,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
+            "trojan",
             "ss",
-            "trojan"
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -736,8 +737,9 @@
     "hope_net": {
         "types": [
             "vmess",
+            "vless",
             "trojan",
-            "vless"
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1571,8 +1573,8 @@
     },
     "outlinev2rayng": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "پروکسی تله کد | فیلترشکن رایگان V2ray - Outline",
@@ -1672,8 +1674,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2114,8 +2116,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "ss",
+            "vmess",
             "vless",
             "trojan"
         ],
@@ -2200,8 +2202,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2451,13 +2453,6 @@
         "title": "🚀Vmess vpn🚀",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmessorg.jpg"
     },
-    "vp22ray": {
-        "types": [
-            "vless"
-        ],
-        "title": "Vpn V2rayng",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vp22ray.jpg"
-    },
     "vpn451": {
         "types": [
             "ss",
@@ -2489,14 +2484,6 @@
         ],
         "title": "VPN OCEAN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn_ocean.jpg"
-    },
-    "vpn_proxy_v2ry": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "Securit_y_Breach",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn_proxy_v2ry.jpg"
     },
     "vpncostume": {
         "types": [
