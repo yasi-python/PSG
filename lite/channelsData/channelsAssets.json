@@ -370,9 +370,9 @@
     },
     "fastfreeconfig": {
         "types": [
-            "ss",
             "vless",
-            "tuic"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -2112,9 +2112,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
-            "vless",
             "vmess",
+            "vless",
+            "ss",
             "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",

@@ -84,6 +84,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [19]",
+                "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [60]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -103,7 +104,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇩🇪 DE | 🔒 VLESS | @mowjproxy [4]",
+                "🇩🇪 DE | 🔒 VLESS | @mowjproxy [2]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [14]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
@@ -148,6 +149,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [19]",
+                "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [60]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -167,7 +169,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇩🇪 DE | 🔒 VLESS | @mowjproxy [4]",
+                "🇩🇪 DE | 🔒 VLESS | @mowjproxy [2]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [14]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
@@ -380,6 +382,29 @@
                     "enabled": true,
                     "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
                     "short_id": "e8ab71d0"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [60]",
+            "type": "vless",
+            "server": "199.247.30.45",
+            "server_port": 8443,
+            "uuid": "c977623c-7ee3-42aa-ac8c-b01f31ea898f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "discordapp.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
                 }
             }
         },
@@ -841,7 +866,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @mowjproxy [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @mowjproxy [2]",
             "type": "vless",
             "server": "178.236.254.220",
             "server_port": 443,
