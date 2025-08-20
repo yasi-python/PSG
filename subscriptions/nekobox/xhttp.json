@@ -124,7 +124,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [2]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [4]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [5]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [9]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [8]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -137,7 +137,6 @@
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [41]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @falcunargo [6]",
@@ -245,7 +244,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [2]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [4]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [5]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [9]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [8]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -258,7 +257,6 @@
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [41]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @falcunargo [6]",
@@ -918,7 +916,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [9]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
@@ -1087,24 +1085,6 @@
             "uuid": "34a4cfb4-8b42-42ba-b087-6a338c2b3b4a",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [41]",
-            "type": "vless",
-            "server": "172.237.133.129",
-            "server_port": 443,
-            "uuid": "5d77589d-8553-4955-a1bc-16969a5fe8e5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "172.237.133.129",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
