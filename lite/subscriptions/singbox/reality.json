@@ -131,12 +131,14 @@
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [15]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [51]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [19]",
                 "🇬🇧 GB | 🔒 VLESS | @expressvpn_420 [31]",
-                "🇩🇪 DE | 🔒 VLESS | @freakconfig [17]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [59]",
+                "🇩🇪 DE | 🔒 VLESS | @freakconfig [15]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -238,12 +240,14 @@
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [15]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [51]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [19]",
                 "🇬🇧 GB | 🔒 VLESS | @expressvpn_420 [31]",
-                "🇩🇪 DE | 🔒 VLESS | @freakconfig [17]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [59]",
+                "🇩🇪 DE | 🔒 VLESS | @freakconfig [15]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -1351,6 +1355,29 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [51]",
+            "type": "vless",
+            "server": "54.167.27.87",
+            "server_port": 15434,
+            "uuid": "a45e0c2d-388e-4e66-8720-291da22cd7eb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "K47eUyJ8fZSVg8DtY50GPcpa8VmSwnH5N3e6SKth0VM",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
             "type": "vless",
             "server": "172.232.33.18",
@@ -1470,7 +1497,34 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @freakconfig [17]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [59]",
+            "type": "vless",
+            "server": "91.99.236.124",
+            "server_port": 51479,
+            "uuid": "8cec3732-7131-46bc-c485-7b1d5fd776ba",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cdn77.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @freakconfig [15]",
             "type": "vless",
             "server": "51.38.98.69",
             "server_port": 443,
