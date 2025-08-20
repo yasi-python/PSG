@@ -371,8 +371,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan",
             "tuic"
         ],
@@ -456,8 +456,8 @@
     },
     "freakconfig": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "trojan",
             "ss"
         ],
@@ -498,9 +498,9 @@
     },
     "free_serverir": {
         "types": [
-            "trojan",
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free SerVer",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free_serverir.jpg"
@@ -1307,8 +1307,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2114,10 +2114,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
-            "trojan",
             "vmess",
-            "vless"
+            "vless",
+            "ss",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2431,9 +2431,9 @@
     },
     "vmesc": {
         "types": [
-            "vless",
             "trojan",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"
