@@ -108,10 +108,10 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
-                "🇺🇸 US | 🔒 TROJAN | @fastfreeconfig [58]",
                 "🇨🇭 CH | 🔒 TROJAN | @freakconfig [14]",
+                "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [9]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇮🇪 IE | 🔓 TROJAN | @hope_net [12]",
+                "🇮🇪 IE | 🔓 TROJAN | @hope_net [10]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -146,7 +146,7 @@
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇺🇸 US | 🔒 TROJAN | @v2raych [9]",
+                "❔ XX | 🔒 TROJAN | @v2raych [19]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -227,10 +227,10 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
-                "🇺🇸 US | 🔒 TROJAN | @fastfreeconfig [58]",
                 "🇨🇭 CH | 🔒 TROJAN | @freakconfig [14]",
+                "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [9]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇮🇪 IE | 🔓 TROJAN | @hope_net [12]",
+                "🇮🇪 IE | 🔓 TROJAN | @hope_net [10]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -265,7 +265,7 @@
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇺🇸 US | 🔒 TROJAN | @v2raych [9]",
+                "❔ XX | 🔒 TROJAN | @v2raych [19]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -669,22 +669,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 TROJAN | @fastfreeconfig [58]",
-            "type": "trojan",
-            "server": "192.3.107.252",
-            "server_port": 443,
-            "password": "2ee85121-31de-4581-a492-eb00f606e392",
-            "tls": {
-                "enabled": true,
-                "server_name": "rc8.freeguard.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇨🇭 CH | 🔒 TROJAN | @freakconfig [14]",
             "type": "trojan",
             "server": "45.155.54.117",
@@ -701,6 +685,22 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [9]",
+            "type": "trojan",
+            "server": "192.3.107.252",
+            "server_port": 443,
+            "password": "2ee85121-31de-4581-a492-eb00f606e392",
+            "tls": {
+                "enabled": true,
+                "server_name": "rc8.freeguard.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
             "type": "trojan",
             "server": "91.107.141.0",
@@ -708,7 +708,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇮🇪 IE | 🔓 TROJAN | @hope_net [12]",
+            "tag": "🇮🇪 IE | 🔓 TROJAN | @hope_net [10]",
             "type": "trojan",
             "server": "52.51.15.205",
             "server_port": 22222,
@@ -1303,14 +1303,14 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 TROJAN | @v2raych [9]",
+            "tag": "❔ XX | 🔒 TROJAN | @v2raych [19]",
             "type": "trojan",
-            "server": "192.3.107.252",
-            "server_port": 443,
-            "password": "2ee85121-31de-4581-a492-eb00f606e392",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "password": "babcaac-aacb-caba-cadb-bbcbaaaacbcc",
             "tls": {
                 "enabled": true,
-                "server_name": "rc8.freeguard.org",
+                "server_name": "127.0.0.1",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
