@@ -96,7 +96,6 @@
                 "❔ XX | 🔓 VLESS | @appsooner [2]",
                 "🇺🇸 US | 🔓 VLESS | @appsooner [3]",
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [106]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -128,9 +127,9 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @nofiltering2 [4]",
                 "🇩🇪 DE | 🔓 VLESS | @nofiltering2 [16]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [11]",
-                "🇩🇪 DE | 🔓 VLESS | @outline_ir [19]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
+                "🇩🇪 DE | 🔓 VLESS | @outline_ir [18]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [8]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [15]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [3]",
@@ -165,7 +164,6 @@
                 "❔ XX | 🔓 VLESS | @appsooner [2]",
                 "🇺🇸 US | 🔓 VLESS | @appsooner [3]",
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [106]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -197,9 +195,9 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @nofiltering2 [4]",
                 "🇩🇪 DE | 🔓 VLESS | @nofiltering2 [16]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [11]",
-                "🇩🇪 DE | 🔓 VLESS | @outline_ir [19]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
+                "🇩🇪 DE | 🔓 VLESS | @outline_ir [18]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [8]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [15]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [3]",
@@ -338,15 +336,6 @@
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "9072c5fd-dab0-4125-9465-3aa26de4defc",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [106]",
-            "type": "vless",
-            "server": "mci.dl101movis.ir",
-            "server_port": 80,
-            "uuid": "f6232313-e4bc-4861-834d-85fd98ba642a",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -681,7 +670,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [11]",
             "type": "vless",
             "server": "sss71706.tas-bazi.com",
             "server_port": 443,
@@ -699,7 +688,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [11]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
             "type": "vless",
             "server": "sss93336.tas-bazi.com",
             "server_port": 443,
@@ -717,7 +706,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @outline_ir [19]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @outline_ir [18]",
             "type": "vless",
             "server": "sss2180.tas-bazi.com",
             "server_port": 443,

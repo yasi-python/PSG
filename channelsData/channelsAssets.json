@@ -399,9 +399,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "trojan",
             "ss",
-            "tuic"
+            "tuic",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -770,10 +770,10 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
-            "vless",
             "trojan",
-            "ss"
+            "vless",
+            "ss",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1546,6 +1546,7 @@
     },
     "orange_vpns": {
         "types": [
+            "vmess",
             "vless",
             "ss"
         ],
@@ -2123,9 +2124,9 @@
     },
     "v2ray_free_conf": {
         "types": [
+            "trojan",
             "ss",
             "vmess",
-            "trojan",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2187,9 +2188,9 @@
     },
     "v2raych": {
         "types": [
-            "trojan",
+            "vmess",
             "vless",
-            "vmess"
+            "ss"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2505,8 +2506,8 @@
     },
     "vmesc": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vmesc.jpg"
@@ -2734,7 +2735,8 @@
     "zerobaipiao": {
         "types": [
             "vmess",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/zerobaipiao.jpg"
