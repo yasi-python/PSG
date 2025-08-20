@@ -96,9 +96,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @Fr33C0nfig [52]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇸🇮 SI | 🔒 VLESS | @config_proxy [27]",
-                "🇱🇹 LT | 🔒 VLESS | @config_proxy [28]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [29]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [18]",
@@ -113,7 +110,7 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
-                "🇸🇬 SG | 🔒 VLESS | @lexernet [2]",
+                "🇫🇷 FR | 🔒 VLESS | @lexernet [2]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -123,7 +120,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
+                "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
@@ -209,9 +206,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @Fr33C0nfig [52]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇸🇮 SI | 🔒 VLESS | @config_proxy [27]",
-                "🇱🇹 LT | 🔒 VLESS | @config_proxy [28]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [29]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [18]",
@@ -226,7 +220,7 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
-                "🇸🇬 SG | 🔒 VLESS | @lexernet [2]",
+                "🇫🇷 FR | 🔒 VLESS | @lexernet [2]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -236,7 +230,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
+                "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
@@ -491,75 +485,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
-            }
-        },
-        {
-            "tag": "🇸🇮 SI | 🔒 VLESS | @config_proxy [27]",
-            "type": "vless",
-            "server": "tunnyl.ru",
-            "server_port": 443,
-            "uuid": "fa4f7e00-d88a-4d74-af13-10e666c3559a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI",
-                    "short_id": "5c0333ed45b1"
-                }
-            }
-        },
-        {
-            "tag": "🇱🇹 LT | 🔒 VLESS | @config_proxy [28]",
-            "type": "vless",
-            "server": "hield.ru",
-            "server_port": 443,
-            "uuid": "c0031bba-8ef5-463d-9781-fdb36dd9a1c3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws",
-                    "short_id": "06c6eb7423f24de5"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [29]",
-            "type": "vless",
-            "server": "world-of.ru",
-            "server_port": 443,
-            "uuid": "afcc1286-04d9-45a0-8643-e7b18b4e860f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "9QOmx7k0-uCbUrgh7ee9x9qtLIOEVyeYiZI2aiimYEs",
-                    "short_id": "71e48a"
-                }
             }
         },
         {
@@ -917,7 +842,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @lexernet [2]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @lexernet [2]",
             "type": "vless",
             "server": "amazon-20.cristiano.name.ng",
             "server_port": 443,
@@ -1159,7 +1084,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
