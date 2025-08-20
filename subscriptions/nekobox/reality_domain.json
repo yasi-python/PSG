@@ -93,6 +93,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
+                "🇸🇬 SG | 🔒 VLESS | @config_proxy [60]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
                 "❔ XX | 🔒 VLESS | @connectshu [1]",
@@ -101,7 +102,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @connectshu [9]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [14]",
-                "🇸🇪 SE | 🔒 VLESS | @freakconfig [11]",
+                "🇸🇬 SG | 🔒 VLESS | @freakconfig [11]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [14]",
                 "🇮🇹 IT | 🔒 VLESS | @freeiranianv2rey [6]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [1]",
@@ -146,7 +147,7 @@
                 "❔ XX | 🔒 VLESS | @public504 [5]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [9]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [15]",
@@ -210,6 +211,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
+                "🇸🇬 SG | 🔒 VLESS | @config_proxy [60]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
                 "❔ XX | 🔒 VLESS | @connectshu [1]",
@@ -218,7 +220,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @connectshu [9]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [14]",
-                "🇸🇪 SE | 🔒 VLESS | @freakconfig [11]",
+                "🇸🇬 SG | 🔒 VLESS | @freakconfig [11]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [14]",
                 "🇮🇹 IT | 🔒 VLESS | @freeiranianv2rey [6]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [1]",
@@ -263,7 +265,7 @@
                 "❔ XX | 🔒 VLESS | @public504 [5]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [9]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "🇳🇱 NL | 🔒 VLESS | @satellitenewspersian [15]",
@@ -729,6 +731,29 @@
             }
         },
         {
+            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [60]",
+            "type": "vless",
+            "server": "amazon-20.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
             "type": "vless",
             "server": "s1.aparat-movies-download.ir",
@@ -933,7 +958,7 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @freakconfig [11]",
+            "tag": "🇸🇬 SG | 🔒 VLESS | @freakconfig [11]",
             "type": "vless",
             "server": "amazon-17.cristiano.name.ng",
             "server_port": 443,
@@ -2043,7 +2068,7 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
