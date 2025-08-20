@@ -113,8 +113,7 @@
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [9]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
                 "🇸🇪 SE | 🔒 TROJAN | @hope_net [7]",
-                "🇸🇪 SE | 🔒 TROJAN | @hope_net [9]",
-                "🇮🇪 IE | 🔓 TROJAN | @hope_net [15]",
+                "🇮🇪 IE | 🔓 TROJAN | @hope_net [13]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -200,8 +199,7 @@
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [9]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
                 "🇸🇪 SE | 🔒 TROJAN | @hope_net [7]",
-                "🇸🇪 SE | 🔒 TROJAN | @hope_net [9]",
-                "🇮🇪 IE | 🔓 TROJAN | @hope_net [15]",
+                "🇮🇪 IE | 🔓 TROJAN | @hope_net [13]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -662,22 +660,6 @@
         {
             "tag": "🇸🇪 SE | 🔒 TROJAN | @hope_net [7]",
             "type": "trojan",
-            "server": "13.48.66.57",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🔒 TROJAN | @hope_net [9]",
-            "type": "trojan",
             "server": "16.16.22.11",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
@@ -692,7 +674,7 @@
             }
         },
         {
-            "tag": "🇮🇪 IE | 🔓 TROJAN | @hope_net [15]",
+            "tag": "🇮🇪 IE | 🔓 TROJAN | @hope_net [13]",
             "type": "trojan",
             "server": "54.78.3.62",
             "server_port": 22222,
