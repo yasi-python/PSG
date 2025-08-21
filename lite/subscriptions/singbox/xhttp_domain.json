@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @config_proxy [54]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -118,7 +117,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @config_proxy [54]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -216,29 +214,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @config_proxy [54]",
-            "type": "vless",
-            "server": "luna.postpapet.ir",
-            "server_port": 8443,
-            "uuid": "b28446a5-c6ba-4c53-af62-4a7d067d51fd",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms",
-                    "short_id": "27e6b66aa77662fb"
                 }
             }
         },

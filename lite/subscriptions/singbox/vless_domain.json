@@ -104,7 +104,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
                 "❔ XX | 🔓 VLESS | @ch_a2l [4]",
                 "❔ XX | 🔓 VLESS | @ch_a2l [6]",
-                "❔ XX | 🔒 VLESS | @config_proxy [54]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🇮🇷 IR | 🔒 VLESS | @configscenter [1]",
@@ -133,7 +132,6 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [8]",
-                "❔ XX | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "❔ XX | 🔒 VLESS | @flash_proxies [1]",
@@ -284,7 +282,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
+                "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -363,7 +361,6 @@
                 "🇮🇷 IR | 🔓 VLESS | @vpnfree85 [1]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [16]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
                 "🚩 CF | 🔒 VLESS | @vpnv2rayonline [10]",
                 "🚩 CF | 🔒 VLESS | @vpnv2raytop [2]",
                 "🇫🇮 FI | 🔒 VLESS | @vpnv2raytop [3]",
@@ -397,7 +394,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
                 "❔ XX | 🔓 VLESS | @ch_a2l [4]",
                 "❔ XX | 🔓 VLESS | @ch_a2l [6]",
-                "❔ XX | 🔒 VLESS | @config_proxy [54]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🇮🇷 IR | 🔒 VLESS | @configscenter [1]",
@@ -426,7 +422,6 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [8]",
-                "❔ XX | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "❔ XX | 🔒 VLESS | @flash_proxies [1]",
@@ -577,7 +572,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
+                "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -656,7 +651,6 @@
                 "🇮🇷 IR | 🔓 VLESS | @vpnfree85 [1]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [16]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
                 "🚩 CF | 🔒 VLESS | @vpnv2rayonline [10]",
                 "🚩 CF | 🔒 VLESS | @vpnv2raytop [2]",
                 "🇫🇮 FI | 🔒 VLESS | @vpnv2raytop [3]",
@@ -970,29 +964,6 @@
                 "path": "/CH_A2L",
                 "headers": {
                     "Host": "A2L.GODGAME.FUN"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @config_proxy [54]",
-            "type": "vless",
-            "server": "luna.postpapet.ir",
-            "server_port": 8443,
-            "uuid": "b28446a5-c6ba-4c53-af62-4a7d067d51fd",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms",
-                    "short_id": "27e6b66aa77662fb"
                 }
             }
         },
@@ -1441,29 +1412,6 @@
                 "path": "/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
                 "headers": {
                     "Host": "cumhuriyet.com.tr"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @fastfreeconfig [58]",
-            "type": "vless",
-            "server": "german.vp22ray.site",
-            "server_port": 2087,
-            "uuid": "2179abfc-2435-4b64-8c96-cb39184a4348",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "Ftp.debian.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I",
-                    "short_id": "32c43ca1"
                 }
             }
         },
@@ -4161,7 +4109,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -5475,31 +5423,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl"
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2053,
-            "uuid": "f0498f6d-b7d1-470e-80cc-e3f21bb79b45",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "dl-de-cdn.easy-upload.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "dl-de-cdn.easy-upload.org"
-                }
             }
         },
         {
