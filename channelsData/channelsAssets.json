@@ -400,8 +400,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
+            "ss",
             "trojan",
-            "ss"
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -1319,8 +1320,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2126,9 +2127,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
-            "vmess",
             "ss",
+            "vmess",
+            "trojan",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2190,9 +2191,10 @@
     },
     "v2raych": {
         "types": [
-            "vless",
             "trojan",
-            "vmess"
+            "vless",
+            "vmess",
+            "ss"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2689,13 +2691,6 @@
         ],
         "title": "QRcode WebRovers",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/wbrovers.jpg"
-    },
-    "womanlifefreedomvpn": {
-        "types": [
-            "vless"
-        ],
-        "title": "WomanLifeFreedomVPN",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/womanlifefreedomvpn.jpg"
     },
     "xnxv2ray": {
         "types": [
