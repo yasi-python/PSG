@@ -1,6 +1,6 @@
 {
     "meta": {
-        "last_updated": "2025-08-20T23:25:36+00:00",
+        "last_updated": "2025-08-21T01:26:44+00:00",
         "author": "yasi-python/PSG"
     },
     "sources": {
@@ -10,52 +10,52 @@
         "removed_in_cleanup": 0
     },
     "configs": {
-        "total_extracted_raw": 4032,
-        "total_valid_processed": 3512,
+        "total_extracted_raw": 4033,
+        "total_valid_processed": 3516,
         "breakdown_by_protocol": {
-            "vless": 2487,
-            "vmess": 461,
-            "ss": 398,
+            "vless": 2496,
+            "vmess": 457,
+            "ss": 396,
             "trojan": 147,
-            "hy2": 5,
-            "tuic": 14
+            "tuic": 15,
+            "hy2": 5
         }
     },
     "outputs": {
-        "main_aggregate_size": 2990,
-        "location_files_created": 50,
+        "main_aggregate_size": 2991,
+        "location_files_created": 49,
         "channel_files_created": 359,
         "country_distribution": {
             "CF": 965,
-            "XX": 600,
-            "DE": 457,
-            "US": 420,
-            "IR": 189,
-            "NL": 138,
-            "FR": 135,
-            "GB": 101,
-            "SE": 93,
-            "FI": 65,
-            "RU": 34,
-            "CA": 34,
+            "XX": 599,
+            "DE": 460,
+            "US": 417,
+            "IR": 186,
+            "NL": 148,
+            "FR": 136,
+            "GB": 98,
+            "SE": 97,
+            "FI": 64,
+            "RU": 36,
+            "CA": 32,
             "HK": 25,
-            "JP": 25,
             "CN": 23,
             "TR": 22,
-            "SG": 19,
+            "SG": 22,
+            "JP": 22,
             "PL": 19,
             "AT": 18,
-            "IT": 14,
-            "IN": 13,
-            "CH": 11,
+            "IT": 13,
+            "CH": 12,
+            "IN": 12,
             "UA": 7,
-            "AM": 6,
-            "TW": 6,
+            "TW": 7,
             "CZ": 6,
             "AE": 6,
             "AU": 6,
             "LT": 5,
             "ID": 5,
+            "AM": 4,
             "IE": 3,
             "LV": 3,
             "KR": 3,
@@ -84,8 +84,7 @@
             "SA": 1,
             "RS": 1,
             "BZ": 1,
-            "ZA": 1,
-            "VN": 1
+            "ZA": 1
         }
     }
 }
