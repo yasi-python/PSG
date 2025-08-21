@@ -31,7 +31,8 @@
     },
     "argo_vpn1": {
         "types": [
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "𝐀𝐫𝐠𝐨_𝐕𝐏𝐍1 /پل فالکن/هیدیفای",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/argo_vpn1.jpg"
@@ -348,8 +349,8 @@
     },
     "farahvpn": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "trojan",
             "ss"
         ],
@@ -372,9 +373,9 @@
     },
     "fastfreeconfig": {
         "types": [
+            "trojan",
             "vless",
-            "ss",
-            "trojan"
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -735,9 +736,9 @@
     },
     "hope_net": {
         "types": [
+            "trojan",
             "ss",
             "vmess",
-            "trojan",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -979,7 +980,6 @@
     },
     "kafing_2": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "کافینگ رایگان",
@@ -2412,8 +2412,8 @@
     },
     "vmesc": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"
