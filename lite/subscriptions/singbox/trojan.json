@@ -101,18 +101,17 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
-                "🚩 CF | 🔓 TROJAN | @farahvpn [15]",
-                "🇷🇺 RU | 🔒 TROJAN | @fastfreeconfig [58]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
+                "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [20]",
+                "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [19]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [17]",
@@ -137,18 +136,17 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
-                "🚩 CF | 🔓 TROJAN | @farahvpn [15]",
-                "🇷🇺 RU | 🔒 TROJAN | @fastfreeconfig [58]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
+                "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [20]",
+                "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [19]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [17]",
@@ -407,46 +405,14 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @farahvpn [15]",
-            "type": "trojan",
-            "server": "104.19.182.150",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.19.182.150",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 TROJAN | @fastfreeconfig [58]",
-            "type": "trojan",
-            "server": "176.32.39.29",
-            "server_port": 443,
-            "password": "8OXD5VVt8s",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🚩 CF | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
-            "server": "104.16.130.249",
+            "server": "104.17.143.199",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "104.16.130.249",
+                "server_name": "104.17.143.199",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -457,12 +423,12 @@
         {
             "tag": "🚩 CF | 🔓 TROJAN | @hope_net [19]",
             "type": "trojan",
-            "server": "104.18.238.150",
+            "server": "104.17.153.15",
             "server_port": 443,
-            "password": "blue2024",
+            "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "ha.lii2010.us.kg",
+                "server_name": "104.17.153.15",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -473,12 +439,12 @@
         {
             "tag": "🚩 CF | 🔓 TROJAN | @hope_net [20]",
             "type": "trojan",
-            "server": "104.17.143.199",
+            "server": "104.17.157.109",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "104.17.143.199",
+                "server_name": "104.17.157.109",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -495,6 +461,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "vzwzasc.cn",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
+            "type": "trojan",
+            "server": "176.32.39.29",
+            "server_port": 443,
+            "password": "8OXD5VVt8s",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -583,7 +565,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [20]",
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [19]",
             "type": "trojan",
             "server": "15.237.242.48",
             "server_port": 22223,
