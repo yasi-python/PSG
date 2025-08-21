@@ -119,8 +119,8 @@
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
-                "🚩 CF | 🔓 VLESS | @falcunargo [10]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [59]",
+                "🚩 CF | 🔓 VLESS | @falcunargo [9]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [56]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "❔ XX | 🔒 VLESS | @flash_proxies [1]",
@@ -156,7 +156,6 @@
                 "🚩 CF | 🔒 VLESS | @hopev2ray [10]",
                 "🚩 CF | 🔒 VLESS | @hopev2ray [12]",
                 "🚩 CF | 🔒 VLESS | @info_2it_channel [2]",
-                "🚩 CF | 🔒 VLESS | @iran_access [12]",
                 "🇦🇪 AE | 🔒 VLESS | @iran_access [14]",
                 "❔ XX | 🔒 VLESS | @iranbaxvpn [7]",
                 "❔ XX | 🔒 VLESS | @iranbaxvpn [8]",
@@ -270,7 +269,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -410,8 +409,8 @@
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
-                "🚩 CF | 🔓 VLESS | @falcunargo [10]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [59]",
+                "🚩 CF | 🔓 VLESS | @falcunargo [9]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [56]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "❔ XX | 🔒 VLESS | @flash_proxies [1]",
@@ -447,7 +446,6 @@
                 "🚩 CF | 🔒 VLESS | @hopev2ray [10]",
                 "🚩 CF | 🔒 VLESS | @hopev2ray [12]",
                 "🚩 CF | 🔒 VLESS | @info_2it_channel [2]",
-                "🚩 CF | 🔒 VLESS | @iran_access [12]",
                 "🇦🇪 AE | 🔒 VLESS | @iran_access [14]",
                 "❔ XX | 🔒 VLESS | @iranbaxvpn [7]",
                 "❔ XX | 🔒 VLESS | @iranbaxvpn [8]",
@@ -561,7 +559,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -1394,7 +1392,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @falcunargo [10]",
+            "tag": "🚩 CF | 🔓 VLESS | @falcunargo [9]",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -1410,18 +1408,27 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [59]",
+            "tag": "🚩 CF | 🔒 VLESS | @fastfreeconfig [56]",
             "type": "vless",
-            "server": "cdnndsszakanalaslitest.possiblesayt.xyz.",
-            "server_port": 8880,
-            "uuid": "1c23cb6b-6735-4e24-b13a-a894bcf95e97",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23",
             "flow": "",
             "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "119f3a0b.chikiy123w.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/?ed=2048",
                 "headers": {
-                    "Host": "cdnndsszakanalaslitest.possiblesayt.xyz."
+                    "Host": "119f3a0b.chikiy123w.pages.dev"
                 }
             }
         },
@@ -1992,31 +1999,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "server28.coin.name.ng"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @iran_access [12]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "119f3a0b.chikiy123w.pages.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2048",
-                "headers": {
-                    "Host": "119f3a0b.chikiy123w.pages.dev"
                 }
             }
         },
@@ -4082,7 +4064,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
