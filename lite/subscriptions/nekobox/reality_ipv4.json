@@ -105,12 +105,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [10]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [4]",
+                "🇫🇷 FR | 🔒 VLESS | @mowjproxy [6]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [17]",
                 "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [14]",
-                "🇫🇷 FR | 🔒 VLESS | @proxy_mtproto_vpns_free [14]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [15]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
                 "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
@@ -172,12 +171,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [10]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [4]",
+                "🇫🇷 FR | 🔒 VLESS | @mowjproxy [6]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [17]",
                 "🇩🇪 DE | 🔒 VLESS | @outlinev2rayng [14]",
-                "🇫🇷 FR | 🔒 VLESS | @proxy_mtproto_vpns_free [14]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [15]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
                 "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
@@ -897,26 +895,30 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @mowjproxy [4]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @mowjproxy [6]",
             "type": "vless",
-            "server": "51.75.162.3",
-            "server_port": 443,
-            "uuid": "b299af7b-3098-4e8e-b7c4-359fa577b19b",
+            "server": "80.13.135.11",
+            "server_port": 57546,
+            "uuid": "4aae04fa-f390-44bb-9558-a344c8baed36",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "ratp.fr",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "random"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens",
-                    "short_id": "370dd394052f2386"
+                    "public_key": "G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY",
+                    "short_id": "e9da"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "probrain-etl"
             }
         },
         {
@@ -1013,33 +1015,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "das12327gsgsyu"
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @proxy_mtproto_vpns_free [14]",
-            "type": "vless",
-            "server": "80.13.135.11",
-            "server_port": 57546,
-            "uuid": "4aae04fa-f390-44bb-9558-a344c8baed36",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ratp.fr",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY",
-                    "short_id": "e9da"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "probrain-etl"
             }
         },
         {

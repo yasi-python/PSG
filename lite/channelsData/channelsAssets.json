@@ -109,7 +109,8 @@
         "types": [
             "vless",
             "ss",
-            "vmess"
+            "vmess",
+            "hy2"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -349,9 +350,9 @@
     },
     "farahvpn": {
         "types": [
-            "vless",
             "trojan",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "FarahVPN | فراح وی پی ان",
@@ -374,8 +375,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -737,7 +738,8 @@
     "hope_net": {
         "types": [
             "trojan",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -893,13 +895,6 @@
         ],
         "title": "IR.LAST",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/irlast.jpg"
-    },
-    "irv2rey": {
-        "types": [
-            "vless"
-        ],
-        "title": "ایران ویتوری | 𝐈𝐫𝐯𝟐𝐫𝐞𝐲",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/irv2rey.jpg"
     },
     "iseqaro": {
         "types": [
@@ -1298,8 +1293,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2092,9 +2087,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "ss",
             "vless",
+            "trojan",
             "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
