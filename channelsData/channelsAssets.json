@@ -146,9 +146,9 @@
     },
     "config_proxy": {
         "types": [
+            "vmess",
             "vless",
             "ss",
-            "vmess",
             "trojan"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -402,7 +402,6 @@
         "types": [
             "vless",
             "ss",
-            "tuic",
             "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
@@ -1322,8 +1321,7 @@
     "mowjproxy": {
         "types": [
             "vless",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2129,10 +2127,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
+            "vless",
             "trojan",
             "vmess",
-            "vless"
+            "ss"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2193,9 +2191,8 @@
     },
     "v2raych": {
         "types": [
-            "vless",
             "vmess",
-            "ss",
+            "vless",
             "trojan"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",

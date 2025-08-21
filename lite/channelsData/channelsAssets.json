@@ -374,10 +374,9 @@
     },
     "fastfreeconfig": {
         "types": [
+            "ss",
             "vless",
-            "tuic",
-            "trojan",
-            "ss"
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -1197,13 +1196,6 @@
         "title": "ＭＡＸ–ＶＰＮ",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/maxvpnc.jpg"
     },
-    "mdvpn184": {
-        "types": [
-            "vless"
-        ],
-        "title": "Md vpn",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mdvpn184.jpg"
-    },
     "megavpn_link": {
         "types": [
             "vless",
@@ -1311,8 +1303,7 @@
     "mowjproxy": {
         "types": [
             "vless",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2113,10 +2104,10 @@
     },
     "v2ray_free_conf": {
         "types": [
+            "vless",
             "trojan",
-            "ss",
             "vmess",
-            "vless"
+            "ss"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
