@@ -101,9 +101,8 @@
                 "🇳🇱 NL | 🔒 SS | @father_vpn [3]",
                 "🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]",
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
-                "🇰🇿 KZ | 🔒 SS | @free1ss [13]",
-                "🇳🇱 NL | 🔒 SS | @free1ss [14]",
-                "🇸🇬 SG | 🔒 SS | @free1ss [15]",
+                "🇳🇱 NL | 🔒 SS | @free1ss [13]",
+                "🇸🇬 SG | 🔒 SS | @free1ss [14]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
                 "🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]",
                 "🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]",
@@ -118,6 +117,9 @@
                 "🇬🇧 GB | 🔒 SS | @key_outline [20]",
                 "🇺🇸 US | 🔒 SS | @kurdistan_vpn_perfectt [5]",
                 "🇳🇱 NL | 🔒 SS | @kurdistan_vpn_perfectt [6]",
+                "🇺🇸 US | 🔒 SS | @lranonline_new [10]",
+                "🇻🇳 VN | 🔒 SS | @lranonline_new [11]",
+                "🇺🇸 US | 🔒 SS | @lranonline_new [12]",
                 "🇬🇧 GB | 🔒 SS | @megavpn_link [12]",
                 "🇬🇧 GB | 🔒 SS | @mester_v2ray [17]",
                 "🇦🇹 AT | 🔒 SS | @mester_v2ray [18]",
@@ -140,7 +142,7 @@
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [7]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [8]",
                 "🇩🇪 DE | 🔒 SS | @srv2ray [1]",
-                "🇸🇪 SE | 🔒 SS | @v2raying [12]",
+                "🇸🇪 SE | 🔒 SS | @v2raying [11]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]",
                 "🇷🇺 RU | 🔒 SS | @v2rayprotocol [10]",
@@ -164,9 +166,8 @@
                 "🇳🇱 NL | 🔒 SS | @father_vpn [3]",
                 "🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]",
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
-                "🇰🇿 KZ | 🔒 SS | @free1ss [13]",
-                "🇳🇱 NL | 🔒 SS | @free1ss [14]",
-                "🇸🇬 SG | 🔒 SS | @free1ss [15]",
+                "🇳🇱 NL | 🔒 SS | @free1ss [13]",
+                "🇸🇬 SG | 🔒 SS | @free1ss [14]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
                 "🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]",
                 "🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]",
@@ -181,6 +182,9 @@
                 "🇬🇧 GB | 🔒 SS | @key_outline [20]",
                 "🇺🇸 US | 🔒 SS | @kurdistan_vpn_perfectt [5]",
                 "🇳🇱 NL | 🔒 SS | @kurdistan_vpn_perfectt [6]",
+                "🇺🇸 US | 🔒 SS | @lranonline_new [10]",
+                "🇻🇳 VN | 🔒 SS | @lranonline_new [11]",
+                "🇺🇸 US | 🔒 SS | @lranonline_new [12]",
                 "🇬🇧 GB | 🔒 SS | @megavpn_link [12]",
                 "🇬🇧 GB | 🔒 SS | @mester_v2ray [17]",
                 "🇦🇹 AT | 🔒 SS | @mester_v2ray [18]",
@@ -203,7 +207,7 @@
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [7]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [8]",
                 "🇩🇪 DE | 🔒 SS | @srv2ray [1]",
-                "🇸🇪 SE | 🔒 SS | @v2raying [12]",
+                "🇸🇪 SE | 🔒 SS | @v2raying [11]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]",
                 "🇷🇺 RU | 🔒 SS | @v2rayprotocol [10]",
@@ -366,15 +370,7 @@
             "password": "f8f7aCzcPKbsF8p3"
         },
         {
-            "tag": "🇰🇿 KZ | 🔒 SS | @free1ss [13]",
-            "type": "shadowsocks",
-            "server": "38.107.234.38",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a58fa62b4944ddbf"
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 SS | @free1ss [14]",
+            "tag": "🇳🇱 NL | 🔒 SS | @free1ss [13]",
             "type": "shadowsocks",
             "server": "92.112.126.90",
             "server_port": 443,
@@ -382,7 +378,7 @@
             "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
-            "tag": "🇸🇬 SG | 🔒 SS | @free1ss [15]",
+            "tag": "🇸🇬 SG | 🔒 SS | @free1ss [14]",
             "type": "shadowsocks",
             "server": "18.139.0.110",
             "server_port": 8319,
@@ -497,6 +493,30 @@
             "tag": "🇳🇱 NL | 🔒 SS | @kurdistan_vpn_perfectt [6]",
             "type": "shadowsocks",
             "server": "193.29.139.235",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @lranonline_new [10]",
+            "type": "shadowsocks",
+            "server": "45.87.175.69",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "tag": "🇻🇳 VN | 🔒 SS | @lranonline_new [11]",
+            "type": "shadowsocks",
+            "server": "103.163.218.2",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @lranonline_new [12]",
+            "type": "shadowsocks",
+            "server": "45.87.175.22",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
@@ -678,7 +698,7 @@
             "password": "wDZtxfIk3UhacKHrho7lxw"
         },
         {
-            "tag": "🇸🇪 SE | 🔒 SS | @v2raying [12]",
+            "tag": "🇸🇪 SE | 🔒 SS | @v2raying [11]",
             "type": "shadowsocks",
             "server": "135.225.124.80",
             "server_port": 48172,

@@ -96,6 +96,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇳🇱 NL | 🔒 VLESS | @farahvpn [15]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [17]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -118,7 +119,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [13]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇫🇷 FR | 🔒 VLESS | @mowjproxy [5]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [17]",
@@ -131,7 +131,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
                 "🇩🇪 DE | 🔒 VLESS | @ultrasurf_12 [3]",
-                "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [19]",
+                "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [18]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇭🇺 HU | 🔒 VLESS | @v2ray_sos [5]",
                 "🇺🇸 US | 🔒 VLESS | @v2ray_v_vpn [41]",
@@ -162,6 +162,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [15]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇳🇱 NL | 🔒 VLESS | @farahvpn [15]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [17]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -184,7 +185,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [13]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇫🇷 FR | 🔒 VLESS | @mowjproxy [5]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [17]",
@@ -197,7 +197,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
                 "🇩🇪 DE | 🔒 VLESS | @ultrasurf_12 [3]",
-                "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [19]",
+                "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [18]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇭🇺 HU | 🔒 VLESS | @v2ray_sos [5]",
                 "🇺🇸 US | 🔒 VLESS | @v2ray_v_vpn [41]",
@@ -397,6 +397,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "JoinBadeChannel@antimeli"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
+            "type": "vless",
+            "server": "150.241.99.63",
+            "server_port": 80,
+            "uuid": "2e6f1b4f-cc02-44b4-9e5a-55960c950956",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM",
+                    "short_id": "5426024033df45"
+                }
             }
         },
         {
@@ -934,33 +957,6 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @mowjproxy [5]",
-            "type": "vless",
-            "server": "80.13.135.11",
-            "server_port": 57546,
-            "uuid": "4aae04fa-f390-44bb-9558-a344c8baed36",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ratp.fr",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY",
-                    "short_id": "e9da"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "probrain-etl"
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
             "type": "vless",
             "server": "62.60.179.68",
@@ -1245,7 +1241,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [19]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [18]",
             "type": "vless",
             "server": "51.38.98.69",
             "server_port": 443,
