@@ -1,6 +1,6 @@
 {
     "meta": {
-        "last_updated": "2025-08-21T06:42:07+00:00",
+        "last_updated": "2025-08-21T07:22:47+00:00",
         "author": "yasi-python/PSG"
     },
     "sources": {
@@ -10,54 +10,53 @@
         "removed_in_cleanup": 0
     },
     "configs": {
-        "total_extracted_raw": 4026,
-        "total_valid_processed": 3506,
+        "total_extracted_raw": 4027,
+        "total_valid_processed": 3504,
         "breakdown_by_protocol": {
-            "vless": 2483,
-            "vmess": 454,
-            "ss": 399,
-            "trojan": 150,
-            "tuic": 15,
-            "hy2": 5
+            "vless": 2475,
+            "vmess": 456,
+            "ss": 402,
+            "trojan": 152,
+            "hy2": 5,
+            "tuic": 14
         }
     },
     "outputs": {
-        "main_aggregate_size": 2976,
+        "main_aggregate_size": 2972,
         "location_files_created": 51,
         "channel_files_created": 358,
         "country_distribution": {
-            "CF": 962,
-            "XX": 580,
-            "DE": 462,
-            "US": 415,
+            "CF": 966,
+            "XX": 581,
+            "DE": 465,
+            "US": 420,
             "IR": 187,
-            "NL": 151,
-            "FR": 135,
-            "GB": 99,
-            "SE": 95,
-            "FI": 66,
+            "NL": 147,
+            "FR": 134,
+            "GB": 98,
+            "SE": 94,
+            "FI": 67,
             "RU": 36,
-            "CA": 32,
-            "TR": 25,
-            "CN": 25,
+            "CA": 30,
+            "JP": 26,
             "HK": 25,
+            "CN": 24,
             "SG": 23,
-            "JP": 22,
-            "AT": 18,
-            "PL": 18,
-            "CH": 13,
+            "TR": 22,
+            "AT": 17,
+            "PL": 17,
+            "IT": 14,
             "IN": 13,
-            "IT": 12,
-            "AU": 8,
+            "CH": 11,
+            "AU": 7,
             "TW": 6,
             "UA": 6,
-            "CZ": 6,
+            "AE": 6,
             "LT": 5,
-            "AE": 5,
             "AM": 4,
-            "KR": 4,
-            "ID": 4,
+            "CZ": 4,
             "KZ": 4,
+            "ID": 4,
             "IE": 3,
             "LV": 3,
             "LU": 3,
@@ -84,7 +83,8 @@
             "SA": 1,
             "RS": 1,
             "BZ": 1,
-            "ZA": 1
+            "ZA": 1,
+            "KR": 1
         }
     }
 }

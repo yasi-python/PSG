@@ -106,7 +106,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
+                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
@@ -149,7 +149,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇨🇭 CH | 🔒 VLESS | @outline_vpn [16]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [18]",
-                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [12]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
                 "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
@@ -213,7 +212,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
+                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
@@ -256,7 +255,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇨🇭 CH | 🔒 VLESS | @outline_vpn [16]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [18]",
-                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [12]",
                 "🇬🇧 GB | 🔒 VLESS | @proxycrone [16]",
                 "🇸🇬 SG | 🔒 VLESS | @proxycrone [17]",
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [18]",
@@ -1020,7 +1018,7 @@
             }
         },
         {
-            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -2065,29 +2063,6 @@
                     "enabled": true,
                     "public_key": "FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34",
                     "short_id": "3b6239cf6fd84dd3"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [12]",
-            "type": "vless",
-            "server": "89.116.193.40",
-            "server_port": 34045,
-            "uuid": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
-                    "short_id": "e8ab71d0"
                 }
             }
         },
