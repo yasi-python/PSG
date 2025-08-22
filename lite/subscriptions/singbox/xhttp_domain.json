@@ -97,9 +97,9 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [60]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
-                "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
@@ -120,9 +120,9 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [60]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
-                "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
@@ -259,6 +259,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [60]",
+            "type": "vless",
+            "server": "ips.rainoteam.store",
+            "server_port": 80,
+            "uuid": "6a45de8b-46e5-4da4-b242-3e18f3228087",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
             "type": "vless",
             "server": "alman.netblocksir.ir",
@@ -273,15 +282,6 @@
             "server": "speedtest.net",
             "server_port": 80,
             "uuid": "bf3c99e7-68b4-4bad-b110-ebaf2ecab772",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
-            "type": "vless",
-            "server": "ips.rainoteam.store",
-            "server_port": 80,
-            "uuid": "6a45de8b-46e5-4da4-b242-3e18f3228087",
             "flow": "",
             "packet_encoding": "xudp"
         },
