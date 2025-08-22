@@ -92,11 +92,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔒 VLESS | @config_proxy [53]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [53]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [18]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
-                "🇩🇪 DE | 🔒 VLESS | @freakconfig [13]",
                 "🇩🇪 DE | 🔒 VLESS | @free1_vpn [5]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -138,7 +137,7 @@
                 "🇷🇺 RU | 🔒 VLESS | @vipnetmeli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @vipnetmeli [3]",
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
-                "🇳🇱 NL | 🔒 VLESS | @vpn451 [9]",
+                "🇳🇱 NL | 🔒 VLESS | @vpn451 [10]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [11]",
                 "🇫🇮 FI | 🔒 VLESS | @vpn_ocean [1]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]"
@@ -152,11 +151,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔒 VLESS | @config_proxy [53]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [53]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [18]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
-                "🇩🇪 DE | 🔒 VLESS | @freakconfig [13]",
                 "🇩🇪 DE | 🔒 VLESS | @free1_vpn [5]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -198,7 +196,7 @@
                 "🇷🇺 RU | 🔒 VLESS | @vipnetmeli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @vipnetmeli [3]",
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
-                "🇳🇱 NL | 🔒 VLESS | @vpn451 [9]",
+                "🇳🇱 NL | 🔒 VLESS | @vpn451 [10]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [11]",
                 "🇫🇮 FI | 🔒 VLESS | @vpn_ocean [1]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]"
@@ -288,30 +286,26 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @config_proxy [53]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [53]",
             "type": "vless",
-            "server": "80.13.135.11",
-            "server_port": 57546,
-            "uuid": "4aae04fa-f390-44bb-9558-a344c8baed36",
+            "server": "103.175.79.2",
+            "server_port": 443,
+            "uuid": "8e6acce9-8b56-7190-d491-7d84f8189e26",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ratp.fr",
+                "server_name": "speed.cloudflare.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "random"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY",
-                    "short_id": "e9da"
+                    "public_key": "4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI",
+                    "short_id": ""
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "probrain-etl"
             }
         },
         {
@@ -385,33 +379,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "FOX_VPN66"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @freakconfig [13]",
-            "type": "vless",
-            "server": "91.98.69.20",
-            "server_port": 443,
-            "uuid": "5e648dc8-162e-487f-ca9f-664403eb84a4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "mabnatelecom.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "qOdLW9WHrl7u8j3DMubeZ3eP60yZM_pBBo0BQNaiw18",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config"
             }
         },
         {
@@ -1394,11 +1361,11 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpn451 [9]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpn451 [10]",
             "type": "vless",
             "server": "89.110.104.14",
             "server_port": 4434,
-            "uuid": "faca76fe-79d3-46d1-88b0-c34bf948e303",
+            "uuid": "ea0df280-e1df-45c8-bcca-f5765a8833a3",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -1419,14 +1386,14 @@
         {
             "tag": "🇳🇱 NL | 🔒 VLESS | @vpn451 [11]",
             "type": "vless",
-            "server": "89.110.104.14",
-            "server_port": 4434,
-            "uuid": "ea0df280-e1df-45c8-bcca-f5765a8833a3",
+            "server": "176.124.199.193",
+            "server_port": 8443,
+            "uuid": "56082965-4881-48fd-8c97-463ea76fd0a4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "teamdocs.su",
+                "server_name": "www.arbeitsagentur.de",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1434,8 +1401,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk",
-                    "short_id": "1ae2fd1e1ace9935"
+                    "public_key": "I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0",
+                    "short_id": "a4eed13ebbf2f9d2"
                 }
             }
         },
