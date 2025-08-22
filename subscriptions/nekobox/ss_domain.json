@@ -81,6 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [8]",
+                "🇺🇸 US | 🔒 SS | @fastfreeconfig [53]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
                 "🇦🇹 AT | 🔒 SS | @free1_vpn [3]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
@@ -105,8 +106,9 @@
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [14]",
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [5]",
                 "🇺🇸 US | 🔒 SS | @torang_vpn [4]",
-                "🇺🇸 US | 🔒 SS | @v2ray_free_conf [17]",
-                "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
+                "🇺🇸 US | 🔒 SS | @v2ray_free_conf [15]",
+                "🇬🇮 GI | 🔒 SS | @v2raych [17]",
+                "🇬🇮 GI | 🔒 SS | @v2raych [18]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [1]",
@@ -126,6 +128,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [8]",
+                "🇺🇸 US | 🔒 SS | @fastfreeconfig [53]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
                 "🇦🇹 AT | 🔒 SS | @free1_vpn [3]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
@@ -150,8 +153,9 @@
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [14]",
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [5]",
                 "🇺🇸 US | 🔒 SS | @torang_vpn [4]",
-                "🇺🇸 US | 🔒 SS | @v2ray_free_conf [17]",
-                "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
+                "🇺🇸 US | 🔒 SS | @v2ray_free_conf [15]",
+                "🇬🇮 GI | 🔒 SS | @v2raych [17]",
+                "🇬🇮 GI | 🔒 SS | @v2raych [18]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [1]",
@@ -256,6 +260,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "mps3FwmDjLrWaOVg"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @fastfreeconfig [53]",
+            "type": "shadowsocks",
+            "server": "series-a2-me.varzesh360.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Bog0ELmMM9DSxDdQ"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
@@ -450,7 +462,7 @@
             "password": "W74XFALLLuw6m5IA"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @v2ray_free_conf [17]",
+            "tag": "🇺🇸 US | 🔒 SS | @v2ray_free_conf [15]",
             "type": "shadowsocks",
             "server": "ltnl11.saint.ydns.eu",
             "server_port": 8080,
@@ -458,12 +470,20 @@
             "password": "cvII85TrW6n0OGyfpHVS1u"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
+            "tag": "🇬🇮 GI | 🔒 SS | @v2raych [17]",
             "type": "shadowsocks",
-            "server": "series-a2-me.varzesh360.co",
-            "server_port": 443,
+            "server": "imap.roomyinmita.name",
+            "server_port": 40565,
             "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ"
+            "password": "fgCrWkhB9yDkanLjB3qcAtJ1kF46TrEcWHPGq5US35x5D4RdQVJpwSzQcHHNwRwNgvr94PfYWw634f1J81u4GtWtHUsQ6NYR"
+        },
+        {
+            "tag": "🇬🇮 GI | 🔒 SS | @v2raych [18]",
+            "type": "shadowsocks",
+            "server": "imap.roomyinmita.name",
+            "server_port": 40565,
+            "method": "chacha20-ietf-poly1305",
+            "password": "15irSWJJbfLiFzN3qtGbWAQ9i15yJAuWp7Lhy8sAzsb38vaDjSbgZd2HGtaFHG3sS6FqzY658Ud3qdEi5LZhyboxeSLnXJks"
         },
         {
             "tag": "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
