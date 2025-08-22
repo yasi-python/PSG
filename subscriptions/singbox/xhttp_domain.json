@@ -93,6 +93,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🚩 CF | 🔒 VLESS | @config_proxy [53]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [61]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -113,8 +115,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [15]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
-                "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [20]",
-                "❔ XX | 🔓 VLESS | @fastfreeconfig [47]",
+                "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [22]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [16]",
@@ -138,10 +139,10 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raych [9]",
                 "🇩🇪 DE | 🔓 VLESS | @v2rayngrit [17]",
                 "🇩🇪 DE | 🔓 VLESS | @v2rayopen [7]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]",
+                "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -155,6 +156,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🚩 CF | 🔒 VLESS | @config_proxy [53]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [61]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -175,8 +178,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [15]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
-                "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [20]",
-                "❔ XX | 🔓 VLESS | @fastfreeconfig [47]",
+                "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [22]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [16]",
@@ -200,10 +202,10 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raych [9]",
                 "🇩🇪 DE | 🔓 VLESS | @v2rayngrit [17]",
                 "🇩🇪 DE | 🔓 VLESS | @v2rayopen [7]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]",
+                "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -299,6 +301,42 @@
             "uuid": "7fa08b3d-86d8-4b14-92b3-4c56a83f027d",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @config_proxy [53]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2096,
+            "uuid": "2369b350-f250-4263-bf8e-1f18363c62b7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "pars.stepson.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [61]",
+            "type": "vless",
+            "server": "sss75298.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "92b022a6-67f3-4406-840b-8fec2f4aace8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss75298.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
@@ -495,20 +533,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [20]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [22]",
             "type": "vless",
             "server": "EXPRESSVPN_420.fAst.hosting-ip.com",
             "server_port": 80,
             "uuid": "1f8626cd-5c2e-4887-b906-75396cde1423",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @fastfreeconfig [47]",
-            "type": "vless",
-            "server": "speedy.mooo.info",
-            "server_port": 80,
-            "uuid": "20e30ab6-1d53-4c47-b299-8a655e1ef18d",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -825,29 +854,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2raych [9]",
-            "type": "vless",
-            "server": "ert.rvn-cloud.ir",
-            "server_port": 2056,
-            "uuid": "44bf092c-65e8-4202-84e7-25d664c01793",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ftp.debian.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "rp48haVfSAhxdA646wr6ajolHQclG5BCz51mjlybiTc",
-                    "short_id": "7dcb7f2229496ca4"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayngrit [17]",
             "type": "vless",
             "server": "sss53988.tas-bazi.com",
@@ -900,6 +906,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
+            "type": "vless",
+            "server": "speedy.mooo.info",
+            "server_port": 80,
+            "uuid": "20e30ab6-1d53-4c47-b299-8a655e1ef18d",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
