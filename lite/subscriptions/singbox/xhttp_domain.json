@@ -97,7 +97,6 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
-                "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
@@ -121,7 +120,6 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
-                "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
@@ -259,24 +257,6 @@
             "uuid": "1f8626cd-5c2e-4887-b906-75396cde1423",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
-            "type": "vless",
-            "server": "cname.proxystore11.news",
-            "server_port": 8443,
-            "uuid": "d8be0f7f-1052-4d9d-990a-c563fe12ddc4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "prx11.proxystore11.news",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
