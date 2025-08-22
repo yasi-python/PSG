@@ -81,10 +81,9 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [8]",
-                "🇨🇦 CA | 🔒 SS | @fastfreeconfig [48]",
-                "❔ XX | 🔒 SS | @fastfreeconfig [52]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
                 "🇦🇹 AT | 🔒 SS | @free1_vpn [3]",
+                "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [15]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [17]",
                 "🇺🇸 US | 🔒 SS | @freevirgoolnet [5]",
@@ -94,6 +93,7 @@
                 "🇺🇸 US | 🔒 SS | @jeyksatan [8]",
                 "🇺🇸 US | 🔒 SS | @megavpn_link [5]",
                 "🇨🇳 CN | 🔒 SS | @mftizi [18]",
+                "❔ XX | 🔒 SS | @mr_vpn123 [2]",
                 "❔ XX | 🔒 SS | @mt_proxy [5]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [14]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [19]",
@@ -105,7 +105,8 @@
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [14]",
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [6]",
                 "🇺🇸 US | 🔒 SS | @torang_vpn [4]",
-                "🇯🇵 JP | 🔒 SS | @v2ray_free_conf [13]",
+                "🇯🇵 JP | 🔒 SS | @v2ray_free_conf [9]",
+                "🇬🇮 GI | 🔒 SS | @v2raych [20]",
                 "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
                 "🇩🇪 DE | 🔒 SS | @v2rayopen [4]",
@@ -126,10 +127,9 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [8]",
-                "🇨🇦 CA | 🔒 SS | @fastfreeconfig [48]",
-                "❔ XX | 🔒 SS | @fastfreeconfig [52]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
                 "🇦🇹 AT | 🔒 SS | @free1_vpn [3]",
+                "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [15]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [17]",
                 "🇺🇸 US | 🔒 SS | @freevirgoolnet [5]",
@@ -139,6 +139,7 @@
                 "🇺🇸 US | 🔒 SS | @jeyksatan [8]",
                 "🇺🇸 US | 🔒 SS | @megavpn_link [5]",
                 "🇨🇳 CN | 🔒 SS | @mftizi [18]",
+                "❔ XX | 🔒 SS | @mr_vpn123 [2]",
                 "❔ XX | 🔒 SS | @mt_proxy [5]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [14]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [19]",
@@ -150,7 +151,8 @@
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [14]",
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [6]",
                 "🇺🇸 US | 🔒 SS | @torang_vpn [4]",
-                "🇯🇵 JP | 🔒 SS | @v2ray_free_conf [13]",
+                "🇯🇵 JP | 🔒 SS | @v2ray_free_conf [9]",
+                "🇬🇮 GI | 🔒 SS | @v2raych [20]",
                 "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
                 "🇩🇪 DE | 🔒 SS | @v2rayopen [4]",
@@ -258,22 +260,6 @@
             "password": "mps3FwmDjLrWaOVg"
         },
         {
-            "tag": "🇨🇦 CA | 🔒 SS | @fastfreeconfig [48]",
-            "type": "shadowsocks",
-            "server": "delta.yangon.ca",
-            "server_port": 8443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "3qbOlPe0SbNGznFQmGt6FA"
-        },
-        {
-            "tag": "❔ XX | 🔒 SS | @fastfreeconfig [52]",
-            "type": "shadowsocks",
-            "server": "freakconfig123.usecharge.ir",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "W74XFALLLuw6m5IA"
-        },
-        {
             "tag": "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
             "type": "shadowsocks",
             "server": "admin.c4.webramz.co",
@@ -288,6 +274,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "9JeYy8SkViXuSHVs9GFeSe"
+        },
+        {
+            "tag": "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
+            "type": "shadowsocks",
+            "server": "delta.yangon.ca",
+            "server_port": 8443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "3qbOlPe0SbNGznFQmGt6FA"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @freeconfigsplus [15]",
@@ -360,6 +354,14 @@
             "server_port": 52611,
             "method": "chacha20-ietf-poly1305",
             "password": "2be0c954-4291-45ea-b47d-ca713180550b"
+        },
+        {
+            "tag": "❔ XX | 🔒 SS | @mr_vpn123 [2]",
+            "type": "shadowsocks",
+            "server": "freakconfig123.usecharge.ir",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "W74XFALLLuw6m5IA"
         },
         {
             "tag": "❔ XX | 🔒 SS | @mt_proxy [5]",
@@ -450,12 +452,20 @@
             "password": "W74XFALLLuw6m5IA"
         },
         {
-            "tag": "🇯🇵 JP | 🔒 SS | @v2ray_free_conf [13]",
+            "tag": "🇯🇵 JP | 🔒 SS | @v2ray_free_conf [9]",
             "type": "shadowsocks",
             "server": "sakura.outlinekeys.net",
             "server_port": 1235,
             "method": "chacha20-ietf-poly1305",
             "password": "EEsjQL0rXwQgJez3ASjoOq"
+        },
+        {
+            "tag": "🇬🇮 GI | 🔒 SS | @v2raych [20]",
+            "type": "shadowsocks",
+            "server": "imap.roomyinmita.name",
+            "server_port": 40565,
+            "method": "chacha20-ietf-poly1305",
+            "password": "MnEw5zo2ZhdS8Gy9fAMPfbhoguuv8biNYpoyHoNQLH2oZXWA4U4y6iNTYMexjaiBvQWv2N4b43gp9SVEG3nYvMf75p46K3He"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
