@@ -114,6 +114,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [24]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [16]",
@@ -128,10 +129,9 @@
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [8]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [9]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [8]",
-                "🚩 CF | 🔒 VLESS | @proxycrone [15]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [1]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [5]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [5]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -175,6 +175,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [24]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [16]",
@@ -189,10 +190,9 @@
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [8]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [9]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [8]",
-                "🚩 CF | 🔒 VLESS | @proxycrone [15]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [1]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [5]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [5]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -502,6 +502,24 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2053,
+            "uuid": "41ab5551-7bbc-48de-979a-70266022dbfd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ham.stepson.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
             "type": "vless",
             "server": "alman.netblocksir.ir",
@@ -692,24 +710,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @proxycrone [15]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2053,
-            "uuid": "41ab5551-7bbc-48de-979a-70266022dbfd",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ham.stepson.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
             "type": "vless",
             "server": "dl-04.saitsazs.ir",
@@ -742,7 +742,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [5]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [5]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
