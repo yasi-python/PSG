@@ -106,9 +106,9 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
             "vless",
             "ss",
+            "vmess",
             "trojan"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -364,8 +364,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
@@ -463,8 +463,8 @@
     },
     "free1ss": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "🍊Aperto Shadowsocks Outline Vless VPN 🍊",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free1ss.jpg"
@@ -1265,7 +1265,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1610,7 +1611,8 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2053,9 +2055,9 @@
     "v2ray_free_conf": {
         "types": [
             "vmess",
-            "trojan",
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2139,7 +2141,8 @@
     "v2rayfree": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2507,7 +2510,7 @@
         "types": [
             "vless"
         ],
-        "title": "فروش عمده فیلترشکن",
+        "title": "فروش ارزان فیلترشکن",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnv2raytop.jpg"
     },
     "vpnzamin": {
