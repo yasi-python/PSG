@@ -257,14 +257,6 @@
         "title": "📍Dargiri Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/dargiiriis.jpg"
     },
-    "darkfiilter": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "DarkFilter",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/darkfiilter.jpg"
-    },
     "deli_servers": {
         "types": [
             "vless"
@@ -347,10 +339,10 @@
     },
     "farahvpn": {
         "types": [
-            "vmess",
-            "ss",
             "vless",
-            "trojan"
+            "vmess",
+            "trojan",
+            "ss"
         ],
         "title": "FarahVPN | فراح وی پی ان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/farahvpn.jpg"
@@ -733,8 +725,8 @@
     "hope_net": {
         "types": [
             "vless",
-            "trojan",
             "ss",
+            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -1272,7 +1264,6 @@
     },
     "mowjproxy": {
         "types": [
-            "ss",
             "vmess"
         ],
         "title": "Mowj Proxy",
@@ -1814,7 +1805,8 @@
     "selinc": {
         "types": [
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "فیلترشکنV2rayng",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/selinc.jpg"
@@ -2059,9 +2051,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
             "ss",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2178,9 +2170,9 @@
     },
     "v2rayng_1378": {
         "types": [
-            "vless",
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "فیتلرشکن V2RAYNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_1378.jpg"

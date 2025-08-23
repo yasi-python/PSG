@@ -114,9 +114,9 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -1241,7 +1241,6 @@
     },
     "mowjproxy": {
         "types": [
-            "ss",
             "vmess"
         ],
         "title": "Mowj Proxy",
@@ -1780,7 +1779,8 @@
     "selinc": {
         "types": [
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "فیلترشکنV2rayng",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/selinc.jpg"
@@ -2098,7 +2098,8 @@
     "v2raych": {
         "types": [
             "vless",
-            "trojan"
+            "ss",
+            "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2152,9 +2153,9 @@
     },
     "v2rayng_1378": {
         "types": [
-            "vless",
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "فیتلرشکن V2RAYNG",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2rayng_1378.jpg"
@@ -2510,14 +2511,6 @@
         ],
         "title": "فیلترشکن رایگان - VPN FREE",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vpnfree85.jpg"
-    },
-    "vpnfree_irann": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "فیلتر شکن رایگان",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vpnfree_irann.jpg"
     },
     "vpnod": {
         "types": [
