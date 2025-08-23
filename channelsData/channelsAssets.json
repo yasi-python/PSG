@@ -122,9 +122,9 @@
     },
     "config_proxy": {
         "types": [
+            "vmess",
             "vless",
             "ss",
-            "vmess",
             "trojan"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -371,6 +371,7 @@
         "types": [
             "vless",
             "trojan",
+            "tuic",
             "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
@@ -1257,9 +1258,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1296,9 +1296,9 @@
     },
     "msv2flyng": {
         "types": [
-            "vmess",
             "ss",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Msv2flyNG",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/msv2flyng.jpg"
@@ -2057,9 +2057,9 @@
     },
     "v2ray_free_conf": {
         "types": [
+            "vmess",
             "ss",
             "trojan",
-            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2121,9 +2121,9 @@
     },
     "v2raych": {
         "types": [
+            "ss",
             "trojan",
             "vless",
-            "ss",
             "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -2442,15 +2442,6 @@
         "title": "Vless | Vmess | Trojan",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vlessconfig.jpg"
     },
-    "vmessiranproxy": {
-        "types": [
-            "vmess",
-            "ss",
-            "vless"
-        ],
-        "title": "vmess,trojan,vless",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vmessiranproxy.jpg"
-    },
     "vmesskhodam": {
         "types": [
             "vless"
@@ -2648,9 +2639,9 @@
     },
     "zerobaipiao": {
         "types": [
-            "vless",
             "vmess",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "免费节点 🏆【1小时前更新】",

@@ -81,7 +81,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [5]",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [43]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -142,7 +141,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @argo_vpn1 [5]",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [43]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -301,29 +299,6 @@
                     "enabled": true,
                     "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
                     "short_id": "61e683d41fdb"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @config_proxy [43]",
-            "type": "vless",
-            "server": "85.239.60.43",
-            "server_port": 8443,
-            "uuid": "c480c972-ef6f-49a6-9a40-8b55eb102ca4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "qJ_x7_Fz3M4QdnRG8WcqVNpgsHbwWgs_KrdCqr4iclE",
-                    "short_id": ""
                 }
             }
         },
