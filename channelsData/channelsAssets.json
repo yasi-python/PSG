@@ -369,8 +369,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
@@ -876,7 +876,6 @@
     "jiedianf": {
         "types": [
             "vmess",
-            "trojan",
             "ss",
             "vless"
         ],
@@ -895,7 +894,6 @@
     },
     "jiujied": {
         "types": [
-            "trojan",
             "ss",
             "vless"
         ],
@@ -1493,8 +1491,8 @@
     },
     "outline_ir": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -2121,10 +2119,9 @@
     },
     "v2raych": {
         "types": [
-            "ss",
-            "vless",
             "trojan",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2639,8 +2636,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss",
             "trojan"
         ],

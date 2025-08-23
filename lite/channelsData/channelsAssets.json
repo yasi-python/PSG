@@ -107,10 +107,10 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -737,8 +737,8 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "trojan",
             "ss"
         ],
@@ -939,7 +939,6 @@
     "jiedianf": {
         "types": [
             "vmess",
-            "trojan",
             "ss",
             "vless"
         ],
@@ -958,7 +957,6 @@
     },
     "jiujied": {
         "types": [
-            "trojan",
             "ss",
             "vless"
         ],
@@ -2394,8 +2392,8 @@
     },
     "vmesc": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "Free V2ray",
