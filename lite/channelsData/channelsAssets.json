@@ -108,7 +108,6 @@
     "config_proxy": {
         "types": [
             "vless",
-            "trojan",
             "ss",
             "vmess"
         ],
@@ -351,9 +350,9 @@
     "farahvpn": {
         "types": [
             "vless",
-            "vmess",
             "ss",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "FarahVPN | فراح وی پی ان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/farahvpn.jpg"
@@ -737,9 +736,9 @@
     "hope_net": {
         "types": [
             "vmess",
-            "ss",
             "trojan",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1293,8 +1292,8 @@
     },
     "mr_vpn123": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "کانفیگ رایگان | v2ray free |کانفینگ پرسرعت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mr_vpn123.jpg"
@@ -2072,10 +2071,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
-            "vmess",
             "ss",
-            "vless"
+            "vmess",
+            "vless",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"

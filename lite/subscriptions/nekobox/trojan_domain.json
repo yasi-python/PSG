@@ -81,7 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [59]",
+                "🇩🇪 DE | 🔓 TROJAN | @fastfreeconfig [59]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
@@ -98,7 +98,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [59]",
+                "🇩🇪 DE | 🔓 TROJAN | @fastfreeconfig [59]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
@@ -208,25 +208,18 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @fastfreeconfig [59]",
+            "tag": "🇩🇪 DE | 🔓 TROJAN | @fastfreeconfig [59]",
             "type": "trojan",
-            "server": "uae.artunnel57.host",
+            "server": "de1.test3.net",
             "server_port": 443,
-            "password": "dcc63659-8091-4afa-a598-af46ade91f94",
+            "password": "78f9bf50-bce8-11ee-8913-1239d0255272",
             "tls": {
                 "enabled": true,
-                "server_name": "uae.artunnel57.host",
+                "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/trojan-tls",
-                "headers": {
-                    "Host": "uae.artunnel57.host"
                 }
             }
         },
