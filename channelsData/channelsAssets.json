@@ -123,9 +123,9 @@
     "config_proxy": {
         "types": [
             "vless",
+            "trojan",
             "vmess",
-            "ss",
-            "trojan"
+            "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -453,7 +453,6 @@
     },
     "freakconfig": {
         "types": [
-            "vmess",
             "ss",
             "vless"
         ],
@@ -1253,7 +1252,6 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
             "vmess",
             "ss"
         ],
@@ -1622,7 +1620,7 @@
         "types": [
             "vless"
         ],
-        "title": "پروکسی VPN | کانفیگ V2ray",
+        "title": "نت آزاد | پروکسی + V2ray",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/proxycrone.jpg"
     },
     "proxyfn": {
@@ -2046,10 +2044,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "ss",
             "vmess",
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2626,8 +2624,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
