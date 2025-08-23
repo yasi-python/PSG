@@ -85,7 +85,6 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
-                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [56]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
@@ -117,7 +116,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayng_ip [12]"
+                "🇩🇪 DE | 🔒 VLESS | @v2rayng_ip [13]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -133,7 +132,6 @@
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
-                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [56]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [4]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
@@ -165,7 +163,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayng_ip [12]"
+                "🇩🇪 DE | 🔒 VLESS | @v2rayng_ip [13]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -297,15 +295,6 @@
             "server": "EVAY_VPN.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "1f8626cd-5c2e-4887-b906-75396cde1423",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [56]",
-            "type": "vless",
-            "server": "s5.1dnt.k-l.cloud",
-            "server_port": 80,
-            "uuid": "f353fbf3-b6a1-4524-b916-f65bc077511f",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -806,7 +795,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayng_ip [12]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayng_ip [13]",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
