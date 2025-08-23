@@ -122,9 +122,9 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
             "vless",
             "trojan",
+            "vmess",
             "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -371,8 +371,7 @@
         "types": [
             "vless",
             "trojan",
-            "ss",
-            "tuic"
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -454,9 +453,9 @@
     },
     "freakconfig": {
         "types": [
-            "vless",
             "ss",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "سرور کانفیگ کانفینگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/freakconfig.jpg"
@@ -717,10 +716,10 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
-            "ss",
             "vless",
-            "vmess"
+            "vmess",
+            "trojan",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1115,7 +1114,6 @@
     },
     "manzariyeh_rasht": {
         "types": [
-            "trojan",
             "vless",
             "ss"
         ],
@@ -1286,9 +1284,11 @@
     },
     "msv2flyng": {
         "types": [
-            "vmess",
             "ss",
-            "vless"
+            "vless",
+            "vmess",
+            "hy2",
+            "trojan"
         ],
         "title": "Msv2flyNG",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/msv2flyng.jpg"
@@ -1483,8 +1483,8 @@
     },
     "outline_ir": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -1605,7 +1605,6 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "ss",
             "vmess",
             "vless"
         ],
@@ -2048,8 +2047,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "vless",
+            "trojan",
             "vmess",
             "ss"
         ],
@@ -2112,7 +2111,6 @@
     },
     "v2raych": {
         "types": [
-            "ss",
             "vless",
             "trojan",
             "vmess"
@@ -2136,7 +2134,6 @@
     },
     "v2rayfree": {
         "types": [
-            "ss",
             "vmess",
             "vless"
         ],
@@ -2631,8 +2628,8 @@
     "zerobaipiao": {
         "types": [
             "vmess",
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/zerobaipiao.jpg"
