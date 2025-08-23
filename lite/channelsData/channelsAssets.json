@@ -107,8 +107,8 @@
     },
     "config_proxy": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss",
             "trojan"
         ],
@@ -351,8 +351,8 @@
     "farahvpn": {
         "types": [
             "vless",
-            "ss",
             "vmess",
+            "ss",
             "trojan"
         ],
         "title": "FarahVPN | فراح وی پی ان",
@@ -375,8 +375,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
-            "tuic"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -458,8 +458,8 @@
     },
     "freakconfig": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "سرور کانفیگ کانفینگ رایگان",
@@ -737,9 +737,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "vmess",
             "vless",
+            "trojan",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1279,7 +1279,9 @@
     },
     "mowjproxy": {
         "types": [
-            "vless"
+            "vless",
+            "ss",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1498,8 +1500,8 @@
     },
     "outline_ir": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -2072,10 +2074,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
-            "trojan",
-            "vless"
+            "ss",
+            "vless",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
