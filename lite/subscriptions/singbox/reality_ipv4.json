@@ -92,9 +92,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [34]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [36]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [37]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
+                "🇬🇧 GB | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [12]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -152,9 +154,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [34]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [36]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [37]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
+                "🇬🇧 GB | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [12]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -288,9 +292,9 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @config_proxy [34]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [36]",
             "type": "vless",
-            "server": "85.239.60.43",
+            "server": "95.164.68.37",
             "server_port": 8443,
             "uuid": "b466707d-ca06-4e0c-90e2-7ddb1f11c2ef",
             "flow": "xtls-rprx-vision",
@@ -305,8 +309,31 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "qJ_x7_Fz3M4QdnRG8WcqVNpgsHbwWgs_KrdCqr4iclE",
+                    "public_key": "WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [37]",
+            "type": "vless",
+            "server": "188.245.67.23",
+            "server_port": 38016,
+            "uuid": "3752c5ab-82b2-4248-aed6-8df8ec7f1dbd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "business.stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "3TrvJr0BfbCPdv-e4LZcUBotYcuifQZH3YER8FIZcS4",
+                    "short_id": "f7e6c039"
                 }
             }
         },
@@ -353,6 +380,29 @@
                     "enabled": true,
                     "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
                     "short_id": "61e683d41fdb"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @fastfreeconfig [58]",
+            "type": "vless",
+            "server": "51.195.169.100",
+            "server_port": 443,
+            "uuid": "e2c3e5b6-ef09-4649-bd32-b0f448a073e3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8",
+                    "short_id": "01417ce2"
                 }
             }
         },

@@ -83,8 +83,7 @@
                 "❔ XX | 🔓 VMESS | @armodchannel [62]",
                 "❔ XX | 🔓 VMESS | @armodchannel [63]",
                 "🇺🇸 US | 🔒 VMESS | @bypass_filter [1]",
-                "🇺🇸 US | 🔓 VMESS | @config_proxy [33]",
-                "🇸🇬 SG | 🔓 VMESS | @config_proxy [35]",
+                "❔ XX | 🔓 VMESS | @config_proxy [38]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -94,7 +93,6 @@
                 "🇩🇪 DE | 🔓 VMESS | @dailyv2ray [30]",
                 "❔ XX | 🔓 VMESS | @dailyv2ray [31]",
                 "🇺🇸 US | 🔓 VMESS | @diamondproxytm [3]",
-                "🇨🇿 CZ | 🔓 VMESS | @drvpn_net [1]",
                 "🇺🇸 US | 🔒 VMESS | @fnet00 [3]",
                 "🇨🇦 CA | 🔓 VMESS | @free4allvpn [13]",
                 "🇺🇸 US | 🔓 VMESS | @free4allvpn [14]",
@@ -158,7 +156,7 @@
                 "🚩 CF | 🔒 VMESS | @v2ray4win [6]",
                 "❔ XX | 🔒 VMESS | @v2ray4win [7]",
                 "🇩🇪 DE | 🔓 VMESS | @v2ray4win [8]",
-                "🇨🇳 CN | 🔓 VMESS | @v2ray_free_conf [17]",
+                "🇩🇪 DE | 🔒 VMESS | @v2ray_free_conf [17]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
@@ -193,8 +191,7 @@
                 "❔ XX | 🔓 VMESS | @armodchannel [62]",
                 "❔ XX | 🔓 VMESS | @armodchannel [63]",
                 "🇺🇸 US | 🔒 VMESS | @bypass_filter [1]",
-                "🇺🇸 US | 🔓 VMESS | @config_proxy [33]",
-                "🇸🇬 SG | 🔓 VMESS | @config_proxy [35]",
+                "❔ XX | 🔓 VMESS | @config_proxy [38]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -204,7 +201,6 @@
                 "🇩🇪 DE | 🔓 VMESS | @dailyv2ray [30]",
                 "❔ XX | 🔓 VMESS | @dailyv2ray [31]",
                 "🇺🇸 US | 🔓 VMESS | @diamondproxytm [3]",
-                "🇨🇿 CZ | 🔓 VMESS | @drvpn_net [1]",
                 "🇺🇸 US | 🔒 VMESS | @fnet00 [3]",
                 "🇨🇦 CA | 🔓 VMESS | @free4allvpn [13]",
                 "🇺🇸 US | 🔓 VMESS | @free4allvpn [14]",
@@ -268,7 +264,7 @@
                 "🚩 CF | 🔒 VMESS | @v2ray4win [6]",
                 "❔ XX | 🔒 VMESS | @v2ray4win [7]",
                 "🇩🇪 DE | 🔓 VMESS | @v2ray4win [8]",
-                "🇨🇳 CN | 🔓 VMESS | @v2ray_free_conf [17]",
+                "🇩🇪 DE | 🔒 VMESS | @v2ray_free_conf [17]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
@@ -446,36 +442,11 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @config_proxy [33]",
+            "tag": "❔ XX | 🔓 VMESS | @config_proxy [38]",
             "type": "vmess",
-            "server": "205.233.181.3",
-            "server_port": 443,
-            "uuid": "de94cc0a-0592-4969-b1fc-97ea8f0ea0b3",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "205.233.181.3",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/us.kkp.me.eu.org/aa",
-                "headers": {
-                    "Host": "205.233.181.3"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬 SG | 🔓 VMESS | @config_proxy [35]",
-            "type": "vmess",
-            "server": "r1.xinyo.me",
-            "server_port": 40201,
-            "uuid": "41386ba6-b0fe-4070-be67-a6384cf6beb5",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "cacaabb-baac-aabc-abcd-acbabcababcc",
             "security": "auto",
             "alter_id": 0
         },
@@ -621,24 +592,6 @@
             "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
             "alter_id": 64
-        },
-        {
-            "tag": "🇨🇿 CZ | 🔓 VMESS | @drvpn_net [1]",
-            "type": "vmess",
-            "server": "62.233.57.38",
-            "server_port": 443,
-            "uuid": "c66d1c03-ef5e-4994-a7a4-d41855867f13",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔒 VMESS | @fnet00 [3]",
@@ -1611,18 +1564,27 @@
             "alter_id": 0
         },
         {
-            "tag": "🇨🇳 CN | 🔓 VMESS | @v2ray_free_conf [17]",
+            "tag": "🇩🇪 DE | 🔒 VMESS | @v2ray_free_conf [17]",
             "type": "vmess",
-            "server": "v9.heduian.link",
-            "server_port": 30809,
-            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+            "server": "57.129.28.65",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
-            "alter_id": 2,
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "kapelleng.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/oooo",
+                "path": "/linkvws",
                 "headers": {
-                    "Host": ""
+                    "Host": "kapelleng.com"
                 }
             }
         },
