@@ -331,8 +331,8 @@
     },
     "farahvpn": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "FarahVPN | فراح وی پی ان",
@@ -714,10 +714,10 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "ss",
             "vmess",
-            "trojan"
+            "trojan",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1254,7 +1254,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1459,8 +1460,8 @@
     },
     "orange_vpns": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "V2ray سرور و کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/orange_vpns.jpg"
@@ -1599,8 +1600,8 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vless",
-            "vmess",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -1678,8 +1679,8 @@
     "prrofile_purple": {
         "types": [
             "vless",
-            "vmess",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "سرور - V2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/prrofile_purple.jpg"
@@ -2042,9 +2043,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "vmess",
             "ss",
+            "trojan",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2129,8 +2130,8 @@
     "v2rayfree": {
         "types": [
             "vless",
-            "vmess",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"

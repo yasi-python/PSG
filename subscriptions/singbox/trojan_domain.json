@@ -98,14 +98,13 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [45]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [50]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [3]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [1]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [4]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
+                "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
                 "❔ XX | 🔒 TROJAN | @public504 [4]",
                 "🇸🇪 SE | 🔒 TROJAN | @sobyv2ray [3]",
@@ -114,10 +113,12 @@
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
                 "🚩 CF | 🔒 TROJAN | @v2aryng_vpn [9]",
+                "🇬🇧 GB | 🔒 TROJAN | @v2raych [20]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [37]",
+                "❔ XX | 🔒 TROJAN | @v2rayngconfig [38]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [39]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [40]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [41]",
@@ -141,14 +142,13 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [45]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [50]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [3]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [1]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [4]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
+                "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
                 "❔ XX | 🔒 TROJAN | @public504 [4]",
                 "🇸🇪 SE | 🔒 TROJAN | @sobyv2ray [3]",
@@ -157,10 +157,12 @@
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
                 "🚩 CF | 🔒 TROJAN | @v2aryng_vpn [9]",
+                "🇬🇧 GB | 🔒 TROJAN | @v2raych [20]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [37]",
+                "❔ XX | 🔒 TROJAN | @v2rayngconfig [38]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [39]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [40]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [41]",
@@ -360,45 +362,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @fastfreeconfig [45]",
-            "type": "trojan",
-            "server": "maradona_vpn10.history-paint.art",
-            "server_port": 443,
-            "password": "maradona_vpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "teo.history-paint.art",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/wss24142?ed=2048",
-                "headers": {
-                    "Host": "teo.history-paint.art"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @fastfreeconfig [50]",
-            "type": "trojan",
-            "server": "stonebreak.online",
-            "server_port": 443,
-            "password": "xl87654321",
-            "tls": {
-                "enabled": true,
-                "server_name": "stonebreak.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
             "type": "trojan",
             "server": "us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen",
@@ -484,6 +447,29 @@
             "tag": "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
             "type": "trojan",
             "server": "maradona_vpn14.history-paint.art",
+            "server_port": 443,
+            "password": "maradona_vpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "teo.history-paint.art",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/wss24142?ed=2048",
+                "headers": {
+                    "Host": "teo.history-paint.art"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
+            "type": "trojan",
+            "server": "maradona_vpn10.history-paint.art",
             "server_port": 443,
             "password": "maradona_vpn",
             "tls": {
@@ -661,6 +647,22 @@
             }
         },
         {
+            "tag": "🇬🇧 GB | 🔒 TROJAN | @v2raych [20]",
+            "type": "trojan",
+            "server": "uk-03.allhubb.info",
+            "server_port": 8443,
+            "password": "1ce1df7962f71c6f",
+            "tls": {
+                "enabled": true,
+                "server_name": "uk-03.allhubb.info",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
             "type": "trojan",
             "server": "phxv002.jd0001.top",
@@ -717,6 +719,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "us2.trojanvh.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [38]",
+            "type": "trojan",
+            "server": "stonebreak.online",
+            "server_port": 443,
+            "password": "xl87654321",
+            "tls": {
+                "enabled": true,
+                "server_name": "stonebreak.online",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
