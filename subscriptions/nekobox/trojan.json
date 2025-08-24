@@ -101,7 +101,6 @@
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
                 "🚩 CF | 🔒 TROJAN | @v2aryng_vpn [9]",
-                "🇬🇧 GB | 🔒 TROJAN | @v2raych [20]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
@@ -151,7 +150,7 @@
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [2]",
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [3]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🇺🇸 US | 🔒 TROJAN | @netfreedom0 [14]",
+                "🇺🇸 US | 🔒 TROJAN | @netfreedom0 [13]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [1]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [2]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [3]",
@@ -222,7 +221,6 @@
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
                 "🚩 CF | 🔒 TROJAN | @v2aryng_vpn [9]",
-                "🇬🇧 GB | 🔒 TROJAN | @v2raych [20]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
@@ -272,7 +270,7 @@
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [2]",
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [3]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🇺🇸 US | 🔒 TROJAN | @netfreedom0 [14]",
+                "🇺🇸 US | 🔒 TROJAN | @netfreedom0 [13]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [1]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [2]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [3]",
@@ -789,22 +787,6 @@
                 "path": "/trfrcjlzXxwTT5XGKk/NDQuMjI0LjI0LjkxLDE4LjE4My4xNTguMjEx?ed=2560",
                 "headers": {
                     "Host": "SCHQqN0Yhrrs34qn3a2K4i6g9XAp1tPh.PaGEs.dEv"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 TROJAN | @v2raych [20]",
-            "type": "trojan",
-            "server": "uk-03.allhubb.info",
-            "server_port": 8443,
-            "password": "1ce1df7962f71c6f",
-            "tls": {
-                "enabled": true,
-                "server_name": "uk-03.allhubb.info",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
@@ -1650,7 +1632,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 TROJAN | @netfreedom0 [14]",
+            "tag": "🇺🇸 US | 🔒 TROJAN | @netfreedom0 [13]",
             "type": "trojan",
             "server": "192.3.107.252",
             "server_port": 443,

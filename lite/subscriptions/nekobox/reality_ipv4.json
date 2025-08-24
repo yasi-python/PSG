@@ -104,7 +104,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [11]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇸🇬 SG | 🔒 VLESS | @proxycrone [11]",
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [13]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
@@ -128,7 +127,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [10]",
                 "🇺🇸 US | 🔒 VLESS | @vpn_ioss [16]",
                 "🇫🇮 FI | 🔒 VLESS | @vpn_ocean [1]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [18]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]"
             ],
             "tag": "proxy",
@@ -164,7 +162,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [11]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇸🇬 SG | 🔒 VLESS | @proxycrone [11]",
                 "🇳🇱 NL | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [13]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
@@ -188,7 +185,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [10]",
                 "🇺🇸 US | 🔒 VLESS | @vpn_ioss [16]",
                 "🇫🇮 FI | 🔒 VLESS | @vpn_ocean [1]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [18]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]"
             ],
             "tag": "auto",
@@ -856,29 +852,6 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @proxycrone [11]",
-            "type": "vless",
-            "server": "91.242.241.45",
-            "server_port": 8443,
-            "uuid": "bdb50d95-fcd3-451c-9473-466b4529af2c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "🇳🇱 NL | 🔒 VLESS | @proxycrone [12]",
             "type": "vless",
             "server": "80.74.29.212",
@@ -1420,29 +1393,6 @@
                     "enabled": true,
                     "public_key": "RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU",
                     "short_id": "ec01ceda"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [18]",
-            "type": "vless",
-            "server": "193.233.19.17",
-            "server_port": 2053,
-            "uuid": "d6873a1d-38bf-430d-a701-a874b9be3982",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "liDJBs0Z831sti-z1AqSshl-QKcJqjxLAdADy1uXvzg",
-                    "short_id": "96c58a92f1dd5eaa"
                 }
             }
         },

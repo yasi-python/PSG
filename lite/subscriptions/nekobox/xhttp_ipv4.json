@@ -85,7 +85,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
-                "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [9]",
+                "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [8]",
                 "🇩🇪 DE | 🔓 VLESS | @info_2it_channel [3]",
                 "🇩🇪 DE | 🔓 VLESS | @kingofilter [2]",
                 "🇩🇪 DE | 🔓 VLESS | @lranonline_new [3]",
@@ -103,8 +103,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
-                "🇳🇱 NL | 🔒 VLESS | @vaynora [5]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [18]"
+                "🇳🇱 NL | 🔒 VLESS | @vaynora [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -120,7 +119,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
-                "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [9]",
+                "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [8]",
                 "🇩🇪 DE | 🔓 VLESS | @info_2it_channel [3]",
                 "🇩🇪 DE | 🔓 VLESS | @kingofilter [2]",
                 "🇩🇪 DE | 🔓 VLESS | @lranonline_new [3]",
@@ -138,8 +137,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
-                "🇳🇱 NL | 🔒 VLESS | @vaynora [5]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [18]"
+                "🇳🇱 NL | 🔒 VLESS | @vaynora [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -326,7 +324,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [9]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [8]",
             "type": "vless",
             "server": "91.99.126.93",
             "server_port": 8443,
@@ -623,29 +621,6 @@
         },
         {
             "tag": "🇳🇱 NL | 🔒 VLESS | @vaynora [5]",
-            "type": "vless",
-            "server": "193.233.19.17",
-            "server_port": 2053,
-            "uuid": "d6873a1d-38bf-430d-a701-a874b9be3982",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "liDJBs0Z831sti-z1AqSshl-QKcJqjxLAdADy1uXvzg",
-                    "short_id": "96c58a92f1dd5eaa"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [18]",
             "type": "vless",
             "server": "193.233.19.17",
             "server_port": 2053,
