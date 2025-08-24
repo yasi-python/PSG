@@ -94,7 +94,6 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [8]",
                 "❔ XX | 🔒 SS | @argo_vpn1 [1]",
-                "🇺🇸 US | 🔒 SS | @fastfreeconfig [52]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [13]",
@@ -120,6 +119,7 @@
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [1]",
+                "🇺🇸 US | 🔒 SS | @vpn451 [2]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [4]",
                 "🇺🇸 US | 🔒 SS | @vpn451 [7]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [10]"
@@ -135,7 +135,6 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [8]",
                 "❔ XX | 🔒 SS | @argo_vpn1 [1]",
-                "🇺🇸 US | 🔒 SS | @fastfreeconfig [52]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [13]",
@@ -161,6 +160,7 @@
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [1]",
+                "🇺🇸 US | 🔒 SS | @vpn451 [2]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [4]",
                 "🇺🇸 US | 🔒 SS | @vpn451 [7]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [10]"
@@ -264,14 +264,6 @@
             "server_port": 8443,
             "method": "chacha20-ietf-poly1305",
             "password": "xxns1opiKzbq8FqrdcMW5s"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @fastfreeconfig [52]",
-            "type": "shadowsocks",
-            "server": "fox-usa.outlinekeys.net",
-            "server_port": 34868,
-            "method": "chacha20-ietf-poly1305",
-            "password": "XKLmHOk65sn51erAFEBDuJ"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
@@ -472,6 +464,14 @@
             "server_port": 19609,
             "method": "chacha20-ietf-poly1305",
             "password": "UKvyixKRdTSw28Qp87keER"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @vpn451 [2]",
+            "type": "shadowsocks",
+            "server": "fox-usa.outlinekeys.net",
+            "server_port": 34868,
+            "method": "chacha20-ietf-poly1305",
+            "password": "XKLmHOk65sn51erAFEBDuJ"
         },
         {
             "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [4]",

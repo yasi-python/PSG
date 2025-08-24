@@ -93,6 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [57]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -142,7 +143,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
-                "🇳🇱 NL | 🔒 VLESS | @dalton_ping [6]",
+                "🇳🇱 NL | 🔒 VLESS | @dalton_ping [5]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
                 "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
@@ -194,8 +195,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnod [4]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [5]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]"
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -207,6 +207,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [57]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -256,7 +257,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
-                "🇳🇱 NL | 🔒 VLESS | @dalton_ping [6]",
+                "🇳🇱 NL | 🔒 VLESS | @dalton_ping [5]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [31]",
                 "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
@@ -308,8 +309,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnod [4]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [5]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]"
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -401,6 +401,15 @@
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "7fa08b3d-86d8-4b14-92b3-4c56a83f027d",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [57]",
+            "type": "vless",
+            "server": "compare99.com",
+            "server_port": 80,
+            "uuid": "d3d6247d-5c74-408f-8638-995b8c43169f",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -1019,7 +1028,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @dalton_ping [6]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @dalton_ping [5]",
             "type": "vless",
             "server": "193.233.19.17",
             "server_port": 2053,
@@ -1904,16 +1913,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "91.99.181.47",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "142.93.190.166",
             "server_port": 2053,
