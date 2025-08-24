@@ -82,8 +82,7 @@
                 "KingRezaPahlavi",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
-                "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [58]",
-                "🇹🇷 TR | 🔒 VLESS | @freakconfig [13]",
+                "🇹🇷 TR | 🔒 VLESS | @freakconfig [12]",
                 "🇦🇹 AT | 🔒 VLESS | @freeconfigsplus [18]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -92,7 +91,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
-                "🇩🇪 DE | 🔒 VLESS | @hope_net [19]",
                 "🇩🇪 DE | 🔒 VLESS | @info_2it_channel [5]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇺🇸 US | 🔒 VLESS | @iran_mehr_vpn [11]",
@@ -143,8 +141,7 @@
                 "KingRezaPahlavi",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
-                "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [58]",
-                "🇹🇷 TR | 🔒 VLESS | @freakconfig [13]",
+                "🇹🇷 TR | 🔒 VLESS | @freakconfig [12]",
                 "🇦🇹 AT | 🔒 VLESS | @freeconfigsplus [18]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -153,7 +150,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
-                "🇩🇪 DE | 🔒 VLESS | @hope_net [19]",
                 "🇩🇪 DE | 🔒 VLESS | @info_2it_channel [5]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇺🇸 US | 🔒 VLESS | @iran_mehr_vpn [11]",
@@ -328,30 +324,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @fastfreeconfig [58]",
-            "type": "vless",
-            "server": "89.110.104.14",
-            "server_port": 4434,
-            "uuid": "faca76fe-79d3-46d1-88b0-c34bf948e303",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "teamdocs.su",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk",
-                    "short_id": "1ae2fd1e1ace9935"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @freakconfig [13]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @freakconfig [12]",
             "type": "vless",
             "server": "45.12.143.191",
             "server_port": 20329,
@@ -566,29 +539,6 @@
                     "enabled": true,
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @hope_net [19]",
-            "type": "vless",
-            "server": "188.245.67.23",
-            "server_port": 38016,
-            "uuid": "7f680180-3ed7-415d-af90-2095cbe94362",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "business.stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3TrvJr0BfbCPdv-e4LZcUBotYcuifQZH3YER8FIZcS4",
-                    "short_id": "f7e6c039"
                 }
             }
         },
