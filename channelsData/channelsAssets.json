@@ -352,8 +352,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "trojan",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -1232,8 +1232,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1460,8 +1460,8 @@
     },
     "outline_ir": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -2024,8 +2024,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "vless",
             "trojan"
         ],
@@ -2088,10 +2088,9 @@
     },
     "v2raych": {
         "types": [
-            "ss",
-            "trojan",
             "vless",
-            "vmess"
+            "trojan",
+            "ss"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2588,9 +2587,9 @@
     },
     "zerobaipiao": {
         "types": [
-            "ss",
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/zerobaipiao.jpg"
