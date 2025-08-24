@@ -102,7 +102,7 @@
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [18]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+                "🇨🇳 CN | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇭🇰 HK | 🔒 TROJAN | @msv2flyng [11]",
@@ -114,7 +114,7 @@
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [17]",
-                "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [18]",
+                "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [18]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [19]"
             ],
             "tag": "proxy",
@@ -136,7 +136,7 @@
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [18]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+                "🇨🇳 CN | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇭🇰 HK | 🔒 TROJAN | @msv2flyng [11]",
@@ -148,7 +148,7 @@
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [17]",
-                "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [18]",
+                "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [18]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [19]"
             ],
             "tag": "auto",
@@ -405,12 +405,12 @@
         {
             "tag": "🚩 CF | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
-            "server": "141.101.120.10",
+            "server": "104.17.58.219",
             "server_port": 443,
-            "password": "4b040268-f3a5-4136-b1a9-506012e8e3d9",
+            "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "ssp2.100896.xyz",
+                "server_name": "104.17.58.219",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -419,14 +419,14 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+            "tag": "🇨🇳 CN | 🔓 TROJAN | @hope_net [20]",
             "type": "trojan",
-            "server": "104.17.58.219",
+            "server": "42.236.73.72",
             "server_port": 443,
-            "password": "NISHIKUITAN222",
+            "password": "fuck",
             "tls": {
                 "enabled": true,
-                "server_name": "104.17.58.219",
+                "server_name": "www.zitian.cn",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -597,7 +597,7 @@
         {
             "tag": "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [17]",
             "type": "trojan",
-            "server": "3.71.171.209",
+            "server": "3.66.251.142",
             "server_port": 22223,
             "password": "telegram-id-v2rayvpnchannel",
             "tls": {
@@ -611,9 +611,9 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [18]",
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [18]",
             "type": "trojan",
-            "server": "3.66.251.142",
+            "server": "13.39.41.40",
             "server_port": 22223,
             "password": "telegram-id-v2rayvpnchannel",
             "tls": {
@@ -629,7 +629,7 @@
         {
             "tag": "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [19]",
             "type": "trojan",
-            "server": "13.39.41.40",
+            "server": "35.181.143.110",
             "server_port": 22223,
             "password": "telegram-id-v2rayvpnchannel",
             "tls": {
