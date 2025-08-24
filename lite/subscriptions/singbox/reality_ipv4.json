@@ -94,7 +94,8 @@
                 "KingRezaPahlavi",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
-                "🇳🇱 NL | 🔒 VLESS | @freakconfig [14]",
+                "🇳🇱 NL | 🔒 VLESS | @freakconfig [13]",
+                "🇹🇷 TR | 🔒 VLESS | @freakconfig [14]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -102,6 +103,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
+                "🇩🇪 DE | 🔒 VLESS | @info_2it_channel [5]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇺🇸 US | 🔒 VLESS | @iran_mehr_vpn [11]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
@@ -152,7 +154,8 @@
                 "KingRezaPahlavi",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
-                "🇳🇱 NL | 🔒 VLESS | @freakconfig [14]",
+                "🇳🇱 NL | 🔒 VLESS | @freakconfig [13]",
+                "🇹🇷 TR | 🔒 VLESS | @freakconfig [14]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -160,6 +163,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
+                "🇩🇪 DE | 🔒 VLESS | @info_2it_channel [5]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇺🇸 US | 🔒 VLESS | @iran_mehr_vpn [11]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
@@ -330,7 +334,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @freakconfig [14]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @freakconfig [13]",
             "type": "vless",
             "server": "31.169.124.240",
             "server_port": 34045,
@@ -349,6 +353,29 @@
                     "enabled": true,
                     "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
                     "short_id": "e8ab71d0"
+                }
+            }
+        },
+        {
+            "tag": "🇹🇷 TR | 🔒 VLESS | @freakconfig [14]",
+            "type": "vless",
+            "server": "45.12.143.191",
+            "server_port": 20329,
+            "uuid": "e105e56a-5f81-41a2-ab44-bfffc9b00674",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo",
+                    "short_id": "4602ee9f9f36"
                 }
             }
         },
@@ -522,6 +549,29 @@
                     "enabled": true,
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @info_2it_channel [5]",
+            "type": "vless",
+            "server": "91.107.147.144",
+            "server_port": 443,
+            "uuid": "1b341a1d-aa59-43a0-9800-09537110f664",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "VmeqUAFd3DaIfRoft8vuZSP2ZVTsuvG5HquKiIGE2Bs",
+                    "short_id": "a9"
                 }
             }
         },

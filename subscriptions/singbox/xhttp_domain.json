@@ -93,7 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [42]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -153,7 +153,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [42]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -297,22 +297,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [42]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
             "type": "vless",
-            "server": "sss81493.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "94ccd7a6-d1f0-414c-8add-eaa4d0b68770",
+            "server": "CONFiGLiNE.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-CONFiGLiNE",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss81493.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
