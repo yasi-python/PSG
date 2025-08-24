@@ -340,8 +340,8 @@
     },
     "farahvpn": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "trojan",
             "ss"
         ],
@@ -365,7 +365,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -724,10 +725,10 @@
     },
     "hope_net": {
         "types": [
-            "ss",
-            "vless",
             "vmess",
-            "trojan"
+            "trojan",
+            "ss",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -2052,10 +2053,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
-            "trojan",
             "ss",
-            "vless"
+            "trojan",
+            "vless",
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"

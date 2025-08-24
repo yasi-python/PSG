@@ -133,7 +133,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [32]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [10]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [59]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🚩 CF | 🔓 VLESS | @filterk0sh [14]",
@@ -283,9 +283,9 @@
                 "🚩 CF | 🔓 VLESS | @proxy_mtproto_vpns_free [16]",
                 "🚩 CF | 🔓 VLESS | @proxy_v2box [13]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [12]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [13]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [12]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [13]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
@@ -293,7 +293,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
+                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -430,7 +430,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [32]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [10]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [59]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🚩 CF | 🔓 VLESS | @filterk0sh [14]",
@@ -580,9 +580,9 @@
                 "🚩 CF | 🔓 VLESS | @proxy_mtproto_vpns_free [16]",
                 "🚩 CF | 🔓 VLESS | @proxy_v2box [13]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [12]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [13]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [12]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [13]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
@@ -590,7 +590,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
+                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -1453,20 +1453,13 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @fastfreeconfig [59]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
             "type": "vless",
-            "server": "fearless-change.oneeat.co",
+            "server": "speedtest.net",
             "server_port": 80,
-            "uuid": "b055036a-2d81-4d46-ab18-4e1898b58cec",
+            "uuid": "1f8626cd-5c2e-4887-b906-75396cde1423",
             "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "fearless-change.oneeat.co"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
@@ -4027,7 +4020,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 2087,
@@ -4052,7 +4045,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [12]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [12]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 2087,
@@ -4077,7 +4070,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [13]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [13]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 2087,
@@ -4228,7 +4221,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
