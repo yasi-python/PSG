@@ -96,6 +96,8 @@
                 "🇺🇸 US | 🔒 VLESS | @ai_duet [4]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [5]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [7]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [38]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [40]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -112,7 +114,6 @@
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @evay_vpn [16]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [18]",
-                "🇫🇮 FI | 🔒 VLESS | @fastfreeconfig [51]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [6]",
                 "🇳🇱 NL | 🔒 VLESS | @freakconfig [3]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [4]",
@@ -243,6 +244,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [7]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [10]",
+                "🇫🇮 FI | 🔒 VLESS | @vpn_ocean [1]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [2]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [3]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [5]",
@@ -266,6 +268,8 @@
                 "🇺🇸 US | 🔒 VLESS | @ai_duet [4]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [5]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [7]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [38]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [40]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -282,7 +286,6 @@
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @evay_vpn [16]",
                 "🇳🇱 NL | 🔒 VLESS | @evay_vpn [18]",
-                "🇫🇮 FI | 🔒 VLESS | @fastfreeconfig [51]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [6]",
                 "🇳🇱 NL | 🔒 VLESS | @freakconfig [3]",
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [4]",
@@ -413,6 +416,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [7]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [10]",
+                "🇫🇮 FI | 🔒 VLESS | @vpn_ocean [1]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [2]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [3]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [5]",
@@ -605,6 +609,52 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [38]",
+            "type": "vless",
+            "server": "3.19.32.255",
+            "server_port": 4433,
+            "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0",
+                    "short_id": "f785b38130e64177"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [40]",
+            "type": "vless",
+            "server": "80.74.29.212",
+            "server_port": 8443,
+            "uuid": "8f06fa1c-f78b-4432-8f88-4ec975d0b081",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA",
+                    "short_id": ""
+                }
             }
         },
         {
@@ -1008,29 +1058,6 @@
                     "enabled": true,
                     "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
                     "short_id": "e8ab71d0"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @fastfreeconfig [51]",
-            "type": "vless",
-            "server": "65.109.192.110",
-            "server_port": 55953,
-            "uuid": "b5ee8f67-0f25-467b-aca4-01001f00d802",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU",
-                    "short_id": "ec01ceda"
                 }
             }
         },
@@ -4149,6 +4176,29 @@
                     "enabled": true,
                     "public_key": "I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0",
                     "short_id": "a4eed13ebbf2f9d2"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpn_ocean [1]",
+            "type": "vless",
+            "server": "65.109.192.110",
+            "server_port": 55953,
+            "uuid": "b5ee8f67-0f25-467b-aca4-01001f00d802",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU",
+                    "short_id": "ec01ceda"
                 }
             }
         },
