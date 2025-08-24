@@ -112,7 +112,7 @@
                 "🇮🇷 IR | 🔓 VLESS | @configtrapi [28]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [29]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
-                "🚩 CF | 🔓 VLESS | @confing_chanel [6]",
+                "🚩 CF | 🔓 VLESS | @confing_chanel [5]",
                 "🇮🇷 IR | 🔓 VLESS | @confingv2raay [2]",
                 "🇺🇸 US | 🔓 VLESS | @connectshu [14]",
                 "🚩 CF | 🔓 VLESS | @connectshu [15]",
@@ -133,7 +133,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [32]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [10]",
-                "❔ XX | 🔓 VLESS | @fastfreeconfig [57]",
+                "🇬🇧 GB | 🔒 VLESS | @fastfreeconfig [57]",
                 "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -293,7 +293,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -409,7 +409,7 @@
                 "🇮🇷 IR | 🔓 VLESS | @configtrapi [28]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [29]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
-                "🚩 CF | 🔓 VLESS | @confing_chanel [6]",
+                "🚩 CF | 🔓 VLESS | @confing_chanel [5]",
                 "🇮🇷 IR | 🔓 VLESS | @confingv2raay [2]",
                 "🇺🇸 US | 🔓 VLESS | @connectshu [14]",
                 "🚩 CF | 🔓 VLESS | @connectshu [15]",
@@ -430,7 +430,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [32]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [10]",
-                "❔ XX | 🔓 VLESS | @fastfreeconfig [57]",
+                "🇬🇧 GB | 🔒 VLESS | @fastfreeconfig [57]",
                 "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -590,7 +590,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -1112,7 +1112,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @confing_chanel [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @confing_chanel [5]",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -1453,36 +1453,36 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @fastfreeconfig [57]",
+            "tag": "🇬🇧 GB | 🔒 VLESS | @fastfreeconfig [57]",
             "type": "vless",
-            "server": "free.sabettrade.shop",
-            "server_port": 22727,
-            "uuid": "89cab344-a811-489f-ebc3-22d24aabe5a1",
-            "flow": "",
+            "server": "eng13.netliberated.org",
+            "server_port": 443,
+            "uuid": "c40cf4b2-c6c6-4d7d-a385-4d95008c0079",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "free.sabettrade.shop"
+            "tls": {
+                "enabled": true,
+                "server_name": "www.halfords.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
+                    "short_id": ""
                 }
             }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
             "type": "vless",
-            "server": "bdok.ir",
-            "server_port": 8080,
-            "uuid": "698bdf81-9333-41cc-9cc1-81a2fc43bc19",
+            "server": "www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7",
             "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/telegramm-@Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,telegram-Naji-vpn,Mmdv2rayng-V2rayngmmd-telegram-meh95-v2ray?ed=2056",
-                "headers": {
-                    "Host": "bdok.ir"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
@@ -4226,7 +4226,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
