@@ -84,7 +84,7 @@
                 "🇺🇸 US | 🔒 VLESS | @ai_duet [4]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [5]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [7]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [32]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [46]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -156,9 +156,8 @@
                 "🇫🇷 FR | 🔒 VLESS | @mtpv2ray [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mtpv2ray [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [1]",
-                "🇫🇷 FR | 🔒 VLESS | @netmellianti [5]",
-                "🇹🇷 TR | 🔒 VLESS | @netmellianti [8]",
+                "🇫🇷 FR | 🔒 VLESS | @netmellianti [4]",
+                "🇹🇷 TR | 🔒 VLESS | @netmellianti [7]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [3]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇨🇭 CH | 🔒 VLESS | @outline_vpn [12]",
@@ -202,6 +201,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2logy [5]",
                 "🇺🇸 US | 🔒 VLESS | @v2ray_sub [3]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [14]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raych [7]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raych [14]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raych [15]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [1]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [2]",
                 "🇮🇷 IR | 🔒 VLESS | @v2rayexpress [3]",
@@ -257,7 +259,7 @@
                 "🇺🇸 US | 🔒 VLESS | @ai_duet [4]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [5]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [7]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [32]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [46]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -329,9 +331,8 @@
                 "🇫🇷 FR | 🔒 VLESS | @mtpv2ray [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mtpv2ray [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [1]",
-                "🇫🇷 FR | 🔒 VLESS | @netmellianti [5]",
-                "🇹🇷 TR | 🔒 VLESS | @netmellianti [8]",
+                "🇫🇷 FR | 🔒 VLESS | @netmellianti [4]",
+                "🇹🇷 TR | 🔒 VLESS | @netmellianti [7]",
                 "🇩🇪 DE | 🔒 VLESS | @nofiltering2 [3]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇨🇭 CH | 🔒 VLESS | @outline_vpn [12]",
@@ -375,6 +376,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2logy [5]",
                 "🇺🇸 US | 🔒 VLESS | @v2ray_sub [3]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [14]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raych [7]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raych [14]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raych [15]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [1]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [2]",
                 "🇮🇷 IR | 🔒 VLESS | @v2rayexpress [3]",
@@ -606,11 +610,11 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [32]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [46]",
             "type": "vless",
-            "server": "91.242.241.45",
+            "server": "80.74.29.212",
             "server_port": 8443,
-            "uuid": "5196d429-6e39-43ae-a8de-de1629af4d96",
+            "uuid": "51fe8ba5-6618-4ddc-8138-c9926634a5ab",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -623,7 +627,7 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM",
+                    "public_key": "rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA",
                     "short_id": ""
                 }
             }
@@ -2365,30 +2369,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [1]",
-            "type": "vless",
-            "server": "91.99.210.158",
-            "server_port": 443,
-            "uuid": "1343298e-2118-435d-9dcc-9f8c3fd60cef",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens",
-                    "short_id": "370dd394052f2386"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @netmellianti [5]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @netmellianti [4]",
             "type": "vless",
             "server": "80.13.135.11",
             "server_port": 57546,
@@ -2415,7 +2396,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @netmellianti [8]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @netmellianti [7]",
             "type": "vless",
             "server": "103.231.75.115",
             "server_port": 443,
@@ -3456,6 +3437,87 @@
                     "public_key": "XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM",
                     "short_id": "5426024033df45"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2raych [7]",
+            "type": "vless",
+            "server": "49.12.119.56",
+            "server_port": 2083,
+            "uuid": "74564508-e2c0-4d35-afc6-7ed6e5edf055",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "khamenei.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8",
+                    "short_id": "54602915a7"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "t.me/entryNET"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2raych [14]",
+            "type": "vless",
+            "server": "91.107.168.101",
+            "server_port": 2083,
+            "uuid": "74564508-e2c0-4d35-afc6-7ed6e5edf055",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "khamenei.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8",
+                    "short_id": "54602915a7"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "melov2ray"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2raych [15]",
+            "type": "vless",
+            "server": "49.12.119.56",
+            "server_port": 2083,
+            "uuid": "74564508-e2c0-4d35-afc6-7ed6e5edf055",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "khamenei.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8",
+                    "short_id": "54602915a7"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "melov2ray"
             }
         },
         {
