@@ -84,7 +84,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [29]",
-                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [46]",
                 "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
@@ -117,7 +116,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔒 VLESS | @v2trayproxy [6]",
+                "🇩🇪 DE | 🔒 VLESS | @v2trayproxy [4]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [1]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [7]",
@@ -128,7 +127,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [13]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -143,7 +142,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [29]",
-                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [46]",
                 "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
@@ -176,7 +174,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔒 VLESS | @v2trayproxy [6]",
+                "🇩🇪 DE | 🔒 VLESS | @v2trayproxy [4]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [1]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [7]",
@@ -187,7 +185,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [13]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -335,24 +333,6 @@
             "uuid": "f51667a2-c1e6-5321-9d51-f03be3fc8d02",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [46]",
-            "type": "vless",
-            "server": "91.99.154.189",
-            "server_port": 443,
-            "uuid": "3cf69055-74e9-4f7e-9121-d9a9f15ca79d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.99.154.189",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
@@ -907,7 +887,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2trayproxy [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2trayproxy [4]",
             "type": "vless",
             "server": "91.107.241.250",
             "server_port": 6000,
@@ -1127,7 +1107,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [13]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "91.99.145.167",
             "server_port": 8443,
