@@ -352,11 +352,10 @@
     },
     "fastfreeconfig": {
         "types": [
-            "ss",
             "vless",
-            "hy2",
-            "trojan",
-            "tuic"
+            "tuic",
+            "ss",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -453,7 +452,6 @@
     },
     "free1ss": {
         "types": [
-            "vless",
             "ss"
         ],
         "title": "🍊Aperto Shadowsocks Outline Vless VPN 🍊",
@@ -699,9 +697,9 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "trojan",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1584,7 +1582,8 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2025,8 +2024,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "vless",
             "trojan"
         ],
@@ -2090,8 +2089,8 @@
     "v2raych": {
         "types": [
             "vless",
-            "vmess",
             "trojan",
+            "vmess",
             "ss"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -2114,7 +2113,8 @@
     "v2rayfree": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2574,8 +2574,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss",
             "trojan"
         ],

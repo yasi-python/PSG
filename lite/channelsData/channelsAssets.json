@@ -347,10 +347,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
+            "tuic",
             "ss",
-            "hy2",
-            "trojan",
-            "tuic"
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -447,7 +446,6 @@
     },
     "free1ss": {
         "types": [
-            "vless",
             "ss"
         ],
         "title": "🍊Aperto Shadowsocks Outline Vless VPN 🍊",
@@ -699,9 +697,9 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "trojan",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -2017,8 +2015,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "vless",
             "trojan"
         ],
