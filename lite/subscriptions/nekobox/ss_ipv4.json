@@ -89,13 +89,12 @@
                 "🇳🇱 NL | 🔒 SS | @father_vpn [3]",
                 "🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]",
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
-                "🇺🇸 US | 🔒 SS | @free1ss [15]",
-                "🇬🇧 GB | 🔒 SS | @free1ss [16]",
+                "🇬🇧 GB | 🔒 SS | @free1ss [15]",
+                "🇸🇬 SG | 🔒 SS | @free1ss [17]",
                 "🇵🇾 PY | 🔒 SS | @free4allvpn [13]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
                 "🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]",
                 "🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]",
-                "🇨🇳 CN | 🔒 SS | @hope_net [18]",
                 "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇬🇧 GB | 🔒 SS | @ir_netproxy [13]",
@@ -128,7 +127,7 @@
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [7]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [8]",
                 "🇩🇪 DE | 🔒 SS | @srv2ray [1]",
-                "🇨🇦 CA | 🔒 SS | @v2aryng_vpn [12]",
+                "🇨🇦 CA | 🔒 SS | @v2aryng_vpn [11]",
                 "🇺🇸 US | 🔒 SS | @v2ray_v_vpn [28]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [7]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
@@ -156,13 +155,12 @@
                 "🇳🇱 NL | 🔒 SS | @father_vpn [3]",
                 "🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]",
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
-                "🇺🇸 US | 🔒 SS | @free1ss [15]",
-                "🇬🇧 GB | 🔒 SS | @free1ss [16]",
+                "🇬🇧 GB | 🔒 SS | @free1ss [15]",
+                "🇸🇬 SG | 🔒 SS | @free1ss [17]",
                 "🇵🇾 PY | 🔒 SS | @free4allvpn [13]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
                 "🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]",
                 "🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]",
-                "🇨🇳 CN | 🔒 SS | @hope_net [18]",
                 "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇬🇧 GB | 🔒 SS | @ir_netproxy [13]",
@@ -195,7 +193,7 @@
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [7]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [8]",
                 "🇩🇪 DE | 🔒 SS | @srv2ray [1]",
-                "🇨🇦 CA | 🔒 SS | @v2aryng_vpn [12]",
+                "🇨🇦 CA | 🔒 SS | @v2aryng_vpn [11]",
                 "🇺🇸 US | 🔒 SS | @v2ray_v_vpn [28]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [7]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
@@ -366,20 +364,20 @@
             "password": "f8f7aCzcPKbsF8p3"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @free1ss [15]",
-            "type": "shadowsocks",
-            "server": "71.19.148.74",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "gqkUCvmeOTghYJXF1YIuk5"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 SS | @free1ss [16]",
+            "tag": "🇬🇧 GB | 🔒 SS | @free1ss [15]",
             "type": "shadowsocks",
             "server": "89.185.84.185",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "aiSOy0DTdYDr3TPzsEh1p5"
+        },
+        {
+            "tag": "🇸🇬 SG | 🔒 SS | @free1ss [17]",
+            "type": "shadowsocks",
+            "server": "167.172.69.97",
+            "server_port": 8443,
+            "method": "aes-256-gcm",
+            "password": "NobzSkOzD4WYlS0u5W1YDmVQq+mx9IZkzty0gPWSJuQ="
         },
         {
             "tag": "🇵🇾 PY | 🔒 SS | @free4allvpn [13]",
@@ -412,14 +410,6 @@
             "server_port": 14255,
             "method": "chacha20-ietf-poly1305",
             "password": "fDDmH4QefmWqMJ8UURZrGh"
-        },
-        {
-            "tag": "🇨🇳 CN | 🔒 SS | @hope_net [18]",
-            "type": "shadowsocks",
-            "server": "8.138.184.224",
-            "server_port": 40304,
-            "method": "aes-256-gcm",
-            "password": "0015b020-963b-450d-92f9-a8339de6332c"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
@@ -678,7 +668,7 @@
             "password": "wDZtxfIk3UhacKHrho7lxw"
         },
         {
-            "tag": "🇨🇦 CA | 🔒 SS | @v2aryng_vpn [12]",
+            "tag": "🇨🇦 CA | 🔒 SS | @v2aryng_vpn [11]",
             "type": "shadowsocks",
             "server": "64.74.163.130",
             "server_port": 990,

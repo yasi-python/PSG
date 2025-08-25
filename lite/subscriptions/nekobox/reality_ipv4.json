@@ -104,7 +104,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [12]",
-                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [16]",
+                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
@@ -125,7 +125,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [11]",
-                "🇺🇸 US | 🔒 VLESS | @vpn_ioss [19]",
                 "🇫🇮 FI | 🔒 VLESS | @vpn_ocean [1]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]"
             ],
@@ -162,7 +161,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [12]",
-                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [16]",
+                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
@@ -183,7 +182,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpn451 [11]",
-                "🇺🇸 US | 🔒 VLESS | @vpn_ioss [19]",
                 "🇫🇮 FI | 🔒 VLESS | @vpn_ocean [1]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]"
             ],
@@ -852,7 +850,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [16]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [15]",
             "type": "vless",
             "server": "195.93.253.49",
             "server_port": 33094,
@@ -1351,29 +1349,6 @@
                     "enabled": true,
                     "public_key": "jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk",
                     "short_id": "1ae2fd1e1ace9935"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpn_ioss [19]",
-            "type": "vless",
-            "server": "5.181.171.2",
-            "server_port": 443,
-            "uuid": "8e6acce9-8b56-7190-d491-7d84f8189e26",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "speed.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y",
-                    "short_id": ""
                 }
             }
         },
