@@ -96,8 +96,10 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
+                "🇳🇱 NL | 🔒 VLESS | @mowjproxy [5]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
+                "🇫🇮 FI | 🔒 VLESS | @outlinev2rayng [18]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [14]",
@@ -106,7 +108,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
+                "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
@@ -144,8 +146,10 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
+                "🇳🇱 NL | 🔒 VLESS | @mowjproxy [5]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
+                "🇫🇮 FI | 🔒 VLESS | @outlinev2rayng [18]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [14]",
@@ -154,7 +158,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
+                "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
@@ -660,6 +664,29 @@
             }
         },
         {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @mowjproxy [5]",
+            "type": "vless",
+            "server": "shirehtoot.salamatmarel.ir",
+            "server_port": 2087,
+            "uuid": "18d2a94a-7c1a-468e-a15b-5411ba5c59a9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "researchgate.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "b27Qni_E7X2t3m_utxJPaLkyYTjeb2tUXGcAs4P5tQY",
+                    "short_id": "d583"
+                }
+            }
+        },
+        {
             "tag": "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
             "type": "vless",
             "server": "Sadaf.Netherlands.mehrdadsadaf.com",
@@ -711,6 +738,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar"
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @outlinev2rayng [18]",
+            "type": "vless",
+            "server": "deepend.paneltelecode.xyz",
+            "server_port": 443,
+            "uuid": "028e0ae7-5640-492d-bdae-f3c44d47e42d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "afternic.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "J5aaCYQft4PeaMxenmrVh5WUQYRXuKNUtblM9TRpXAk",
+                    "short_id": "cc26b226"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Dev"
             }
         },
         {
@@ -902,7 +956,7 @@
             }
         },
         {
-            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -1052,7 +1106,7 @@
             "type": "vless",
             "server": "blog.curfuffled.com",
             "server_port": 443,
-            "uuid": "c0cd7f83-7d67-4b82-9e7a-b6e5c0e31f1f",
+            "uuid": "934964d0-3114-405a-a84c-f3fd37a8379e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -1079,7 +1133,7 @@
             "type": "vless",
             "server": "blog.curfuffled.com",
             "server_port": 443,
-            "uuid": "934964d0-3114-405a-a84c-f3fd37a8379e",
+            "uuid": "8886725c-4799-4e86-8ef7-a8594fbb3226",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -1106,7 +1160,7 @@
             "type": "vless",
             "server": "blog.curfuffled.com",
             "server_port": 443,
-            "uuid": "8886725c-4799-4e86-8ef7-a8594fbb3226",
+            "uuid": "d622eedd-f49c-4b12-a41b-8469173db654",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
