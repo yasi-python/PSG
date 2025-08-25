@@ -346,9 +346,10 @@
     },
     "fastfreeconfig": {
         "types": [
-            "ss",
             "vless",
-            "trojan"
+            "ss",
+            "trojan",
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -487,8 +488,8 @@
     "freeconfigsplus": {
         "types": [
             "ss",
-            "vless",
             "vmess",
+            "vless",
             "trojan"
         ],
         "title": "CONFIGS",
@@ -707,9 +708,9 @@
     },
     "hope_net": {
         "types": [
+            "vless",
             "ss",
             "trojan",
-            "vless",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -2026,9 +2027,9 @@
     },
     "v2ray_free_conf": {
         "types": [
+            "trojan",
             "vless",
             "ss",
-            "trojan",
             "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
