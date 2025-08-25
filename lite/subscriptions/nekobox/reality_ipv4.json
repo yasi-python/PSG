@@ -80,9 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇦🇹 AT | 🔒 VLESS | @config_proxy [55]",
-                "🇰🇿 KZ | 🔒 VLESS | @config_proxy [56]",
-                "🇯🇵 JP | 🔒 VLESS | @config_proxy [57]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [5]",
@@ -142,9 +139,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇦🇹 AT | 🔒 VLESS | @config_proxy [55]",
-                "🇰🇿 KZ | 🔒 VLESS | @config_proxy [56]",
-                "🇯🇵 JP | 🔒 VLESS | @config_proxy [57]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [5]",
@@ -280,75 +274,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇹 AT | 🔒 VLESS | @config_proxy [55]",
-            "type": "vless",
-            "server": "5.181.21.152",
-            "server_port": 24170,
-            "uuid": "6a8ee307-a1fb-4801-92e2-86253ecdd88d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw",
-                    "short_id": "200f99e321"
-                }
-            }
-        },
-        {
-            "tag": "🇰🇿 KZ | 🔒 VLESS | @config_proxy [56]",
-            "type": "vless",
-            "server": "176.120.72.63",
-            "server_port": 38339,
-            "uuid": "481c5606-b586-44d7-bc2e-d8ef30d67f62",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "dl.google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA",
-                    "short_id": "e16883e511"
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔒 VLESS | @config_proxy [57]",
-            "type": "vless",
-            "server": "35.78.245.178",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
                 }
             }
         },

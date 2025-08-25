@@ -122,7 +122,6 @@
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [32]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [9]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [10]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🚩 CF | 🔓 VLESS | @filterk0sh [16]",
@@ -131,9 +130,8 @@
                 "🚩 CF | 🔓 VLESS | @flyv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @flyv2ray [12]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
-                "🚩 CF | 🔓 VLESS | @freakconfig [12]",
-                "🇩🇪 DE | 🔒 VLESS | @freakconfig [13]",
-                "🚩 CF | 🔒 VLESS | @freakconfig [14]",
+                "🇩🇪 DE | 🔒 VLESS | @freakconfig [12]",
+                "🚩 CF | 🔒 VLESS | @freakconfig [13]",
                 "❔ XX | 🔒 VLESS | @free_omega [4]",
                 "🇬🇧 GB | 🔒 VLESS | @freeconfigsplus [17]",
                 "🇩🇪 DE | 🔓 VLESS | @freeconfigsplus [18]",
@@ -279,7 +277,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -416,7 +414,6 @@
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [32]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [9]",
                 "🚩 CF | 🔓 VLESS | @falcunargo [10]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🚩 CF | 🔓 VLESS | @filterk0sh [16]",
@@ -425,9 +422,8 @@
                 "🚩 CF | 🔓 VLESS | @flyv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @flyv2ray [12]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
-                "🚩 CF | 🔓 VLESS | @freakconfig [12]",
-                "🇩🇪 DE | 🔒 VLESS | @freakconfig [13]",
-                "🚩 CF | 🔒 VLESS | @freakconfig [14]",
+                "🇩🇪 DE | 🔒 VLESS | @freakconfig [12]",
+                "🚩 CF | 🔒 VLESS | @freakconfig [13]",
                 "❔ XX | 🔒 VLESS | @free_omega [4]",
                 "🇬🇧 GB | 🔒 VLESS | @freeconfigsplus [17]",
                 "🇩🇪 DE | 🔓 VLESS | @freeconfigsplus [18]",
@@ -573,7 +569,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -1462,22 +1458,6 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8080,
-            "uuid": "e96fd423-1dc8-4f7b-ab92-0298678aedb7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
             "tag": "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
             "type": "vless",
             "server": "croatia.netblocksir.ir",
@@ -1600,23 +1580,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @freakconfig [12]",
-            "type": "vless",
-            "server": "narrow-passenger.oneeat.co",
-            "server_port": 80,
-            "uuid": "5a12794b-2125-46d7-a748-927a989faa04",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "narrow-passenger.oneeat.co"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @freakconfig [13]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @freakconfig [12]",
             "type": "vless",
             "server": "frangets.rtpxc.com",
             "server_port": 8991,
@@ -1639,7 +1603,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @freakconfig [14]",
+            "tag": "🚩 CF | 🔒 VLESS | @freakconfig [13]",
             "type": "vless",
             "server": "cloudgetservice.mcloudservice.site",
             "server_port": 443,
@@ -4274,7 +4238,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
