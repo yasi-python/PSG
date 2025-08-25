@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @fastfreeconfig [59]",
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
@@ -101,12 +100,13 @@
                 "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
                 "❔ XX | 🔓 VLESS | @internet_nor [1]",
                 "❔ XX | 🔓 VLESS | @internet_nor [2]",
+                "❔ XX | 🔓 VLESS | @internet_nor [3]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
                 "❔ XX | 🔓 VLESS | @parsashonam [3]",
                 "❔ XX | 🔓 VLESS | @parsashonam [7]",
                 "❔ XX | 🔓 VLESS | @parsashonam [11]",
                 "❔ XX | 🔓 VLESS | @parsashonam [15]",
-                "❔ XX | 🔓 VLESS | @prrofile_purple [131]",
+                "❔ XX | 🔓 VLESS | @prrofile_purple [126]",
                 "❔ XX | 🔓 VLESS | @v2rayngninja [1]",
                 "❔ XX | 🔓 VLESS | @v2rayngninja [2]"
             ],
@@ -119,7 +119,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @fastfreeconfig [59]",
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
@@ -128,12 +127,13 @@
                 "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
                 "❔ XX | 🔓 VLESS | @internet_nor [1]",
                 "❔ XX | 🔓 VLESS | @internet_nor [2]",
+                "❔ XX | 🔓 VLESS | @internet_nor [3]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
                 "❔ XX | 🔓 VLESS | @parsashonam [3]",
                 "❔ XX | 🔓 VLESS | @parsashonam [7]",
                 "❔ XX | 🔓 VLESS | @parsashonam [11]",
                 "❔ XX | 🔓 VLESS | @parsashonam [15]",
-                "❔ XX | 🔓 VLESS | @prrofile_purple [131]",
+                "❔ XX | 🔓 VLESS | @prrofile_purple [126]",
                 "❔ XX | 🔓 VLESS | @v2rayngninja [1]",
                 "❔ XX | 🔓 VLESS | @v2rayngninja [2]"
             ],
@@ -218,24 +218,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @fastfreeconfig [59]",
-            "type": "vless",
-            "server": "[2a01:4f8:c010:13e4::1]",
-            "server_port": 443,
-            "uuid": "f9196fa1-ba9f-4f31-98a5-3565476caafe",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "[2a01:4f8:c010:13e4::1]",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
@@ -362,6 +344,24 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "❔ XX | 🔓 VLESS | @internet_nor [3]",
+            "type": "vless",
+            "server": "[2a01:4f8:c010:13e4::1]",
+            "server_port": 443,
+            "uuid": "f9196fa1-ba9f-4f31-98a5-3565476caafe",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "[2a01:4f8:c010:13e4::1]",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 VLESS | @kesslervpn [2]",
             "type": "vless",
             "server": "[2a03:b0c0:3:d0::10ad:7001]",
@@ -421,7 +421,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @prrofile_purple [131]",
+            "tag": "❔ XX | 🔓 VLESS | @prrofile_purple [126]",
             "type": "vless",
             "server": "[2a03:b0c0:1:e0::a400:5001]",
             "server_port": 24256,
