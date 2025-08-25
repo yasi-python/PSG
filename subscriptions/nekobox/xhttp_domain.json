@@ -81,8 +81,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [45]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [49]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [62]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -141,8 +141,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [45]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [49]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [62]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -289,22 +289,31 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [45]",
-            "type": "vless",
-            "server": "Speedtest.net",
-            "server_port": 80,
-            "uuid": "e02a83a6-16c9-4eaf-d40e-1387028d93a0",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [49]",
             "type": "vless",
             "server": "CONFiGLiNE.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "40cb7d82-5599-4c75-9fe3-2de4de2c1fe7",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [62]",
+            "type": "vless",
+            "server": "sss75298.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "92b022a6-67f3-4406-840b-8fec2f4aace8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss75298.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
