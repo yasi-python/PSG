@@ -80,7 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @fastfreeconfig [57]",
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
@@ -88,6 +87,7 @@
                 "❔ XX | 🔓 VLESS | @freevv2rayng [10]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
                 "❔ XX | 🔓 VLESS | @internet_nor [1]",
+                "❔ XX | 🔓 VLESS | @internet_nor [2]",
                 "❔ XX | 🔓 VLESS | @internet_nor [3]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
                 "❔ XX | 🔓 VLESS | @parsashonam [3]",
@@ -107,7 +107,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @fastfreeconfig [57]",
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
@@ -115,6 +114,7 @@
                 "❔ XX | 🔓 VLESS | @freevv2rayng [10]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
                 "❔ XX | 🔓 VLESS | @internet_nor [1]",
+                "❔ XX | 🔓 VLESS | @internet_nor [2]",
                 "❔ XX | 🔓 VLESS | @internet_nor [3]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
                 "❔ XX | 🔓 VLESS | @parsashonam [3]",
@@ -212,15 +212,6 @@
                     "Host": "127.0.0.1"
                 }
             }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @fastfreeconfig [57]",
-            "type": "vless",
-            "server": "[2a01:4f9:c010:1ac8::1]",
-            "server_port": 13269,
-            "uuid": "a1591bed-6c12-41cf-93c8-9bcb787ffd16",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @father_vpn [4]",
@@ -334,6 +325,15 @@
                     "Host": "[2a01:4f9:c010:1ac8::1]"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @internet_nor [2]",
+            "type": "vless",
+            "server": "[2a01:4f9:c010:1ac8::1]",
+            "server_port": 13269,
+            "uuid": "a1591bed-6c12-41cf-93c8-9bcb787ffd16",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @internet_nor [3]",
