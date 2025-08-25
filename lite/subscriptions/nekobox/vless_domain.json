@@ -135,7 +135,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [13]",
                 "🚩 CF | 🔒 VLESS | @freakconfig [14]",
                 "❔ XX | 🔒 VLESS | @free_omega [4]",
-                "🚩 CF | 🔒 VLESS | @freeconfigsplus [17]",
+                "🇬🇧 GB | 🔒 VLESS | @freeconfigsplus [17]",
                 "🇩🇪 DE | 🔓 VLESS | @freeconfigsplus [18]",
                 "❔ XX | 🔓 VLESS | @freedom_config [8]",
                 "❔ XX | 🔓 VLESS | @freedom_config [9]",
@@ -279,7 +279,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
+                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -429,7 +429,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @freakconfig [13]",
                 "🚩 CF | 🔒 VLESS | @freakconfig [14]",
                 "❔ XX | 🔒 VLESS | @free_omega [4]",
-                "🚩 CF | 🔒 VLESS | @freeconfigsplus [17]",
+                "🇬🇧 GB | 🔒 VLESS | @freeconfigsplus [17]",
                 "🇩🇪 DE | 🔓 VLESS | @freeconfigsplus [18]",
                 "❔ XX | 🔓 VLESS | @freedom_config [8]",
                 "❔ XX | 🔓 VLESS | @freedom_config [9]",
@@ -573,7 +573,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
+                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [12]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -1465,10 +1465,17 @@
             "tag": "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
             "type": "vless",
             "server": "www.speedtest.net",
-            "server_port": 8443,
-            "uuid": "f1958033-d138-4ce7-a418-4dd87559e8e3",
+            "server_port": 8080,
+            "uuid": "e96fd423-1dc8-4f7b-ab92-0298678aedb7",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
         },
         {
             "tag": "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
@@ -1679,7 +1686,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @freeconfigsplus [17]",
+            "tag": "🇬🇧 GB | 🔒 VLESS | @freeconfigsplus [17]",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 8443,
@@ -4267,7 +4274,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,

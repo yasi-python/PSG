@@ -107,7 +107,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
+                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
@@ -119,9 +119,9 @@
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [15]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇷🇺 RU | 🔒 VLESS | @config_proxy [40]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [41]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [42]",
+                "🇦🇹 AT | 🔒 VLESS | @config_proxy [55]",
+                "🇰🇿 KZ | 🔒 VLESS | @config_proxy [56]",
+                "🇯🇵 JP | 🔒 VLESS | @config_proxy [57]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [5]",
@@ -210,7 +210,7 @@
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
+                "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
@@ -222,9 +222,9 @@
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [15]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇷🇺 RU | 🔒 VLESS | @config_proxy [40]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [41]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [42]",
+                "🇦🇹 AT | 🔒 VLESS | @config_proxy [55]",
+                "🇰🇿 KZ | 🔒 VLESS | @config_proxy [56]",
+                "🇯🇵 JP | 🔒 VLESS | @config_proxy [57]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [5]",
@@ -1035,7 +1035,7 @@
             }
         },
         {
-            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [11]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @qrv2ray [11]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -1335,16 +1335,16 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @config_proxy [40]",
+            "tag": "🇦🇹 AT | 🔒 VLESS | @config_proxy [55]",
             "type": "vless",
-            "server": "94.26.228.10",
-            "server_port": 443,
-            "uuid": "1a6fe500-59da-4598-8576-256f06765ffb",
+            "server": "5.181.21.152",
+            "server_port": 24170,
+            "uuid": "6a8ee307-a1fb-4801-92e2-86253ecdd88d",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ru.sfasti.ru",
+                "server_name": "yahoo.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1352,22 +1352,22 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
-                    "short_id": "16895459a2c7768d"
+                    "public_key": "rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw",
+                    "short_id": "200f99e321"
                 }
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [41]",
+            "tag": "🇰🇿 KZ | 🔒 VLESS | @config_proxy [56]",
             "type": "vless",
-            "server": "91.99.231.221",
-            "server_port": 2020,
-            "uuid": "TELEGRAM-CONFiGLiNE",
+            "server": "176.120.72.63",
+            "server_port": 38339,
+            "uuid": "481c5606-b586-44d7-bc2e-d8ef30d67f62",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "dl.google.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1375,35 +1375,31 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "MsgiNZIaJte4RIM-mqlVqRJaJRJWtObB",
-                    "short_id": ""
+                    "public_key": "o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA",
+                    "short_id": "e16883e511"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE"
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [42]",
+            "tag": "🇯🇵 JP | 🔒 VLESS | @config_proxy [57]",
             "type": "vless",
-            "server": "85.208.110.203",
+            "server": "35.78.245.178",
             "server_port": 443,
-            "uuid": "a351b0a4-6c4e-4456-8f8e-45db3fe0bcb2",
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.samsung.com",
+                "server_name": "store.steampowered.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SUP3nblQDtku381iK83Nl0YXGXJw15sZYH-ilRRssAM",
-                    "short_id": "db7491a2"
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
                 }
             }
         },
