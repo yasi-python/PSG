@@ -84,6 +84,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [29]",
+                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [42]",
                 "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
@@ -97,7 +98,6 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [1]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [5]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [9]",
@@ -127,7 +127,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -142,6 +142,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [29]",
+                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [42]",
                 "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
@@ -155,7 +156,6 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [1]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [5]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [9]",
@@ -185,7 +185,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -331,6 +331,15 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "f51667a2-c1e6-5321-9d51-f03be3fc8d02",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [42]",
+            "type": "vless",
+            "server": "91.99.220.150",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -508,15 +517,6 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "24dd368a-1ce6-493b-a036-0f4d479f4540",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
-            "type": "vless",
-            "server": "91.99.220.150",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -1107,7 +1107,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [15]",
             "type": "vless",
             "server": "91.99.145.167",
             "server_port": 8443,
