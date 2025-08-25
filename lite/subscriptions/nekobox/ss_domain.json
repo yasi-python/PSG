@@ -89,7 +89,8 @@
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [20]",
                 "🇺🇸 US | 🔒 SS | @v2raybe [7]",
-                "🇳🇱 NL | 🔒 SS | @vpn451 [10]"
+                "🇳🇱 NL | 🔒 SS | @vpn451 [10]",
+                "🇳🇱 NL | 🔒 SS | @vpn451 [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,7 +110,8 @@
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [20]",
                 "🇺🇸 US | 🔒 SS | @v2raybe [7]",
-                "🇳🇱 NL | 🔒 SS | @vpn451 [10]"
+                "🇳🇱 NL | 🔒 SS | @vpn451 [10]",
+                "🇳🇱 NL | 🔒 SS | @vpn451 [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -278,6 +280,14 @@
             "server_port": 19609,
             "method": "chacha20-ietf-poly1305",
             "password": "Q3xneMr0BQnEjHp0pkKsOf"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 SS | @vpn451 [12]",
+            "type": "shadowsocks",
+            "server": "macintosh.outlinekeys.net",
+            "server_port": 19609,
+            "method": "chacha20-ietf-poly1305",
+            "password": "gCTRbW1mZx8Bijc2oxHHfD"
         }
     ],
     "route": {

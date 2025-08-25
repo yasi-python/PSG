@@ -341,8 +341,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "trojan",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -1567,7 +1567,6 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vless",
-            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2012,8 +2011,8 @@
         "types": [
             "ss",
             "vmess",
-            "vless",
-            "trojan"
+            "trojan",
+            "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2097,7 +2096,6 @@
     "v2rayfree": {
         "types": [
             "vless",
-            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2225,9 +2223,8 @@
     },
     "v2raytg": {
         "types": [
-            "ss",
-            "trojan",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "V2ray TG ™",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raytg.jpg"
