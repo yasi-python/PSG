@@ -345,9 +345,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless",
             "ss",
-            "trojan"
+            "vless"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -1440,7 +1439,8 @@
     "outline_ir": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -1570,7 +1570,6 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vmess",
             "vless"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2099,7 +2098,6 @@
     },
     "v2rayfree": {
         "types": [
-            "vmess",
             "vless"
         ],
         "title": "VPNs Proxy Mtproto",
