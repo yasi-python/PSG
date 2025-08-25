@@ -107,10 +107,10 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -121,13 +121,6 @@
         ],
         "title": "کانفیگ ، پروکسی | Config , Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configasli.jpg"
-    },
-    "configfast": {
-        "types": [
-            "vless"
-        ],
-        "title": "کانفیگ سریع 🚀",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configfast.jpg"
     },
     "configforvpn01": {
         "types": [
@@ -246,8 +239,8 @@
     },
     "dalton_ping": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Proxy.v2rayNG.",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/dalton_ping.jpg"
@@ -347,9 +340,11 @@
     },
     "fastfreeconfig": {
         "types": [
-            "ss",
+            "vless",
             "trojan",
-            "vless"
+            "tuic",
+            "ss",
+            "hy2"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -697,9 +692,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
-            "vless",
             "ss",
+            "vless",
+            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -1434,7 +1429,6 @@
     },
     "orange_vpns": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "V2ray سرور و کانفیگ رایگان",
@@ -2017,8 +2011,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss",
             "trojan"
         ],

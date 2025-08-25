@@ -117,8 +117,8 @@
         "types": [
             "vless",
             "ss",
-            "vmess",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -129,13 +129,6 @@
         ],
         "title": "کانفیگ ، پروکسی | Config , Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/configasli.jpg"
-    },
-    "configfast": {
-        "types": [
-            "vless"
-        ],
-        "title": "کانفیگ سریع 🚀",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/configfast.jpg"
     },
     "configforvpn01": {
         "types": [
@@ -230,8 +223,8 @@
     },
     "dalton_ping": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Proxy.v2rayNG.",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/dalton_ping.jpg"
@@ -353,9 +346,11 @@
     },
     "fastfreeconfig": {
         "types": [
-            "ss",
+            "vless",
             "trojan",
-            "vless"
+            "tuic",
+            "ss",
+            "hy2"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -697,9 +692,9 @@
     },
     "hope_net": {
         "types": [
+            "ss",
             "vless",
             "trojan",
-            "ss",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -897,6 +892,7 @@
     },
     "kanfig_majani": {
         "types": [
+            "ss",
             "vless"
         ],
         "title": "کانفیگ رایگان | کانفیگ مجانی",
@@ -1446,7 +1442,6 @@
     },
     "orange_vpns": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "V2ray سرور و کانفیگ رایگان",
@@ -2026,8 +2021,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss",
             "trojan"
         ],
@@ -2092,6 +2087,7 @@
         "types": [
             "vless",
             "trojan",
+            "vmess",
             "ss"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -2566,8 +2562,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss",
             "trojan"
         ],
