@@ -80,6 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [53]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [5]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
@@ -93,7 +94,6 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [14]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [10]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
@@ -114,6 +114,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [53]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [5]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
@@ -127,7 +128,6 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [14]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [10]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
@@ -224,6 +224,24 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [53]",
+            "type": "vless",
+            "server": "91.99.27.66",
+            "server_port": 443,
+            "uuid": "cbfaa4fa-8393-43db-a052-d86543462f0d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "91.99.27.66",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -431,15 +449,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [10]",
-            "type": "vless",
-            "server": "91.99.169.64",
-            "server_port": 8443,
-            "uuid": "b1fe7cec-3028-4cf0-b1c3-af55efd23ad8",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [15]",
