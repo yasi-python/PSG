@@ -114,8 +114,8 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [22]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [53]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
-                "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [16]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [1]",
@@ -142,9 +142,9 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [29]",
-                "🇺🇸 US | 🔒 VLESS | @fastfreeconfig [43]",
-                "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
+                "🚩 CF | 🔒 VLESS | @flyv2ray [4]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [1]",
+                "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [9]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [2]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [3]",
@@ -218,8 +218,8 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [22]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [53]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
-                "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [16]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [1]",
@@ -246,9 +246,9 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [29]",
-                "🇺🇸 US | 🔒 VLESS | @fastfreeconfig [43]",
-                "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
+                "🚩 CF | 🔒 VLESS | @flyv2ray [4]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [1]",
+                "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [9]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [2]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [3]",
@@ -588,20 +588,20 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [53]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "bf3c99e7-68b4-4bad-b110-ebaf2ecab772",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
             "type": "vless",
             "server": "alman.netblocksir.ir",
             "server_port": 8001,
             "uuid": "96f391f6-0762-4895-a57c-433360967ca8",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "bf3c99e7-68b4-4bad-b110-ebaf2ecab772",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -977,30 +977,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @fastfreeconfig [43]",
-            "type": "vless",
-            "server": "5.161.151.225",
-            "server_port": 6009,
-            "uuid": "bd33dca5-e673-4c02-a629-f7fa368e2333",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "adtarget.com.tr",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cUB48wKXH2f7PNrZDtwt0UQ9uf5sMIXA5W_IA8twtGc",
-                    "short_id": "dc5db021ae2038a9"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @flyv2ray [5]",
+            "tag": "🚩 CF | 🔒 VLESS | @flyv2ray [4]",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8443,
@@ -1037,6 +1014,29 @@
                     "enabled": true,
                     "public_key": "lHqhMsZfvb_xaxQPKOyIDlaSREGM9tFWjVxl4k9aiBg",
                     "short_id": "60f78c"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
+            "type": "vless",
+            "server": "5.161.151.225",
+            "server_port": 6009,
+            "uuid": "bd33dca5-e673-4c02-a629-f7fa368e2333",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "adtarget.com.tr",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "cUB48wKXH2f7PNrZDtwt0UQ9uf5sMIXA5W_IA8twtGc",
+                    "short_id": "dc5db021ae2038a9"
                 }
             }
         },
