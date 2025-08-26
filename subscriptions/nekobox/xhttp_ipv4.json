@@ -84,7 +84,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [27]",
-                "🚩 CF | 🔒 VLESS | @flyv2ray [4]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [9]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [2]",
@@ -94,7 +93,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @kingofilter [1]",
                 "🇺🇸 US | 🔓 VLESS | @komail315 [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇪🇸 ES | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [1]",
@@ -108,7 +107,7 @@
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [1]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
-                "🇩🇪 DE | 🔓 VLESS | @v2aryng_vpn [12]",
+                "🇩🇪 DE | 🔓 VLESS | @v2aryng_vpn [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [14]",
                 "🇪🇸 ES | 🔒 VLESS | @v2rayexpress [8]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -139,7 +138,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [27]",
-                "🚩 CF | 🔒 VLESS | @flyv2ray [4]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [9]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [2]",
@@ -149,7 +147,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @kingofilter [1]",
                 "🇺🇸 US | 🔓 VLESS | @komail315 [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇪🇸 ES | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [1]",
@@ -163,7 +161,7 @@
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [1]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
-                "🇩🇪 DE | 🔓 VLESS | @v2aryng_vpn [12]",
+                "🇩🇪 DE | 🔓 VLESS | @v2aryng_vpn [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [14]",
                 "🇪🇸 ES | 🔒 VLESS | @v2rayexpress [8]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -329,24 +327,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @flyv2ray [4]",
-            "type": "vless",
-            "server": "104.17.148.22",
-            "server_port": 8443,
-            "uuid": "655a6041-0ab8-4a92-ad79-f0dba34f5ace",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "uk-09.allhubb.info",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
             "type": "vless",
             "server": "5.161.151.225",
@@ -465,7 +445,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+            "tag": "🇪🇸 ES | 🔓 VLESS | @minovpnch [15]",
             "type": "vless",
             "server": "185.18.250.67",
             "server_port": 8080,
@@ -702,7 +682,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @v2aryng_vpn [12]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @v2aryng_vpn [11]",
             "type": "vless",
             "server": "91.99.219.10",
             "server_port": 443,
