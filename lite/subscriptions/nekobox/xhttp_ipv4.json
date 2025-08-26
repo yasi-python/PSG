@@ -80,10 +80,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [54]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [3]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
-                "🇺🇸 US | 🔒 VLESS | @fastfreeconfig [54]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [7]",
@@ -91,11 +91,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔓 VLESS | @mowjproxy [3]",
                 "🚩 CF | 🔒 VLESS | @proxie [16]",
                 "🚩 CF | 🔒 VLESS | @proxie [17]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [14]",
+                "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
@@ -103,7 +103,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]"
+                "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesc [20]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -114,10 +115,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [54]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [3]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
-                "🇺🇸 US | 🔒 VLESS | @fastfreeconfig [54]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [7]",
@@ -125,11 +126,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔓 VLESS | @mowjproxy [3]",
                 "🚩 CF | 🔒 VLESS | @proxie [16]",
                 "🚩 CF | 🔒 VLESS | @proxie [17]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [14]",
+                "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇩🇪 DE | 🔓 VLESS | @v222ray [10]",
@@ -137,7 +138,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]"
+                "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesc [20]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -228,6 +230,24 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [54]",
+            "type": "vless",
+            "server": "91.99.217.44",
+            "server_port": 443,
+            "uuid": "c99f45df-5daf-4610-81ea-b9b4ea7258f4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "91.99.217.44",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
             "type": "vless",
             "server": "91.99.16.244",
@@ -288,29 +308,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @fastfreeconfig [54]",
-            "type": "vless",
-            "server": "159.203.141.231",
-            "server_port": 2053,
-            "uuid": "6d5afbb4-450c-4798-91ab-71a792b487bb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "openstreetmap.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "lHqhMsZfvb_xaxQPKOyIDlaSREGM9tFWjVxl4k9aiBg",
-                    "short_id": "60f78c"
                 }
             }
         },
@@ -420,15 +417,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @mowjproxy [3]",
-            "type": "vless",
-            "server": "91.99.145.167",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🚩 CF | 🔒 VLESS | @proxie [16]",
             "type": "vless",
             "server": "104.21.62.144",
@@ -497,6 +485,29 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
+            "type": "vless",
+            "server": "159.203.141.231",
+            "server_port": 2053,
+            "uuid": "6d5afbb4-450c-4798-91ab-71a792b487bb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "openstreetmap.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "lHqhMsZfvb_xaxQPKOyIDlaSREGM9tFWjVxl4k9aiBg",
+                    "short_id": "60f78c"
                 }
             }
         },
@@ -659,6 +670,15 @@
                     "short_id": "2cc45a0088671249"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesc [20]",
+            "type": "vless",
+            "server": "91.99.169.64",
+            "server_port": 8443,
+            "uuid": "b1fe7cec-3028-4cf0-b1c3-af55efd23ad8",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {

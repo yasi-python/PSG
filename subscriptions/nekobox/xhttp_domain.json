@@ -81,6 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇦🇿 AZ | 🔒 VLESS | @config_proxy [54]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -111,11 +112,11 @@
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [8]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @outline_ir [11]",
+                "🇺🇸 US | 🔓 VLESS | @outline_ir [10]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [2]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [2]",
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -135,6 +136,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇦🇿 AZ | 🔒 VLESS | @config_proxy [54]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -165,11 +167,11 @@
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [8]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @outline_ir [11]",
+                "🇺🇸 US | 🔓 VLESS | @outline_ir [10]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [2]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [2]",
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -275,6 +277,29 @@
             "uuid": "7fa08b3d-86d8-4b14-92b3-4c56a83f027d",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇦🇿 AZ | 🔒 VLESS | @config_proxy [54]",
+            "type": "vless",
+            "server": "azerbaijan.marzxox.shop",
+            "server_port": 210,
+            "uuid": "5acc210b-5dbe-41d6-9194-4dbd050db399",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn.jsdelivr.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8",
+                    "short_id": ""
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
@@ -589,7 +614,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @outline_ir [11]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @outline_ir [10]",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
@@ -639,7 +664,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [2]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [2]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
@@ -657,7 +682,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
