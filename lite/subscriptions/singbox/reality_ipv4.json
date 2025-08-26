@@ -113,8 +113,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
+                "🇩🇪 DE | 🔒 VLESS | @lranonline_new [6]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
+                "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [12]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇬🇧 GB | 🔒 VLESS | @mowjproxy [3]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [12]",
@@ -170,8 +172,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
+                "🇩🇪 DE | 🔒 VLESS | @lranonline_new [6]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
+                "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [12]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇬🇧 GB | 🔒 VLESS | @mowjproxy [3]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [12]",
@@ -781,6 +785,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @lranonline_new [6]",
+            "type": "vless",
+            "server": "91.99.16.244",
+            "server_port": 443,
+            "uuid": "Parsashonam-303",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "Google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
+                    "short_id": "61e683d41fdb"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
             "type": "vless",
             "server": "128.140.117.198",
@@ -828,6 +855,33 @@
                     "public_key": "d60ptqFh4ydtpW1uuMM2AxxHcJrKa-BinRNnTYW0r3w",
                     "short_id": "bc5a8ead5ee076aa"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @mehrosaboran [12]",
+            "type": "vless",
+            "server": "91.99.70.212",
+            "server_port": 443,
+            "uuid": "f076ae11-156c-45c5-b252-ae8dd6fd1494",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cdn77.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
             }
         },
         {

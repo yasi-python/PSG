@@ -80,6 +80,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "❔ XX | 🔓 VLESS | @config_proxy [41]",
+                "❔ XX | 🔓 VLESS | @config_proxy [44]",
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
@@ -93,7 +95,6 @@
                 "❔ XX | 🔓 VLESS | @parsashonam [4]",
                 "❔ XX | 🔓 VLESS | @parsashonam [8]",
                 "❔ XX | 🔓 VLESS | @parsashonam [12]",
-                "❔ XX | 🔓 VLESS | @parsashonam [16]",
                 "❔ XX | 🔓 VLESS | @prrofile_purple [131]",
                 "❔ XX | 🔓 VLESS | @v2rayngninja [1]",
                 "❔ XX | 🔓 VLESS | @v2rayngninja [2]"
@@ -107,6 +108,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "❔ XX | 🔓 VLESS | @config_proxy [41]",
+                "❔ XX | 🔓 VLESS | @config_proxy [44]",
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
@@ -120,7 +123,6 @@
                 "❔ XX | 🔓 VLESS | @parsashonam [4]",
                 "❔ XX | 🔓 VLESS | @parsashonam [8]",
                 "❔ XX | 🔓 VLESS | @parsashonam [12]",
-                "❔ XX | 🔓 VLESS | @parsashonam [16]",
                 "❔ XX | 🔓 VLESS | @prrofile_purple [131]",
                 "❔ XX | 🔓 VLESS | @v2rayngninja [1]",
                 "❔ XX | 🔓 VLESS | @v2rayngninja [2]"
@@ -212,6 +214,24 @@
                     "Host": "127.0.0.1"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @config_proxy [41]",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1a:dc2b::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-303",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @config_proxy [44]",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1a:dc2b::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-303",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @father_vpn [4]",
@@ -400,15 +420,6 @@
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
             "uuid": "Parsashonam-302",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @parsashonam [16]",
-            "type": "vless",
-            "server": "[2a01:4f8:1c1a:dc2b::1]",
-            "server_port": 8888,
-            "uuid": "Parsashonam-303",
             "flow": "",
             "packet_encoding": "xudp"
         },

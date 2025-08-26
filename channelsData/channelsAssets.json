@@ -339,8 +339,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan",
             "hy2"
         ],
@@ -945,8 +945,8 @@
     },
     "kurdistan_vpn_perfectt": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Kurdistan_Vpn",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/kurdistan_vpn_perfectt.jpg"
@@ -1203,8 +1203,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2058,8 +2058,7 @@
     "v2raych": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "trojan"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
