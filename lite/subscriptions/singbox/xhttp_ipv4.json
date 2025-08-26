@@ -102,10 +102,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
                 "🚩 CF | 🔒 VLESS | @proxie [17]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
+                "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [4]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [14]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
@@ -136,10 +136,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
                 "🚩 CF | 🔒 VLESS | @proxie [17]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
+                "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [4]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [14]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
@@ -405,15 +405,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "1aaf960c-a970-4d57-e5a5-235ca11c5c27",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
             "type": "vless",
             "server": "91.99.220.150",
@@ -457,6 +448,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [4]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "1aaf960c-a970-4d57-e5a5-235ca11c5c27",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [14]",

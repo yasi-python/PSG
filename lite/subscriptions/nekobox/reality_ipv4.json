@@ -80,11 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [69]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
-                "🇫🇷 FR | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -94,6 +92,7 @@
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
                 "🇩🇪 DE | 🔒 VLESS | @icv2ray [15]",
                 "🇩🇪 DE | 🔒 VLESS | @info_2it_channel [4]",
+                "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇺🇸 US | 🔒 VLESS | @iran_mehr_vpn [10]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
@@ -120,7 +119,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
-                "🇩🇪 DE | 🔒 VLESS | @v2trayproxy [18]",
                 "🇷🇺 RU | 🔒 VLESS | @vipnetmeli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @vipnetmeli [3]",
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
@@ -137,11 +135,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [69]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
-                "🇫🇷 FR | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -151,6 +147,7 @@
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
                 "🇩🇪 DE | 🔒 VLESS | @icv2ray [15]",
                 "🇩🇪 DE | 🔒 VLESS | @info_2it_channel [4]",
+                "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇺🇸 US | 🔒 VLESS | @iran_mehr_vpn [10]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
@@ -177,7 +174,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
-                "🇩🇪 DE | 🔒 VLESS | @v2trayproxy [18]",
                 "🇷🇺 RU | 🔒 VLESS | @vipnetmeli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @vipnetmeli [3]",
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
@@ -274,29 +270,6 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [69]",
-            "type": "vless",
-            "server": "185.248.187.69",
-            "server_port": 10297,
-            "uuid": "9db6acf4-d3d3-4176-f704-0da5f6da6165",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.sega.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
             "type": "vless",
             "server": "172.232.33.18",
@@ -362,29 +335,6 @@
                     "enabled": true,
                     "public_key": "liDJBs0Z831sti-z1AqSshl-QKcJqjxLAdADy1uXvzg",
                     "short_id": "96c58a92f1dd5eaa"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @fastfreeconfig [57]",
-            "type": "vless",
-            "server": "5.135.21.191",
-            "server_port": 8880,
-            "uuid": "e02208b6-2626-49ef-8b93-0d80ed33f4ac",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "canva.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc",
-                    "short_id": "8b62ab46"
                 }
             }
         },
@@ -608,6 +558,29 @@
                     "enabled": true,
                     "public_key": "VmeqUAFd3DaIfRoft8vuZSP2ZVTsuvG5HquKiIGE2Bs",
                     "short_id": "a9"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
+            "type": "vless",
+            "server": "5.135.21.191",
+            "server_port": 8880,
+            "uuid": "e02208b6-2626-49ef-8b93-0d80ed33f4ac",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "canva.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc",
+                    "short_id": "8b62ab46"
                 }
             }
         },
@@ -1231,33 +1204,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Digiv2ray"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2trayproxy [18]",
-            "type": "vless",
-            "server": "91.107.142.194",
-            "server_port": 443,
-            "uuid": "bc43bf3e-b1b2-458c-ad55-7d6a8fe3ed35",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "5ga6Mlx6zQN_73YIFOA_UDVSqAB5qRFslGhQDDFvRl4",
-                    "short_id": "b9acf8d1"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "TELEGRAM: MYP_VPN"
             }
         },
         {
