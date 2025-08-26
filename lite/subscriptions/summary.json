@@ -1,19 +1,19 @@
 {
     "meta": {
-        "last_updated": "2025-08-26T07:23:33+00:00"
+        "last_updated": "2025-08-26T08:30:40+00:00"
     },
     "sources": {
-        "total_from_assets": 332,
+        "total_from_assets": 331,
         "had_configs_extracted": 331,
         "had_valid_configs": 331,
-        "removed_in_cleanup": 1
+        "removed_in_cleanup": 0
     },
     "configs": {
-        "total_valid": 842,
+        "total_valid": 843,
         "breakdown_by_protocol": {
-            "vless": 613,
-            "ss": 100,
-            "trojan": 22,
+            "vless": 615,
+            "ss": 98,
+            "trojan": 23,
             "vmess": 105,
             "hy2": 2
         }
@@ -21,39 +21,38 @@
     "outputs": {
         "location_files_created": 43,
         "country_distribution": {
-            "CF": 213,
-            "XX": 168,
-            "DE": 101,
-            "US": 82,
+            "CF": 214,
+            "XX": 169,
+            "DE": 105,
+            "US": 83,
             "IR": 68,
             "NL": 39,
-            "FR": 34,
-            "GB": 18,
-            "SE": 16,
-            "FI": 15,
+            "FR": 29,
+            "GB": 15,
+            "SE": 15,
+            "FI": 14,
             "RU": 12,
             "CA": 9,
-            "AT": 6,
+            "SK": 7,
             "IN": 6,
+            "TR": 5,
             "PL": 5,
             "JP": 5,
-            "TR": 4,
+            "AT": 5,
             "LT": 4,
             "IT": 4,
             "TW": 3,
             "AE": 3,
-            "SK": 3,
-            "HK": 2,
+            "SG": 2,
             "CH": 2,
             "CN": 2,
             "PT": 1,
-            "SG": 1,
             "VN": 1,
             "AU": 1,
-            "BG": 1,
             "CW": 1,
             "BO": 1,
             "DO": 1,
+            "HK": 1,
             "NZ": 1,
             "ES": 1,
             "AM": 1,
@@ -61,6 +60,7 @@
             "KZ": 1,
             "MT": 1,
             "KH": 1,
+            "GT": 1,
             "HU": 1,
             "GI": 1,
             "NO": 1

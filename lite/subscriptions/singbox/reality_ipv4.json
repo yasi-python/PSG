@@ -95,7 +95,7 @@
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
-                "🇭🇰 HK | 🔒 VLESS | @fastfreeconfig [58]",
+                "🇹🇷 TR | 🔒 VLESS | @freakconfig [14]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -149,7 +149,7 @@
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
-                "🇭🇰 HK | 🔒 VLESS | @fastfreeconfig [58]",
+                "🇹🇷 TR | 🔒 VLESS | @freakconfig [14]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -345,16 +345,16 @@
             }
         },
         {
-            "tag": "🇭🇰 HK | 🔒 VLESS | @fastfreeconfig [58]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @freakconfig [14]",
             "type": "vless",
-            "server": "82.153.220.10",
+            "server": "62.60.233.250",
             "server_port": 443,
-            "uuid": "694e7135-1a12-4ad0-a53f-b9217746bf9e",
+            "uuid": "fd0cdd44-2361-11f0-9970-45e1d80c4039",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "srhrforall.org",
+                "server_name": "images.apple.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -362,8 +362,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ",
-                    "short_id": "6412"
+                    "public_key": "MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw",
+                    "short_id": "4476a3"
                 }
             }
         },
