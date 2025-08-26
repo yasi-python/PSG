@@ -56,6 +56,7 @@ proxies:
   - {"name":"❔ XX | 🔒 TROJAN | @xrayzxn [1]","type":"trojan","server":"amin.karkas1.ir","port":443,"password":"e6b506e9-2d37-40cb-aff9-35678d0e6c69","skip-cert-verify":false}
   - {"name":"❔ XX | 🔒 TROJAN | @xrayzxn [2]","type":"trojan","server":"amin.karkas1.ir","port":443,"password":"db19fc68-c027-4641-a8eb-eed3e1065c8a","skip-cert-verify":false}
   - {"name":"❔ XX | 🔒 TROJAN | @xrayzxn [5]","type":"trojan","server":"amin.karkas1.ir","port":443,"password":"11ae0edd-2f63-4495-8683-037abbda9986","skip-cert-verify":false}
+  - {"name":"🚩 CF | 🔒 TROJAN | @config_proxy [53]","type":"trojan","server":"172.67.181.173","port":443,"password":"f282b878-8711-45a1-8c69-5564172123c1","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔒 TROJAN | @directvpn [4]","type":"trojan","server":"63.179.37.208","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @directvpn [5]","type":"trojan","server":"52.47.53.180","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @directvpn [6]","type":"trojan","server":"13.37.54.205","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
@@ -113,10 +114,9 @@ proxies:
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]","type":"trojan","server":"13.39.136.125","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]","type":"trojan","server":"13.36.1.17","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]","type":"trojan","server":"51.91.11.29","port":80,"password":"598c19f3-a48e-47cd-8451-1ba04ea094d0","skip-cert-verify":false}
-  - {"name":"🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [17]","type":"trojan","server":"35.181.143.110","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
+  - {"name":"🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [15]","type":"trojan","server":"35.181.143.110","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]","type":"trojan","server":"135.181.253.237","port":443,"password":"cba32ac1-abbb-4371-ba50-19eb5c38748c","skip-cert-verify":false}
-  - {"name":"🇸🇪 SE | 🔓 TROJAN | @v2raych [11]","type":"trojan","server":"185.146.173.52","port":8880,"password":"23b41d65-d0b2-4a50-f94d-ae187e0bd456","skip-cert-verify":false}
-  - {"name":"🚩 CF | 🔒 TROJAN | @v2raych [16]","type":"trojan","server":"104.20.22.19","port":443,"password":"auto","skip-cert-verify":false}
+  - {"name":"🇺🇸 US | 🔒 TROJAN | @v2raych [12]","type":"trojan","server":"92.53.189.194","port":2096,"password":"ttfang","skip-cert-verify":false}
   - {"name":"🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]","type":"trojan","server":"145.239.237.92","port":443,"password":"f0532122-948c-46cf-a392-15cc8233d1c0","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]","type":"trojan","server":"146.19.215.81","port":443,"password":"769c2da7-add3-42e8-a03c-07be9fcf483c","skip-cert-verify":false}
   - {"name":"🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]","type":"trojan","server":"15.222.9.61","port":22222,"password":"telegram-id-directvpn","skip-cert-verify":false}
@@ -183,6 +183,7 @@ proxy-groups:
       - '❔ XX | 🔒 TROJAN | @xrayzxn [1]'
       - '❔ XX | 🔒 TROJAN | @xrayzxn [2]'
       - '❔ XX | 🔒 TROJAN | @xrayzxn [5]'
+      - '🚩 CF | 🔒 TROJAN | @config_proxy [53]'
       - '🇩🇪 DE | 🔒 TROJAN | @directvpn [4]'
       - '🇫🇷 FR | 🔒 TROJAN | @directvpn [5]'
       - '🇫🇷 FR | 🔒 TROJAN | @directvpn [6]'
@@ -240,10 +241,9 @@ proxy-groups:
       - '🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]'
       - '🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]'
       - '🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]'
-      - '🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [17]'
+      - '🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [15]'
       - '🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]'
-      - '🇸🇪 SE | 🔓 TROJAN | @v2raych [11]'
-      - '🚩 CF | 🔒 TROJAN | @v2raych [16]'
+      - '🇺🇸 US | 🔒 TROJAN | @v2raych [12]'
       - '🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]'
       - '🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]'
       - '🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]'

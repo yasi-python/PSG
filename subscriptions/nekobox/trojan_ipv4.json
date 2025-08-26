@@ -80,6 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🚩 CF | 🔒 TROJAN | @config_proxy [53]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [4]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [5]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [6]",
@@ -137,10 +138,9 @@
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [17]",
+                "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [15]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇸🇪 SE | 🔓 TROJAN | @v2raych [11]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [16]",
+                "🇺🇸 US | 🔒 TROJAN | @v2raych [12]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -171,6 +171,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🚩 CF | 🔒 TROJAN | @config_proxy [53]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [4]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [5]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [6]",
@@ -228,10 +229,9 @@
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [17]",
+                "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [15]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇸🇪 SE | 🔓 TROJAN | @v2raych [11]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [16]",
+                "🇺🇸 US | 🔒 TROJAN | @v2raych [12]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -338,6 +338,29 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @config_proxy [53]",
+            "type": "trojan",
+            "server": "172.67.181.173",
+            "server_port": 443,
+            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "tls": {
+                "enabled": true,
+                "server_name": "vpn.stupidworld.web.id",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "vpn.stupidworld.web.id"
                 }
             }
         },
@@ -1310,7 +1333,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [17]",
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @v2ray_free_conf [15]",
             "type": "trojan",
             "server": "35.181.143.110",
             "server_port": 22223,
@@ -1342,21 +1365,14 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔓 TROJAN | @v2raych [11]",
+            "tag": "🇺🇸 US | 🔒 TROJAN | @v2raych [12]",
             "type": "trojan",
-            "server": "185.146.173.52",
-            "server_port": 8880,
-            "password": "23b41d65-d0b2-4a50-f94d-ae187e0bd456"
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @v2raych [16]",
-            "type": "trojan",
-            "server": "104.20.22.19",
-            "server_port": 443,
-            "password": "auto",
+            "server": "92.53.189.194",
+            "server_port": 2096,
+            "password": "ttfang",
             "tls": {
                 "enabled": true,
-                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
+                "server_name": "ttfang.fange.me",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1365,9 +1381,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/b96ef9ae.trojanfree-76s.pages.dev/",
+                "path": "/Telegram",
                 "headers": {
-                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
+                    "Host": "ttfang.fange.me"
                 }
             }
         },

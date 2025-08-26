@@ -118,7 +118,8 @@
         "types": [
             "vless",
             "ss",
-            "vmess"
+            "vmess",
+            "trojan"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -349,7 +350,6 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "hy2",
             "trojan",
             "ss"
         ],
@@ -1226,8 +1226,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2013,7 +2013,6 @@
     "v2ray_free_conf": {
         "types": [
             "ss",
-            "vless",
             "trojan",
             "vmess"
         ],
