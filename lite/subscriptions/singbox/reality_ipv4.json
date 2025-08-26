@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [44]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
@@ -114,11 +113,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
-                "🇺🇸 US | 🔒 VLESS | @lranonline_new [4]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [6]",
+                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [3]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
@@ -151,7 +149,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [44]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [4]",
@@ -173,11 +170,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
-                "🇺🇸 US | 🔒 VLESS | @lranonline_new [4]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [6]",
+                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [3]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇷🇺 RU | 🔒 VLESS | @proxyfn [17]",
@@ -282,29 +278,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [44]",
-            "type": "vless",
-            "server": "138.197.215.108",
-            "server_port": 443,
-            "uuid": "dead1bb8-e95a-4517-8ed2-e0694de80ba6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.icloud.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YyHLH09FoCQ7NvAPFcjXfjIiKU7wRTi-Ri8ahnqaoGU",
-                    "short_id": "5175dd3850"
                 }
             }
         },
@@ -808,29 +781,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @lranonline_new [4]",
-            "type": "vless",
-            "server": "5.181.171.10",
-            "server_port": 443,
-            "uuid": "49ed01ad-3bb4-204f-b0ff-a58f658fd618",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "speed.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
             "type": "vless",
             "server": "128.140.117.198",
@@ -904,7 +854,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @mowjproxy [6]",
+            "tag": "🇬🇧 GB | 🔒 VLESS | @mowjproxy [3]",
             "type": "vless",
             "server": "51.75.162.3",
             "server_port": 443,

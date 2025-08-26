@@ -152,13 +152,6 @@
         "title": "𝗖𝗼𝗻𝗳𝗶𝗴𝘀 𝗖𝗲𝗻𝘁𝗲𝗿",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/configscenter.jpg"
     },
-    "configsstore": {
-        "types": [
-            "vmess"
-        ],
-        "title": "configsstore",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/configsstore.jpg"
-    },
     "configtrapi": {
         "types": [
             "vless",
@@ -347,7 +340,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan",
+            "hy2"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -683,9 +678,9 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "ss",
             "trojan",
+            "vmess",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -1238,9 +1233,8 @@
     },
     "msv2flyng": {
         "types": [
-            "vless",
-            "ss",
             "vmess",
+            "vless",
             "hy2",
             "trojan"
         ],
@@ -1556,7 +1550,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -1998,8 +1993,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "ss",
+            "vmess",
             "trojan",
             "vless"
         ],
@@ -2063,7 +2058,8 @@
     "v2raych": {
         "types": [
             "vless",
-            "trojan"
+            "ss",
+            "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2084,7 +2080,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2392,7 +2389,8 @@
     },
     "vpn_ioss": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "کانفیگ سرور V2rayng🔐",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vpn_ioss.jpg"

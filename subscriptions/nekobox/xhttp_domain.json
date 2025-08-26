@@ -81,6 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [45]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -115,6 +116,7 @@
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [4]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -134,6 +136,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [45]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -168,6 +171,7 @@
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [4]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -273,6 +277,24 @@
             "uuid": "7fa08b3d-86d8-4b14-92b3-4c56a83f027d",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [45]",
+            "type": "vless",
+            "server": "sss48716.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "92b022a6-67f3-4406-840b-8fec2f4aace8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss48716.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
@@ -642,6 +664,24 @@
             "server": "cname.proxystore11.news",
             "server_port": 8443,
             "uuid": "d8be0f7f-1052-4d9d-990a-c563fe12ddc4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "prx11.proxystore11.news",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [13]",
+            "type": "vless",
+            "server": "cname.proxystore11.news",
+            "server_port": 8443,
+            "uuid": "42fdc328-a930-40c4-8051-822dac85323a",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {

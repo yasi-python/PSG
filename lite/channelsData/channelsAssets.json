@@ -350,7 +350,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan",
+            "hy2"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -692,9 +694,9 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "ss",
             "trojan",
+            "vmess",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -1041,7 +1043,8 @@
     },
     "lranonline_new": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Iran Online New",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/lranonline_new.jpg"
@@ -1225,8 +1228,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1248,9 +1251,8 @@
     },
     "msv2flyng": {
         "types": [
-            "vless",
-            "ss",
             "vmess",
+            "vless",
             "hy2",
             "trojan"
         ],
@@ -1568,7 +1570,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2011,8 +2014,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "ss",
+            "vmess",
             "trojan",
             "vless"
         ],
@@ -2097,7 +2100,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2349,7 +2353,8 @@
     },
     "vpn_ioss": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "کانفیگ سرور V2rayng🔐",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn_ioss.jpg"
