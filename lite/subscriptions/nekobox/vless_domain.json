@@ -219,7 +219,7 @@
                 "❔ XX | 🔓 VLESS | @miov2ray [12]",
                 "❔ XX | 🔓 VLESS | @miyanbor_vpn [1]",
                 "🇩🇪 DE | 🔓 VLESS | @moon_ping [1]",
-                "🇳🇱 NL | 🔒 VLESS | @mowjproxy [5]",
+                "🇳🇱 NL | 🔒 VLESS | @mowjproxy [1]",
                 "❔ XX | 🔒 VLESS | @mrvpn1403 [3]",
                 "❔ XX | 🔒 VLESS | @mrvpn1403 [4]",
                 "❔ XX | 🔒 VLESS | @mrvpn1403 [5]",
@@ -258,8 +258,7 @@
                 "🚩 CF | 🔒 VLESS | @proxy_iranv2 [3]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
                 "🇮🇷 IR | 🔓 VLESS | @proxy_kuto [1]",
-                "🚩 CF | 🔓 VLESS | @proxy_mtproto_vpns_free [13]",
-                "🚩 CF | 🔓 VLESS | @proxy_v2box [13]",
+                "🚩 CF | 🔓 VLESS | @proxy_mtproto_vpns_free [8]",
                 "🇮🇷 IR | 🔒 VLESS | @proxycrone [13]",
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [14]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
@@ -275,7 +274,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [10]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -507,7 +506,7 @@
                 "❔ XX | 🔓 VLESS | @miov2ray [12]",
                 "❔ XX | 🔓 VLESS | @miyanbor_vpn [1]",
                 "🇩🇪 DE | 🔓 VLESS | @moon_ping [1]",
-                "🇳🇱 NL | 🔒 VLESS | @mowjproxy [5]",
+                "🇳🇱 NL | 🔒 VLESS | @mowjproxy [1]",
                 "❔ XX | 🔒 VLESS | @mrvpn1403 [3]",
                 "❔ XX | 🔒 VLESS | @mrvpn1403 [4]",
                 "❔ XX | 🔒 VLESS | @mrvpn1403 [5]",
@@ -546,8 +545,7 @@
                 "🚩 CF | 🔒 VLESS | @proxy_iranv2 [3]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
                 "🇮🇷 IR | 🔓 VLESS | @proxy_kuto [1]",
-                "🚩 CF | 🔓 VLESS | @proxy_mtproto_vpns_free [13]",
-                "🚩 CF | 🔓 VLESS | @proxy_v2box [13]",
+                "🚩 CF | 🔓 VLESS | @proxy_mtproto_vpns_free [8]",
                 "🇮🇷 IR | 🔒 VLESS | @proxycrone [13]",
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [14]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
@@ -563,7 +561,7 @@
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [10]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [13]",
                 "❔ XX | 🔓 VLESS | @realvpnmaster [14]",
@@ -3044,7 +3042,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @mowjproxy [5]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @mowjproxy [1]",
             "type": "vless",
             "server": "shirehtoot.salamatmarel.ir",
             "server_port": 2087,
@@ -3816,29 +3814,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @proxy_mtproto_vpns_free [13]",
+            "tag": "🚩 CF | 🔓 VLESS | @proxy_mtproto_vpns_free [8]",
             "type": "vless",
             "server": "Www.speedtest.net",
             "server_port": 2095,
             "uuid": "b6a137d5-2204-4f7c-cd4e-cb400e04b111",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @proxy_v2box [13]",
-            "type": "vless",
-            "server": "tgju.org",
-            "server_port": 80,
-            "uuid": "2b277eea-66b2-4f3a-b934-46225c1f5e6f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed",
-                "headers": {
-                    "Host": "tgju.org"
-                }
-            }
         },
         {
             "tag": "🇮🇷 IR | 🔒 VLESS | @proxycrone [13]",
@@ -4163,7 +4145,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
