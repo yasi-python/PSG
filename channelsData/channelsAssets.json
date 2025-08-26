@@ -115,9 +115,9 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
+            "vless",
             "ss",
-            "vless"
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -345,10 +345,10 @@
     },
     "fastfreeconfig": {
         "types": [
-            "ss",
             "vless",
-            "trojan",
-            "hy2"
+            "ss",
+            "hy2",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -877,6 +877,7 @@
     },
     "kanfig_majani": {
         "types": [
+            "ss",
             "vless"
         ],
         "title": "کانفیگ رایگان | کانفیگ مجانی",
@@ -1207,8 +1208,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1980,8 +1981,8 @@
     },
     "v2ray_collector": {
         "types": [
-            "vless",
-            "trojan"
+            "trojan",
+            "vless"
         ],
         "title": "V2rayCollector",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_collector.jpg"
@@ -2385,7 +2386,7 @@
             "ss",
             "vless"
         ],
-        "title": "451°F VPN || НОВОСТИ",
+        "title": "451°F VPN•НОВОСТИ•NEWS",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vpn451.jpg"
     },
     "vpn_ioss": {
@@ -2533,8 +2534,8 @@
     "zerobaipiao": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/zerobaipiao.jpg"

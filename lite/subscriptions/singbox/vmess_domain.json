@@ -95,7 +95,7 @@
                 "❔ XX | 🔓 VMESS | @armodchannel [62]",
                 "❔ XX | 🔓 VMESS | @armodchannel [63]",
                 "🇺🇸 US | 🔒 VMESS | @bypass_filter [1]",
-                "🇺🇸 US | 🔓 VMESS | @config_proxy [54]",
+                "🚩 CF | 🔓 VMESS | @config_proxy [57]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -118,7 +118,7 @@
                 "🇩🇪 DE | 🔓 VMESS | @freevmess [5]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [20]",
+                "🚩 CF | 🔓 VMESS | @hope_net [18]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [14]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
@@ -138,6 +138,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [4]",
                 "❔ XX | 🔓 VMESS | @napsterntvtm [1]",
                 "❔ XX | 🔓 VMESS | @net_azad_1 [11]",
                 "🚩 CF | 🔓 VMESS | @nn_vpn [2]",
@@ -201,7 +202,7 @@
                 "❔ XX | 🔓 VMESS | @armodchannel [62]",
                 "❔ XX | 🔓 VMESS | @armodchannel [63]",
                 "🇺🇸 US | 🔒 VMESS | @bypass_filter [1]",
-                "🇺🇸 US | 🔓 VMESS | @config_proxy [54]",
+                "🚩 CF | 🔓 VMESS | @config_proxy [57]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -224,7 +225,7 @@
                 "🇩🇪 DE | 🔓 VMESS | @freevmess [5]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [20]",
+                "🚩 CF | 🔓 VMESS | @hope_net [18]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [14]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
@@ -244,6 +245,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [4]",
                 "❔ XX | 🔓 VMESS | @napsterntvtm [1]",
                 "❔ XX | 🔓 VMESS | @net_azad_1 [11]",
                 "🚩 CF | 🔓 VMESS | @nn_vpn [2]",
@@ -446,16 +448,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @config_proxy [54]",
+            "tag": "🚩 CF | 🔓 VMESS | @config_proxy [57]",
             "type": "vmess",
-            "server": "38.14.107.233",
-            "server_port": 38003,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+            "server": "104.21.15.36",
+            "server_port": 443,
+            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
             "security": "auto",
-            "alter_id": 64,
+            "alter_id": 0,
             "tls": {
                 "enabled": true,
-                "server_name": "",
+                "server_name": "linde06.indiavideo.sbs",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -464,9 +466,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/path/340434130032",
+                "path": "/linkws",
                 "headers": {
-                    "Host": ""
+                    "Host": "linde06.indiavideo.sbs"
                 }
             }
         },
@@ -853,7 +855,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🚩 CF | 🔓 VMESS | @hope_net [20]",
+            "tag": "🚩 CF | 🔓 VMESS | @hope_net [18]",
             "type": "vmess",
             "server": "104.21.9.236",
             "server_port": 443,
@@ -1143,6 +1145,31 @@
             "uuid": "ad687825-5f77-428f-d3b0-34e59db68fa2",
             "security": "auto",
             "alter_id": 0
+        },
+        {
+            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [4]",
+            "type": "vmess",
+            "server": "104.17.148.22",
+            "server_port": 2083,
+            "uuid": "8ae65664-84e8-40e1-9708-9236f0808dfd",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "api3.waltonweb.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/panel?ed=2560",
+                "headers": {
+                    "Host": "api3.waltonweb.ir"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔓 VMESS | @napsterntvtm [1]",
