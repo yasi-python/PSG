@@ -115,9 +115,9 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -345,8 +345,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
@@ -683,9 +683,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "vless",
             "ss",
+            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -1243,8 +1243,8 @@
     },
     "msv2flyng": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess",
             "hy2",
             "trojan"
@@ -1344,8 +1344,8 @@
     },
     "netmellianti": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPN | V2rayNG | نت ملی",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/netmellianti.jpg"
@@ -2003,10 +2003,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
             "trojan",
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2067,9 +2067,7 @@
     },
     "v2raych": {
         "types": [
-            "ss",
             "vless",
-            "trojan",
             "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -2541,8 +2539,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
