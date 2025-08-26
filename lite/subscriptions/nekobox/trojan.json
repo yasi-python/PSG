@@ -89,12 +89,11 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇭🇰 HK | 🔒 TROJAN | @msv2flyng [12]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🚩 CF | 🔒 TROJAN | @outlinev2rayng [17]",
+                "🚩 CF | 🔒 TROJAN | @outlinev2rayng [15]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]",
@@ -121,12 +120,11 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [18]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇭🇰 HK | 🔒 TROJAN | @msv2flyng [12]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🚩 CF | 🔒 TROJAN | @outlinev2rayng [17]",
+                "🚩 CF | 🔒 TROJAN | @outlinev2rayng [15]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [18]",
@@ -391,29 +389,6 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [18]",
-            "type": "trojan",
-            "server": "104.20.19.14",
-            "server_port": 443,
-            "password": "auto",
-            "tls": {
-                "enabled": true,
-                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/b96ef9ae.trojanfree-76s.pages.dev/",
-                "headers": {
-                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
             "type": "trojan",
             "server": "104.149.155.13",
@@ -478,7 +453,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @outlinev2rayng [17]",
+            "tag": "🚩 CF | 🔒 TROJAN | @outlinev2rayng [15]",
             "type": "trojan",
             "server": "172.67.156.25",
             "server_port": 443,
