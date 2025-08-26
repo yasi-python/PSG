@@ -82,6 +82,7 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 VLESS | @Fr33C0nfig [51]",
                 "🇩🇪 DE | 🔒 VLESS | @Fr33C0nfig [52]",
+                "🇸🇪 SE | 🔒 VLESS | @NamiraConfigs [69]",
                 "❔ XX | 🔓 VLESS | @ai_duet [9]",
                 "🇮🇷 IR | 🔓 VLESS | @ai_duet [10]",
                 "🇮🇷 IR | 🔓 VLESS | @ai_duet [11]",
@@ -121,7 +122,7 @@
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [30]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [56]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🚩 CF | 🔓 VLESS | @filterk0sh [15]",
@@ -205,7 +206,6 @@
                 "❔ XX | 🔒 VLESS | @mastervpnshop1 [18]",
                 "❔ XX | 🔒 VLESS | @maxvpnc [8]",
                 "❔ XX | 🔓 VLESS | @maxvpnc [10]",
-                "🚩 CF | 🔒 VLESS | @megavpn_link [10]",
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [11]",
                 "🚩 CF | 🔓 VLESS | @melov2ray [56]",
                 "🚩 CF | 🔓 VLESS | @melov2ray [57]",
@@ -224,6 +224,7 @@
                 "❔ XX | 🔓 VLESS | @mt_proxy [6]",
                 "🚩 CF | 🔓 VLESS | @mtproxy22_v2ray [7]",
                 "🚩 CF | 🔓 VLESS | @mtproxy22_v2ray [8]",
+                "🚩 CF | 🔓 VLESS | @mtproxy22_v2ray [9]",
                 "🇨🇦 CA | 🔒 VLESS | @n2vpn [8]",
                 "🇨🇦 CA | 🔒 VLESS | @n2vpn [9]",
                 "🇨🇦 CA | 🔒 VLESS | @n2vpn [10]",
@@ -367,6 +368,7 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 VLESS | @Fr33C0nfig [51]",
                 "🇩🇪 DE | 🔒 VLESS | @Fr33C0nfig [52]",
+                "🇸🇪 SE | 🔒 VLESS | @NamiraConfigs [69]",
                 "❔ XX | 🔓 VLESS | @ai_duet [9]",
                 "🇮🇷 IR | 🔓 VLESS | @ai_duet [10]",
                 "🇮🇷 IR | 🔓 VLESS | @ai_duet [11]",
@@ -406,7 +408,7 @@
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [30]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [56]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇮🇷 IR | 🔓 VLESS | @fastvpnorummobile [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🚩 CF | 🔓 VLESS | @filterk0sh [15]",
@@ -490,7 +492,6 @@
                 "❔ XX | 🔒 VLESS | @mastervpnshop1 [18]",
                 "❔ XX | 🔒 VLESS | @maxvpnc [8]",
                 "❔ XX | 🔓 VLESS | @maxvpnc [10]",
-                "🚩 CF | 🔒 VLESS | @megavpn_link [10]",
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [11]",
                 "🚩 CF | 🔓 VLESS | @melov2ray [56]",
                 "🚩 CF | 🔓 VLESS | @melov2ray [57]",
@@ -509,6 +510,7 @@
                 "❔ XX | 🔓 VLESS | @mt_proxy [6]",
                 "🚩 CF | 🔓 VLESS | @mtproxy22_v2ray [7]",
                 "🚩 CF | 🔓 VLESS | @mtproxy22_v2ray [8]",
+                "🚩 CF | 🔓 VLESS | @mtproxy22_v2ray [9]",
                 "🇨🇦 CA | 🔒 VLESS | @n2vpn [8]",
                 "🇨🇦 CA | 🔒 VLESS | @n2vpn [9]",
                 "🇨🇦 CA | 🔒 VLESS | @n2vpn [10]",
@@ -772,6 +774,24 @@
                     "enabled": true,
                     "public_key": "LXS3vBxlhdHViwhW3PRdxxF8yB6FJhghGElRW9wkQRg",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪 SE | 🔒 VLESS | @NamiraConfigs [69]",
+            "type": "vless",
+            "server": "ssl1.komanserver.ir",
+            "server_port": 443,
+            "uuid": "7c64f248-eeea-4d74-8851-39aee486e287",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "am.komanserver.ir.",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -1437,18 +1457,27 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @fastfreeconfig [56]",
+            "tag": "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
             "type": "vless",
-            "server": "brainy-party.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "34797f17-09a1-400c-9f4b-275718d62a0f",
+            "server": "cleanv2itech1.freesdns.info",
+            "server_port": 443,
+            "uuid": "329d8863-42ce-4015-b9b9-8417499cc174",
             "flow": "",
             "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "m1.freesdns.info.",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "brainy-party.seotoolsforyou.co.uk"
+                    "Host": "m1.freesdns.info."
                 }
             }
         },
@@ -2820,31 +2849,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @megavpn_link [10]",
-            "type": "vless",
-            "server": "cleanv2itech1.freesdns.info",
-            "server_port": 443,
-            "uuid": "329d8863-42ce-4015-b9b9-8417499cc174",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "m1.freesdns.info.",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "m1.freesdns.info."
-                }
-            }
-        },
-        {
             "tag": "🇮🇷 IR | 🔓 VLESS | @megavpn_link [11]",
             "type": "vless",
             "server": "i.ownlink.pro",
@@ -3150,6 +3154,22 @@
                 "path": "/",
                 "headers": {
                     "Host": "wild-bird.seotoolsforyou.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @mtproxy22_v2ray [9]",
+            "type": "vless",
+            "server": "brainy-party.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "34797f17-09a1-400c-9f4b-275718d62a0f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "brainy-party.seotoolsforyou.co.uk"
                 }
             }
         },

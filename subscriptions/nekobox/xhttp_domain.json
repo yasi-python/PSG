@@ -81,6 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [40]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -114,8 +115,8 @@
                 "🇺🇸 US | 🔓 VLESS | @outline_ir [10]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [2]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [2]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -135,6 +136,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [40]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -168,8 +170,8 @@
                 "🇺🇸 US | 🔓 VLESS | @outline_ir [10]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [2]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [2]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -273,6 +275,15 @@
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "7fa08b3d-86d8-4b14-92b3-4c56a83f027d",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [40]",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -639,7 +650,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [2]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [2]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
@@ -657,7 +668,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
