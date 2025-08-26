@@ -104,7 +104,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [13]",
                 "🚩 CF | 🔒 VLESS | @proxie [17]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
-                "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [3]",
+                "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [1]",
@@ -126,8 +126,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [7]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
-                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [6]"
+                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -162,7 +161,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [13]",
                 "🚩 CF | 🔒 VLESS | @proxie [17]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
-                "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [3]",
+                "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [1]",
@@ -184,8 +183,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [7]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
-                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [6]"
+                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -649,7 +647,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [3]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @proxy_mtproto_vpns_free [1]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -1091,15 +1089,6 @@
                     "short_id": "aa60a00122200b76"
                 }
             }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "91.99.145.167",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {

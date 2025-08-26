@@ -8,12 +8,13 @@
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/Fr33C0nfig.jpg"
     },
     "NamiraConfigs": {
-        "title": "NamiraConfigs",
-        "logo": "",
         "types": [
             "ss",
-            "vless"
-        ]
+            "vless",
+            "vmess"
+        ],
+        "title": "NamiraNet",
+        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraConfigs.jpg"
     },
     "ai_duet": {
         "types": [
@@ -349,8 +350,7 @@
         "types": [
             "vless",
             "ss",
-            "trojan",
-            "hy2"
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -456,9 +456,9 @@
     },
     "free4allvpn": {
         "types": [
-            "ss",
+            "vless",
             "vmess",
-            "vless"
+            "ss"
         ],
         "title": "Shadowsocks Outline Vmess Open VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free4allvpn.jpg"
@@ -700,8 +700,8 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "trojan",
+            "vless",
             "ss",
             "vmess"
         ],
@@ -2016,10 +2016,10 @@
     },
     "v2ray_free_conf": {
         "types": [
+            "ss",
             "vless",
-            "vmess",
             "trojan",
-            "ss"
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2177,15 +2177,6 @@
         ],
         "title": "V2rayNG (کانال فیلتر شکن )",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngchannelll.jpg"
-    },
-    "v2rayngconfig": {
-        "types": [
-            "vmess",
-            "ss",
-            "trojan"
-        ],
-        "title": "v2rayNG - کانفیگ",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngconfig.jpg"
     },
     "v2rayngconfiig": {
         "types": [
