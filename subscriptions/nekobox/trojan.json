@@ -86,7 +86,6 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [50]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [3]",
@@ -94,6 +93,7 @@
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [4]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
+                "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
                 "❔ XX | 🔒 TROJAN | @public504 [4]",
                 "🇸🇪 SE | 🔒 TROJAN | @sobyv2ray [3]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [1]",
@@ -130,9 +130,8 @@
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [6]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [5]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [7]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [13]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [11]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -203,7 +202,6 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [50]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [3]",
@@ -211,6 +209,7 @@
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [4]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
+                "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
                 "❔ XX | 🔒 TROJAN | @public504 [4]",
                 "🇸🇪 SE | 🔒 TROJAN | @sobyv2ray [3]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [1]",
@@ -247,9 +246,8 @@
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [6]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [5]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [7]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [13]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [11]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -500,26 +498,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @fastfreeconfig [50]",
-            "type": "trojan",
-            "server": "maradona_vpn.history-paint.art",
-            "server_port": 443,
-            "password": "Maradona_vpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "teo.history-paint.art",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "grpc20337"
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
             "type": "trojan",
             "server": "us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen",
@@ -645,6 +623,26 @@
                 "headers": {
                     "Host": "teo.history-paint.art"
                 }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
+            "type": "trojan",
+            "server": "maradona_vpn.history-paint.art",
+            "server_port": 443,
+            "password": "Maradona_vpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "teo.history-paint.art",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "grpc20337"
             }
         },
         {
@@ -1255,30 +1253,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [7]",
-            "type": "trojan",
-            "server": "104.17.207.36",
-            "server_port": 443,
-            "password": "bIa-DailY_cOnFIgs",
-            "tls": {
-                "enabled": true,
-                "server_name": "kanale-daily-configs.blackoutconnection.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/TELEGRAM:@Daily_Configs?ed=2560",
-                "headers": {
-                    "Host": "kanale-daily-configs.blackoutconnection.ir"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [13]",
+            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [11]",
             "type": "trojan",
             "server": "104.17.147.22",
             "server_port": 2053,
@@ -1301,7 +1276,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
             "server": "104.18.71.140",
             "server_port": 443,

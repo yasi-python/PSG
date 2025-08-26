@@ -100,10 +100,10 @@
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "❔ XX | 🔒 VLESS | @fastfreeconfig [53]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
+                "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
                 "🇦🇪 AE | 🔒 VLESS | @iran_access [14]",
                 "❔ XX | 🔒 VLESS | @iranbaxvpn [7]",
-                "❔ XX | 🔒 VLESS | @iranbaxvpn [8]",
                 "❔ XX | 🔒 VLESS | @itv2ray [29]",
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
@@ -195,10 +195,10 @@
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "❔ XX | 🔒 VLESS | @fastfreeconfig [53]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
+                "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
                 "🇦🇪 AE | 🔒 VLESS | @iran_access [14]",
                 "❔ XX | 🔒 VLESS | @iranbaxvpn [7]",
-                "❔ XX | 🔒 VLESS | @iranbaxvpn [8]",
                 "❔ XX | 🔒 VLESS | @itv2ray [29]",
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
@@ -510,9 +510,36 @@
         {
             "tag": "❔ XX | 🔒 VLESS | @fastfreeconfig [53]",
             "type": "vless",
+            "server": "iranbaxvpn.v2rayn.com",
+            "server_port": 443,
+            "uuid": "5eb40b31-6d9b-461d-81c2-53909a01df5b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "iranbax.spacex.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U",
+                    "short_id": "9ff0c049e20b"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @fsv2ray [2]",
+            "type": "vless",
             "server": "FsV2ray.t-sub.site",
             "server_port": 12445,
-            "uuid": "493e3fd9-b696-4eca-9c68-cfb00c22ff55",
+            "uuid": "42e4edf7-efa5-4560-f4b3-a7e86a00dc86",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -535,11 +562,11 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @fsv2ray [2]",
+            "tag": "❔ XX | 🔒 VLESS | @fsv2ray [3]",
             "type": "vless",
             "server": "FsV2ray.t-sub.site",
             "server_port": 12445,
-            "uuid": "42e4edf7-efa5-4560-f4b3-a7e86a00dc86",
+            "uuid": "493e3fd9-b696-4eca-9c68-cfb00c22ff55",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -636,33 +663,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn"
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @iranbaxvpn [8]",
-            "type": "vless",
-            "server": "iranbaxvpn.v2rayn.com",
-            "server_port": 443,
-            "uuid": "5eb40b31-6d9b-461d-81c2-53909a01df5b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "iranbax.spacex.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U",
-                    "short_id": "9ff0c049e20b"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn"
             }
         },
         {

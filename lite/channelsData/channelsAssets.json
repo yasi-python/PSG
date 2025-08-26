@@ -10,6 +10,7 @@
     "NamiraConfigs": {
         "types": [
             "ss",
+            "trojan",
             "vless"
         ],
         "title": "NamiraNet",
@@ -115,9 +116,9 @@
     },
     "config_proxy": {
         "types": [
+            "ss",
             "vless",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -349,7 +350,8 @@
         "types": [
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "hy2"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -699,10 +701,10 @@
     },
     "hope_net": {
         "types": [
-            "vless",
-            "ss",
             "trojan",
-            "vmess"
+            "vmess",
+            "vless",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -2349,7 +2351,7 @@
             "ss",
             "vless"
         ],
-        "title": "451°F VPN || НОВОСТИ",
+        "title": "451°F VPN•НОВОСТИ•NEWS",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn451.jpg"
     },
     "vpn_ioss": {

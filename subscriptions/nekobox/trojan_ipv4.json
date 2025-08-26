@@ -97,9 +97,8 @@
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [6]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [5]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [7]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [13]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [11]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -181,9 +180,8 @@
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [6]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [5]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [7]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [13]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [11]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -591,30 +589,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [7]",
-            "type": "trojan",
-            "server": "104.17.207.36",
-            "server_port": 443,
-            "password": "bIa-DailY_cOnFIgs",
-            "tls": {
-                "enabled": true,
-                "server_name": "kanale-daily-configs.blackoutconnection.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/TELEGRAM:@Daily_Configs?ed=2560",
-                "headers": {
-                    "Host": "kanale-daily-configs.blackoutconnection.ir"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [13]",
+            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [11]",
             "type": "trojan",
             "server": "104.17.147.22",
             "server_port": 2053,
@@ -637,7 +612,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
             "server": "104.18.71.140",
             "server_port": 443,

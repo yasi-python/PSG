@@ -92,19 +92,17 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [55]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
-                "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -116,19 +114,17 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [55]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
-                "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -216,15 +212,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
@@ -270,20 +257,20 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [55]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "bf3c99e7-68b4-4bad-b110-ebaf2ecab772",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
             "type": "vless",
             "server": "alman.netblocksir.ir",
             "server_port": 8001,
             "uuid": "96f391f6-0762-4895-a57c-433360967ca8",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "bf3c99e7-68b4-4bad-b110-ebaf2ecab772",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -336,24 +323,6 @@
             "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]",
-            "type": "vless",
-            "server": "sss55168.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "e8a19247-cb95-4f9c-9c77-ea0355268762",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss55168.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
