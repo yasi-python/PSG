@@ -92,15 +92,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔒 SS | @fastfreeconfig [57]",
                 "🇨🇳 CN | 🔒 SS | @mftizi [18]",
                 "🇺🇸 US | 🔒 SS | @nationalproxytelegram [1]",
                 "🇺🇸 US | 🔒 SS | @nationalproxytelegram [2]",
                 "🇺🇸 US | 🔒 SS | @nationalproxytelegram [3]",
-                "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
                 "🇺🇸 US | 🔒 SS | @proxy48 [14]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [20]",
-                "🇺🇸 US | 🔒 SS | @v2ray_free_conf [19]",
                 "🇺🇸 US | 🔒 SS | @v2raybe [7]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [11]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [12]"
@@ -114,15 +113,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔒 SS | @fastfreeconfig [57]",
                 "🇨🇳 CN | 🔒 SS | @mftizi [18]",
                 "🇺🇸 US | 🔒 SS | @nationalproxytelegram [1]",
                 "🇺🇸 US | 🔒 SS | @nationalproxytelegram [2]",
                 "🇺🇸 US | 🔒 SS | @nationalproxytelegram [3]",
-                "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
                 "🇺🇸 US | 🔒 SS | @proxy48 [14]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [20]",
-                "🇺🇸 US | 🔒 SS | @v2ray_free_conf [19]",
                 "🇺🇸 US | 🔒 SS | @v2raybe [7]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [11]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [12]"
@@ -212,6 +210,14 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔒 SS | @fastfreeconfig [57]",
+            "type": "shadowsocks",
+            "server": "admin.c2.webramz.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "WstuSnlu4ieA9M0L"
+        },
+        {
             "tag": "🇨🇳 CN | 🔒 SS | @mftizi [18]",
             "type": "shadowsocks",
             "server": "hk01.x.quickcht3.club",
@@ -244,14 +250,6 @@
             "password": "u17T3BvpYaaiuW2c"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
-            "type": "shadowsocks",
-            "server": "admin.c2.webramz.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "WstuSnlu4ieA9M0L"
-        },
-        {
             "tag": "🇺🇸 US | 🔒 SS | @proxy48 [14]",
             "type": "shadowsocks",
             "server": "api.namasha.co",
@@ -274,14 +272,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @v2ray_free_conf [19]",
-            "type": "shadowsocks",
-            "server": "us.vmagnum.win",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "360e21d21977dc11"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @v2raybe [7]",

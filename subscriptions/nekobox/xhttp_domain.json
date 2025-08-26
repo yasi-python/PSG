@@ -81,7 +81,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
-                "🇦🇿 AZ | 🔒 VLESS | @config_proxy [54]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -136,7 +135,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
-                "🇦🇿 AZ | 🔒 VLESS | @config_proxy [54]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -277,29 +275,6 @@
             "uuid": "7fa08b3d-86d8-4b14-92b3-4c56a83f027d",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇦🇿 AZ | 🔒 VLESS | @config_proxy [54]",
-            "type": "vless",
-            "server": "azerbaijan.marzxox.shop",
-            "server_port": 210,
-            "uuid": "5acc210b-5dbe-41d6-9194-4dbd050db399",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn.jsdelivr.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8",
-                    "short_id": ""
-                }
-            }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",

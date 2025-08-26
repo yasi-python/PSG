@@ -80,6 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇹🇷 TR | 🔒 VLESS | @config_proxy [49]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [50]",
+                "🇲🇩 MD | 🔒 VLESS | @config_proxy [51]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [3]",
@@ -137,6 +140,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇹🇷 TR | 🔒 VLESS | @config_proxy [49]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [50]",
+                "🇲🇩 MD | 🔒 VLESS | @config_proxy [51]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [3]",
@@ -270,6 +276,75 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
+                }
+            }
+        },
+        {
+            "tag": "🇹🇷 TR | 🔒 VLESS | @config_proxy [49]",
+            "type": "vless",
+            "server": "193.57.136.223",
+            "server_port": 443,
+            "uuid": "tr0JXYME5xdoqpxCUAQKbN",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ya.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "yRZ-w03XW9KvvqdG2UpZJQ0Pt3ZSI9bgPOmEaUjqSRU",
+                    "short_id": "8ed73883bc0eb6a8"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [50]",
+            "type": "vless",
+            "server": "194.156.65.205",
+            "server_port": 443,
+            "uuid": "c8d98220-eee5-47ab-b311-b5a52c24d808",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cdnjs.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o",
+                    "short_id": "ac31827454d7f693"
+                }
+            }
+        },
+        {
+            "tag": "🇲🇩 MD | 🔒 VLESS | @config_proxy [51]",
+            "type": "vless",
+            "server": "194.156.67.206",
+            "server_port": 443,
+            "uuid": "c8d98220-eee5-47ab-b311-b5a52c24d808",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cdnjs.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o",
+                    "short_id": "ac31827454d7f693"
                 }
             }
         },
