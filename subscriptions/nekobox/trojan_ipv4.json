@@ -119,7 +119,7 @@
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [3]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇺🇸 US | 🔒 TROJAN | @netfreedom0 [11]",
-                "🚩 CF | 🔒 TROJAN | @outlinev2rayng [8]",
+                "🚩 CF | 🔒 TROJAN | @outlinev2rayng [6]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [3]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [4]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [5]",
@@ -136,10 +136,8 @@
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
+                "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇦🇲 AM | 🔒 TROJAN | @v2raych [8]",
-                "🇨🇼 CW | 🔒 TROJAN | @v2raych [9]",
-                "🇺🇸 US | 🔒 TROJAN | @v2raych [13]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -209,7 +207,7 @@
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [3]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇺🇸 US | 🔒 TROJAN | @netfreedom0 [11]",
-                "🚩 CF | 🔒 TROJAN | @outlinev2rayng [8]",
+                "🚩 CF | 🔒 TROJAN | @outlinev2rayng [6]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [3]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [4]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [5]",
@@ -226,10 +224,8 @@
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
+                "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇦🇲 AM | 🔒 TROJAN | @v2raych [8]",
-                "🇨🇼 CW | 🔒 TROJAN | @v2raych [9]",
-                "🇺🇸 US | 🔒 TROJAN | @v2raych [13]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -999,7 +995,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @outlinev2rayng [8]",
+            "tag": "🚩 CF | 🔒 TROJAN | @outlinev2rayng [6]",
             "type": "trojan",
             "server": "172.67.156.25",
             "server_port": 443,
@@ -1278,48 +1274,9 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
+            "tag": "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
             "type": "trojan",
-            "server": "135.181.253.237",
-            "server_port": 443,
-            "password": "cba32ac1-abbb-4371-ba50-19eb5c38748c",
-            "tls": {
-                "enabled": true,
-                "server_name": "xvqn.de",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇲 AM | 🔒 TROJAN | @v2raych [8]",
-            "type": "trojan",
-            "server": "5.10.214.216",
-            "server_port": 2096,
-            "password": "ttfang",
-            "tls": {
-                "enabled": true,
-                "server_name": "ttfang.fange.me",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram%F0%9F%87%A8%F0%9F%87%B3",
-                "headers": {
-                    "Host": "ttfang.fange.me"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇼 CW | 🔒 TROJAN | @v2raych [9]",
-            "type": "trojan",
-            "server": "5.10.247.194",
+            "server": "72.167.243.194",
             "server_port": 2096,
             "password": "ttfang",
             "tls": {
@@ -1340,25 +1297,18 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 TROJAN | @v2raych [13]",
+            "tag": "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
             "type": "trojan",
-            "server": "66.225.252.194",
-            "server_port": 2096,
-            "password": "ttfang",
+            "server": "135.181.253.237",
+            "server_port": 443,
+            "password": "cba32ac1-abbb-4371-ba50-19eb5c38748c",
             "tls": {
                 "enabled": true,
-                "server_name": "ttfang.fange.me",
+                "server_name": "xvqn.de",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram%F0%9F%87%A8%F0%9F%87%B3",
-                "headers": {
-                    "Host": "ttfang.fange.me"
                 }
             }
         },

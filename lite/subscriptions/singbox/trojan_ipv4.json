@@ -102,6 +102,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
+                "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [14]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [15]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [16]"
@@ -125,6 +126,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
+                "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [14]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [15]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [16]"
@@ -370,6 +372,29 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
+            "type": "trojan",
+            "server": "72.167.243.194",
+            "server_port": 2096,
+            "password": "ttfang",
+            "tls": {
+                "enabled": true,
+                "server_name": "ttfang.fange.me",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Telegram",
+                "headers": {
+                    "Host": "ttfang.fange.me"
                 }
             }
         },
