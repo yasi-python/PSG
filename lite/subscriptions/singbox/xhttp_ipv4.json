@@ -98,7 +98,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [7]",
-                "🇩🇪 DE | 🔓 VLESS | @kingofilter [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
@@ -115,7 +114,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesc [20]"
+                "🇩🇪 DE | 🔓 VLESS | @vmesc [19]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -132,7 +131,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [7]",
-                "🇩🇪 DE | 🔓 VLESS | @kingofilter [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
@@ -149,7 +147,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesc [20]"
+                "🇩🇪 DE | 🔓 VLESS | @vmesc [19]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -351,15 +349,6 @@
             "server": "91.99.126.93",
             "server_port": 8443,
             "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @kingofilter [1]",
-            "type": "vless",
-            "server": "91.99.216.9",
-            "server_port": 2009,
-            "uuid": "23dacc40-9cc0-4eae-975e-6ddc0b0d924e",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -660,7 +649,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesc [20]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesc [19]",
             "type": "vless",
             "server": "91.99.169.64",
             "server_port": 8443,
