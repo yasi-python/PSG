@@ -118,7 +118,8 @@
         "types": [
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -177,7 +178,8 @@
     },
     "confing_chanel": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Confing chanel",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/confing_chanel.jpg"
@@ -349,7 +351,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -690,9 +693,8 @@
     },
     "hope_net": {
         "types": [
-            "ss",
-            "vmess",
             "trojan",
+            "ss",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -764,7 +766,8 @@
     },
     "ipv2rayng": {
         "types": [
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "ipV2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ipv2rayng.jpg"
@@ -1247,10 +1250,10 @@
     },
     "msv2flyng": {
         "types": [
-            "vmess",
             "vless",
             "hy2",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "Msv2flyNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/msv2flyng.jpg"
@@ -1962,8 +1965,8 @@
     },
     "v2graphy": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "v2rayNG config",
@@ -2009,10 +2012,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
-            "vless",
             "ss",
-            "trojan"
+            "vless",
+            "trojan",
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
