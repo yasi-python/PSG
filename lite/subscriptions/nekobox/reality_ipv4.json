@@ -80,12 +80,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [33]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [30]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [3]",
                 "🇬🇧 GB | 🔒 VLESS | @expressvpn_420 [32]",
-                "🇦🇹 AT | 🔒 VLESS | @freakconfig [11]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -138,12 +137,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [33]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [30]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [3]",
                 "🇬🇧 GB | 🔒 VLESS | @expressvpn_420 [32]",
-                "🇦🇹 AT | 🔒 VLESS | @freakconfig [11]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -276,11 +274,11 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [33]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [30]",
             "type": "vless",
-            "server": "91.242.241.45",
+            "server": "95.164.68.37",
             "server_port": 8443,
-            "uuid": "1291f9ed-dbf1-4d3f-b5f2-3060c27725c6",
+            "uuid": "ce3af41c-a3bb-40db-af9c-1e7ecb2608e7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -293,7 +291,7 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM",
+                    "public_key": "WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY",
                     "short_id": ""
                 }
             }
@@ -387,29 +385,6 @@
                     "enabled": true,
                     "public_key": "aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens",
                     "short_id": "370dd394052f2386"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇹 AT | 🔒 VLESS | @freakconfig [11]",
-            "type": "vless",
-            "server": "5.181.21.152",
-            "server_port": 24170,
-            "uuid": "6a8ee307-a1fb-4801-92e2-86253ecdd88d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw",
-                    "short_id": "200f99e321"
                 }
             }
         },

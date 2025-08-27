@@ -81,7 +81,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [7]",
-                "🇺🇸 US | 🔒 SS | @fastfreeconfig [54]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [11]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [13]",
@@ -94,6 +93,7 @@
                 "❔ XX | 🔒 SS | @mt_proxy [5]",
                 "🇺🇸 US | 🔒 SS | @nationalproxytelegram [2]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [14]",
+                "🇺🇸 US | 🔒 SS | @nepo_v2ray [19]",
                 "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
                 "🇬🇮 GI | 🔒 SS | @outline_ir [11]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
@@ -120,7 +120,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [7]",
-                "🇺🇸 US | 🔒 SS | @fastfreeconfig [54]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [11]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [13]",
@@ -133,6 +132,7 @@
                 "❔ XX | 🔒 SS | @mt_proxy [5]",
                 "🇺🇸 US | 🔒 SS | @nationalproxytelegram [2]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [14]",
+                "🇺🇸 US | 🔒 SS | @nepo_v2ray [19]",
                 "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
                 "🇬🇮 GI | 🔒 SS | @outline_ir [11]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
@@ -246,14 +246,6 @@
             "password": "mps3FwmDjLrWaOVg"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @fastfreeconfig [54]",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c"
-        },
-        {
             "tag": "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
             "type": "shadowsocks",
             "server": "admin.c4.webramz.co",
@@ -348,6 +340,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @nepo_v2ray [19]",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
