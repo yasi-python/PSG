@@ -92,14 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @customvpnserver [23]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
-                "❔ XX | 🔓 VLESS | @freevv2rayng [10]",
-                "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
-                "❔ XX | 🔒 VLESS | @kesslervpn [2]",
-                "❔ XX | 🔓 VLESS | @selinc [4]",
-                "❔ XX | 🔓 VLESS | @v2ryngfree [9]",
-                "❔ XX | 🔓 VLESS | @v2ryngfree [11]"
+                "❔ XX | 🔓 VLESS | @selinc [3]",
+                "❔ XX | 🔓 VLESS | @selinc [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,14 +105,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @customvpnserver [23]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
-                "❔ XX | 🔓 VLESS | @freevv2rayng [10]",
-                "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
-                "❔ XX | 🔒 VLESS | @kesslervpn [2]",
-                "❔ XX | 🔓 VLESS | @selinc [4]",
-                "❔ XX | 🔓 VLESS | @v2ryngfree [9]",
-                "❔ XX | 🔓 VLESS | @v2ryngfree [11]"
+                "❔ XX | 🔓 VLESS | @selinc [3]",
+                "❔ XX | 🔓 VLESS | @selinc [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -204,15 +194,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @customvpnserver [23]",
-            "type": "vless",
-            "server": "[2a01:4f8:1c1a:dc2b::1]",
-            "server_port": 8888,
-            "uuid": "Parsashonam-302",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "❔ XX | 🔒 VLESS | @deli_servers [2]",
             "type": "vless",
             "server": "[2a01:4f8:c012:81c0::1]",
@@ -240,64 +221,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @freevv2rayng [10]",
-            "type": "vless",
-            "server": "[2a12:5940:1527::2]",
-            "server_port": 8880,
-            "uuid": "baa10442-7622-4b96-bd86-9f72aaac9846",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "[2a12:5940:1527::2]"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
-            "type": "vless",
-            "server": "[2a12:5940:1527::2]",
-            "server_port": 443,
-            "uuid": "78d743e4-1519-4770-aa84-ca0d6de0cc80",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "[2a12:5940:1527::2]",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @kesslervpn [2]",
-            "type": "vless",
-            "server": "[2a03:b0c0:3:d0::10ad:7001]",
-            "server_port": 29360,
-            "uuid": "9e890db0-905d-41d2-8a69-0a35ff7d8ce3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @selinc [4]",
+            "tag": "❔ XX | 🔓 VLESS | @selinc [3]",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
@@ -306,29 +230,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @v2ryngfree [9]",
+            "tag": "❔ XX | 🔓 VLESS | @selinc [4]",
             "type": "vless",
-            "server": "[2001:19f0:7400:8c45:5400:04ff:feef:4ccb]",
-            "server_port": 2083,
-            "uuid": "c566c1a7-5040-4f1a-95b0-3f97e256ea27",
+            "server": "[2a01:4f8:1c1a:dc2b::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-303",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @v2ryngfree [11]",
-            "type": "vless",
-            "server": "[2a05:f480:1000:0300:5400:04ff:fef0:6bd0]",
-            "server_port": 2053,
-            "uuid": "1c7f075c-0021-4f4b-8fbd-326672770d61",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@v2ryngfree@v2ryngfree@v2ryngfree",
-                "headers": {
-                    "Host": "[2a05:f480:1000:0300:5400:04ff:fef0:6bd0]"
-                }
-            }
         }
     ],
     "route": {

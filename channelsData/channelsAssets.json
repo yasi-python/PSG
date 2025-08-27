@@ -1,12 +1,4 @@
 {
-    "Fr33C0nfig": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "کانفیگ رایگان",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/Fr33C0nfig.jpg"
-    },
     "ai_duet": {
         "types": [
             "vless",
@@ -28,13 +20,6 @@
         ],
         "title": "𝐀𝐫𝐠𝐨_𝐕𝐏𝐍1 /پل فالکن/هیدیفای",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/argo_vpn1.jpg"
-    },
-    "armod_iran": {
-        "types": [
-            "vless"
-        ],
-        "title": "ARMod VPN",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/armod_iran.jpg"
     },
     "armodchannel": {
         "types": [
@@ -83,13 +68,6 @@
         "title": "Buffalo vpn",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/buffalo_vpn.jpg"
     },
-    "bypass_filter": {
-        "types": [
-            "vmess"
-        ],
-        "title": "Bypass Filter",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/bypass_filter.jpg"
-    },
     "catvpns": {
         "types": [
             "vless"
@@ -115,8 +93,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -312,14 +290,6 @@
         "title": "File REvil",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/f_nirevil.jpg"
     },
-    "falcunargo": {
-        "types": [
-            "vless",
-            "ss"
-        ],
-        "title": "کانفیگ ایرانسل همراه اول کانفینگ اینستاگرام فیلترشکن سرور پروکسی رایگان",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/falcunargo.jpg"
-    },
     "farstar_vpn": {
         "types": [
             "vless"
@@ -370,15 +340,6 @@
         "title": "فیلترکش | VPN &amp; PROXY",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/filterk0sh.jpg"
     },
-    "filtershekan_channel": {
-        "types": [
-            "vless",
-            "vmess",
-            "ss"
-        ],
-        "title": "پروکسی | proxy | filtershekan",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/filtershekan_channel.jpg"
-    },
     "flash_proxies": {
         "types": [
             "vless"
@@ -417,14 +378,6 @@
         ],
         "title": "Free_VPN √ v2ray √ NapsternetV √ custom √ injector √",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/free1_vpn.jpg"
-    },
-    "free1ss": {
-        "types": [
-            "ss",
-            "vless"
-        ],
-        "title": "🍊Aperto Shadowsocks Outline Vless VPN 🍊",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/free1ss.jpg"
     },
     "free4allvpn": {
         "types": [
@@ -551,14 +504,6 @@
         "title": "ᯓ 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 &#33;",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/game_file2020.jpg"
     },
-    "garnet_free": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "فروشی",
-        "logo": ""
-    },
     "ge2ray": {
         "types": [
             "vless"
@@ -581,13 +526,6 @@
         ],
         "title": "𝗩𝟮𝗿𝗮𝘆 𝗚𝗮𝗹𝗮𝘅𝘆",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/gh_v2rayng.jpg"
-    },
-    "ghalagyann": {
-        "types": [
-            "vless"
-        ],
-        "title": "💥ghalagyann💥",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/ghalagyann.jpg"
     },
     "ghalagyann2": {
         "types": [
@@ -665,10 +603,10 @@
     },
     "hope_net": {
         "types": [
+            "vmess",
             "trojan",
             "ss",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/hope_net.jpg"
@@ -686,13 +624,6 @@
         ],
         "title": "فیلتر شکن پروکسی | Hormoz vpn",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/hormozvpn.jpg"
-    },
-    "icv2ray": {
-        "types": [
-            "vless"
-        ],
-        "title": "𝗜𝗖𝗩𝟮𝗥𝗔𝗬",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/icv2ray.jpg"
     },
     "imhdiyvp": {
         "types": [
@@ -850,14 +781,6 @@
         "title": "JOKER V2Ray | کانفیگ اختصاصی",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/jokerv2ray.jpg"
     },
-    "kafing_2": {
-        "types": [
-            "vless",
-            "ss"
-        ],
-        "title": "کافینگ رایگان",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/kafing_2.jpg"
-    },
     "kesslervpn": {
         "types": [
             "vless"
@@ -966,13 +889,6 @@
         "title": "🇹‌🇭‌🇪‌&#39;🇪‌🇳‌🇩‌",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/loatvpn.jpg"
     },
-    "lockey_vpn": {
-        "types": [
-            "vless"
-        ],
-        "title": "LOCKEY_VPN",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/lockey_vpn.jpg"
-    },
     "lombo_channel": {
         "types": [
             "vless"
@@ -1030,16 +946,6 @@
         ],
         "title": "Mat",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mainmat.jpg"
-    },
-    "manstervpn": {
-        "types": [
-            "vless",
-            "trojan",
-            "vmess",
-            "ss"
-        ],
-        "title": "KingVPN",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/manstervpn.jpg"
     },
     "manzariyeh_rasht": {
         "types": [
@@ -1100,13 +1006,6 @@
         "title": "(V2rayng iran🦁) کانال کانفیگ فیلترشکن ترید آیپی ثابت رفع فیلتر چنل وی تو ری نامحدود سیسکو vmess vless cisco l2tp v2rayNG proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/meli_v2rayng.jpg"
     },
-    "melov2ray": {
-        "types": [
-            "vless"
-        ],
-        "title": "melo’s V2ray &amp; outline",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/melov2ray.jpg"
-    },
     "merdesert": {
         "types": [
             "vless",
@@ -1122,14 +1021,6 @@
         ],
         "title": "𝐌𝐞𝐬𝐭𝐞𝐫.𝐯𝟐𝐫𝐚𝐲 | نات پیکسل",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mester_v2ray.jpg"
-    },
-    "mftizi": {
-        "types": [
-            "vmess",
-            "ss"
-        ],
-        "title": "免费vpn节点分享",
-        "logo": ""
     },
     "mi_pn_official": {
         "types": [
@@ -1183,8 +1074,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1213,10 +1104,10 @@
     },
     "msv2flyng": {
         "types": [
-            "vless",
             "hy2",
             "trojan",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Msv2flyNG",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/msv2flyng.jpg"
@@ -1288,13 +1179,6 @@
         "title": "Nepo_v2ray",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/nepo_v2ray.jpg"
     },
-    "net_azad_1": {
-        "types": [
-            "vmess"
-        ],
-        "title": "کانفیگ رایگان فیلترشکن 💚🤍❤️",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/net_azad_1.jpg"
-    },
     "netazadchannel": {
         "types": [
             "vless"
@@ -1340,26 +1224,12 @@
         "title": "‌🇳‌‌🇳‌_‌🇻‌‌🇵‌‌🇳‌",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/nn_vpn.jpg"
     },
-    "nofilter_v2rayng": {
-        "types": [
-            "vless"
-        ],
-        "title": "سرور کانفیگ رایگان | v2ray",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/nofilter_v2rayng.jpg"
-    },
     "nofiltering2": {
         "types": [
             "vless"
         ],
         "title": "Nofiltering2 | V2rayng 📱رفع فیلترینگ",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/nofiltering2.jpg"
-    },
-    "novavpn1984": {
-        "types": [
-            "vless"
-        ],
-        "title": "NovaVPN",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/novavpn1984.jpg"
     },
     "novinology": {
         "types": [
@@ -1377,13 +1247,6 @@
         "title": "NTConfig | ان تي کانفیگ",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/ntconfig.jpg"
     },
-    "ntgreenplus": {
-        "types": [
-            "ss"
-        ],
-        "title": "NTGreen Plus 👽",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/ntgreenplus.jpg"
-    },
     "oonfig": {
         "types": [
             "vless",
@@ -1391,20 +1254,6 @@
         ],
         "title": "𝗣𝗘𝗥𝗦𝗜𝗔𝗡 𝗖𝗢𝗡𝗙𝗜𝗚",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/oonfig.jpg"
-    },
-    "orange_vpns": {
-        "types": [
-            "vless"
-        ],
-        "title": "V2ray سرور و کانفیگ رایگان",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/orange_vpns.jpg"
-    },
-    "orgempirenet": {
-        "types": [
-            "vless"
-        ],
-        "title": "• Empire Net •",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/orgempirenet.jpg"
     },
     "outline_ir": {
         "types": [
@@ -1560,14 +1409,6 @@
         "title": "ProxyFn 🔥",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/proxyfn.jpg"
     },
-    "proxyfull": {
-        "types": [
-            "vless",
-            "ss"
-        ],
-        "title": "ProxyFree",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/proxyfull.jpg"
-    },
     "proxygodratmand": {
         "types": [
             "vless"
@@ -1615,13 +1456,6 @@
         ],
         "title": "VPN | Public504",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/public504.jpg"
-    },
-    "pusyvpn": {
-        "types": [
-            "vless"
-        ],
-        "title": "پای نت",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/pusyvpn.jpg"
     },
     "pydriclub": {
         "types": [
@@ -1715,37 +1549,12 @@
         "title": "Savage V2ray | سرور رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/savagev2ray.jpg"
     },
-    "selinc": {
-        "types": [
-            "ss",
-            "vmess",
-            "vless"
-        ],
-        "title": "فیلترشکنV2rayng",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/selinc.jpg"
-    },
     "server444": {
         "types": [
             "vless"
         ],
         "title": "VIP SERVER",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/server444.jpg"
-    },
-    "server_nekobox": {
-        "types": [
-            "vless"
-        ],
-        "title": "سرور رایگان v2ray",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/server_nekobox.jpg"
-    },
-    "serverv2ray00": {
-        "types": [
-            "vless",
-            "ss",
-            "vmess"
-        ],
-        "title": "ایران پروکسی وکانفیک|iran proxy _configs",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/serverv2ray00.jpg"
     },
     "shadowsockskeys": {
         "types": [
@@ -1842,15 +1651,6 @@
         "title": "Tiny VPN | خرید وی پی ان | خرید فیلترشکن",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/tiny_vpn_official.jpg"
     },
-    "tobevasl": {
-        "types": [
-            "vless",
-            "ss",
-            "vmess"
-        ],
-        "title": "To Be",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/tobevasl.jpg"
-    },
     "torang_vpn": {
         "types": [
             "vless",
@@ -1939,14 +1739,6 @@
         "title": "کانفیگ| V2RAYNG_Iran و فوق‌العاده پرسرعت برای همه اپراتورها",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ra_ng_iran.jpg"
     },
-    "v2ray1_ng": {
-        "types": [
-            "ss",
-            "vless"
-        ],
-        "title": "V2RayNg &amp; Napsternet V",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray1_ng.jpg"
-    },
     "v2ray4win": {
         "types": [
             "vless",
@@ -1969,16 +1761,6 @@
         ],
         "title": "❤️‍🔥𝐯2𝐫𝐚𝐲_𝐟𝐚𝐫𝐤❤️‍🔥",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_fark.jpg"
-    },
-    "v2ray_free_conf": {
-        "types": [
-            "ss",
-            "trojan",
-            "vmess",
-            "vless"
-        ],
-        "title": "🌍 V2Ray Free Config 🇮🇷",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
     },
     "v2ray_iran88": {
         "types": [
@@ -2038,17 +1820,11 @@
         "types": [
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
-    },
-    "v2rayexpress": {
-        "types": [
-            "vless"
-        ],
-        "title": "V2RayExpress",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2rayexpress.jpg"
     },
     "v2rayfast_7": {
         "types": [
@@ -2343,13 +2119,6 @@
         "title": "Vmesskhodam",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vmesskhodam.jpg"
     },
-    "vmessorg": {
-        "types": [
-            "vless"
-        ],
-        "title": "🚀Vmess vpn🚀",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vmessorg.jpg"
-    },
     "vmessprotocol": {
         "types": [
             "ss",
@@ -2410,13 +2179,6 @@
         ],
         "title": "🌐 V2Ray Vmess Proxy 🥷VPN.fail",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vpnfail_v2ray.jpg"
-    },
-    "vpnfastservice": {
-        "types": [
-            "vless"
-        ],
-        "title": "VPN FASTSERVICE | وی پی ان",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/vpnfastservice.jpg"
     },
     "vpnfree85": {
         "types": [
@@ -2503,8 +2265,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
