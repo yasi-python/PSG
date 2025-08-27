@@ -28,7 +28,7 @@ proxies:
   - {"name":"🇹🇷 TR | 🔒 SS | @argo_vpn1 [6]","type":"ss","server":"83.217.9.120","port":443,"password":"7bO8akoRoM2M","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇷🇺 RU | 🔒 SS | @confing_chanel [5]","type":"ss","server":"45.151.62.131","port":443,"password":"PUV3LgKRVpuM","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇷🇺 RU | 🔒 SS | @confingv2raay [1]","type":"ss","server":"176.32.39.154","port":64726,"password":"leobXyVllD7ASdCGRhX6V2","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇫🇮 FI | 🔒 SS | @free1_vpn [9]","type":"ss","server":"83.147.216.70","port":64519,"password":"YXgS8ComTam7qoesPlzlMo","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇫🇮 FI | 🔒 SS | @free1_vpn [8]","type":"ss","server":"83.147.216.70","port":64519,"password":"YXgS8ComTam7qoesPlzlMo","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇻🇳 VN | 🔒 SS | @free4allvpn [13]","type":"ss","server":"103.163.218.2","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇬 SG | 🔒 SS | @free4allvpn [14]","type":"ss","server":"45.130.165.90","port":443,"password":"DAl6fKaoiAVK64kyuaYFaQ","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇭🇰 HK | 🔒 SS | @free4allvpn [15]","type":"ss","server":"203.23.128.33","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
@@ -52,14 +52,15 @@ proxies:
   - {"name":"🇻🇳 VN | 🔒 SS | @outlinereleasedkey [17]","type":"ss","server":"160.19.78.75","port":443,"password":"Nk9asglDzHzjktVzTkvhaA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🔒 SS | @proxyfull [14]","type":"ss","server":"45.87.175.28","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇳🇱 NL | 🔒 SS | @satellitenewspersian [17]","type":"ss","server":"193.29.139.177","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @selinc [5]","type":"ss","server":"45.87.175.10","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇰🇿 KZ | 🔒 SS | @shadowsockskeys [18]","type":"ss","server":"38.107.234.38","port":57456,"password":"a58fa62b4944ddbf","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇷 FR | 🔒 SS | @sobyv2ray [7]","type":"ss","server":"91.134.11.136","port":100,"password":"B2DbIsmNjFN-85QJtKVeqA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇷 FR | 🔒 SS | @sobyv2ray [8]","type":"ss","server":"91.134.11.136","port":100,"password":"NP_LonGeuc8o45eA7BYD9g","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇬🇧 GB | 🔒 SS | @tobevasl [2]","type":"ss","server":"131.145.7.68","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🔒 SS | @v2ray_v_vpn [28]","type":"ss","server":"45.87.175.180","port":8080,"password":"QCXDxuDlTTMD7jtgHUjIoj","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]","type":"ss","server":"185.177.229.245","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]","type":"ss","server":"89.23.103.125","port":42090,"password":"uQS5ntVqC00sSKkeNzUiD3","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇳🇱 NL | 🔒 SS | @vmesc [19]","type":"ss","server":"103.104.247.45","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇳🇱 NL | 🔒 SS | @vmesc [18]","type":"ss","server":"103.104.247.45","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @vmesc [20]","type":"ss","server":"45.87.175.65","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -78,7 +79,7 @@ proxy-groups:
       - '🇹🇷 TR | 🔒 SS | @argo_vpn1 [6]'
       - '🇷🇺 RU | 🔒 SS | @confing_chanel [5]'
       - '🇷🇺 RU | 🔒 SS | @confingv2raay [1]'
-      - '🇫🇮 FI | 🔒 SS | @free1_vpn [9]'
+      - '🇫🇮 FI | 🔒 SS | @free1_vpn [8]'
       - '🇻🇳 VN | 🔒 SS | @free4allvpn [13]'
       - '🇸🇬 SG | 🔒 SS | @free4allvpn [14]'
       - '🇭🇰 HK | 🔒 SS | @free4allvpn [15]'
@@ -102,14 +103,15 @@ proxy-groups:
       - '🇻🇳 VN | 🔒 SS | @outlinereleasedkey [17]'
       - '🇺🇸 US | 🔒 SS | @proxyfull [14]'
       - '🇳🇱 NL | 🔒 SS | @satellitenewspersian [17]'
+      - '🇺🇸 US | 🔒 SS | @selinc [5]'
       - '🇰🇿 KZ | 🔒 SS | @shadowsockskeys [18]'
       - '🇫🇷 FR | 🔒 SS | @sobyv2ray [7]'
       - '🇫🇷 FR | 🔒 SS | @sobyv2ray [8]'
-      - '🇬🇧 GB | 🔒 SS | @tobevasl [2]'
       - '🇺🇸 US | 🔒 SS | @v2ray_v_vpn [28]'
       - '🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]'
       - '🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]'
-      - '🇳🇱 NL | 🔒 SS | @vmesc [19]'
+      - '🇳🇱 NL | 🔒 SS | @vmesc [18]'
+      - '🇺🇸 US | 🔒 SS | @vmesc [20]'
 
   - name: 🌍 Global Media
     type: select

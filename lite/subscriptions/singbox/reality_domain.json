@@ -96,7 +96,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @Fr33C0nfig [52]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇫🇮 FI | 🔒 VLESS | @config_proxy [48]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
@@ -112,7 +111,7 @@
                 "🇪🇸 ES | 🔒 VLESS | @prrofile_purple [144]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
+                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
@@ -133,7 +132,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @Fr33C0nfig [52]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇫🇮 FI | 🔒 VLESS | @config_proxy [48]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
@@ -149,7 +147,7 @@
                 "🇪🇸 ES | 🔒 VLESS | @prrofile_purple [144]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
+                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
@@ -339,33 +337,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @config_proxy [48]",
-            "type": "vless",
-            "server": "ampol.marana.sbs",
-            "server_port": 25692,
-            "uuid": "70e0e52e-2a07-480e-aa39-b20832d00075",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hpDxn1vHts4G-qwj5DbrxoqOydhtHD9BUM_d3RXg7kM",
-                    "short_id": "645b908a2f1753"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "mkhv"
             }
         },
         {
@@ -742,7 +713,7 @@
             }
         },
         {
-            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,

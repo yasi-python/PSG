@@ -92,12 +92,12 @@
                 "🇳🇱 NL | 🔒 SS | @father_vpn [3]",
                 "🇩🇪 DE | 🔒 SS | @freakconfig [3]",
                 "🇷🇺 RU | 🔒 SS | @freakconfig [8]",
-                "🇨🇦 CA | 🔒 SS | @free1_vpn [5]",
-                "🇫🇮 FI | 🔒 SS | @free1_vpn [9]",
+                "🇨🇦 CA | 🔒 SS | @free1_vpn [4]",
+                "🇫🇮 FI | 🔒 SS | @free1_vpn [8]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [3]",
                 "🇨🇿 CZ | 🔒 SS | @free4allvpn [5]",
                 "🇳🇴 NO | 🔒 SS | @free4allvpn [6]",
-                "🇵🇾 PY | 🔒 SS | @free4allvpn [8]",
+                "🇲🇽 MX | 🔒 SS | @free4allvpn [8]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [12]",
                 "🇻🇳 VN | 🔒 SS | @free4allvpn [13]",
                 "🇸🇬 SG | 🔒 SS | @free4allvpn [14]",
@@ -204,6 +204,7 @@
                 "🇸🇪 SE | 🔒 SS | @v2raying [6]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
                 "🇹🇷 TR | 🔒 SS | @v2rayng_1378 [2]",
+                "🇺🇸 US | 🔒 SS | @v2rayng_1378 [7]",
                 "🇺🇸 US | 🔒 SS | @v2rayngalpha [4]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]",
@@ -234,12 +235,12 @@
                 "🇳🇱 NL | 🔒 SS | @father_vpn [3]",
                 "🇩🇪 DE | 🔒 SS | @freakconfig [3]",
                 "🇷🇺 RU | 🔒 SS | @freakconfig [8]",
-                "🇨🇦 CA | 🔒 SS | @free1_vpn [5]",
-                "🇫🇮 FI | 🔒 SS | @free1_vpn [9]",
+                "🇨🇦 CA | 🔒 SS | @free1_vpn [4]",
+                "🇫🇮 FI | 🔒 SS | @free1_vpn [8]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [3]",
                 "🇨🇿 CZ | 🔒 SS | @free4allvpn [5]",
                 "🇳🇴 NO | 🔒 SS | @free4allvpn [6]",
-                "🇵🇾 PY | 🔒 SS | @free4allvpn [8]",
+                "🇲🇽 MX | 🔒 SS | @free4allvpn [8]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [12]",
                 "🇻🇳 VN | 🔒 SS | @free4allvpn [13]",
                 "🇸🇬 SG | 🔒 SS | @free4allvpn [14]",
@@ -346,6 +347,7 @@
                 "🇸🇪 SE | 🔒 SS | @v2raying [6]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
                 "🇹🇷 TR | 🔒 SS | @v2rayng_1378 [2]",
+                "🇺🇸 US | 🔒 SS | @v2rayng_1378 [7]",
                 "🇺🇸 US | 🔒 SS | @v2rayngalpha [4]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]",
@@ -540,7 +542,7 @@
             "password": "PUV3LgKRVpuM"
         },
         {
-            "tag": "🇨🇦 CA | 🔒 SS | @free1_vpn [5]",
+            "tag": "🇨🇦 CA | 🔒 SS | @free1_vpn [4]",
             "type": "shadowsocks",
             "server": "64.74.163.218",
             "server_port": 990,
@@ -548,7 +550,7 @@
             "password": "f8f7aCzcPKbsF8p3"
         },
         {
-            "tag": "🇫🇮 FI | 🔒 SS | @free1_vpn [9]",
+            "tag": "🇫🇮 FI | 🔒 SS | @free1_vpn [8]",
             "type": "shadowsocks",
             "server": "83.147.216.70",
             "server_port": 64519,
@@ -580,7 +582,7 @@
             "password": "f8f7aCzcPKbsF8p3"
         },
         {
-            "tag": "🇵🇾 PY | 🔒 SS | @free4allvpn [8]",
+            "tag": "🇲🇽 MX | 🔒 SS | @free4allvpn [8]",
             "type": "shadowsocks",
             "server": "38.165.233.18",
             "server_port": 990,
@@ -1434,6 +1436,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "haQpIdcLwwtb"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @v2rayng_1378 [7]",
+            "type": "shadowsocks",
+            "server": "45.87.175.10",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @v2rayngalpha [4]",
