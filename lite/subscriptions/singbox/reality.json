@@ -111,14 +111,14 @@
                 "🇪🇸 ES | 🔒 VLESS | @prrofile_purple [144]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+                "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [19]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [45]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [45]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
@@ -126,7 +126,7 @@
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
-                "🇩🇪 DE | 🔒 VLESS | @icv2ray [16]",
+                "🇩🇪 DE | 🔒 VLESS | @icv2ray [15]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [18]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
@@ -183,14 +183,14 @@
                 "🇪🇸 ES | 🔒 VLESS | @prrofile_purple [144]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+                "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [19]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [45]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [45]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
@@ -198,7 +198,7 @@
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
-                "🇩🇪 DE | 🔒 VLESS | @icv2ray [16]",
+                "🇩🇪 DE | 🔒 VLESS | @icv2ray [15]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [18]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
@@ -785,7 +785,7 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -966,16 +966,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [45]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [45]",
             "type": "vless",
-            "server": "62.60.178.200",
-            "server_port": 20322,
-            "uuid": "21d57e3e-b331-40c1-9b97-fe5a72cb1047",
+            "server": "83.217.222.183",
+            "server_port": 443,
+            "uuid": "38e45e75-cabb-4b98-8e2f-9d65843b7efa",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.latimes.com",
+                "server_name": "microsoft.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -983,8 +983,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "-3D1yyc2r7xOKDJ_nvn5x5Ij7tWYxKTpQmKiukGG7B4",
-                    "short_id": "4d"
+                    "public_key": "gi8v7_r3NbWuPl9kjt8ZZLDavCMz1w0rVeNhcVnVxEM",
+                    "short_id": "9d56b1e4"
                 }
             }
         },
@@ -1154,7 +1154,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @icv2ray [16]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @icv2ray [15]",
             "type": "vless",
             "server": "91.99.70.212",
             "server_port": 443,
