@@ -81,6 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [43]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -135,7 +136,7 @@
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [2]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [3]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [7]",
-                "🇩🇪 DE | 🔓 VLESS | @kingofilter [1]",
+                "🇩🇪 DE | 🔓 VLESS | @kingofilter [2]",
                 "🇺🇸 US | 🔓 VLESS | @komail315 [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
@@ -182,6 +183,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [43]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -236,7 +238,7 @@
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [2]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [3]",
                 "🇩🇪 DE | 🔓 VLESS | @imhdiyvp [7]",
-                "🇩🇪 DE | 🔓 VLESS | @kingofilter [1]",
+                "🇩🇪 DE | 🔓 VLESS | @kingofilter [2]",
                 "🇺🇸 US | 🔓 VLESS | @komail315 [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
@@ -367,6 +369,15 @@
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "7fa08b3d-86d8-4b14-92b3-4c56a83f027d",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [43]",
+            "type": "vless",
+            "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "bb691001-faf8-4b4e-af2e-bfb27780f689",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -1036,7 +1047,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @kingofilter [1]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @kingofilter [2]",
             "type": "vless",
             "server": "91.99.216.9",
             "server_port": 2009,
