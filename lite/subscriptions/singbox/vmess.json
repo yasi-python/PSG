@@ -106,8 +106,8 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
+                "🚩 CF | 🔓 VMESS | @hope_net [18]",
                 "❔ XX | 🔓 VMESS | @hope_net [19]",
-                "🚩 CF | 🔓 VMESS | @hope_net [20]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -162,8 +162,8 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
+                "🚩 CF | 🔓 VMESS | @hope_net [18]",
                 "❔ XX | 🔓 VMESS | @hope_net [19]",
-                "🚩 CF | 🔓 VMESS | @hope_net [20]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -528,16 +528,7 @@
             "alter_id": 0
         },
         {
-            "tag": "❔ XX | 🔓 VMESS | @hope_net [19]",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "abbaacc-cbaa-baac-dcab-babbaccbaacc",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🚩 CF | 🔓 VMESS | @hope_net [20]",
+            "tag": "🚩 CF | 🔓 VMESS | @hope_net [18]",
             "type": "vmess",
             "server": "104.26.5.123",
             "server_port": 2082,
@@ -547,6 +538,31 @@
             "transport": {
                 "type": "ws",
                 "path": "/github.com/Alvin9999",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 VMESS | @hope_net [19]",
+            "type": "vmess",
+            "server": "gt021.bestforxray.buzz",
+            "server_port": 443,
+            "uuid": "c1fd780a-3408-4f48-a932-5832a28ce9f6",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/linkws",
                 "headers": {
                     "Host": ""
                 }

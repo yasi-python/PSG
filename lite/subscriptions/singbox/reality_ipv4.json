@@ -92,7 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [45]",
+                "🇷🇺 RU | 🔒 VLESS | @config_proxy [39]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [41]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
@@ -137,7 +138,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [45]",
+                "🇷🇺 RU | 🔒 VLESS | @config_proxy [39]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [41]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
@@ -258,16 +260,16 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [45]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @config_proxy [39]",
             "type": "vless",
-            "server": "83.217.222.183",
+            "server": "213.183.41.63",
             "server_port": 443,
-            "uuid": "38e45e75-cabb-4b98-8e2f-9d65843b7efa",
+            "uuid": "3c631fef-c28c-4dfe-aacc-9e67ace7d5b3",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "microsoft.com",
+                "server_name": "skyroom.online",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -275,8 +277,35 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "gi8v7_r3NbWuPl9kjt8ZZLDavCMz1w0rVeNhcVnVxEM",
-                    "short_id": "9d56b1e4"
+                    "public_key": "9tNnOU3bIHtyZfWaPv1J1ns78jDfzCdh6dRLjhQGlX8",
+                    "short_id": "1f"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "t.me/entryNET"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [41]",
+            "type": "vless",
+            "server": "95.164.68.37",
+            "server_port": 8443,
+            "uuid": "27246f70-5006-4987-9ec0-1be8f6aae0ef",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY",
+                    "short_id": ""
                 }
             }
         },

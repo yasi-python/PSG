@@ -100,6 +100,7 @@
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [40]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [27]",
@@ -212,7 +213,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @orange_vpns [12]",
                 "🚩 CF | 🔒 VLESS | @orange_vpns [13]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [14]",
-                "🚩 CF | 🔒 VLESS | @outlinev2rayng [12]",
+                "🚩 CF | 🔒 VLESS | @outlinev2rayng [11]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "🚩 CF | 🔒 VLESS | @proxy48 [13]",
                 "❔ XX | 🔓 VLESS | @proxy48 [15]",
@@ -229,7 +230,7 @@
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [10]",
                 "❔ XX | 🔓 VLESS | @red2ray [14]",
                 "🚩 CF | 🔒 VLESS | @shadowsocksshop [1]",
@@ -248,6 +249,8 @@
                 "❔ XX | 🔓 VLESS | @v2ray_iran88 [8]",
                 "❔ XX | 🔓 VLESS | @v2ray_iran88 [9]",
                 "🚩 CF | 🔒 VLESS | @v2ray_reality_new [9]",
+                "🚩 CF | 🔓 VLESS | @v2rayfree [13]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayfree [14]",
                 "❔ XX | 🔒 VLESS | @v2rayng_o [5]",
                 "🇺🇸 US | 🔒 VLESS | @v2rayng_o [6]",
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
@@ -293,6 +296,7 @@
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [40]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [27]",
@@ -405,7 +409,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @orange_vpns [12]",
                 "🚩 CF | 🔒 VLESS | @orange_vpns [13]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [14]",
-                "🚩 CF | 🔒 VLESS | @outlinev2rayng [12]",
+                "🚩 CF | 🔒 VLESS | @outlinev2rayng [11]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "🚩 CF | 🔒 VLESS | @proxy48 [13]",
                 "❔ XX | 🔓 VLESS | @proxy48 [15]",
@@ -422,7 +426,7 @@
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
+                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [10]",
                 "❔ XX | 🔓 VLESS | @red2ray [14]",
                 "🚩 CF | 🔒 VLESS | @shadowsocksshop [1]",
@@ -441,6 +445,8 @@
                 "❔ XX | 🔓 VLESS | @v2ray_iran88 [8]",
                 "❔ XX | 🔓 VLESS | @v2ray_iran88 [9]",
                 "🚩 CF | 🔒 VLESS | @v2ray_reality_new [9]",
+                "🚩 CF | 🔓 VLESS | @v2rayfree [13]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayfree [14]",
                 "❔ XX | 🔒 VLESS | @v2rayng_o [5]",
                 "🇺🇸 US | 🔒 VLESS | @v2rayng_o [6]",
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
@@ -721,6 +727,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [40]",
+            "type": "vless",
+            "server": "services.dissertationhelpspecialist.com",
+            "server_port": 443,
+            "uuid": "5744c15a-8938-48c2-a6e0-5e157ef6f93a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZV4e1OJFc5P1PH8pi6YN3mVzZ0G8WUOCNJZ6IibvT3Y",
+                    "short_id": "a266fd8b85"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice"
             }
         },
         {
@@ -2555,7 +2588,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @outlinev2rayng [12]",
+            "tag": "🚩 CF | 🔒 VLESS | @outlinev2rayng [11]",
             "type": "vless",
             "server": "freevpn.xhamster.biz.id",
             "server_port": 443,
@@ -2898,7 +2931,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -3239,6 +3272,24 @@
                     "Host": "cdn.biglog.sbs"
                 }
             }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @v2rayfree [13]",
+            "type": "vless",
+            "server": "Www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "02ba99ca-ec56-4b2d-8537-bb20b830a3f7",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayfree [14]",
+            "type": "vless",
+            "server": "ir9.turbo-server.xyz",
+            "server_port": 59667,
+            "uuid": "0ea23a70-ca31-4aa7-af6f-4db7a2af71f0",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔒 VLESS | @v2rayng_o [5]",
