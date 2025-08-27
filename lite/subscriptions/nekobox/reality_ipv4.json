@@ -85,6 +85,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇬🇧 GB | 🔒 VLESS | @expressvpn_420 [32]",
                 "🇷🇺 RU | 🔒 VLESS | @falcunargo [11]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [55]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -92,7 +93,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
-                "🇩🇪 DE | 🔒 VLESS | @icv2ray [17]",
                 "🇩🇪 DE | 🔒 VLESS | @info_2it_channel [4]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [16]",
@@ -144,6 +144,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇬🇧 GB | 🔒 VLESS | @expressvpn_420 [32]",
                 "🇷🇺 RU | 🔒 VLESS | @falcunargo [11]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [55]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -151,7 +152,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
-                "🇩🇪 DE | 🔒 VLESS | @icv2ray [17]",
                 "🇩🇪 DE | 🔒 VLESS | @info_2it_channel [4]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [16]",
@@ -393,6 +393,33 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [55]",
+            "type": "vless",
+            "server": "91.99.70.212",
+            "server_port": 443,
+            "uuid": "f076ae11-156c-45c5-b252-ae8dd6fd1494",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cdn77.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
             "type": "vless",
             "server": "91.99.16.244",
@@ -563,33 +590,6 @@
                     "public_key": "YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU",
                     "short_id": "6ba85179e30d4fc2"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @icv2ray [17]",
-            "type": "vless",
-            "server": "91.99.70.212",
-            "server_port": 443,
-            "uuid": "f076ae11-156c-45c5-b252-ae8dd6fd1494",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cdn77.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
             }
         },
         {

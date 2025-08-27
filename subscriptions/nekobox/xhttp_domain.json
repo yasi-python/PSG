@@ -81,6 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [49]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -114,14 +115,13 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @outline_ir [8]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
-                "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
+                "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [1]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [6]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔓 VLESS | @v2raych [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2rayngrit [17]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [8]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -136,6 +136,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @Fr33C0nfig [8]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [49]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -169,14 +170,13 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @outline_ir [8]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
-                "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
+                "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [1]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [6]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔓 VLESS | @v2raych [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2rayngrit [17]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [8]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -275,6 +275,15 @@
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "7fa08b3d-86d8-4b14-92b3-4c56a83f027d",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [49]",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "eb3ce75e-ff5a-4170-a0c9-cd75b7c604f1",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -636,7 +645,7 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
+            "tag": "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [1]",
             "type": "vless",
             "server": "dl-04.saitsazs.ir",
             "server_port": 12107,
@@ -729,24 +738,6 @@
             "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @v2raych [14]",
-            "type": "vless",
-            "server": "sss74251.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "7606bb75-416a-4f99-ba20-019cb25543cf",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss74251.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayngrit [17]",
