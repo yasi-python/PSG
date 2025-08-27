@@ -99,11 +99,11 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
-                "🇩🇪 DE | 🔓 VLESS | @freakconfig [14]",
+                "🇩🇪 DE | 🔓 VLESS | @freakconfig [13]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
@@ -128,7 +128,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesc [19]"
+                "🇩🇪 DE | 🔓 VLESS | @vmesc [18]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -146,11 +146,11 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [21]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
-                "🇩🇪 DE | 🔓 VLESS | @freakconfig [14]",
+                "🇩🇪 DE | 🔓 VLESS | @freakconfig [13]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [2]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [21]",
@@ -175,7 +175,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesc [19]"
+                "🇩🇪 DE | 🔓 VLESS | @vmesc [18]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -325,7 +325,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @freakconfig [14]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @freakconfig [13]",
             "type": "vless",
             "server": "sss55168.tas-bazi.com",
             "server_port": 443,
@@ -384,7 +384,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [11]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
@@ -835,7 +835,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesc [19]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesc [18]",
             "type": "vless",
             "server": "91.99.169.64",
             "server_port": 8443,
