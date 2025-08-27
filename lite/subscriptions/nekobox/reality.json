@@ -84,6 +84,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @Fr33C0nfig [52]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [49]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇦🇱 AL | 🔒 VLESS | @freakconfig [13]",
@@ -139,7 +140,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
-                "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
+                "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
@@ -183,6 +184,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @Fr33C0nfig [52]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [49]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇦🇱 AL | 🔒 VLESS | @freakconfig [13]",
@@ -238,7 +240,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
-                "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
+                "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
@@ -455,6 +457,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [49]",
+            "type": "vless",
+            "server": "fast.dissertationhelpspecialist.com",
+            "server_port": 443,
+            "uuid": "bd716891-81f4-47fa-8f80-dca18cbb3183",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU",
+                    "short_id": "44a3ef0168e834"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice"
             }
         },
         {
@@ -1807,7 +1836,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
             "type": "vless",
             "server": "46.62.128.241",
             "server_port": 8443,
