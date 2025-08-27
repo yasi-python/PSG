@@ -216,7 +216,6 @@
     },
     "dalton_ping": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "Proxy.v2rayNG.",
@@ -317,8 +316,8 @@
     },
     "falcunargo": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "کانفیگ ایرانسل همراه اول کانفینگ اینستاگرام فیلترشکن سرور پروکسی رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/falcunargo.jpg"
@@ -340,8 +339,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -676,9 +675,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "ss",
             "vless",
+            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -868,13 +867,6 @@
         ],
         "title": "کافینگ رایگان",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/kafing_2.jpg"
-    },
-    "kanfig_majani": {
-        "types": [
-            "vless"
-        ],
-        "title": "کانفیگ رایگان | کانفیگ مجانی",
-        "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/kanfig_majani.jpg"
     },
     "kesslervpn": {
         "types": [
@@ -1201,7 +1193,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1548,8 +1541,7 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vmess",
-            "vless",
-            "ss"
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -1990,10 +1982,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
-            "vless",
             "ss",
-            "vmess"
+            "vmess",
+            "vless",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2055,9 +2047,7 @@
     "v2raych": {
         "types": [
             "vless",
-            "vmess",
-            "ss",
-            "trojan"
+            "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2079,8 +2069,7 @@
     "v2rayfree": {
         "types": [
             "vmess",
-            "vless",
-            "ss"
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2523,8 +2512,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
