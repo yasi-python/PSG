@@ -80,13 +80,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇭🇰 HK | 🔒 TROJAN | @config_proxy [62]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [10]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [11]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [12]",
-                "🇸🇪 SE | 🔒 TROJAN | @hope_net [20]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
+                "🇸🇪 SE | 🔒 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [19]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]"
+                "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,13 +98,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇭🇰 HK | 🔒 TROJAN | @config_proxy [62]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [10]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [11]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [12]",
-                "🇸🇪 SE | 🔒 TROJAN | @hope_net [20]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
+                "🇸🇪 SE | 🔒 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [19]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]"
+                "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -194,30 +196,7 @@
             }
         },
         {
-            "tag": "🇭🇰 HK | 🔒 TROJAN | @config_proxy [62]",
-            "type": "trojan",
-            "server": "103.160.204.1",
-            "server_port": 443,
-            "password": "amclubs",
-            "tls": {
-                "enabled": true,
-                "server_name": "tran.amclubstest.nyc.mn",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram@V2ray_Alpha/?ed=2560",
-                "headers": {
-                    "Host": "tran.amclubstest.nyc.mn"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [10]",
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
             "type": "trojan",
             "server": "35.159.254.111",
             "server_port": 22223,
@@ -233,7 +212,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [11]",
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
             "type": "trojan",
             "server": "63.179.11.66",
             "server_port": 22223,
@@ -249,7 +228,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [12]",
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
             "type": "trojan",
             "server": "3.124.220.30",
             "server_port": 22223,
@@ -265,7 +244,7 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 TROJAN | @hope_net [20]",
+            "tag": "🇸🇪 SE | 🔒 TROJAN | @hope_net [18]",
             "type": "trojan",
             "server": "16.170.67.252",
             "server_port": 22222,
@@ -277,6 +256,52 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [19]",
+            "type": "trojan",
+            "server": "172.67.180.238",
+            "server_port": 443,
+            "password": "bpb-trojan",
+            "tls": {
+                "enabled": true,
+                "server_name": "403b3611-99BC-43B7-88d7-26eD5D0825A9-3.PAges.DEV",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "403b3611-99BC-43B7-88d7-26eD5D0825A9-3.PAges.DEV"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [20]",
+            "type": "trojan",
+            "server": "172.64.35.209",
+            "server_port": 443,
+            "password": "auto",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojanmz.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/trojanmz.pages.dev/?ed=2560",
+                "headers": {
+                    "Host": "trojanmz.pages.dev"
                 }
             }
         },
@@ -297,7 +322,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
+            "tag": "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [11]",
             "type": "trojan",
             "server": "72.167.243.194",
             "server_port": 2096,

@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [63]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
@@ -112,13 +111,13 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇵🇱 PL | 🔒 VLESS | @outlinev2rayng [13]",
+                "🇵🇱 PL | 🔒 VLESS | @outlinev2rayng [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
-                "🇬🇧 GB | 🔒 VLESS | @v2aryng_vpn [11]",
+                "🇬🇧 GB | 🔒 VLESS | @v2aryng_vpn [10]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇭🇺 HU | 🔒 VLESS | @v2ray_sos [5]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -138,7 +137,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [63]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
@@ -158,13 +156,13 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇵🇱 PL | 🔒 VLESS | @outlinev2rayng [13]",
+                "🇵🇱 PL | 🔒 VLESS | @outlinev2rayng [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
-                "🇬🇧 GB | 🔒 VLESS | @v2aryng_vpn [11]",
+                "🇬🇧 GB | 🔒 VLESS | @v2aryng_vpn [10]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇭🇺 HU | 🔒 VLESS | @v2ray_sos [5]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -256,29 +254,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @config_proxy [63]",
-            "type": "vless",
-            "server": "64.188.69.61",
-            "server_port": 40721,
-            "uuid": "3d70873c-1fe4-4c35-8db5-93564edcde52",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk",
-                    "short_id": "df8611c07d"
                 }
             }
         },
@@ -732,7 +707,7 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🔒 VLESS | @outlinev2rayng [13]",
+            "tag": "🇵🇱 PL | 🔒 VLESS | @outlinev2rayng [12]",
             "type": "vless",
             "server": "2.58.95.16",
             "server_port": 34045,
@@ -878,7 +853,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @v2aryng_vpn [11]",
+            "tag": "🇬🇧 GB | 🔒 VLESS | @v2aryng_vpn [10]",
             "type": "vless",
             "server": "51.75.162.3",
             "server_port": 443,

@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [50]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -122,9 +121,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [1]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [6]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @outline_ir [7]",
+                "🇺🇸 US | 🔓 VLESS | @outline_ir [6]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxystore11 [6]",
@@ -147,7 +145,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [50]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -177,9 +174,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [1]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [6]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @outline_ir [7]",
+                "🇺🇸 US | 🔓 VLESS | @outline_ir [6]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxystore11 [6]",
@@ -276,15 +272,6 @@
                     "Host": "127.0.0.1"
                 }
             }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [50]",
-            "type": "vless",
-            "server": "btmnwiknurwp.eu-central-1.clawcloudrun.com",
-            "server_port": 80,
-            "uuid": "f922f5f4-6ee1-4bd2-a1ee-6b9dc223e223",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
@@ -599,15 +586,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [6]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "107ed9ef-ac33-4ca2-8b6d-d83d415b27f8",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "❔ XX | 🔓 VLESS | @megavpn_link [1]",
             "type": "vless",
             "server": "fast.peace.lemoex.blog",
@@ -617,7 +595,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @outline_ir [7]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @outline_ir [6]",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
