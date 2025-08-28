@@ -85,7 +85,7 @@
                 "🚩 CF | 🔒 VLESS | @arv2ray [14]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [32]",
+                "🇨🇼 CW | 🔒 VLESS | @config_proxy [36]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -168,8 +168,8 @@
                 "🇮🇷 IR | 🔓 VLESS | @minovpnch [13]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🚩 CF | 🔒 VLESS | @mowjproxy [6]",
-                "🚩 CF | 🔓 VLESS | @mowjproxy [7]",
+                "🚩 CF | 🔒 VLESS | @mowjproxy [4]",
+                "🚩 CF | 🔓 VLESS | @mowjproxy [5]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [12]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [13]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [14]",
@@ -225,7 +225,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🚩 CF | 🔒 VLESS | @v2raying [7]",
                 "🚩 CF | 🔒 VLESS | @v2raying [8]",
                 "🚩 CF | 🔒 VLESS | @v2raying [9]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
@@ -260,7 +259,7 @@
                 "🚩 CF | 🔒 VLESS | @arv2ray [14]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [32]",
+                "🇨🇼 CW | 🔒 VLESS | @config_proxy [36]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -343,8 +342,8 @@
                 "🇮🇷 IR | 🔓 VLESS | @minovpnch [13]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🚩 CF | 🔒 VLESS | @mowjproxy [6]",
-                "🚩 CF | 🔓 VLESS | @mowjproxy [7]",
+                "🚩 CF | 🔒 VLESS | @mowjproxy [4]",
+                "🚩 CF | 🔓 VLESS | @mowjproxy [5]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [12]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [13]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [14]",
@@ -400,7 +399,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🚩 CF | 🔒 VLESS | @v2raying [7]",
                 "🚩 CF | 🔒 VLESS | @v2raying [8]",
                 "🚩 CF | 🔒 VLESS | @v2raying [9]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
@@ -619,25 +617,18 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [32]",
+            "tag": "🇨🇼 CW | 🔒 VLESS | @config_proxy [36]",
             "type": "vless",
-            "server": "91.242.241.45",
-            "server_port": 8443,
-            "uuid": "a69a817d-1dda-467a-b43c-5cfaca21afe6",
-            "flow": "xtls-rprx-vision",
+            "server": "62.72.166.67",
+            "server_port": 2096,
+            "uuid": "775213ac-3976-439a-8977-3277c0e4735d",
+            "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM",
-                    "short_id": ""
+            "transport": {
+                "type": "ws",
+                "path": "/Twitter苏小柠security=tls",
+                "headers": {
+                    "Host": "fq521.6789.cloudns.be"
                 }
             }
         },
@@ -2057,7 +2048,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @mowjproxy [6]",
+            "tag": "🚩 CF | 🔒 VLESS | @mowjproxy [4]",
             "type": "vless",
             "server": "172.66.146.26",
             "server_port": 443,
@@ -2082,7 +2073,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mowjproxy [7]",
+            "tag": "🚩 CF | 🔓 VLESS | @mowjproxy [5]",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -3107,31 +3098,6 @@
                     "enabled": true,
                     "public_key": "qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU",
                     "short_id": "a862ded52ae3ea"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @v2raying [7]",
-            "type": "vless",
-            "server": "104.26.0.108",
-            "server_port": 443,
-            "uuid": "6780a3c0-a98c-4622-b894-8e34167f7b31",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "blog.ruangguru.com.servpn.my.id",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/id5?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN",
-                "headers": {
-                    "Host": "blog.ruangguru.com.servpn.my.id"
                 }
             }
         },

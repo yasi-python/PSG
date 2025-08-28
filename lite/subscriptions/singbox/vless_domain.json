@@ -94,14 +94,16 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 VLESS | @Fr33C0nfig [51]",
                 "🇩🇪 DE | 🔒 VLESS | @Fr33C0nfig [52]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [68]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [69]",
                 "🚩 CF | 🔓 VLESS | @alo_v2rayng [1]",
                 "🚩 CF | 🔓 VLESS | @artemis_vpn_free [1]",
                 "🚩 CF | 🔓 VLESS | @artemis_vpn_free [2]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
-                "🇸🇮 SI | 🔒 VLESS | @config_proxy [33]",
-                "🇱🇹 LT | 🔒 VLESS | @config_proxy [34]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [34]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [35]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [27]",
@@ -231,7 +233,7 @@
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+                "🇺🇸 US | 🔒 VLESS | @qrv2ray [9]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [10]",
                 "❔ XX | 🔓 VLESS | @red2ray [14]",
                 "🚩 CF | 🔒 VLESS | @shadowsocksshop [1]",
@@ -294,14 +296,16 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 VLESS | @Fr33C0nfig [51]",
                 "🇩🇪 DE | 🔒 VLESS | @Fr33C0nfig [52]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [68]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [69]",
                 "🚩 CF | 🔓 VLESS | @alo_v2rayng [1]",
                 "🚩 CF | 🔓 VLESS | @artemis_vpn_free [1]",
                 "🚩 CF | 🔓 VLESS | @artemis_vpn_free [2]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
-                "🇸🇮 SI | 🔒 VLESS | @config_proxy [33]",
-                "🇱🇹 LT | 🔒 VLESS | @config_proxy [34]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [34]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [35]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [27]",
@@ -431,7 +435,7 @@
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+                "🇺🇸 US | 🔒 VLESS | @qrv2ray [9]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [10]",
                 "❔ XX | 🔓 VLESS | @red2ray [14]",
                 "🚩 CF | 🔒 VLESS | @shadowsocksshop [1]",
@@ -614,6 +618,38 @@
             }
         },
         {
+            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [68]",
+            "type": "vless",
+            "server": "grounded-brother.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "52adc6ba-b1c7-4541-a594-08fc698be640",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "grounded-brother.seotoolsforyou.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [69]",
+            "type": "vless",
+            "server": "fearless-change.oneeat.co",
+            "server_port": 80,
+            "uuid": "b055036a-2d81-4d46-ab18-4e1898b58cec",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "fearless-change.oneeat.co"
+                }
+            }
+        },
+        {
             "tag": "🚩 CF | 🔓 VLESS | @alo_v2rayng [1]",
             "type": "vless",
             "server": "sourceforge.net",
@@ -738,50 +774,31 @@
             }
         },
         {
-            "tag": "🇸🇮 SI | 🔒 VLESS | @config_proxy [33]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [34]",
             "type": "vless",
-            "server": "tunnyl.ru",
+            "server": "sss75298.tas-bazi.com",
             "server_port": 443,
-            "uuid": "e4fb795e-8db6-46c2-808c-23d7a3864f26",
-            "flow": "xtls-rprx-vision",
+            "uuid": "92b022a6-67f3-4406-840b-8fec2f4aace8",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "sss75298.tas-bazi.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI",
-                    "short_id": "5c0333ed45b1"
                 }
             }
         },
         {
-            "tag": "🇱🇹 LT | 🔒 VLESS | @config_proxy [34]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [35]",
             "type": "vless",
-            "server": "hield.ru",
-            "server_port": 443,
-            "uuid": "ca402551-c42a-4e5d-ae8e-9b77f81ce44e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws",
-                    "short_id": "06c6eb7423f24de5"
-                }
-            }
+            "server": "tab1.mgpingmg.shop",
+            "server_port": 8880,
+            "uuid": "9ac0168d-dffd-44bf-87cb-ad16055ca8cc",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
@@ -2958,7 +2975,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,

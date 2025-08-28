@@ -92,9 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇸🇬 SG | 🔓 VMESS | @NamiraConfigs [68]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [69]",
-                "🇷🇺 RU | 🔓 VMESS | @NamiraConfigs [70]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
@@ -109,8 +106,6 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [18]",
-                "❔ XX | 🔓 VMESS | @hope_net [20]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -121,7 +116,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🚩 CF | 🔒 VMESS | @mowjproxy [5]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [3]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -151,9 +146,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇸🇬 SG | 🔓 VMESS | @NamiraConfigs [68]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [69]",
-                "🇷🇺 RU | 🔓 VMESS | @NamiraConfigs [70]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
@@ -168,8 +160,6 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [18]",
-                "❔ XX | 🔓 VMESS | @hope_net [20]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -180,7 +170,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🚩 CF | 🔒 VMESS | @mowjproxy [5]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [3]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -284,40 +274,6 @@
                     "Host": "127.0.0.1"
                 }
             }
-        },
-        {
-            "tag": "🇸🇬 SG | 🔓 VMESS | @NamiraConfigs [68]",
-            "type": "vmess",
-            "server": "62.146.235.193",
-            "server_port": 28011,
-            "uuid": "cfc5a87f-3c13-4e25-b556-176cdd6b5c6a",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [69]",
-            "type": "vmess",
-            "server": "195.211.99.143",
-            "server_port": 8443,
-            "uuid": "2e514a36-7ae8-4b6a-9e36-9c20e7228824",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔓 VMESS | @NamiraConfigs [70]",
-            "type": "vmess",
-            "server": "45.67.230.79",
-            "server_port": 11052,
-            "uuid": "314185f7-931d-4656-922d-0857e7afd224",
-            "security": "auto",
-            "alter_id": 0
         },
         {
             "tag": "❔ XX | 🔒 VMESS | @bypass_filter [1]",
@@ -568,40 +524,6 @@
             "alter_id": 0
         },
         {
-            "tag": "🚩 CF | 🔓 VMESS | @hope_net [18]",
-            "type": "vmess",
-            "server": "104.21.94.64",
-            "server_port": 443,
-            "uuid": "39cec18f-a439-427c-9a4e-aeb6fcdf6f53",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "linja05.hwcar.sbs",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/linkws",
-                "headers": {
-                    "Host": "linja05.hwcar.sbs"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VMESS | @hope_net [20]",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "acbaacb-bcaa-acab-badc-cbbcacaababc",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
             "tag": "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
             "type": "vmess",
             "server": "142.4.125.84",
@@ -731,7 +653,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [5]",
+            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [3]",
             "type": "vmess",
             "server": "104.17.148.22",
             "server_port": 2083,
