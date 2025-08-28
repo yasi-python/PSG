@@ -53,7 +53,7 @@ proxies:
   - {"name":"🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]","type":"vless","server":"199.247.28.17","port":44914,"uuid":"55a4210c-e765-427f-813d-0c55b763f6b0","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"black-moai.com","reality-opts":{"public-key":"o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8","short-id":"1ac2a2dde288"}}
   - {"name":"🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]","type":"vless","server":"199.247.28.17","port":44914,"uuid":"7b93491b-d1c0-4679-938d-56f0abec50b2","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"black-moai.com","reality-opts":{"public-key":"o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8","short-id":"1ac2a2dde288"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]","type":"vless","server":"80.240.23.101","port":47567,"uuid":"73cc7084-a427-4193-8fe0-6dd72ac48265","tls":true,"network":"xhttp","client-fingerprint":"firefox","udp":true,"servername":"www.black-moai.com","reality-opts":{"public-key":"qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU","short-id":"a862ded52ae3ea"}}
-  - {"name":"🇳🇱 NL | 🔒 VLESS | @v2rayfree [14]","type":"vless","server":"45.128.232.102","port":16798,"uuid":"3691b39b-4aa7-4f68-8304-902e4734e2f4","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yahoo.com","reality-opts":{"public-key":"UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU","short-id":"229b2a94"}}
+  - {"name":"🇳🇱 NL | 🔒 VLESS | @v2rayfree [9]","type":"vless","server":"45.128.232.102","port":16798,"uuid":"3691b39b-4aa7-4f68-8304-902e4734e2f4","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yahoo.com","reality-opts":{"public-key":"UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU","short-id":"229b2a94"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]","type":"vless","server":"212.95.41.20","port":900,"uuid":"5a998931-c4be-4441-8a0d-81ffe55b5c64","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"sourceforge.net","reality-opts":{"public-key":"I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI","short-id":"2cc45a0088671249"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]","type":"vless","server":"5.75.215.191","port":443,"uuid":"738c5e99-7faa-4893-81a8-4d6655adde47","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"www.speedtest.net","grpc-opts":{"grpc-service-name":"@Digiv2ray"},"reality-opts":{"public-key":"e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns","short-id":"ab7b40b2"}}
   - {"name":"🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]","type":"vless","server":"46.62.139.162","port":29752,"uuid":"2c3b3e80-a2ec-459e-b898-206ead4edc9d","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.tgju.org","reality-opts":{"public-key":"EXDIPc_-7wSk5LI0JH0fyaN3bc_kIgEe3fu2hIOBtWs","short-id":"3dd812"}}
@@ -101,7 +101,7 @@ proxy-groups:
       - '🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]'
       - '🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]'
       - '🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]'
-      - '🇳🇱 NL | 🔒 VLESS | @v2rayfree [14]'
+      - '🇳🇱 NL | 🔒 VLESS | @v2rayfree [9]'
       - '🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]'
       - '🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]'
       - '🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]'

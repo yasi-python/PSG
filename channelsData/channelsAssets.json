@@ -93,8 +93,7 @@
     "config_proxy": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -1073,7 +1072,6 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
             "vmess"
         ],
         "title": "Mowj Proxy",
