@@ -433,8 +433,8 @@
     "hope_net": {
         "types": [
             "trojan",
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1324,7 +1324,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"

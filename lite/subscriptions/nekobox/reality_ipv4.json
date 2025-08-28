@@ -92,12 +92,13 @@
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
-                "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
+                "🇫🇮 FI | 🔒 VLESS | @kingofilter [1]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
+                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [19]",
                 "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [11]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
@@ -110,7 +111,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayfree [9]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
@@ -137,12 +137,13 @@
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
-                "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
+                "🇫🇮 FI | 🔒 VLESS | @kingofilter [1]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
+                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [19]",
                 "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [11]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
@@ -155,7 +156,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayfree [9]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
@@ -530,7 +530,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @kingofilter [1]",
             "type": "vless",
             "server": "46.62.128.241",
             "server_port": 8443,
@@ -668,6 +668,29 @@
                     "enabled": true,
                     "public_key": "e3dW-3-dYEVMkTUNOlqVZY2RuSXK-DxhvmdVn1lijxY",
                     "short_id": "8c0bcf"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇸 IS | 🔒 VLESS | @outline_vpn [19]",
+            "type": "vless",
+            "server": "45.83.21.107",
+            "server_port": 59997,
+            "uuid": "c3dd7afc-151f-44f6-8263-ad3c8420ae2f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI",
+                    "short_id": "816473be23c2"
                 }
             }
         },
@@ -956,29 +979,6 @@
                     "enabled": true,
                     "public_key": "qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU",
                     "short_id": "a862ded52ae3ea"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayfree [9]",
-            "type": "vless",
-            "server": "45.128.232.102",
-            "server_port": 16798,
-            "uuid": "3691b39b-4aa7-4f68-8304-902e4734e2f4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU",
-                    "short_id": "229b2a94"
                 }
             }
         },

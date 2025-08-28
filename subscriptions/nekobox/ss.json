@@ -186,6 +186,7 @@
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [8]",
                 "🇵🇱 PL | 🔒 SS | @outlineopenkey [9]",
                 "🇬🇧 GB | 🔒 SS | @outlineopenkey [10]",
+                "🇵🇱 PL | 🔒 SS | @outlineopenkey [11]",
                 "🇰🇷 KR | 🔒 SS | @outlinereleasedkey [5]",
                 "🇨🇦 CA | 🔒 SS | @outlinereleasedkey [6]",
                 "🇨🇭 CH | 🔒 SS | @outlinereleasedkey [10]",
@@ -228,6 +229,10 @@
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇺🇸 US | 🔒 SS | @v2aryng_vpn [3]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
+                "🇨🇭 CH | 🔒 SS | @v2raych [7]",
+                "🇮🇳 IN | 🔒 SS | @v2raych [10]",
+                "🇺🇸 US | 🔒 SS | @v2raych [11]",
+                "🇸🇬 SG | 🔒 SS | @v2raych [12]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [4]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
                 "🇹🇷 TR | 🔒 SS | @v2rayng_1378 [2]",
@@ -359,6 +364,7 @@
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [8]",
                 "🇵🇱 PL | 🔒 SS | @outlineopenkey [9]",
                 "🇬🇧 GB | 🔒 SS | @outlineopenkey [10]",
+                "🇵🇱 PL | 🔒 SS | @outlineopenkey [11]",
                 "🇰🇷 KR | 🔒 SS | @outlinereleasedkey [5]",
                 "🇨🇦 CA | 🔒 SS | @outlinereleasedkey [6]",
                 "🇨🇭 CH | 🔒 SS | @outlinereleasedkey [10]",
@@ -401,6 +407,10 @@
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇺🇸 US | 🔒 SS | @v2aryng_vpn [3]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
+                "🇨🇭 CH | 🔒 SS | @v2raych [7]",
+                "🇮🇳 IN | 🔒 SS | @v2raych [10]",
+                "🇺🇸 US | 🔒 SS | @v2raych [11]",
+                "🇸🇬 SG | 🔒 SS | @v2raych [12]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [4]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
                 "🇹🇷 TR | 🔒 SS | @v2rayng_1378 [2]",
@@ -1354,6 +1364,14 @@
             "password": "UqlIjwQvPJmPTsW89KXqCZ"
         },
         {
+            "tag": "🇵🇱 PL | 🔒 SS | @outlineopenkey [11]",
+            "type": "shadowsocks",
+            "server": "77.83.246.74",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "B39hI4d4Hc5b4jyQc0Eupg"
+        },
+        {
             "tag": "🇰🇷 KR | 🔒 SS | @outlinereleasedkey [5]",
             "type": "shadowsocks",
             "server": "141.164.63.32",
@@ -1688,6 +1706,38 @@
             "server_port": 64519,
             "method": "chacha20-ietf-poly1305",
             "password": "UlT89D0rvcr05tKft1NB5a"
+        },
+        {
+            "tag": "🇨🇭 CH | 🔒 SS | @v2raych [7]",
+            "type": "shadowsocks",
+            "server": "45.95.232.236",
+            "server_port": 4248,
+            "method": "chacha20-ietf-poly1305",
+            "password": "VRVuw7A6bo6fkS7XFFJJdj"
+        },
+        {
+            "tag": "🇮🇳 IN | 🔒 SS | @v2raych [10]",
+            "type": "shadowsocks",
+            "server": "139.59.3.113",
+            "server_port": 8841,
+            "method": "chacha20-ietf-poly1305",
+            "password": "mQAOyDXrpzoyqUl9VLLRpF"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @v2raych [11]",
+            "type": "shadowsocks",
+            "server": "165.227.110.123",
+            "server_port": 16334,
+            "method": "chacha20-ietf-poly1305",
+            "password": "xuKf1gW8oJWrYtzyhpQLFo"
+        },
+        {
+            "tag": "🇸🇬 SG | 🔒 SS | @v2raych [12]",
+            "type": "shadowsocks",
+            "server": "167.71.206.112",
+            "server_port": 7337,
+            "method": "chacha20-ietf-poly1305",
+            "password": "wFaAYec1YNwfG2qfw6vYnL"
         },
         {
             "tag": "🇸🇪 SE | 🔒 SS | @v2raying [4]",

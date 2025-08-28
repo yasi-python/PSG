@@ -129,6 +129,7 @@
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
+                "🇩🇪 DE | 🔓 VMESS | @v2rayfree [9]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [4]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [5]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [6]",
@@ -185,6 +186,7 @@
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
+                "🇩🇪 DE | 🔓 VMESS | @v2rayfree [9]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [4]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [5]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [6]",
@@ -854,6 +856,15 @@
                     "Host": "tr1.iranz.me"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VMESS | @v2rayfree [9]",
+            "type": "vmess",
+            "server": "85.195.101.122",
+            "server_port": 40878,
+            "uuid": "f3d4167e-b15e-4e46-82e9-9286ef93fda7",
+            "security": "auto",
+            "alter_id": 0
         },
         {
             "tag": "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [4]",
