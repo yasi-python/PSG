@@ -44,7 +44,6 @@ proxies:
   - {"name":"🚩 CF | 🔒 VMESS | @mehduox_vpn [1]","type":"vmess","server":"www.speedtest.net","port":80,"cipher":"auto","uuid":"040a6bc6-82e9-4850-af39-4eb3b5007874","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/web?ed=2048","headers":{"Host":"mail.HamsterBOT.inFo"}}}
   - {"name":"🇯🇵 JP | 🔓 VMESS | @mftizi [19]","type":"vmess","server":"45.159.51.116","port":48019,"cipher":"auto","uuid":"c06797d5-fa41-4b48-b132-d268d2acb302","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳 CN | 🔓 VMESS | @mftizi [20]","type":"vmess","server":"183.236.51.38","port":49302,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🚩 CF | 🔒 VMESS | @mowjproxy [3]","type":"vmess","server":"104.17.148.22","port":2083,"cipher":"auto","uuid":"8ae65664-84e8-40e1-9708-9236f0808dfd","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/panel?ed=2560","headers":{"Host":"api3.waltonweb.ir"}}}
   - {"name":"🇮🇷 IR | 🔒 VMESS | @public504 [11]","type":"vmess","server":"94.182.136.40","port":25832,"cipher":"auto","uuid":"a4393300-6777-47b9-8348-1ac84aa7ede9","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔ XX | 🔓 VMESS | @pydriclub [4]","type":"vmess","server":"mtnn.pydarshop.ir","port":8880,"cipher":"auto","uuid":"30793c95-6a82-40fd-9af3-6130ac49835b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"httpupgrade"}
   - {"name":"🚩 CF | 🔓 VMESS | @red2ray [12]","type":"vmess","server":"zula.ir","port":80,"cipher":"auto","uuid":"3fd9190e-a132-42ca-a33b-4a37b4b3e0cd","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"Host":"pl2-vmess.sshmax.xyz"}}}
@@ -94,7 +93,6 @@ proxy-groups:
       - '🚩 CF | 🔒 VMESS | @mehduox_vpn [1]'
       - '🇯🇵 JP | 🔓 VMESS | @mftizi [19]'
       - '🇨🇳 CN | 🔓 VMESS | @mftizi [20]'
-      - '🚩 CF | 🔒 VMESS | @mowjproxy [3]'
       - '🇮🇷 IR | 🔒 VMESS | @public504 [11]'
       - '❔ XX | 🔓 VMESS | @pydriclub [4]'
       - '🚩 CF | 🔓 VMESS | @red2ray [12]'
