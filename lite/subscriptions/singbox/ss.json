@@ -97,6 +97,7 @@
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [6]",
                 "🇷🇺 RU | 🔒 SS | @confing_chanel [5]",
                 "🇷🇺 RU | 🔒 SS | @confingv2raay [1]",
+                "🇫🇮 FI | 🔒 SS | @free1_vpn [7]",
                 "🇸🇬 SG | 🔒 SS | @free4allvpn [14]",
                 "🇭🇰 HK | 🔒 SS | @free4allvpn [15]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [16]",
@@ -150,6 +151,7 @@
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [6]",
                 "🇷🇺 RU | 🔒 SS | @confing_chanel [5]",
                 "🇷🇺 RU | 🔒 SS | @confingv2raay [1]",
+                "🇫🇮 FI | 🔒 SS | @free1_vpn [7]",
                 "🇸🇬 SG | 🔒 SS | @free4allvpn [14]",
                 "🇭🇰 HK | 🔒 SS | @free4allvpn [15]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [16]",
@@ -312,6 +314,14 @@
             "server_port": 64726,
             "method": "chacha20-ietf-poly1305",
             "password": "leobXyVllD7ASdCGRhX6V2"
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 SS | @free1_vpn [7]",
+            "type": "shadowsocks",
+            "server": "83.147.216.70",
+            "server_port": 64519,
+            "method": "chacha20-ietf-poly1305",
+            "password": "YXgS8ComTam7qoesPlzlMo"
         },
         {
             "tag": "🇸🇬 SG | 🔒 SS | @free4allvpn [14]",
