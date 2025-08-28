@@ -1101,10 +1101,10 @@
     },
     "msv2flyng": {
         "types": [
-            "vless",
-            "hy2",
             "trojan",
-            "vmess"
+            "hy2",
+            "vmess",
+            "vless"
         ],
         "title": "Msv2flyNG",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/msv2flyng.jpg"
@@ -1815,7 +1815,6 @@
     "v2raych": {
         "types": [
             "vless",
-            "vmess",
             "trojan",
             "ss"
         ],
@@ -2260,8 +2259,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "trojan"
         ],
         "title": "免费节点 🏆【1小时前更新】",
