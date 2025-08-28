@@ -94,7 +94,6 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
-                "🇨🇳 CN | 🔓 VMESS | @config_proxy [48]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -130,7 +129,6 @@
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
-                "🚩 CF | 🔒 VMESS | @v2rayfree [11]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [4]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [5]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [6]",
@@ -152,7 +150,6 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
-                "🇨🇳 CN | 🔓 VMESS | @config_proxy [48]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -188,7 +185,6 @@
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
-                "🚩 CF | 🔒 VMESS | @v2rayfree [11]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [4]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [5]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [6]",
@@ -316,15 +312,6 @@
                     "Host": "ad80f8ec-4861-11f0-a948-6a75f667b472.ShomaParvazRoYadetonNist-BypassIsHere.lat"
                 }
             }
-        },
-        {
-            "tag": "🇨🇳 CN | 🔓 VMESS | @config_proxy [48]",
-            "type": "vmess",
-            "server": "183.236.51.36",
-            "server_port": 59003,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 0
         },
         {
             "tag": "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
@@ -865,31 +852,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "tr1.iranz.me"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VMESS | @v2rayfree [11]",
-            "type": "vmess",
-            "server": "npmjs.com",
-            "server_port": 443,
-            "uuid": "telegram-channel-freewireguard",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "Q4.19kAlA.co",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "Q4.19kAlA.co"
                 }
             }
         },

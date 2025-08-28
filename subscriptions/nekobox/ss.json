@@ -109,7 +109,7 @@
                 "🇩🇪 DE | 🔒 SS | @argo_vpn1 [1]",
                 "🇺🇸 US | 🔒 SS | @argo_vpn1 [2]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [3]",
-                "🇬🇮 GI | 🔒 SS | @argo_vpn1 [4]",
+                "🇺🇸 US | 🔒 SS | @argo_vpn1 [4]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [5]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [6]",
                 "🇷🇺 RU | 🔒 SS | @confingv2raay [1]",
@@ -173,7 +173,7 @@
                 "🇺🇸 US | 🔒 SS | @netfreedom0 [17]",
                 "🇺🇸 US | 🔒 SS | @netfreedom0 [20]",
                 "🇬🇧 GB | 🔒 SS | @novinology [17]",
-                "🇩🇪 DE | 🔒 SS | @outline_ir [18]",
+                "🇩🇪 DE | 🔒 SS | @outline_ir [16]",
                 "🇬🇧 GB | 🔒 SS | @outlineopenkey [1]",
                 "🇬🇧 GB | 🔒 SS | @outlineopenkey [2]",
                 "🇵🇱 PL | 🔒 SS | @outlineopenkey [3]",
@@ -227,6 +227,7 @@
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇺🇸 US | 🔒 SS | @v2aryng_vpn [3]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
+                "🇲🇽 MX | 🔒 SS | @v2raych [17]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [4]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
                 "🇹🇷 TR | 🔒 SS | @v2rayng_1378 [2]",
@@ -281,7 +282,7 @@
                 "🇩🇪 DE | 🔒 SS | @argo_vpn1 [1]",
                 "🇺🇸 US | 🔒 SS | @argo_vpn1 [2]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [3]",
-                "🇬🇮 GI | 🔒 SS | @argo_vpn1 [4]",
+                "🇺🇸 US | 🔒 SS | @argo_vpn1 [4]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [5]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [6]",
                 "🇷🇺 RU | 🔒 SS | @confingv2raay [1]",
@@ -345,7 +346,7 @@
                 "🇺🇸 US | 🔒 SS | @netfreedom0 [17]",
                 "🇺🇸 US | 🔒 SS | @netfreedom0 [20]",
                 "🇬🇧 GB | 🔒 SS | @novinology [17]",
-                "🇩🇪 DE | 🔒 SS | @outline_ir [18]",
+                "🇩🇪 DE | 🔒 SS | @outline_ir [16]",
                 "🇬🇧 GB | 🔒 SS | @outlineopenkey [1]",
                 "🇬🇧 GB | 🔒 SS | @outlineopenkey [2]",
                 "🇵🇱 PL | 🔒 SS | @outlineopenkey [3]",
@@ -399,6 +400,7 @@
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇺🇸 US | 🔒 SS | @v2aryng_vpn [3]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
+                "🇲🇽 MX | 🔒 SS | @v2raych [17]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [4]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
                 "🇹🇷 TR | 🔒 SS | @v2rayng_1378 [2]",
@@ -736,7 +738,7 @@
             "password": "24ZLHTP8bzMg6KeIWcpez7"
         },
         {
-            "tag": "🇬🇮 GI | 🔒 SS | @argo_vpn1 [4]",
+            "tag": "🇺🇸 US | 🔒 SS | @argo_vpn1 [4]",
             "type": "shadowsocks",
             "server": "94.131.22.134",
             "server_port": 40565,
@@ -1248,7 +1250,7 @@
             "password": "Q1qlRknoN9PwGeExWVyTKg"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 SS | @outline_ir [18]",
+            "tag": "🇩🇪 DE | 🔒 SS | @outline_ir [16]",
             "type": "shadowsocks",
             "server": "94.159.96.245",
             "server_port": 11902,
@@ -1678,6 +1680,14 @@
             "server_port": 64519,
             "method": "chacha20-ietf-poly1305",
             "password": "UlT89D0rvcr05tKft1NB5a"
+        },
+        {
+            "tag": "🇲🇽 MX | 🔒 SS | @v2raych [17]",
+            "type": "shadowsocks",
+            "server": "147.78.1.27",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
         },
         {
             "tag": "🇸🇪 SE | 🔒 SS | @v2raying [4]",

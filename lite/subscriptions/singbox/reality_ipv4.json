@@ -94,12 +94,13 @@
                 "KingRezaPahlavi",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
+                "🇬🇧 GB | 🔒 VLESS | @expressvpn_420 [30]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
-                "🇩🇪 DE | 🔒 VLESS | @icv2ray [18]",
+                "🇩🇪 DE | 🔒 VLESS | @icv2ray [17]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [16]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
@@ -111,7 +112,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [19]",
+                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [20]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -138,12 +139,13 @@
                 "KingRezaPahlavi",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
+                "🇬🇧 GB | 🔒 VLESS | @expressvpn_420 [30]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
-                "🇩🇪 DE | 🔒 VLESS | @icv2ray [18]",
+                "🇩🇪 DE | 🔒 VLESS | @icv2ray [17]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [16]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
@@ -155,7 +157,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [19]",
+                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [20]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -302,6 +304,29 @@
             }
         },
         {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @expressvpn_420 [30]",
+            "type": "vless",
+            "server": "51.75.162.3",
+            "server_port": 443,
+            "uuid": "4ca604af-1cfb-40d5-807a-083bf97432ba",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens",
+                    "short_id": "370dd394052f2386"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
             "type": "vless",
             "server": "91.99.16.244",
@@ -421,7 +446,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @icv2ray [18]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @icv2ray [17]",
             "type": "vless",
             "server": "91.99.70.212",
             "server_port": 443,
@@ -705,7 +730,7 @@
             }
         },
         {
-            "tag": "🇮🇸 IS | 🔒 VLESS | @outline_vpn [19]",
+            "tag": "🇮🇸 IS | 🔒 VLESS | @outline_vpn [20]",
             "type": "vless",
             "server": "45.83.21.107",
             "server_port": 59997,
