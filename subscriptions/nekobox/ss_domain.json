@@ -98,6 +98,8 @@
                 "❔ XX | 🔒 SS | @public504 [9]",
                 "❔ XX | 🔒 SS | @red2ray [1]",
                 "🇺🇸 US | 🔒 SS | @torang_vpn [4]",
+                "🇮🇷 IR | 🔒 SS | @v2raych [11]",
+                "🇮🇷 IR | 🔒 SS | @v2raych [12]",
                 "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
                 "🇺🇸 US | 🔒 SS | @vpn451 [3]",
@@ -133,6 +135,8 @@
                 "❔ XX | 🔒 SS | @public504 [9]",
                 "❔ XX | 🔒 SS | @red2ray [1]",
                 "🇺🇸 US | 🔒 SS | @torang_vpn [4]",
+                "🇮🇷 IR | 🔒 SS | @v2raych [11]",
+                "🇮🇷 IR | 🔒 SS | @v2raych [12]",
                 "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
                 "🇺🇸 US | 🔒 SS | @vpn451 [3]",
@@ -372,6 +376,22 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "W74XFALLLuw6m5IA"
+        },
+        {
+            "tag": "🇮🇷 IR | 🔒 SS | @v2raych [11]",
+            "type": "shadowsocks",
+            "server": "ir.npvnot.com",
+            "server_port": 11098,
+            "method": "aes-256-gcm",
+            "password": "ZjMzYjc5ODQ5NjJiODg2MzYxYmMzOGYzMTdhZDA3"
+        },
+        {
+            "tag": "🇮🇷 IR | 🔒 SS | @v2raych [12]",
+            "type": "shadowsocks",
+            "server": "tehran.npveniltuo.com",
+            "server_port": 9112,
+            "method": "aes-256-gcm",
+            "password": "NmE1NzJlZjlmMmMyN2E1MmIxZTAxNzEwNzEzM2Nh"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @v2rayngalpha [2]",

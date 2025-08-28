@@ -10,6 +10,7 @@
     "NamiraConfigs": {
         "types": [
             "ss",
+            "trojan",
             "vless",
             "vmess"
         ],
@@ -433,8 +434,8 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "ss",
+            "trojan",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -804,8 +805,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
