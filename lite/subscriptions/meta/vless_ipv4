@@ -26,8 +26,7 @@ proxies:
   - {"name":"🇮🇷 IR | 🔓 VLESS | @Fr33C0nfig [50]","type":"vless","server":"94.182.142.28","port":2020,"uuid":"32b67990-fb70-457f-8f02-c7c62e4156ca","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🚩 CF | 🔒 VLESS | @buffalo_vpn [7]","type":"vless","server":"104.22.46.204","port":443,"uuid":"b0286bc2-e17c-4c17-b0e6-d39c93f74937","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ap-aminoo.pages.dev","ws-opts":{"path":"/?ed=2048","headers":{"Host":"ap-aminoo.pages.dev"}}}
   - {"name":"🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]","type":"vless","server":"199.232.0.177","port":443,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"SpEedteST.NET","ws-opts":{"path":"/veNbt06rF0tTFtp6/MTcyLjY0LjEzNC41OA==?ed=2560","headers":{"Host":"Tahagoogooli.ir"}}}
-  - {"name":"🚩 CF | 🔓 VLESS | @config_proxy [31]","type":"vless","server":"104.16.222.98","port":8880,"uuid":"e9979910-79d1-4621-a93c-b2a579c44ba7","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/uLF6HXZ7986oF7Yg?ed","headers":{"Host":"vngsupply.ip-ddns.com"}}}
-  - {"name":"🚩 CF | 🔒 VLESS | @config_proxy [32]","type":"vless","server":"188.114.96.3","port":2053,"uuid":"63743432-0783-4a05-811d-8f8307fc9ba5","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"Mopo.PAGeS.Dev","ws-opts":{"path":"/YeGPDE3B85HjGkhw?ed=2560","headers":{"Host":"mopo.pages.dev"}}}
+  - {"name":"🇸🇬 SG | 🔒 VLESS | @config_proxy [32]","type":"vless","server":"91.242.241.45","port":8443,"uuid":"a69a817d-1dda-467a-b43c-5cfaca21afe6","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"google.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @configasli [6]","type":"vless","server":"78.46.162.62","port":10878,"uuid":"8a5db114-7ad1-4922-aca4-b079a79f4f04","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"www.speedtest.net","reality-opts":{"public-key":"xQvsy1P86UklsO5dbNDjaaUiQK3A9PHpM6rirHWSSDw","short-id":"812db24b"}}
   - {"name":"🇫🇷 FR | 🔒 VLESS | @configasli [7]","type":"vless","server":"172.232.33.18","port":443,"uuid":"fe48773b-df06-409a-bc61-117cd8fb1eb7","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"ftp.debian.org","reality-opts":{"public-key":"PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o","short-id":"b5ecd44d"}}
   - {"name":"🚩 CF | 🔓 VLESS | @configms [4]","type":"vless","server":"172.66.40.99","port":8080,"uuid":"e01db813-f494-4def-a5ca-2e6713f01e66","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=2048","headers":{"Host":"K.mangoap.org"}}}
@@ -187,8 +186,7 @@ proxy-groups:
       - '🇮🇷 IR | 🔓 VLESS | @Fr33C0nfig [50]'
       - '🚩 CF | 🔒 VLESS | @buffalo_vpn [7]'
       - '🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]'
-      - '🚩 CF | 🔓 VLESS | @config_proxy [31]'
-      - '🚩 CF | 🔒 VLESS | @config_proxy [32]'
+      - '🇸🇬 SG | 🔒 VLESS | @config_proxy [32]'
       - '🇩🇪 DE | 🔒 VLESS | @configasli [6]'
       - '🇫🇷 FR | 🔒 VLESS | @configasli [7]'
       - '🚩 CF | 🔓 VLESS | @configms [4]'

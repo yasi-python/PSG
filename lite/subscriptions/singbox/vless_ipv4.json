@@ -97,9 +97,7 @@
                 "🚩 CF | 🔒 VLESS | @arv2ray [14]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🚩 CF | 🔓 VLESS | @config_proxy [31]",
-                "🚩 CF | 🔒 VLESS | @config_proxy [32]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [33]",
+                "🇸🇬 SG | 🔒 VLESS | @config_proxy [32]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -274,9 +272,7 @@
                 "🚩 CF | 🔒 VLESS | @arv2ray [14]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🚩 CF | 🔓 VLESS | @config_proxy [31]",
-                "🚩 CF | 🔒 VLESS | @config_proxy [32]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [33]",
+                "🇸🇬 SG | 🔒 VLESS | @config_proxy [32]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -631,66 +627,25 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @config_proxy [31]",
+            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [32]",
             "type": "vless",
-            "server": "104.16.222.98",
-            "server_port": 8880,
-            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/uLF6HXZ7986oF7Yg?ed",
-                "headers": {
-                    "Host": "104.16.222.98"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @config_proxy [32]",
-            "type": "vless",
-            "server": "188.114.96.3",
-            "server_port": 2053,
-            "uuid": "63743432-0783-4a05-811d-8f8307fc9ba5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "Mopo.PAGeS.Dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/YeGPDE3B85HjGkhw?ed=2560",
-                "headers": {
-                    "Host": "Mopo.PAGeS.Dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [33]",
-            "type": "vless",
-            "server": "54.203.6.86",
-            "server_port": 4433,
-            "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
+            "server": "91.242.241.45",
+            "server_port": 8443,
+            "uuid": "a69a817d-1dda-467a-b43c-5cfaca21afe6",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "stackoverflow.com",
+                "server_name": "google.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "random"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0",
-                    "short_id": "f785b38130e64177"
+                    "public_key": "1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM",
+                    "short_id": ""
                 }
             }
         },
