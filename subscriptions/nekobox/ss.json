@@ -139,11 +139,9 @@
                 "🇸🇬 SG | 🔒 SS | @gh_v2rayng [8]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [2]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [3]",
-                "🇧🇭 BH | 🔒 SS | @hope_net [6]",
-                "🇺🇸 US | 🔒 SS | @hope_net [7]",
-                "🇺🇸 US | 🔒 SS | @hope_net [10]",
-                "🇨🇦 CA | 🔒 SS | @hope_net [13]",
-                "🇨🇳 CN | 🔒 SS | @hope_net [18]",
+                "🇺🇸 US | 🔒 SS | @hope_net [8]",
+                "🇨🇦 CA | 🔒 SS | @hope_net [11]",
+                "🇨🇳 CN | 🔒 SS | @hope_net [16]",
                 "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇺🇸 US | 🔒 SS | @ip_cf_config [4]",
@@ -229,7 +227,6 @@
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇺🇸 US | 🔒 SS | @v2aryng_vpn [4]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
-                "🇨🇳 CN | 🔒 SS | @v2raych [15]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [5]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
                 "🇹🇷 TR | 🔒 SS | @v2rayng_1378 [2]",
@@ -314,11 +311,9 @@
                 "🇸🇬 SG | 🔒 SS | @gh_v2rayng [8]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [2]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [3]",
-                "🇧🇭 BH | 🔒 SS | @hope_net [6]",
-                "🇺🇸 US | 🔒 SS | @hope_net [7]",
-                "🇺🇸 US | 🔒 SS | @hope_net [10]",
-                "🇨🇦 CA | 🔒 SS | @hope_net [13]",
-                "🇨🇳 CN | 🔒 SS | @hope_net [18]",
+                "🇺🇸 US | 🔒 SS | @hope_net [8]",
+                "🇨🇦 CA | 🔒 SS | @hope_net [11]",
+                "🇨🇳 CN | 🔒 SS | @hope_net [16]",
                 "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇺🇸 US | 🔒 SS | @ip_cf_config [4]",
@@ -404,7 +399,6 @@
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇺🇸 US | 🔒 SS | @v2aryng_vpn [4]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
-                "🇨🇳 CN | 🔒 SS | @v2raych [15]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [5]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
                 "🇹🇷 TR | 🔒 SS | @v2rayng_1378 [2]",
@@ -982,23 +976,7 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇧🇭 BH | 🔒 SS | @hope_net [6]",
-            "type": "shadowsocks",
-            "server": "157.241.8.144",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @hope_net [7]",
-            "type": "shadowsocks",
-            "server": "23.157.40.101",
-            "server_port": 8000,
-            "method": "aes-256-gcm",
-            "password": "KixLvKzwjekG00rm"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @hope_net [10]",
+            "tag": "🇺🇸 US | 🔒 SS | @hope_net [8]",
             "type": "shadowsocks",
             "server": "169.197.142.216",
             "server_port": 6679,
@@ -1006,7 +984,7 @@
             "password": "TEzjfAYq2IjtuoS"
         },
         {
-            "tag": "🇨🇦 CA | 🔒 SS | @hope_net [13]",
+            "tag": "🇨🇦 CA | 🔒 SS | @hope_net [11]",
             "type": "shadowsocks",
             "server": "142.4.216.225",
             "server_port": 80,
@@ -1014,7 +992,7 @@
             "password": "JIhN6rBKkaEboLNXVSv5rq"
         },
         {
-            "tag": "🇨🇳 CN | 🔒 SS | @hope_net [18]",
+            "tag": "🇨🇳 CN | 🔒 SS | @hope_net [16]",
             "type": "shadowsocks",
             "server": "61.172.235.22",
             "server_port": 11001,
@@ -1700,14 +1678,6 @@
             "server_port": 64519,
             "method": "chacha20-ietf-poly1305",
             "password": "UlT89D0rvcr05tKft1NB5a"
-        },
-        {
-            "tag": "🇨🇳 CN | 🔒 SS | @v2raych [15]",
-            "type": "shadowsocks",
-            "server": "36.141.40.92",
-            "server_port": 15010,
-            "method": "aes-256-gcm",
-            "password": "URZYWLLW5LQAYR7X"
         },
         {
             "tag": "🇸🇪 SE | 🔒 SS | @v2raying [5]",

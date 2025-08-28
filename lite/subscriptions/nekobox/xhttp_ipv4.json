@@ -94,7 +94,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayfree [15]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]"
             ],
             "tag": "proxy",
@@ -120,7 +119,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayfree [15]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]"
             ],
             "tag": "auto",
@@ -489,15 +487,6 @@
                     "short_id": "a862ded52ae3ea"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayfree [15]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "fb602bc2-8030-43a3-82db-8832c7c9d0d1",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
