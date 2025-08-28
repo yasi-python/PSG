@@ -23,7 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇺🇸 US | 🔒 SS | @argo_vpn1 [4]","type":"ss","server":"94.131.22.134","port":40565,"password":"2PQVPJEWXxMkkdE82AW7qEj7jxQrZxqFUj3zheLjFArvtmuzUXNp9JUwzXGD1yJEHcDyH41HfPNo37vHWuLBp3guiRSuUZ6v","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇬🇮 GI | 🔒 SS | @argo_vpn1 [4]","type":"ss","server":"94.131.22.134","port":40565,"password":"2PQVPJEWXxMkkdE82AW7qEj7jxQrZxqFUj3zheLjFArvtmuzUXNp9JUwzXGD1yJEHcDyH41HfPNo37vHWuLBp3guiRSuUZ6v","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇮🇳 IN | 🔒 SS | @argo_vpn1 [5]","type":"ss","server":"103.111.114.29","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇹🇷 TR | 🔒 SS | @argo_vpn1 [6]","type":"ss","server":"83.217.9.120","port":443,"password":"7bO8akoRoM2M","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇷🇺 RU | 🔒 SS | @confing_chanel [5]","type":"ss","server":"45.151.62.131","port":443,"password":"PUV3LgKRVpuM","cipher":"chacha20-ietf-poly1305"}
@@ -72,7 +72,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇺🇸 US | 🔒 SS | @argo_vpn1 [4]'
+      - '🇬🇮 GI | 🔒 SS | @argo_vpn1 [4]'
       - '🇮🇳 IN | 🔒 SS | @argo_vpn1 [5]'
       - '🇹🇷 TR | 🔒 SS | @argo_vpn1 [6]'
       - '🇷🇺 RU | 🔒 SS | @confing_chanel [5]'

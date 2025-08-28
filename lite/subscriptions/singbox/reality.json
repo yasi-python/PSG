@@ -108,13 +108,12 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [14]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
+                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [19]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
@@ -178,13 +177,12 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [14]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
+                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [19]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
@@ -712,7 +710,7 @@
             }
         },
         {
-            "tag": "🇰🇷 KR | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -863,29 +861,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
-            "type": "vless",
-            "server": "a.de.maviks.ru",
-            "server_port": 443,
-            "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo",
-                    "short_id": "f203719d3ff9a5f5"
-                }
             }
         },
         {

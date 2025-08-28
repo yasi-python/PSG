@@ -106,6 +106,7 @@
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
                 "🚩 CF | 🔒 VMESS | @mowjproxy [1]",
+                "🇺🇸 US | 🔓 VMESS | @outlinev2rayng [14]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -162,6 +163,7 @@
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
                 "🚩 CF | 🔒 VMESS | @mowjproxy [1]",
+                "🇺🇸 US | 🔓 VMESS | @outlinev2rayng [14]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -681,6 +683,15 @@
                     "Host": "api3.waltonweb.ir"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VMESS | @outlinev2rayng [14]",
+            "type": "vmess",
+            "server": "15.204.11.190",
+            "server_port": 15361,
+            "uuid": "5d7bf9e3-415c-40f3-c66d-a54ea0fd860e",
+            "security": "auto",
+            "alter_id": 0
         },
         {
             "tag": "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
