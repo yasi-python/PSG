@@ -102,6 +102,7 @@
                 "🇻🇳 VN | 🔒 SS | @free4allvpn [13]",
                 "🇸🇬 SG | 🔒 SS | @free4allvpn [14]",
                 "🇭🇰 HK | 🔒 SS | @free4allvpn [15]",
+                "🇨🇦 CA | 🔒 SS | @free4allvpn [16]",
                 "🇭🇰 HK | 🔒 SS | @freeconfigsplus [8]",
                 "🇵🇹 PT | 🔒 SS | @freeconfigsplus [10]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
@@ -204,7 +205,6 @@
                 "🇺🇸 US | 🔒 SS | @v222ray [3]",
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇺🇸 US | 🔒 SS | @v2aryng_vpn [5]",
-                "🇨🇦 CA | 🔒 SS | @v2aryng_vpn [9]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [6]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
@@ -250,6 +250,7 @@
                 "🇻🇳 VN | 🔒 SS | @free4allvpn [13]",
                 "🇸🇬 SG | 🔒 SS | @free4allvpn [14]",
                 "🇭🇰 HK | 🔒 SS | @free4allvpn [15]",
+                "🇨🇦 CA | 🔒 SS | @free4allvpn [16]",
                 "🇭🇰 HK | 🔒 SS | @freeconfigsplus [8]",
                 "🇵🇹 PT | 🔒 SS | @freeconfigsplus [10]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
@@ -352,7 +353,6 @@
                 "🇺🇸 US | 🔒 SS | @v222ray [3]",
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇺🇸 US | 🔒 SS | @v2aryng_vpn [5]",
-                "🇨🇦 CA | 🔒 SS | @v2aryng_vpn [9]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [6]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
@@ -627,6 +627,14 @@
             "tag": "🇭🇰 HK | 🔒 SS | @free4allvpn [15]",
             "type": "shadowsocks",
             "server": "203.23.128.33",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "tag": "🇨🇦 CA | 🔒 SS | @free4allvpn [16]",
+            "type": "shadowsocks",
+            "server": "64.74.163.130",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "f8f7aCzcPKbsF8p3"
@@ -1446,14 +1454,6 @@
             "server_port": 9483,
             "method": "chacha20-ietf-poly1305",
             "password": "0KzWGiLK6TPNMq9k8TrOnV"
-        },
-        {
-            "tag": "🇨🇦 CA | 🔒 SS | @v2aryng_vpn [9]",
-            "type": "shadowsocks",
-            "server": "64.74.163.130",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
         },
         {
             "tag": "🇫🇮 FI | 🔒 SS | @v2graphy [5]",

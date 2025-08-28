@@ -83,7 +83,7 @@
                 "🇺🇸 US | 🔒 VLESS | @ai_duet [3]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [6]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [10]",
-                "🇭🇰 HK | 🔒 VLESS | @config_proxy [46]",
+                "🇫🇮 FI | 🔒 VLESS | @config_proxy [53]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -147,6 +147,7 @@
                 "🇫🇷 FR | 🔒 VLESS | @mtpv2ray [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mtpv2ray [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [18]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇨🇭 CH | 🔒 VLESS | @outline_vpn [6]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [8]",
@@ -182,7 +183,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2logy [5]",
                 "🇺🇸 US | 🔒 VLESS | @v2ray_sub [3]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [15]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raych [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇵🇱 PL | 🔒 VLESS | @v2rayng_1378 [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
@@ -225,7 +225,7 @@
                 "🇺🇸 US | 🔒 VLESS | @ai_duet [3]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [6]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [10]",
-                "🇭🇰 HK | 🔒 VLESS | @config_proxy [46]",
+                "🇫🇮 FI | 🔒 VLESS | @config_proxy [53]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -289,6 +289,7 @@
                 "🇫🇷 FR | 🔒 VLESS | @mtpv2ray [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mtpv2ray [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [18]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
                 "🇨🇭 CH | 🔒 VLESS | @outline_vpn [6]",
                 "🇫🇮 FI | 🔒 VLESS | @outline_vpn [8]",
@@ -324,7 +325,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2logy [5]",
                 "🇺🇸 US | 🔒 VLESS | @v2ray_sub [3]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [15]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raych [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇵🇱 PL | 🔒 VLESS | @v2rayng_1378 [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
@@ -521,16 +521,16 @@
             }
         },
         {
-            "tag": "🇭🇰 HK | 🔒 VLESS | @config_proxy [46]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @config_proxy [53]",
             "type": "vless",
-            "server": "103.253.43.210",
-            "server_port": 8443,
-            "uuid": "904b1982-d55f-47b8-ab81-3a5c10c1d050",
+            "server": "46.62.139.162",
+            "server_port": 29752,
+            "uuid": "2c3b3e80-a2ec-459e-b898-206ead4edc9d",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "google.com",
+                "server_name": "www.tgju.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -538,8 +538,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "5hKDqL2dBu7jbCfC_xW5omNEGUzPme8qF4mJOrXuHGY",
-                    "short_id": ""
+                    "public_key": "EXDIPc_-7wSk5LI0JH0fyaN3bc_kIgEe3fu2hIOBtWs",
+                    "short_id": "3dd812"
                 }
             }
         },
@@ -2073,6 +2073,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [18]",
+            "type": "vless",
+            "server": "91.99.58.127",
+            "server_port": 2090,
+            "uuid": "5b5596c2-1510-4d5e-9747-32b239e5a9cb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "🇫🇮 FI | 🔒 VLESS | @oonfig [1]",
             "type": "vless",
             "server": "31.56.206.70",
@@ -2902,29 +2925,6 @@
                     "enabled": true,
                     "public_key": "XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM",
                     "short_id": "5426024033df45"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2raych [12]",
-            "type": "vless",
-            "server": "5.231.29.29",
-            "server_port": 443,
-            "uuid": "19029831-477f-498e-a280-bd5291e955fb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "E1oJ5W7lA10Eum9t5cSlnq_GEirJat2lf2PWRfJDyVg",
-                    "short_id": "f7f1058c"
                 }
             }
         },
