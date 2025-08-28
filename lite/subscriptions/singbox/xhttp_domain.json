@@ -92,6 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [59]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [60]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [61]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
@@ -99,8 +102,10 @@
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇩🇪 DE | 🔓 VLESS | @lranonline_new [3]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [6]"
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [6]",
+                "🇺🇸 US | 🔓 VLESS | @v2rayfree [16]",
+                "🇺🇸 US | 🔓 VLESS | @v2rayfree [18]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,6 +116,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [59]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [60]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [61]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [8]",
@@ -118,8 +126,10 @@
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇩🇪 DE | 🔓 VLESS | @lranonline_new [3]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [6]"
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [6]",
+                "🇺🇸 US | 🔓 VLESS | @v2rayfree [16]",
+                "🇺🇸 US | 🔓 VLESS | @v2rayfree [18]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -206,6 +216,33 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [59]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "fb602bc2-8030-43a3-82db-8832c7c9d0d1",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [60]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "fb602bc2-8030-43a3-82db-8832c7c9d0d1",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [61]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "fb602bc2-8030-43a3-82db-8832c7c9d0d1",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
             "type": "vless",
             "server": "speedtest.net",
@@ -269,25 +306,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @lranonline_new [3]",
-            "type": "vless",
-            "server": "sss74251.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "7606bb75-416a-4f99-ba20-019cb25543cf",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss74251.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [6]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [6]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
@@ -297,6 +316,42 @@
             "tls": {
                 "enabled": true,
                 "server_name": "prx11.proxystore11.news",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayfree [16]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "fb602bc2-8030-43a3-82db-8832c7c9d0d1",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayfree [18]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "fb602bc2-8030-43a3-82db-8832c7c9d0d1",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [12]",
+            "type": "vless",
+            "server": "sss74251.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "7606bb75-416a-4f99-ba20-019cb25543cf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss74251.tas-bazi.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
