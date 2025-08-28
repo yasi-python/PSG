@@ -112,11 +112,11 @@
                 "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [6]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @outline_ir [7]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [8]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [9]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [3]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [4]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [1]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [9]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [6]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -149,6 +149,7 @@
                 "🚩 CF | 🔒 VLESS | @proxie [16]",
                 "🚩 CF | 🔒 VLESS | @proxie [17]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
+                "🇳🇱 NL | 🔒 VLESS | @proxy_mtproto_vpns_free [10]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
@@ -209,11 +210,11 @@
                 "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [6]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @outline_ir [7]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [8]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [9]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [3]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [4]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [1]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [9]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [6]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -246,6 +247,7 @@
                 "🚩 CF | 🔒 VLESS | @proxie [16]",
                 "🚩 CF | 🔒 VLESS | @proxie [17]",
                 "🚩 CF | 🔒 VLESS | @proxie [18]",
+                "🇳🇱 NL | 🔒 VLESS | @proxy_mtproto_vpns_free [10]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
@@ -693,7 +695,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [8]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [3]",
             "type": "vless",
             "server": "sss75298.tas-bazi.com",
             "server_port": 443,
@@ -711,7 +713,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [9]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [4]",
             "type": "vless",
             "server": "sss55168.tas-bazi.com",
             "server_port": 443,
@@ -770,7 +772,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [9]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
@@ -1260,6 +1262,29 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @proxy_mtproto_vpns_free [10]",
+            "type": "vless",
+            "server": "83.149.105.19",
+            "server_port": 30951,
+            "uuid": "b359b5b2-b538-48e8-9876-64b2b63f3caa",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "status.refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tqjPBSJAPH-kTl5KoZ3jk72JtP0qHL-e64kcT3Vvuyw",
+                    "short_id": "2b9b3ee824ee"
                 }
             }
         },
