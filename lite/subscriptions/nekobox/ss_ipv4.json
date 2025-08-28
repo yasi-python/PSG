@@ -114,8 +114,7 @@
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [8]",
                 "🇺🇸 US | 🔒 SS | @v2ray_v_vpn [28]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
-                "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]",
-                "🇩🇪 DE | 🔒 SS | @vmesc [18]"
+                "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -160,8 +159,7 @@
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [8]",
                 "🇺🇸 US | 🔒 SS | @v2ray_v_vpn [28]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
-                "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]",
-                "🇩🇪 DE | 🔒 SS | @vmesc [18]"
+                "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -530,14 +528,6 @@
             "server_port": 42090,
             "method": "chacha20-ietf-poly1305",
             "password": "uQS5ntVqC00sSKkeNzUiD3"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 SS | @vmesc [18]",
-            "type": "shadowsocks",
-            "server": "104.248.36.101",
-            "server_port": 80,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ckVxxBLAVbEQxxrRDSrHpY"
         }
     ],
     "route": {

@@ -125,6 +125,7 @@
                 "🇦🇹 AT | 🔓 VMESS | @rnrifci [4]",
                 "🇦🇹 AT | 🔓 VMESS | @rnrifci [6]",
                 "🇳🇱 NL | 🔒 VMESS | @tehranfreevpn [8]",
+                "🇩🇪 DE | 🔓 VMESS | @v222ray [11]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
@@ -180,6 +181,7 @@
                 "🇦🇹 AT | 🔓 VMESS | @rnrifci [4]",
                 "🇦🇹 AT | 🔓 VMESS | @rnrifci [6]",
                 "🇳🇱 NL | 🔒 VMESS | @tehranfreevpn [8]",
+                "🇩🇪 DE | 🔓 VMESS | @v222ray [11]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
@@ -777,6 +779,22 @@
                 "path": "/",
                 "headers": {
                     "Host": "199.247.30.45"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VMESS | @v222ray [11]",
+            "type": "vmess",
+            "server": "91.99.185.216",
+            "server_port": 20086,
+            "uuid": "7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": ""
                 }
             }
         },

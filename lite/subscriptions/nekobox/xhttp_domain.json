@@ -89,8 +89,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [6]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [12]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,8 +109,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [6]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [12]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -302,15 +300,6 @@
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "fb602bc2-8030-43a3-82db-8832c7c9d0d1",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
