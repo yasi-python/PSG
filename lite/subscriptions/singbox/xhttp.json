@@ -102,6 +102,8 @@
                 "🇺🇸 US | 🔓 VLESS | @lranonline_new [2]",
                 "🇩🇪 DE | 🔓 VLESS | @lranonline_new [4]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayfree [9]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayfree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
@@ -139,6 +141,8 @@
                 "🇺🇸 US | 🔓 VLESS | @lranonline_new [2]",
                 "🇩🇪 DE | 🔓 VLESS | @lranonline_new [4]",
                 "🚩 CF | 🔒 VLESS | @proxystore11 [9]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayfree [9]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayfree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [4]",
                 "🇩🇪 DE | 🔓 VLESS | @evay_vpn [20]",
@@ -342,6 +346,42 @@
             "tls": {
                 "enabled": true,
                 "server_name": "prx11.proxystore11.news",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayfree [9]",
+            "type": "vless",
+            "server": "sss75298.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "92b022a6-67f3-4406-840b-8fec2f4aace8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss75298.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayfree [10]",
+            "type": "vless",
+            "server": "sss55168.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "e8a19247-cb95-4f9c-9c77-ea0355268762",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss55168.tas-bazi.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
