@@ -80,12 +80,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇭🇰 HK | 🔒 TROJAN | @config_proxy [62]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [10]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [11]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [12]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [19]",
+                "🇸🇪 SE | 🔒 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
+                "🇭🇰 HK | 🔒 TROJAN | @ipv2rayng [17]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
@@ -101,12 +103,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇭🇰 HK | 🔒 TROJAN | @config_proxy [62]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [10]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [11]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [12]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [19]",
+                "🇸🇪 SE | 🔒 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
+                "🇭🇰 HK | 🔒 TROJAN | @ipv2rayng [17]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
@@ -202,6 +206,29 @@
             }
         },
         {
+            "tag": "🇭🇰 HK | 🔒 TROJAN | @config_proxy [62]",
+            "type": "trojan",
+            "server": "103.160.204.1",
+            "server_port": 443,
+            "password": "amclubs",
+            "tls": {
+                "enabled": true,
+                "server_name": "tran.amclubstest.nyc.mn",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Telegram@V2ray_Alpha/?ed=2560",
+                "headers": {
+                    "Host": "tran.amclubstest.nyc.mn"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [10]",
             "type": "trojan",
             "server": "35.159.254.111",
@@ -250,25 +277,18 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [19]",
+            "tag": "🇸🇪 SE | 🔒 TROJAN | @hope_net [20]",
             "type": "trojan",
-            "server": "190.93.244.69",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
+            "server": "16.170.67.252",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
             "tls": {
                 "enabled": true,
-                "server_name": "il.ylks.xyz",
+                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "il.ylks.xyz"
                 }
             }
         },
@@ -308,6 +328,22 @@
                 "path": "/Telegram",
                 "headers": {
                     "Host": "ttfang.fange.me"
+                }
+            }
+        },
+        {
+            "tag": "🇭🇰 HK | 🔒 TROJAN | @ipv2rayng [17]",
+            "type": "trojan",
+            "server": "updatess.sub-zrj.com",
+            "server_port": 321,
+            "password": "2f653ecd-c290-451e-a848-f8f525bc5a21",
+            "tls": {
+                "enabled": true,
+                "server_name": "data.sub-zrj.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
