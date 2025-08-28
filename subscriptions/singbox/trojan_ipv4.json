@@ -109,7 +109,7 @@
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [6]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [5]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇸🇪 SE | 🔓 TROJAN | @hope_net [9]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -142,7 +142,8 @@
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🚩 CF | 🔓 TROJAN | @v2raych [11]",
+                "🚩 CF | 🔒 TROJAN | @v2raych [13]",
+                "🇯🇵 JP | 🔓 TROJAN | @v2raych [16]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -190,7 +191,7 @@
                 "🇺🇸 US | 🔒 TROJAN | @free_serverir [6]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [5]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇸🇪 SE | 🔓 TROJAN | @hope_net [9]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -223,7 +224,8 @@
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🚩 CF | 🔓 TROJAN | @v2raych [11]",
+                "🚩 CF | 🔒 TROJAN | @v2raych [13]",
+                "🇯🇵 JP | 🔓 TROJAN | @v2raych [16]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -593,18 +595,16 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇸🇪 SE | 🔓 TROJAN | @hope_net [9]",
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
-            "server": "65.20.115.19",
-            "server_port": 443,
-            "password": "wkmY1R4EcP",
-            "tls": {
-                "enabled": true,
-                "server_name": "myket.io",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+            "server": "104.19.209.229",
+            "server_port": 8880,
+            "password": "f0d584bc-342f-4443-ba24-79e4d0e504b1",
+            "transport": {
+                "type": "ws",
+                "path": "/Telegram@Linkvws?ed=2560",
+                "headers": {
+                    "Host": "104.19.209.229"
                 }
             }
         },
@@ -1160,14 +1160,14 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @v2raych [11]",
+            "tag": "🚩 CF | 🔒 TROJAN | @v2raych [13]",
             "type": "trojan",
-            "server": "104.17.147.22",
+            "server": "190.93.244.202",
             "server_port": 443,
-            "password": "3454b8f0-aa56-11ef-b61b-1239d0255272",
+            "password": "bpb-trojan",
             "tls": {
                 "enabled": true,
-                "server_name": "sg-4.test3.net",
+                "server_name": "fcspring.ggff.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1176,9 +1176,25 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/howdy",
+                "path": "/tr?ed",
                 "headers": {
-                    "Host": "sg-4.test3.net"
+                    "Host": "fcspring.ggff.net"
+                }
+            }
+        },
+        {
+            "tag": "🇯🇵 JP | 🔓 TROJAN | @v2raych [16]",
+            "type": "trojan",
+            "server": "18.179.44.127",
+            "server_port": 443,
+            "password": "637308bc-fd52-343d-b573-7693835b8e20",
+            "tls": {
+                "enabled": true,
+                "server_name": "cloudsync-prod.s3.amazonaws.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },

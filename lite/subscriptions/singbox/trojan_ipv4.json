@@ -95,7 +95,6 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [12]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]"
             ],
@@ -111,7 +110,6 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [12]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [12]"
             ],
@@ -244,20 +242,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [20]",
-            "type": "trojan",
-            "server": "104.19.209.229",
-            "server_port": 8880,
-            "password": "f0d584bc-342f-4443-ba24-79e4d0e504b1",
-            "transport": {
-                "type": "ws",
-                "path": "/Telegram@Linkvws?ed=2560",
-                "headers": {
-                    "Host": "104.19.209.229"
                 }
             }
         },

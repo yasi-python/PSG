@@ -126,7 +126,8 @@
                 "🇸🇬 SG | 🔒 SS | @gh_v2rayng [8]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [2]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [3]",
-                "🇺🇸 US | 🔒 SS | @hope_net [10]",
+                "🇺🇸 US | 🔒 SS | @hope_net [6]",
+                "🇺🇸 US | 🔒 SS | @hope_net [20]",
                 "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇺🇸 US | 🔒 SS | @ip_cf_config [4]",
@@ -268,7 +269,8 @@
                 "🇸🇬 SG | 🔒 SS | @gh_v2rayng [8]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [2]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [3]",
-                "🇺🇸 US | 🔒 SS | @hope_net [10]",
+                "🇺🇸 US | 🔒 SS | @hope_net [6]",
+                "🇺🇸 US | 🔒 SS | @hope_net [20]",
                 "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇺🇸 US | 🔒 SS | @ip_cf_config [4]",
@@ -724,12 +726,20 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @hope_net [10]",
+            "tag": "🇺🇸 US | 🔒 SS | @hope_net [6]",
             "type": "shadowsocks",
             "server": "38.107.226.146",
             "server_port": 1230,
             "method": "chacha20-ietf-poly1305",
             "password": "H5S0hvcxRi#YLmgU"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @hope_net [20]",
+            "type": "shadowsocks",
+            "server": "205.134.180.147",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "9Bvkw5aupNy8"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",

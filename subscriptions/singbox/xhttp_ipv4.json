@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @config_proxy [28]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [4]",
@@ -144,7 +143,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @config_proxy [28]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇳🇱 NL | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [4]",
@@ -268,24 +266,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @config_proxy [28]",
-            "type": "vless",
-            "server": "104.21.48.1",
-            "server_port": 2083,
-            "uuid": "c4e6a6ef-d782-4a12-a38a-906a61ee5bc1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cho.chonon.sbs",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
