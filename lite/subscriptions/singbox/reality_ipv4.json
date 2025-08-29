@@ -92,6 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [73]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [74]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -123,6 +125,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
+                "🇷🇺 RU | 🔒 VLESS | @v2rayfree [6]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [2]",
@@ -138,6 +141,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [73]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [74]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -169,6 +174,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
+                "🇷🇺 RU | 🔒 VLESS | @v2rayfree [6]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [2]",
@@ -257,6 +263,56 @@
                 "headers": {
                     "Host": "127.0.0.1"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [73]",
+            "type": "vless",
+            "server": "91.99.115.173",
+            "server_port": 443,
+            "uuid": "c2b6c0b6-28c3-4b2d-ad78-3398276c1ed4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hostgator.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mEzwGx3LUXPR-sw8RFmlGM_ctzTwPlgq-mxku4wtBnc",
+                    "short_id": "c1"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [74]",
+            "type": "vless",
+            "server": "91.99.115.173",
+            "server_port": 443,
+            "uuid": "c2b6c0b6-28c3-4b2d-ad78-3398276c1ed4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "snapp.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mEzwGx3LUXPR-sw8RFmlGM_ctzTwPlgq-mxku4wtBnc",
+                    "short_id": "c1"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Ki5km8BGk5eqaB0Q1qI"
             }
         },
         {
@@ -997,6 +1053,29 @@
                     "enabled": true,
                     "public_key": "qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU",
                     "short_id": "a862ded52ae3ea"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔒 VLESS | @v2rayfree [6]",
+            "type": "vless",
+            "server": "194.55.235.202",
+            "server_port": 443,
+            "uuid": "5a519368-9dbb-4ab4-8967-a30fb39a8881",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "mega.io",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk",
+                    "short_id": "2c709739f487"
                 }
             }
         },

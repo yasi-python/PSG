@@ -10,6 +10,7 @@
     "NamiraConfigs": {
         "types": [
             "ss",
+            "trojan",
             "vless",
             "vmess"
         ],
@@ -76,9 +77,9 @@
     "config_proxy": {
         "types": [
             "vless",
-            "ss",
+            "vmess",
             "trojan",
-            "vmess"
+            "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -428,9 +429,8 @@
     "hope_net": {
         "types": [
             "vmess",
-            "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -797,8 +797,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1321,7 +1321,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
