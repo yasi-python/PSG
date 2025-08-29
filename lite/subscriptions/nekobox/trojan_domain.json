@@ -80,6 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇹🇼 TW | 🔒 TROJAN | @config_proxy [66]",
+                "🇹🇼 TW | 🔒 TROJAN | @config_proxy [67]",
+                "🇹🇼 TW | 🔒 TROJAN | @config_proxy [68]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
@@ -95,6 +98,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇹🇼 TW | 🔒 TROJAN | @config_proxy [66]",
+                "🇹🇼 TW | 🔒 TROJAN | @config_proxy [67]",
+                "🇹🇼 TW | 🔒 TROJAN | @config_proxy [68]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
@@ -186,6 +192,54 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
+                }
+            }
+        },
+        {
+            "tag": "🇹🇼 TW | 🔒 TROJAN | @config_proxy [66]",
+            "type": "trojan",
+            "server": "94ce4eb5-4924-455f-8de6-cf27b378f105.xn--mes358amjf2lb.com",
+            "server_port": 23703,
+            "password": "56faf7f4-1270-44c1-a23a-54f6c103e985",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.icloud.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇹🇼 TW | 🔒 TROJAN | @config_proxy [67]",
+            "type": "trojan",
+            "server": "94ce4eb5-4924-455f-8de6-cf27b378f105.xn--mes358amjf2lb.com",
+            "server_port": 11314,
+            "password": "56faf7f4-1270-44c1-a23a-54f6c103e985",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.icloud.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇹🇼 TW | 🔒 TROJAN | @config_proxy [68]",
+            "type": "trojan",
+            "server": "94ce4eb5-4924-455f-8de6-cf27b378f105.xn--mes358amjf2lb.com",
+            "server_port": 47875,
+            "password": "56faf7f4-1270-44c1-a23a-54f6c103e985",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.icloud.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },

@@ -25,7 +25,7 @@ dns:
 proxies: 
   - {"name":"🇳🇱 NL | 🔒 SS | @ai_duet [8]","type":"ss","server":"194.87.216.189","port":443,"password":"Ib9hxFZxUH4m","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇹🇷 TR | 🔒 SS | @argo_vpn1 [1]","type":"ss","server":"62.133.63.21","port":65262,"password":"24ZLHTP8bzMg6KeIWcpez7","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇬🇮 GI | 🔒 SS | @argo_vpn1 [2]","type":"ss","server":"94.131.22.134","port":40565,"password":"2PQVPJEWXxMkkdE82AW7qEj7jxQrZxqFUj3zheLjFArvtmuzUXNp9JUwzXGD1yJEHcDyH41HfPNo37vHWuLBp3guiRSuUZ6v","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @argo_vpn1 [2]","type":"ss","server":"94.131.22.134","port":40565,"password":"2PQVPJEWXxMkkdE82AW7qEj7jxQrZxqFUj3zheLjFArvtmuzUXNp9JUwzXGD1yJEHcDyH41HfPNo37vHWuLBp3guiRSuUZ6v","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇮🇳 IN | 🔒 SS | @argo_vpn1 [3]","type":"ss","server":"103.111.114.29","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇹🇷 TR | 🔒 SS | @argo_vpn1 [4]","type":"ss","server":"83.217.9.120","port":443,"password":"7bO8akoRoM2M","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇷🇺 RU | 🔒 SS | @confingv2raay [1]","type":"ss","server":"176.32.39.154","port":64726,"password":"leobXyVllD7ASdCGRhX6V2","cipher":"chacha20-ietf-poly1305"}
@@ -141,9 +141,8 @@ proxies:
   - {"name":"🇩🇪 DE | 🔒 SS | @srv2ray [1]","type":"ss","server":"5.182.87.210","port":35961,"password":"wDZtxfIk3UhacKHrho7lxw","cipher":"aes-256-gcm"}
   - {"name":"🇺🇸 US | 🔒 SS | @v222ray [3]","type":"ss","server":"45.87.175.181","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇳🇱 NL | 🔒 SS | @v222ray [6]","type":"ss","server":"45.158.171.60","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸 US | 🔒 SS | @v2aryng_vpn [1]","type":"ss","server":"92.118.112.101","port":9483,"password":"0KzWGiLK6TPNMq9k8TrOnV","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇮 FI | 🔒 SS | @v2graphy [5]","type":"ss","server":"83.147.216.70","port":64519,"password":"UlT89D0rvcr05tKft1NB5a","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇦🇹 AT | 🔒 SS | @v2raych [15]","type":"ss","server":"212.113.106.76","port":29149,"password":"2KFiohbSfXJKyUnKxKBvsh","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇰🇿 KZ | 🔒 SS | @v2raych [8]","type":"ss","server":"86.104.73.129","port":443,"password":"4wnJmfmB1lTKm2K5z7zFbN","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇪 SE | 🔒 SS | @v2raying [3]","type":"ss","server":"135.225.124.80","port":48172,"password":"51yloQC8D9w1Wae7FHtI65","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🔒 SS | @v2raying [8]","type":"ss","server":"45.87.175.28","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇷🇺 RU | 🔒 SS | @v2raymelliii [1]","type":"ss","server":"95.163.221.233","port":41596,"password":"4ih2EKQS0iYNMwIVmq+LMl0jvX0HQ8ZfEKA7XcxyuJQ=","cipher":"aes-256-gcm"}
@@ -156,7 +155,7 @@ proxies:
   - {"name":"🇬🇧 GB | 🔒 SS | @v2rayngrit [8]","type":"ss","server":"172.165.94.205","port":443,"password":"1xO2cqPazqjGfCfd","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇷🇺 RU | 🔒 SS | @v2rayprotocol [9]","type":"ss","server":"185.22.154.19","port":29910,"password":"f34579d0148b2581","cipher":"aes-256-gcm"}
   - {"name":"🇳🇱 NL | 🔒 SS | @vpn_ioss [17]","type":"ss","server":"103.104.247.45","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇨🇭 CH | 🔒 SS | @vpnowl [5]","type":"ss","server":"84.234.31.193","port":1080,"password":"9wYzxW0jIoPdbI6nvcfyvw","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇨🇭 CH | 🔒 SS | @vpnowl [4]","type":"ss","server":"84.234.31.193","port":1080,"password":"9wYzxW0jIoPdbI6nvcfyvw","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇷 FR | 🔒 SS | @zerobaipiao [25]","type":"ss","server":"77.105.166.12","port":8594,"password":"3DpxGqxiET9cqEGy99UYYE","cipher":"chacha20-ietf-poly1305"}
 
 proxy-groups:
@@ -173,7 +172,7 @@ proxy-groups:
     proxies: 
       - '🇳🇱 NL | 🔒 SS | @ai_duet [8]'
       - '🇹🇷 TR | 🔒 SS | @argo_vpn1 [1]'
-      - '🇬🇮 GI | 🔒 SS | @argo_vpn1 [2]'
+      - '🇺🇸 US | 🔒 SS | @argo_vpn1 [2]'
       - '🇮🇳 IN | 🔒 SS | @argo_vpn1 [3]'
       - '🇹🇷 TR | 🔒 SS | @argo_vpn1 [4]'
       - '🇷🇺 RU | 🔒 SS | @confingv2raay [1]'
@@ -289,9 +288,8 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 SS | @srv2ray [1]'
       - '🇺🇸 US | 🔒 SS | @v222ray [3]'
       - '🇳🇱 NL | 🔒 SS | @v222ray [6]'
-      - '🇺🇸 US | 🔒 SS | @v2aryng_vpn [1]'
       - '🇫🇮 FI | 🔒 SS | @v2graphy [5]'
-      - '🇦🇹 AT | 🔒 SS | @v2raych [15]'
+      - '🇰🇿 KZ | 🔒 SS | @v2raych [8]'
       - '🇸🇪 SE | 🔒 SS | @v2raying [3]'
       - '🇺🇸 US | 🔒 SS | @v2raying [8]'
       - '🇷🇺 RU | 🔒 SS | @v2raymelliii [1]'
@@ -304,7 +302,7 @@ proxy-groups:
       - '🇬🇧 GB | 🔒 SS | @v2rayngrit [8]'
       - '🇷🇺 RU | 🔒 SS | @v2rayprotocol [9]'
       - '🇳🇱 NL | 🔒 SS | @vpn_ioss [17]'
-      - '🇨🇭 CH | 🔒 SS | @vpnowl [5]'
+      - '🇨🇭 CH | 🔒 SS | @vpnowl [4]'
       - '🇫🇷 FR | 🔒 SS | @zerobaipiao [25]'
 
   - name: 🌍 Global Media

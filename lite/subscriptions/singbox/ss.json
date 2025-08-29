@@ -92,6 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇳🇱 NL | 🔒 SS | @NamiraConfigs [69]",
+                "🇺🇸 US | 🔒 SS | @NamiraConfigs [70]",
                 "🇬🇮 GI | 🔒 SS | @argo_vpn1 [2]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [3]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [4]",
@@ -126,7 +128,7 @@
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [19]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [7]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [8]",
-                "🇳🇱 NL | 🔒 SS | @v2aryng_vpn [11]",
+                "🇳🇱 NL | 🔒 SS | @v2aryng_vpn [10]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]",
                 "🇳🇱 NL | 🔒 SS | @vpn_ioss [17]",
@@ -148,6 +150,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇳🇱 NL | 🔒 SS | @NamiraConfigs [69]",
+                "🇺🇸 US | 🔒 SS | @NamiraConfigs [70]",
                 "🇬🇮 GI | 🔒 SS | @argo_vpn1 [2]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [3]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [4]",
@@ -182,7 +186,7 @@
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [19]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [7]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [8]",
-                "🇳🇱 NL | 🔒 SS | @v2aryng_vpn [11]",
+                "🇳🇱 NL | 🔒 SS | @v2aryng_vpn [10]",
                 "🇩🇪 DE | 🔒 SS | @v2rayngalpha [5]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngalpha [6]",
                 "🇳🇱 NL | 🔒 SS | @vpn_ioss [17]",
@@ -278,6 +282,22 @@
                     "Host": "127.0.0.1"
                 }
             }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 SS | @NamiraConfigs [69]",
+            "type": "shadowsocks",
+            "server": "193.29.139.202",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [70]",
+            "type": "shadowsocks",
+            "server": "45.87.175.166",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "cvII85TrW6n0OGyfpHVS1u"
         },
         {
             "tag": "🇬🇮 GI | 🔒 SS | @argo_vpn1 [2]",
@@ -552,7 +572,7 @@
             "password": "NP_LonGeuc8o45eA7BYD9g"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 SS | @v2aryng_vpn [11]",
+            "tag": "🇳🇱 NL | 🔒 SS | @v2aryng_vpn [10]",
             "type": "shadowsocks",
             "server": "193.29.139.240",
             "server_port": 8080,
