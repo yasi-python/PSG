@@ -82,7 +82,6 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
-                "🇨🇦 CA | 🔓 VMESS | @config_proxy [54]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -98,6 +97,8 @@
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
                 "🚩 CF | 🔓 VMESS | @hope_net [18]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [14]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -108,7 +109,8 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🚩 CF | 🔒 VMESS | @mowjproxy [6]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [4]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [5]",
                 "🇺🇸 US | 🔓 VMESS | @outlinev2rayng [12]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
@@ -142,7 +144,6 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
-                "🇨🇦 CA | 🔓 VMESS | @config_proxy [54]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -158,6 +159,8 @@
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
                 "🚩 CF | 🔓 VMESS | @hope_net [18]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [14]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -168,7 +171,8 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🚩 CF | 🔒 VMESS | @mowjproxy [6]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [4]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [5]",
                 "🇺🇸 US | 🔓 VMESS | @outlinev2rayng [12]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
@@ -312,15 +316,6 @@
                     "Host": "ad80f8ec-4861-11f0-a948-6a75f667b472.ShomaParvazRoYadetonNist-BypassIsHere.lat"
                 }
             }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔓 VMESS | @config_proxy [54]",
-            "type": "vmess",
-            "server": "51.79.86.182",
-            "server_port": 42610,
-            "uuid": "e0957ca6-f613-4017-ff3c-effd1da8871a",
-            "security": "auto",
-            "alter_id": 0
         },
         {
             "tag": "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
@@ -578,6 +573,38 @@
             }
         },
         {
+            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [14]",
+            "type": "vmess",
+            "server": "47.79.41.14",
+            "server_port": 15924,
+            "uuid": "f50628ed-e568-4cde-eda8-3dce15edc1c1",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/f50628ed",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
+            "type": "vmess",
+            "server": "223.135.156.179",
+            "server_port": 20521,
+            "uuid": "c1bf2f6d-a111-4b0f-bde8-ece652fdee86",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
             "type": "vmess",
             "server": "142.4.125.84",
@@ -707,7 +734,32 @@
             "alter_id": 0
         },
         {
-            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [6]",
+            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [4]",
+            "type": "vmess",
+            "server": "104.17.148.22",
+            "server_port": 2083,
+            "uuid": "8ae65664-84e8-40e1-9708-9236f0808dfd",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "api3.waltonweb.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/panel?ed=2560",
+                "headers": {
+                    "Host": "api3.waltonweb.ir"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [5]",
             "type": "vmess",
             "server": "www.speedtest.net",
             "server_port": 443,

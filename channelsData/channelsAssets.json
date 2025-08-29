@@ -92,8 +92,8 @@
     },
     "config_proxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -594,10 +594,9 @@
     },
     "hope_net": {
         "types": [
-            "ss",
-            "trojan",
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/hope_net.jpg"
@@ -652,9 +651,7 @@
     },
     "ipv2rayng": {
         "types": [
-            "vmess",
-            "vless",
-            "trojan"
+            "vmess"
         ],
         "title": "ipV2rayNG",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/ipv2rayng.jpg"
@@ -1066,8 +1063,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1251,7 +1248,8 @@
     "outline_ir": {
         "types": [
             "ss",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -1742,7 +1740,8 @@
     },
     "v2ray_collector": {
         "types": [
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "V2rayCollector",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2ray_collector.jpg"
@@ -1813,8 +1812,7 @@
     "v2raych": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "trojan"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2259,8 +2257,8 @@
     "zerobaipiao": {
         "types": [
             "vless",
-            "trojan",
             "vmess",
+            "trojan",
             "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
