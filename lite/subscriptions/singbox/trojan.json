@@ -95,8 +95,6 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🚩 CF | 🔒 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]",
@@ -118,8 +116,6 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🚩 CF | 🔒 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]",
@@ -262,49 +258,10 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [18]",
-            "type": "trojan",
-            "server": "108.162.194.233",
-            "server_port": 443,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "fcspring.ggff.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tr?ed",
-                "headers": {
-                    "Host": "fcspring.ggff.net"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [19]",
-            "type": "trojan",
-            "server": "188.114.98.244",
-            "server_port": 443,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "adagio.us.kg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🚩 CF | 🔒 TROJAN | @hope_net [20]",
             "type": "trojan",
-            "server": "172.66.44.131",
-            "server_port": 443,
+            "server": "172.66.44.106",
+            "server_port": 8443,
             "password": "auto",
             "tls": {
                 "enabled": true,
