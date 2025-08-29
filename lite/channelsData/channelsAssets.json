@@ -10,8 +10,7 @@
     "NamiraConfigs": {
         "types": [
             "ss",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "NamiraNet",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraConfigs.jpg"
@@ -432,10 +431,10 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "vless",
             "trojan",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1313,8 +1312,8 @@
     },
     "v2ray_v_vpn": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "فروش ویتوری| خریدکانفینگ | v2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_v_vpn.jpg"

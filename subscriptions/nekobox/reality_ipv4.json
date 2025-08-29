@@ -84,8 +84,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [6]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [11]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [23]",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [25]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [28]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -125,7 +124,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @injectormconf [34]",
                 "🇩🇪 DE | 🔒 VLESS | @injectormconf [36]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
-                "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [15]",
+                "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [10]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [7]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [9]",
@@ -231,8 +230,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [6]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [11]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [23]",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [25]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [28]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -272,7 +270,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @injectormconf [34]",
                 "🇩🇪 DE | 🔒 VLESS | @injectormconf [36]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
-                "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [15]",
+                "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [10]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [7]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [9]",
@@ -558,11 +556,11 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [23]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [28]",
             "type": "vless",
             "server": "85.158.110.62",
             "server_port": 8443,
-            "uuid": "50ffadad-b00e-46ad-afbf-c813528d0447",
+            "uuid": "d0cb34cb-0ba3-4613-9d24-a64b94681664",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -576,29 +574,6 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @config_proxy [25]",
-            "type": "vless",
-            "server": "85.239.60.43",
-            "server_port": 8443,
-            "uuid": "50ffadad-b00e-46ad-afbf-c813528d0447",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "qJ_x7_Fz3M4QdnRG8WcqVNpgsHbwWgs_KrdCqr4iclE",
                     "short_id": ""
                 }
             }
@@ -1561,7 +1536,7 @@
             }
         },
         {
-            "tag": "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [15]",
+            "tag": "🇨🇭 CH | 🔒 VLESS | @ipv2rayng [10]",
             "type": "vless",
             "server": "84.234.29.214",
             "server_port": 8585,
