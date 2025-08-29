@@ -45,6 +45,7 @@ proxies:
   - {"name":"🚩 CF | 🔒 TROJAN | @teamvpnpro [4]","type":"trojan","server":"chatbuzzteambhm.chatbuzzt7150.workers.dev","port":443,"password":"c7f9b8f0-bfdb-11ee-a15c-1239d0255272","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]","type":"trojan","server":"de1.test3.net","port":443,"password":"b8841c50-c3ad-11ee-9be0-1239d0255272","skip-cert-verify":false}
   - {"name":"🚩 CF | 🔒 TROJAN | @v2aryng_vpn [1]","type":"trojan","server":"www.speedtest.net","port":443,"password":"zY0HGcoAcY2v","skip-cert-verify":false}
+  - {"name":"🚩 CF | 🔒 TROJAN | @v2raych [14]","type":"trojan","server":"free1.disgift.com","port":2087,"password":"f463Klu0BR","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]","type":"trojan","server":"phxv002.jd0001.top","port":44303,"password":"6bb546f2-5528-31b2-8d8e-cf1eed4076a0","skip-cert-verify":false}
   - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [33]","type":"trojan","server":"1.mg.us.cat77.cloud","port":1434,"password":"cd27884b-c5af-34ec-b75f-8248077818fe","skip-cert-verify":false}
   - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [35]","type":"trojan","server":"stonebreak.online","port":443,"password":"xl87654321","skip-cert-verify":false}
@@ -75,8 +76,9 @@ proxies:
   - {"name":"🇺🇸 US | 🔒 TROJAN | @free_serverir [6]","type":"trojan","server":"192.3.107.252","port":443,"password":"2ee85121-31de-4581-a492-eb00f606e392","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [5]","type":"trojan","server":"192.3.107.252","port":443,"password":"2ee85121-31de-4581-a492-eb00f606e392","skip-cert-verify":true}
   - {"name":"🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]","type":"trojan","server":"91.107.141.0","port":23825,"password":"ziIjOlyGbM","skip-cert-verify":false}
-  - {"name":"🚩 CF | 🔓 TROJAN | @hope_net [16]","type":"trojan","server":"104.19.142.99","port":443,"password":"blue2024","skip-cert-verify":false}
-  - {"name":"🚩 CF | 🔒 TROJAN | @hope_net [20]","type":"trojan","server":"104.20.19.232","port":443,"password":"auto","skip-cert-verify":false}
+  - {"name":"🚩 CF | 🔓 TROJAN | @hope_net [14]","type":"trojan","server":"104.19.142.99","port":443,"password":"blue2024","skip-cert-verify":false}
+  - {"name":"🚩 CF | 🔒 TROJAN | @hope_net [18]","type":"trojan","server":"104.20.19.232","port":443,"password":"auto","skip-cert-verify":false}
+  - {"name":"🚩 CF | 🔓 TROJAN | @hope_net [20]","type":"trojan","server":"198.41.219.190","port":443,"password":"bpb-trojan","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]","type":"trojan","server":"198.23.229.250","port":443,"password":"2ee85121-31de-4581-a492-eb00f606e392","skip-cert-verify":false}
   - {"name":"🚩 CF | 🔒 TROJAN | @ip_cf_config [9]","type":"trojan","server":"104.25.165.81","port":8443,"password":"123456","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]","type":"trojan","server":"104.149.155.13","port":443,"password":"79c935c0-27dc-4383-b307-dcac1b8e5509","skip-cert-verify":false}
@@ -165,6 +167,7 @@ proxy-groups:
       - '🚩 CF | 🔒 TROJAN | @teamvpnpro [4]'
       - '🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]'
       - '🚩 CF | 🔒 TROJAN | @v2aryng_vpn [1]'
+      - '🚩 CF | 🔒 TROJAN | @v2raych [14]'
       - '🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]'
       - '❔ XX | 🔒 TROJAN | @v2rayngconfig [33]'
       - '❔ XX | 🔒 TROJAN | @v2rayngconfig [35]'
@@ -195,8 +198,9 @@ proxy-groups:
       - '🇺🇸 US | 🔒 TROJAN | @free_serverir [6]'
       - '🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [5]'
       - '🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]'
-      - '🚩 CF | 🔓 TROJAN | @hope_net [16]'
-      - '🚩 CF | 🔒 TROJAN | @hope_net [20]'
+      - '🚩 CF | 🔓 TROJAN | @hope_net [14]'
+      - '🚩 CF | 🔒 TROJAN | @hope_net [18]'
+      - '🚩 CF | 🔓 TROJAN | @hope_net [20]'
       - '🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]'
       - '🚩 CF | 🔒 TROJAN | @ip_cf_config [9]'
       - '🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]'
