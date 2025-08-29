@@ -94,11 +94,13 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
+                "🚩 CF | 🔓 VMESS | @config_proxy [72]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [8]",
                 "🇹🇼 TW | 🔓 VMESS | @custom_14 [6]",
+                "🇨🇦 CA | 🔓 VMESS | @free4allvpn [16]",
                 "🇨🇭 CH | 🔓 VMESS | @freeshadowsock [3]",
                 "🇳🇱 NL | 🔓 VMESS | @freeshadowsock [4]",
                 "🇫🇮 FI | 🔓 VMESS | @freeshadowsock [5]",
@@ -107,7 +109,7 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🇺🇸 US | 🔓 VMESS | @hope_net [20]",
+                "🇺🇸 US | 🔓 VMESS | @hope_net [18]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -119,7 +121,7 @@
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
                 "🚩 CF | 🔒 VMESS | @mowjproxy [2]",
-                "🇺🇸 US | 🔓 VMESS | @outlinev2rayng [13]",
+                "🇺🇸 US | 🔓 VMESS | @mowjproxy [4]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -152,11 +154,13 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
+                "🚩 CF | 🔓 VMESS | @config_proxy [72]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [8]",
                 "🇹🇼 TW | 🔓 VMESS | @custom_14 [6]",
+                "🇨🇦 CA | 🔓 VMESS | @free4allvpn [16]",
                 "🇨🇭 CH | 🔓 VMESS | @freeshadowsock [3]",
                 "🇳🇱 NL | 🔓 VMESS | @freeshadowsock [4]",
                 "🇫🇮 FI | 🔓 VMESS | @freeshadowsock [5]",
@@ -165,7 +169,7 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🇺🇸 US | 🔓 VMESS | @hope_net [20]",
+                "🇺🇸 US | 🔓 VMESS | @hope_net [18]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -177,7 +181,7 @@
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
                 "🚩 CF | 🔒 VMESS | @mowjproxy [2]",
-                "🇺🇸 US | 🔓 VMESS | @outlinev2rayng [13]",
+                "🇺🇸 US | 🔓 VMESS | @mowjproxy [4]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -318,6 +322,31 @@
             }
         },
         {
+            "tag": "🚩 CF | 🔓 VMESS | @config_proxy [72]",
+            "type": "vmess",
+            "server": "172.67.71.160",
+            "server_port": 443,
+            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "obdii.cfd",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/linkws",
+                "headers": {
+                    "Host": "obdii.cfd"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
             "type": "vmess",
             "server": "join.melodyfreenet2.shop",
@@ -398,6 +427,22 @@
             "uuid": "418048af-a293-4b99-9b0c-98ca4690dd24",
             "security": "auto",
             "alter_id": 64
+        },
+        {
+            "tag": "🇨🇦 CA | 🔓 VMESS | @free4allvpn [16]",
+            "type": "vmess",
+            "server": "51.79.102.253",
+            "server_port": 80,
+            "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+                "headers": {
+                    "Host": ""
+                }
+            }
         },
         {
             "tag": "🇨🇭 CH | 🔓 VMESS | @freeshadowsock [3]",
@@ -541,7 +586,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @hope_net [20]",
+            "tag": "🇺🇸 US | 🔓 VMESS | @hope_net [18]",
             "type": "vmess",
             "server": "38.14.107.233",
             "server_port": 38003,
@@ -720,7 +765,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @outlinev2rayng [13]",
+            "tag": "🇺🇸 US | 🔓 VMESS | @mowjproxy [4]",
             "type": "vmess",
             "server": "15.204.11.190",
             "server_port": 15361,

@@ -93,6 +93,7 @@
     "config_proxy": {
         "types": [
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -379,8 +380,8 @@
     },
     "free4allvpn": {
         "types": [
-            "vmess",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "Shadowsocks Outline Vmess Open VPN",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/free4allvpn.jpg"
@@ -594,8 +595,8 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "trojan",
+            "vless",
             "ss",
             "vmess"
         ],
@@ -1373,6 +1374,7 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -1813,6 +1815,7 @@
         "types": [
             "vless",
             "trojan",
+            "ss",
             "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -1828,6 +1831,7 @@
     "v2rayfree": {
         "types": [
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2256,8 +2260,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "trojan",
             "ss"
         ],
