@@ -93,8 +93,9 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
+                "🇫🇷 FR | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [11]",
                 "🇭🇰 HK | 🔒 TROJAN | @v2ray_collector [27]",
@@ -114,8 +115,9 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
+                "🇫🇷 FR | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [11]",
                 "🇭🇰 HK | 🔒 TROJAN | @v2ray_collector [27]",
@@ -212,7 +214,7 @@
         {
             "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
             "type": "trojan",
-            "server": "3.68.140.204",
+            "server": "63.179.23.253",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "tls": {
@@ -226,9 +228,9 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @directvpn [14]",
             "type": "trojan",
-            "server": "63.179.23.253",
+            "server": "35.180.143.131",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "tls": {
@@ -244,12 +246,28 @@
         {
             "tag": "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
             "type": "trojan",
-            "server": "35.180.143.131",
+            "server": "15.237.12.5",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [18]",
+            "type": "trojan",
+            "server": "104.19.142.99",
+            "server_port": 443,
+            "password": "blue2024",
+            "tls": {
+                "enabled": true,
+                "server_name": "ta.promote.icu",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
