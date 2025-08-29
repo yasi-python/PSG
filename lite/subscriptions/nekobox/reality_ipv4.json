@@ -80,6 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇫🇮 FI | 🔒 VLESS | @config_proxy [47]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -98,7 +99,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
                 "🇮🇸 IS | 🔒 VLESS | @outline_vpn [18]",
-                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [12]",
+                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -110,7 +111,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇷🇺 RU | 🔒 VLESS | @v2rayfree [6]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [2]",
@@ -126,6 +126,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇫🇮 FI | 🔒 VLESS | @config_proxy [47]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -144,7 +145,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
                 "🇮🇸 IS | 🔒 VLESS | @outline_vpn [18]",
-                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [12]",
+                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -156,7 +157,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇷🇺 RU | 🔒 VLESS | @v2rayfree [6]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [4]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [2]",
@@ -248,6 +248,29 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @config_proxy [47]",
+            "type": "vless",
+            "server": "157.180.91.49",
+            "server_port": 2053,
+            "uuid": "859035ad-7cda-4bbc-ae7d-f4d4c0f1a091",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xwF90Z17AR1-ORLgy59XonaFMW_ZJaYDQ8V7Sd8ZYRY",
+                    "short_id": "402522a1ec224c96"
                 }
             }
         },
@@ -678,7 +701,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [12]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [15]",
             "type": "vless",
             "server": "146.19.90.2",
             "server_port": 443,
@@ -962,29 +985,6 @@
                     "enabled": true,
                     "public_key": "qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU",
                     "short_id": "a862ded52ae3ea"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @v2rayfree [6]",
-            "type": "vless",
-            "server": "194.55.235.202",
-            "server_port": 443,
-            "uuid": "5a519368-9dbb-4ab4-8967-a30fb39a8881",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "mega.io",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk",
-                    "short_id": "2c709739f487"
                 }
             }
         },
