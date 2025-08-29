@@ -80,7 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [72]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -110,7 +109,7 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [1]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [3]",
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [3]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [6]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -132,7 +131,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [72]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -162,7 +160,7 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [8]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [1]",
-                "🚩 CF | 🔒 VLESS | @proxystore11 [3]",
+                "🇺🇸 US | 🔒 VLESS | @proxystore11 [3]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [7]",
                 "❔ XX | 🔓 VLESS | @v2graphy [6]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [1]",
@@ -262,15 +260,6 @@
                     "Host": "127.0.0.1"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [72]",
-            "type": "vless",
-            "server": "EVAY_VPN.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "3b82c3ef-d428-4a62-ae97-f53c305f883d",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
@@ -599,7 +588,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [3]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [3]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
