@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔒 SS | @NamiraConfigs [70]",
                 "🇬🇮 GI | 🔒 SS | @argo_vpn1 [2]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [3]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [4]",
@@ -103,7 +102,6 @@
                 "🇭🇰 HK | 🔒 SS | @free4allvpn [15]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [16]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
-                "🇭🇰 HK | 🔒 SS | @hope_net [18]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇬🇧 GB | 🔒 SS | @ir_netproxy [13]",
                 "🇳🇱 NL | 🔒 SS | @jiedianssr [6]",
@@ -147,7 +145,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔒 SS | @NamiraConfigs [70]",
                 "🇬🇮 GI | 🔒 SS | @argo_vpn1 [2]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [3]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [4]",
@@ -158,7 +155,6 @@
                 "🇭🇰 HK | 🔒 SS | @free4allvpn [15]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [16]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
-                "🇭🇰 HK | 🔒 SS | @hope_net [18]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇬🇧 GB | 🔒 SS | @ir_netproxy [13]",
                 "🇳🇱 NL | 🔒 SS | @jiedianssr [6]",
@@ -278,14 +274,6 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🔒 SS | @NamiraConfigs [70]",
-            "type": "shadowsocks",
-            "server": "45.144.49.140",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "360e21d21977dc11"
-        },
-        {
             "tag": "🇬🇮 GI | 🔒 SS | @argo_vpn1 [2]",
             "type": "shadowsocks",
             "server": "94.131.22.134",
@@ -364,14 +352,6 @@
             "server_port": 43486,
             "method": "chacha20-ietf-poly1305",
             "password": "7vlJpFVhEpKh/VTTCvOab8eEoJo+MeXJpj9CDxLYm9o="
-        },
-        {
-            "tag": "🇭🇰 HK | 🔒 SS | @hope_net [18]",
-            "type": "shadowsocks",
-            "server": "141.98.234.93",
-            "server_port": 20012,
-            "method": "chacha20-ietf-poly1305",
-            "password": "WfmxKX2FBJRU0Ie9VLIYDL"
         },
         {
             "tag": "🇬🇧 GB | 🔒 SS | @injectormconf [40]",

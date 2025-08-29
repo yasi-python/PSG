@@ -10,7 +10,8 @@
     "NamiraConfigs": {
         "types": [
             "ss",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "NamiraNet",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraConfigs.jpg"
@@ -431,9 +432,9 @@
     },
     "hope_net": {
         "types": [
+            "vmess",
             "vless",
             "trojan",
-            "vmess",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1460,8 +1461,8 @@
     },
     "vmesc": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"

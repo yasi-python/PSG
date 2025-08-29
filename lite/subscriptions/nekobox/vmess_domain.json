@@ -82,8 +82,6 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
-                "🇭🇰 HK | 🔓 VMESS | @config_proxy [31]",
-                "🚩 CF | 🔓 VMESS | @config_proxy [33]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -142,8 +140,6 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
-                "🇭🇰 HK | 🔓 VMESS | @config_proxy [31]",
-                "🚩 CF | 🔓 VMESS | @config_proxy [33]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -310,38 +306,6 @@
                 "path": "/ad80f8ec-4861-11f0-a948-6a75f667b472?ed=2048",
                 "headers": {
                     "Host": "ad80f8ec-4861-11f0-a948-6a75f667b472.ShomaParvazRoYadetonNist-BypassIsHere.lat"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰 HK | 🔓 VMESS | @config_proxy [31]",
-            "type": "vmess",
-            "server": "210.3.159.150",
-            "server_port": 42717,
-            "uuid": "b5803d74-c6f8-415f-e1e6-ebc9e4269b86",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VMESS | @config_proxy [33]",
-            "type": "vmess",
-            "server": "104.18.24.92",
-            "server_port": 2052,
-            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/afrhms16v.bestxray.buzz/linkws",
-                "headers": {
-                    "Host": ""
                 }
             }
         },
@@ -571,14 +535,14 @@
         {
             "tag": "🚩 CF | 🔓 VMESS | @hope_net [19]",
             "type": "vmess",
-            "server": "104.21.83.115",
-            "server_port": 443,
-            "uuid": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
+            "server": "104.21.238.200",
+            "server_port": 8443,
+            "uuid": "9201ffaa-6ca3-4f57-8b1f-266a2f390e43",
             "security": "auto",
             "alter_id": 0,
             "tls": {
                 "enabled": true,
-                "server_name": "hms02.fxiaomi.sbs",
+                "server_name": "104.21.238.200",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -587,9 +551,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/link",
+                "path": "/github.com/Alvin9999",
                 "headers": {
-                    "Host": "hms02.fxiaomi.sbs"
+                    "Host": "104.21.238.200"
                 }
             }
         },

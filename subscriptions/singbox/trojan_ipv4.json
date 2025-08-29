@@ -141,9 +141,7 @@
                 "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [10]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [12]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇯🇵 JP | 🔒 TROJAN | @v2raych [8]",
-                "🚩 CF | 🔓 TROJAN | @v2raych [17]",
-                "🇸🇪 SE | 🔒 TROJAN | @v2raych [20]",
+                "🇩🇪 DE | 🔓 TROJAN | @v2raych [3]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -222,9 +220,7 @@
                 "🇺🇸 US | 🔒 TROJAN | @v2aryng_vpn [10]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [12]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🇯🇵 JP | 🔒 TROJAN | @v2raych [8]",
-                "🚩 CF | 🔓 TROJAN | @v2raych [17]",
-                "🇸🇪 SE | 🔒 TROJAN | @v2raych [20]",
+                "🇩🇪 DE | 🔓 TROJAN | @v2raych [3]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -1128,52 +1124,11 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🔒 TROJAN | @v2raych [8]",
+            "tag": "🇩🇪 DE | 🔓 TROJAN | @v2raych [3]",
             "type": "trojan",
-            "server": "43.207.0.159",
-            "server_port": 20230,
-            "password": "5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d",
-            "tls": {
-                "enabled": true,
-                "server_name": "421421.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 TROJAN | @v2raych [17]",
-            "type": "trojan",
-            "server": "172.67.67.64",
-            "server_port": 443,
-            "password": "WOeXShhJpL",
-            "tls": {
-                "enabled": true,
-                "server_name": "09jzus.zdzdzd.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🔒 TROJAN | @v2raych [20]",
-            "type": "trojan",
-            "server": "13.61.102.151",
+            "server": "63.176.182.62",
             "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "password": "telegram-id-privatevpns"
         },
         {
             "tag": "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
