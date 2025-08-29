@@ -84,9 +84,9 @@
                 "🚩 CF | 🔒 VLESS | @arv2ray [13]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [33]",
-                "🚩 CF | 🔓 VLESS | @config_proxy [34]",
-                "🚩 CF | 🔓 VLESS | @config_proxy [35]",
+                "🇮🇳 IN | 🔒 VLESS | @config_proxy [37]",
+                "🇨🇾 CY | 🔓 VLESS | @config_proxy [38]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [39]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -167,7 +167,7 @@
                 "🇮🇷 IR | 🔓 VLESS | @minovpnch [13]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇸🇰 SK | 🔓 VLESS | @mowjproxy [2]",
+                "🚩 CF | 🔓 VLESS | @mowjproxy [4]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [12]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [13]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [14]",
@@ -185,6 +185,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @oonfig [7]",
                 "🚩 CF | 🔒 VLESS | @orange_vpns [12]",
                 "🇮🇸 IS | 🔒 VLESS | @outline_vpn [20]",
+                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [14]",
                 "🇮🇷 IR | 🔓 VLESS | @pistachiovpn [3]",
                 "🚩 CF | 🔒 VLESS | @pro_chaneel [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
@@ -261,9 +262,9 @@
                 "🚩 CF | 🔒 VLESS | @arv2ray [13]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [33]",
-                "🚩 CF | 🔓 VLESS | @config_proxy [34]",
-                "🚩 CF | 🔓 VLESS | @config_proxy [35]",
+                "🇮🇳 IN | 🔒 VLESS | @config_proxy [37]",
+                "🇨🇾 CY | 🔓 VLESS | @config_proxy [38]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [39]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -344,7 +345,7 @@
                 "🇮🇷 IR | 🔓 VLESS | @minovpnch [13]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇸🇰 SK | 🔓 VLESS | @mowjproxy [2]",
+                "🚩 CF | 🔓 VLESS | @mowjproxy [4]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [12]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [13]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [14]",
@@ -362,6 +363,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @oonfig [7]",
                 "🚩 CF | 🔒 VLESS | @orange_vpns [12]",
                 "🇮🇸 IS | 🔒 VLESS | @outline_vpn [20]",
+                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [14]",
                 "🇮🇷 IR | 🔓 VLESS | @pistachiovpn [3]",
                 "🚩 CF | 🔒 VLESS | @pro_chaneel [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
@@ -605,50 +607,63 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [33]",
+            "tag": "🇮🇳 IN | 🔒 VLESS | @config_proxy [37]",
             "type": "vless",
-            "server": "151.101.128.155",
+            "server": "154.197.64.183",
+            "server_port": 443,
+            "uuid": "cc6b985d-0362-4129-8763-38564174fb3e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "iryiccyne.wwtraveler.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "t.me/entryNET"
+            }
+        },
+        {
+            "tag": "🇨🇾 CY | 🔓 VLESS | @config_proxy [38]",
+            "type": "vless",
+            "server": "154.92.9.95",
             "server_port": 80,
-            "uuid": "8442cec0-51b9-4b7a-9d72-ae8a1621314a",
+            "uuid": "dfc1a9ab-6241-4b73-92f7-b299fc6b7751",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048",
+                "path": "/",
                 "headers": {
-                    "Host": "151.101.128.155"
+                    "Host": "154.92.9.95"
                 }
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @config_proxy [34]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [39]",
             "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "2d11f3e1-61a9-4051-996a-e25e2b922d9f",
-            "flow": "",
+            "server": "85.234.65.120",
+            "server_port": 443,
+            "uuid": "fdc0229d-2037-48c4-94d3-496e67cce5d8",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @config_proxy [35]",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 2052,
-            "uuid": "7a7e66a1-eb97-4b40-ad24-0da6338a5d7b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet",
-                "headers": {
-                    "Host": "172.66.40.99"
+            "tls": {
+                "enabled": true,
+                "server_name": "github.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA",
+                    "short_id": "f90c"
                 }
             }
         },
@@ -2050,11 +2065,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇸🇰 SK | 🔓 VLESS | @mowjproxy [2]",
+            "tag": "🚩 CF | 🔓 VLESS | @mowjproxy [4]",
             "type": "vless",
-            "server": "5.35.103.218",
-            "server_port": 2083,
-            "uuid": "ad13ec86-8dfc-4be9-a2e6-ab0379715a16",
+            "server": "104.16.53.11",
+            "server_port": 8080,
+            "uuid": "4ca604af-1cfb-40d5-807a-083bf97432ba",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -2372,6 +2387,29 @@
                     "enabled": true,
                     "public_key": "m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI",
                     "short_id": "816473be23c2"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [14]",
+            "type": "vless",
+            "server": "103.175.79.2",
+            "server_port": 443,
+            "uuid": "7244a576-0680-ee46-acd8-55809ee12479",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "speed.cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI",
+                    "short_id": ""
                 }
             }
         },

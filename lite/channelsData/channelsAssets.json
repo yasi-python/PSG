@@ -10,7 +10,8 @@
     "NamiraConfigs": {
         "types": [
             "ss",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "NamiraNet",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraConfigs.jpg"
@@ -346,13 +347,6 @@
         ],
         "title": "پروکسی ملی Proxy | v2rayng | کانفیگ ملی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/frev2rayng.jpg"
-    },
-    "fsv2ray": {
-        "types": [
-            "vless"
-        ],
-        "title": "𝐅𝐬𝐕2𝐫𝐚𝐲 | 𝑪𝒐𝒏𝒇𝒊𝒈",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fsv2ray.jpg"
     },
     "game_file2020": {
         "types": [
@@ -803,8 +797,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1242,10 +1236,10 @@
     },
     "v2aryng_vpn": {
         "types": [
-            "vless",
             "trojan",
             "ss",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "🌐 V2ray | proxy 🌐",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2aryng_vpn.jpg"
