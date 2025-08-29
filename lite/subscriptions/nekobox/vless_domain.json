@@ -87,7 +87,6 @@
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
-                "🚩 CF | 🔓 VLESS | @config_proxy [34]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [27]",
@@ -215,7 +214,7 @@
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+                "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [10]",
                 "❔ XX | 🔓 VLESS | @red2ray [14]",
                 "🚩 CF | 🔒 VLESS | @shadowsocksshop [1]",
@@ -281,7 +280,6 @@
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
-                "🚩 CF | 🔓 VLESS | @config_proxy [34]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [27]",
@@ -409,7 +407,7 @@
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [2]",
                 "🚩 CF | 🔓 VLESS | @pydriclub [3]",
-                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+                "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
                 "🚩 CF | 🔓 VLESS | @qrv2ray [10]",
                 "❔ XX | 🔓 VLESS | @red2ray [14]",
                 "🚩 CF | 🔒 VLESS | @shadowsocksshop [1]",
@@ -687,22 +685,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns"
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @config_proxy [34]",
-            "type": "vless",
-            "server": "tgju.org",
-            "server_port": 80,
-            "uuid": "f941f129-16b3-4763-91be-8389dc3ad91a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2048",
-                "headers": {
-                    "Host": "tgju.org"
-                }
             }
         },
         {
@@ -2865,7 +2847,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇨🇦 CA | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,

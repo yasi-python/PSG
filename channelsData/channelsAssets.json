@@ -601,9 +601,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "ss",
             "vless",
+            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -1073,7 +1073,6 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
             "vmess"
         ],
         "title": "Mowj Proxy",
@@ -2264,8 +2263,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "trojan"
         ],
         "title": "免费节点 🏆【1小时前更新】",
