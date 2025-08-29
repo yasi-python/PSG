@@ -32,7 +32,7 @@ proxies:
   - {"name":"🇨🇦 CA | 🔒 SS | @free4allvpn [14]","type":"ss","server":"64.74.163.130","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇮🇩 ID | 🔒 SS | @free4allvpn [15]","type":"ss","server":"154.205.159.100","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @freev2raym [9]","type":"ss","server":"91.107.141.0","port":43486,"password":"7vlJpFVhEpKh/VTTCvOab8eEoJo+MeXJpj9CDxLYm9o=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸 US | 🔒 SS | @hope_net [20]","type":"ss","server":"38.75.136.33","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 US | 🔒 SS | @hope_net [18]","type":"ss","server":"38.75.136.33","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"🇬🇧 GB | 🔒 SS | @injectormconf [40]","type":"ss","server":"51.142.171.150","port":49499,"password":"kTjlLxrncKx4i2HIjxfA3M","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🔒 SS | @ir_netproxy [13]","type":"ss","server":"51.105.36.101","port":13928,"password":"2gxDsKmZRuz4wRCKyXJdJl","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇳🇱 NL | 🔒 SS | @jiedianssr [6]","type":"ss","server":"194.87.216.121","port":443,"password":"piv97XS1Cval86vfwHPD5j","cipher":"chacha20-ietf-poly1305"}
@@ -44,9 +44,9 @@ proxies:
   - {"name":"🇦🇹 AT | 🔒 SS | @mester_v2ray [18]","type":"ss","server":"95.164.9.144","port":2927,"password":"ug4Fu79SEREdFGlt2sUyT4","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🔒 SS | @mester_v2ray [19]","type":"ss","server":"45.87.175.192","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🔒 SS | @novinology [17]","type":"ss","server":"13.87.74.71","port":14564,"password":"Q1qlRknoN9PwGeExWVyTKg","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇵🇱 PL | 🔒 SS | @outlineopenkey [10]","type":"ss","server":"77.83.246.74","port":443,"password":"B39hI4d4Hc5b4jyQc0Eupg","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇩🇪 DE | 🔒 SS | @outlineopenkey [11]","type":"ss","server":"81.19.141.45","port":443,"password":"Z27naSG5vb8T7LF5eYAfyo","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇪🇸 ES | 🔒 SS | @outlineopenkey [12]","type":"ss","server":"194.87.45.189","port":443,"password":"tvHGheWwS61QeKoFRtZVs6","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇵🇱 PL | 🔒 SS | @outlineopenkey [9]","type":"ss","server":"77.83.246.74","port":443,"password":"B39hI4d4Hc5b4jyQc0Eupg","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇩🇪 DE | 🔒 SS | @outlineopenkey [10]","type":"ss","server":"81.19.141.45","port":443,"password":"Z27naSG5vb8T7LF5eYAfyo","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇪🇸 ES | 🔒 SS | @outlineopenkey [11]","type":"ss","server":"194.87.45.189","port":443,"password":"tvHGheWwS61QeKoFRtZVs6","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇮 FI | 🔒 SS | @outlinereleasedkey [18]","type":"ss","server":"141.98.4.67","port":52952,"password":"LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇬 SG | 🔒 SS | @outlinereleasedkey [19]","type":"ss","server":"64.176.85.73","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🔒 SS | @proxyfull [14]","type":"ss","server":"45.87.175.28","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
@@ -83,7 +83,7 @@ proxy-groups:
       - '🇨🇦 CA | 🔒 SS | @free4allvpn [14]'
       - '🇮🇩 ID | 🔒 SS | @free4allvpn [15]'
       - '🇩🇪 DE | 🔒 SS | @freev2raym [9]'
-      - '🇺🇸 US | 🔒 SS | @hope_net [20]'
+      - '🇺🇸 US | 🔒 SS | @hope_net [18]'
       - '🇬🇧 GB | 🔒 SS | @injectormconf [40]'
       - '🇬🇧 GB | 🔒 SS | @ir_netproxy [13]'
       - '🇳🇱 NL | 🔒 SS | @jiedianssr [6]'
@@ -95,9 +95,9 @@ proxy-groups:
       - '🇦🇹 AT | 🔒 SS | @mester_v2ray [18]'
       - '🇺🇸 US | 🔒 SS | @mester_v2ray [19]'
       - '🇬🇧 GB | 🔒 SS | @novinology [17]'
-      - '🇵🇱 PL | 🔒 SS | @outlineopenkey [10]'
-      - '🇩🇪 DE | 🔒 SS | @outlineopenkey [11]'
-      - '🇪🇸 ES | 🔒 SS | @outlineopenkey [12]'
+      - '🇵🇱 PL | 🔒 SS | @outlineopenkey [9]'
+      - '🇩🇪 DE | 🔒 SS | @outlineopenkey [10]'
+      - '🇪🇸 ES | 🔒 SS | @outlineopenkey [11]'
       - '🇫🇮 FI | 🔒 SS | @outlinereleasedkey [18]'
       - '🇸🇬 SG | 🔒 SS | @outlinereleasedkey [19]'
       - '🇺🇸 US | 🔒 SS | @proxyfull [14]'

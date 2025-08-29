@@ -96,9 +96,8 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [18]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [19]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -109,7 +108,8 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🇩🇪 DE | 🔒 VMESS | @mowjproxy [5]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [3]",
+                "🇩🇪 DE | 🔒 VMESS | @mowjproxy [4]",
                 "🇸🇬 SG | 🔓 VMESS | @outlinev2rayng [13]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
@@ -157,9 +157,8 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [18]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [19]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -170,7 +169,8 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🇩🇪 DE | 🔒 VMESS | @mowjproxy [5]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [3]",
+                "🇩🇪 DE | 🔒 VMESS | @mowjproxy [4]",
                 "🇸🇬 SG | 🔓 VMESS | @outlinev2rayng [13]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
@@ -555,23 +555,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🚩 CF | 🔓 VMESS | @hope_net [18]",
-            "type": "vmess",
-            "server": "104.16.68.38",
-            "server_port": 8880,
-            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/linde06.indiavideo.sbs/linkws",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
+            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
             "type": "vmess",
             "server": "47.79.41.14",
             "server_port": 15924,
@@ -587,7 +571,7 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [19]",
+            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
             "type": "vmess",
             "server": "223.135.156.179",
             "server_port": 20521,
@@ -732,7 +716,32 @@
             "alter_id": 0
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VMESS | @mowjproxy [5]",
+            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [3]",
+            "type": "vmess",
+            "server": "104.17.148.22",
+            "server_port": 2083,
+            "uuid": "8ae65664-84e8-40e1-9708-9236f0808dfd",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "api3.waltonweb.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/panel?ed=2560",
+                "headers": {
+                    "Host": "api3.waltonweb.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VMESS | @mowjproxy [4]",
             "type": "vmess",
             "server": "57.129.28.65",
             "server_port": 443,
