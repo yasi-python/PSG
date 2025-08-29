@@ -103,16 +103,15 @@
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
-                "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
+                "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇳🇱 NL | 🔒 VLESS | @lranonline_new [7]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [19]",
+                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [18]",
                 "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [12]",
-                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [13]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -149,16 +148,15 @@
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
-                "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
+                "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇳🇱 NL | 🔒 VLESS | @lranonline_new [7]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [19]",
+                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [18]",
                 "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [12]",
-                "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [13]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -521,7 +519,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @kingofilter [3]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
             "type": "vless",
             "server": "46.62.128.241",
             "server_port": 8443,
@@ -690,7 +688,7 @@
             }
         },
         {
-            "tag": "🇮🇸 IS | 🔒 VLESS | @outline_vpn [19]",
+            "tag": "🇮🇸 IS | 🔒 VLESS | @outline_vpn [18]",
             "type": "vless",
             "server": "45.83.21.107",
             "server_port": 59997,
@@ -714,29 +712,6 @@
         },
         {
             "tag": "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [12]",
-            "type": "vless",
-            "server": "103.175.79.2",
-            "server_port": 443,
-            "uuid": "7244a576-0680-ee46-acd8-55809ee12479",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "speed.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [13]",
             "type": "vless",
             "server": "146.19.90.2",
             "server_port": 443,

@@ -116,7 +116,8 @@
                 "🇳🇱 NL | 🔒 SS | @vpn451 [7]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [8]",
                 "🇺🇸 US | 🔒 SS | @vpn451 [9]",
-                "🇺🇸 US | 🔒 SS | @vpn451 [10]"
+                "🇺🇸 US | 🔒 SS | @vpn451 [10]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -151,7 +152,8 @@
                 "🇳🇱 NL | 🔒 SS | @vpn451 [7]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [8]",
                 "🇺🇸 US | 🔒 SS | @vpn451 [9]",
-                "🇺🇸 US | 🔒 SS | @vpn451 [10]"
+                "🇺🇸 US | 🔒 SS | @vpn451 [10]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -436,6 +438,14 @@
             "server_port": 34868,
             "method": "chacha20-ietf-poly1305",
             "password": "SwXdrFSGD8Cij9eD5ThNXm"
+        },
+        {
+            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [11]",
+            "type": "shadowsocks",
+            "server": "sakura.outlinekeys.net",
+            "server_port": 1235,
+            "method": "chacha20-ietf-poly1305",
+            "password": "KZXvqT4R2jNVSf9l6H97qV"
         }
     ],
     "route": {
