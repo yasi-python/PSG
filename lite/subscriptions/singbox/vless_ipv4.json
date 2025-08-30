@@ -97,9 +97,8 @@
                 "🚩 CF | 🔒 VLESS | @arv2ray [15]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🇮🇷 IR | 🔓 VLESS | @config_proxy [31]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [32]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [33]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [28]",
+                "🇮🇷 IR | 🔓 VLESS | @config_proxy [29]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -141,6 +140,7 @@
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
                 "🚩 CF | 🔓 VLESS | @hiddify_f [1]",
                 "🇺🇸 US | 🔓 VLESS | @hiddify_f [2]",
+                "🇮🇪 IE | 🔒 VLESS | @hope_net [19]",
                 "🚩 CF | 🔒 VLESS | @hopev2ray [10]",
                 "🇮🇷 IR | 🔓 VLESS | @hormozvpn [2]",
                 "🇮🇷 IR | 🔓 VLESS | @hormozvpn [3]",
@@ -179,8 +179,7 @@
                 "🇮🇷 IR | 🔓 VLESS | @minovpnch [13]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
-                "🇬🇧 GB | 🔓 VLESS | @mowjproxy [4]",
+                "🇬🇧 GB | 🔓 VLESS | @mowjproxy [1]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [12]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [13]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [14]",
@@ -275,9 +274,8 @@
                 "🚩 CF | 🔒 VLESS | @arv2ray [15]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🇮🇷 IR | 🔓 VLESS | @config_proxy [31]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [32]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [33]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [28]",
+                "🇮🇷 IR | 🔓 VLESS | @config_proxy [29]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -319,6 +317,7 @@
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
                 "🚩 CF | 🔓 VLESS | @hiddify_f [1]",
                 "🇺🇸 US | 🔓 VLESS | @hiddify_f [2]",
+                "🇮🇪 IE | 🔒 VLESS | @hope_net [19]",
                 "🚩 CF | 🔒 VLESS | @hopev2ray [10]",
                 "🇮🇷 IR | 🔓 VLESS | @hormozvpn [2]",
                 "🇮🇷 IR | 🔓 VLESS | @hormozvpn [3]",
@@ -357,8 +356,7 @@
                 "🇮🇷 IR | 🔓 VLESS | @minovpnch [13]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
-                "🇬🇧 GB | 🔓 VLESS | @mowjproxy [4]",
+                "🇬🇧 GB | 🔓 VLESS | @mowjproxy [1]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [12]",
                 "🇮🇷 IR | 🔓 VLESS | @mpproxy [13]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [14]",
@@ -640,45 +638,38 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @config_proxy [31]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [28]",
             "type": "vless",
-            "server": "37.152.183.131",
-            "server_port": 35021,
-            "uuid": "f361e882-e6d1-4839-aefe-91c83a839a70",
+            "server": "167.82.97.49",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [32]",
-            "type": "vless",
-            "server": "161.35.17.146",
-            "server_port": 6775,
-            "uuid": "b1061a7b-c92c-42a6-826b-aa1f19554089",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [33]",
-            "type": "vless",
-            "server": "80.74.29.212",
-            "server_port": 8443,
-            "uuid": "d59e4ded-9eb1-4081-ab50-b5aa65358acf",
-            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "google.com",
+                "server_name": "cosmocare.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA",
-                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/GGPPfZ3NKyOoKNiK?ed=2560fp=randomized",
+                "headers": {
+                    "Host": "cosmocare.ir"
                 }
             }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔓 VLESS | @config_proxy [29]",
+            "type": "vless",
+            "server": "85.9.125.186",
+            "server_port": 16597,
+            "uuid": "011c3c13-fbfb-4783-eb12-ce30912321d2",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
@@ -1345,6 +1336,31 @@
                 "path": "/ViraV2ray/?ed=2560",
                 "headers": {
                     "Host": "199.232.193.57"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇪 IE | 🔒 VLESS | @hope_net [19]",
+            "type": "vless",
+            "server": "52.213.44.140",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
                 }
             }
         },
@@ -2050,16 +2066,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mowjproxy [3]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "6da5e318-2e7b-4bfc-a806-eb41b1e5d76f",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔓 VLESS | @mowjproxy [4]",
+            "tag": "🇬🇧 GB | 🔓 VLESS | @mowjproxy [1]",
             "type": "vless",
             "server": "78.129.155.100",
             "server_port": 443,

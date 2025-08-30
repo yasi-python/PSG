@@ -111,7 +111,6 @@
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [33]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -177,7 +176,6 @@
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇳🇱 NL | 🔒 VLESS | @config_proxy [33]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -774,29 +772,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "0VTuTCdLL8WUYSwaz2OnC5y"
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [33]",
-            "type": "vless",
-            "server": "80.74.29.212",
-            "server_port": 8443,
-            "uuid": "d59e4ded-9eb1-4081-ab50-b5aa65358acf",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA",
-                    "short_id": ""
-                }
             }
         },
         {

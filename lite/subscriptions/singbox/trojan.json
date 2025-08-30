@@ -95,7 +95,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
-                "🇸🇬 SG | 🔓 TROJAN | @hope_net [20]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
@@ -116,7 +116,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
-                "🇸🇬 SG | 🔓 TROJAN | @hope_net [20]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
@@ -258,11 +258,27 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔓 TROJAN | @hope_net [20]",
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [20]",
             "type": "trojan",
-            "server": "18.136.195.54",
-            "server_port": 8009,
-            "password": "535b4471-205d-435e-8d1f-f1aa0d78910a"
+            "server": "104.21.92.73",
+            "server_port": 443,
+            "password": "dns68",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.putata.us.kg",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "trojan.putata.us.kg"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",

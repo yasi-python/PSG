@@ -32,8 +32,8 @@
             "title": "Unknown Channel",
             "logo": ""
         },
-        "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B68%5D"
+        "type": "vless",
+        "config": "vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40NamiraConfigs%20%5B68%5D"
     },
     {
         "channel": {
@@ -42,7 +42,7 @@
             "logo": ""
         },
         "type": "ss",
-        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B69%5D"
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B69%5D"
     },
     {
         "channel": {
@@ -51,7 +51,7 @@
             "logo": ""
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B70%5D"
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B70%5D"
     },
     {
         "channel": {
@@ -186,7 +186,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://f361e882-e6d1-4839-aefe-91c83a839a70@37.152.183.131:35021?security=none&type=tcp&headerType=http&path=%2F&host=skyroom.online#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B31%5D"
+        "config": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.49:443?allowInsecure=1&sni=cosmocare.ir&alpn=h2%2Chttp%2F1.1&type=ws&host=cosmocare.ir&path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560fp%3Drandomized&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B28%5D"
     },
     {
         "channel": {
@@ -195,16 +195,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://b1061a7b-c92c-42a6-826b-aa1f19554089@161.35.17.146:6775?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B32%5D"
-    },
-    {
-        "channel": {
-            "username": "unknown",
-            "title": "Unknown Channel",
-            "logo": ""
-        },
-        "type": "reality",
-        "config": "vless://d59e4ded-9eb1-4081-ab50-b5aa65358acf@80.74.29.212:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B33%5D"
+        "config": "vless://011c3c13-fbfb-4783-eb12-ce30912321d2@85.9.125.186:16597?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B29%5D"
     },
     {
         "channel": {
@@ -492,7 +483,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none%3D%2F%40Telegram-%7C%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774&host=F237qFxLw0.LiRa0Xc8.InFo&fp=chrome&type=ws&sni=F237qFxLw0.LiRa0Xc8.InFo#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40dalton_ping%20%5B3%5D"
+        "config": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none%3D%2F%40Telegram-%7C%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774&host=F237qFxLw0.LiRa0Xc8.InFo&fp=chrome&type=ws&sni=F237qFxLw0.LiRa0Xc8.InFo#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40dalton_ping%20%5B3%5D"
     },
     {
         "channel": {
@@ -1266,7 +1257,7 @@
             "logo": ""
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjM3IiwiYWlkIjowLCJob3N0IjoiN3dpaC1kYXJrbmVzcy1mMGFmLmppdmVnb2gxMTYud29ya2Vycy5kZXYiLCJpZCI6IjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsIm5ldCI6IndzIiwicGF0aCI6IlwvZ2x3ZWlkZi5jZmRcL2xpbmt3cyIsInBvcnQiOjQ0MywidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiN3dpaC1kYXJrbmVzcy1mMGFmLmppdmVnb2gxMTYud29ya2Vycy5kZXYiLCJwcyI6Ilx1ZDgzZFx1ZGVhOSBDRiB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEBob3BlX25ldCBbMThdIn0"
+        "config": "vmess://eyJhZGQiOiIxMDQuMTYuNjguMzgiLCJhaWQiOjAsImhvc3QiOiJtaXN0eS1kZXctZTJmMS50dXJrZXlzLXJhZGZvcmQud29ya2Vycy5kZXYiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGluZGUwNi5pbmRpYXZpZGVvLnNic1wvbGlua3dzIiwicG9ydCI6MjA5NSwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOSBDRiB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEBob3BlX25ldCBbMThdIn0"
     },
     {
         "channel": {
@@ -1274,8 +1265,8 @@
             "title": "Unknown Channel",
             "logo": ""
         },
-        "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.137.209:443#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40hope_net%20%5B19%5D"
+        "type": "vless",
+        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.213.44.140:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40hope_net%20%5B19%5D"
     },
     {
         "channel": {
@@ -1284,7 +1275,7 @@
             "logo": ""
         },
         "type": "trojan",
-        "config": "trojan://535b4471-205d-435e-8d1f-f1aa0d78910a@18.136.195.54:8009?sni=n9.sps465ad81.top&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B20%5D"
+        "config": "trojan://dns68@104.21.92.73:443?type=ws&sni=trojan.putata.us.kg&path=%2F&host=trojan.putata.us.kg#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B20%5D"
     },
     {
         "channel": {
@@ -2309,26 +2300,17 @@
             "title": "Unknown Channel",
             "logo": ""
         },
+        "type": "vless",
+        "config": "vless://45ff5b82-c665-4056-94a9-e77afdea2dbc@78.129.155.100:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B1%5D"
+    },
+    {
+        "channel": {
+            "username": "unknown",
+            "title": "Unknown Channel",
+            "logo": ""
+        },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxMDQuMTcuMTQ4LjIyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJhcGkzLndhbHRvbndlYi5pciIsImlkIjoiOGFlNjU2NjQtODRlOC00MGUxLTk3MDgtOTIzNmYwODA4ZGZkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYW5lbD9lZD0yNTYwIiwicG9ydCI6IjIwODMiLCJzY3kiOiJhdXRvIiwic25pIjoiYXBpMy53YWx0b253ZWIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOSBDRiB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEBtb3dqcHJveHkgWzJdIn0"
-    },
-    {
-        "channel": {
-            "username": "unknown",
-            "title": "Unknown Channel",
-            "logo": ""
-        },
-        "type": "vless",
-        "config": "vless://6da5e318-2e7b-4bfc-a806-eb41b1e5d76f@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B3%5D"
-    },
-    {
-        "channel": {
-            "username": "unknown",
-            "title": "Unknown Channel",
-            "logo": ""
-        },
-        "type": "vless",
-        "config": "vless://45ff5b82-c665-4056-94a9-e77afdea2dbc@78.129.155.100:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B4%5D"
     },
     {
         "channel": {
@@ -2976,7 +2958,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://1429f7f6-89bc-4352-8123-006fc02993fb@cname.proxystore11.news:2087?type=ws&path=%2Fprx11&host=prx11.proxystore11.news&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=prx11.proxystore11.news#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxystore11%20%5B2%5D"
+        "config": "vless://1429f7f6-89bc-4352-8123-006fc02993fb@cname.proxystore11.news:2087?type=ws&path=%2Fprx11&host=prx11.proxystore11.news&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=prx11.proxystore11.news#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxystore11%20%5B2%5D"
     },
     {
         "channel": {
@@ -2985,7 +2967,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://42fdc328-a930-40c4-8051-822dac85323a@cname.proxystore11.news:8443?type=xhttp&path=prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11&host=prx11.proxystore11.news&mode=auto&security=tls&fp=chrome&alpn=h2&sni=prx11.proxystore11.news#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxystore11%20%5B3%5D"
+        "config": "vless://42fdc328-a930-40c4-8051-822dac85323a@cname.proxystore11.news:8443?type=xhttp&path=prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11&host=prx11.proxystore11.news&mode=auto&security=tls&fp=chrome&alpn=h2&sni=prx11.proxystore11.news#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxystore11%20%5B3%5D"
     },
     {
         "channel": {
