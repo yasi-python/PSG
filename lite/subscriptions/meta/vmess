@@ -24,7 +24,6 @@ dns:
 
 proxies: 
   - {"name":"🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]","type":"vmess","server":"customers.tele-shop-too.studio","port":33203,"cipher":"auto","uuid":"eaae52d7-bc1a-4979-bd66-b6b428107173","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🚩 CF | 🔓 VMESS | @config_proxy [56]","type":"vmess","server":"104.21.77.149","port":443,"cipher":"auto","uuid":"20e89a95-cedf-4fe3-9421-517ce66be170","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/SHToRcqfiraYkzOdf","headers":{"Host":"dddcccvghyu.999834.xyz"}}}
   - {"name":"❔ XX | 🔒 VMESS | @configforvpn01 [9]","type":"vmess","server":"join.melodyfreenet2.shop","port":443,"cipher":"auto","uuid":"50ef0b23-f14b-459f-97aa-d0f346189d2a","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/mail/","headers":{"Host":""}}}
   - {"name":"❔ XX | 🔓 VMESS | @configforvpn01 [10]","type":"vmess","server":"shahinnet-freenetcdn.melodyshopone2.ir","port":8080,"cipher":"auto","uuid":"96588912-3bcb-491c-8ce3-7a965bbec07f","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"sog.shahinnet.shop"}}}
   - {"name":"🇷🇺 RU | 🔒 VMESS | @configsstore [6]","type":"vmess","server":"193.187.175.111","port":8080,"cipher":"auto","uuid":"e9b8872c-f4c6-4d27-99db-0bd6d275c351","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"google.com"}}}
@@ -79,7 +78,6 @@ proxy-groups:
     interval: 300
     proxies: 
       - '🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]'
-      - '🚩 CF | 🔓 VMESS | @config_proxy [56]'
       - '❔ XX | 🔒 VMESS | @configforvpn01 [9]'
       - '❔ XX | 🔓 VMESS | @configforvpn01 [10]'
       - '🇷🇺 RU | 🔒 VMESS | @configsstore [6]'

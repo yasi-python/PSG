@@ -83,6 +83,8 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]"
             ],
@@ -98,6 +100,8 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]"
             ],
@@ -236,6 +240,36 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [18]",
+            "type": "trojan",
+            "server": "104.21.3.52",
+            "server_port": 443,
+            "password": "trojan",
+            "tls": {
+                "enabled": true,
+                "server_name": "test-a23.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Telegram-@V2ray_Alpha/?ed=2560",
+                "headers": {
+                    "Host": "test-a23.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [19]",
+            "type": "trojan",
+            "server": "104.19.209.229",
+            "server_port": 2052,
+            "password": "edcfbd77-d607-53a9-842c-32592c2504b2"
         },
         {
             "tag": "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",

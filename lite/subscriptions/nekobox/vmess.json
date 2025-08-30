@@ -82,8 +82,6 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
-                "🚩 CF | 🔓 VMESS | @config_proxy [54]",
-                "🚩 CF | 🔓 VMESS | @config_proxy [56]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -143,8 +141,6 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [14]",
                 "❔ XX | 🔒 VMESS | @bypass_filter [1]",
-                "🚩 CF | 🔓 VMESS | @config_proxy [54]",
-                "🚩 CF | 🔓 VMESS | @config_proxy [56]",
                 "❔ XX | 🔒 VMESS | @configforvpn01 [9]",
                 "❔ XX | 🔓 VMESS | @configforvpn01 [10]",
                 "🇷🇺 RU | 🔒 VMESS | @configsstore [6]",
@@ -312,47 +308,6 @@
                 "path": "/ad80f8ec-4861-11f0-a948-6a75f667b472?ed=2048",
                 "headers": {
                     "Host": "ad80f8ec-4861-11f0-a948-6a75f667b472.ShomaParvazRoYadetonNist-BypassIsHere.lat"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VMESS | @config_proxy [54]",
-            "type": "vmess",
-            "server": "npmjs.com",
-            "server_port": 8080,
-            "uuid": "d3m1xvk50k",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/download/cdn",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VMESS | @config_proxy [56]",
-            "type": "vmess",
-            "server": "104.21.77.149",
-            "server_port": 443,
-            "uuid": "20e89a95-cedf-4fe3-9421-517ce66be170",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "104.21.77.149",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/SHToRcqfiraYkzOdf",
-                "headers": {
-                    "Host": "104.21.77.149"
                 }
             }
         },
