@@ -92,6 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔒 SS | @NamiraConfigs [68]",
+                "🇺🇸 US | 🔒 SS | @NamiraConfigs [70]",
                 "🇬🇮 GI | 🔒 SS | @argo_vpn1 [1]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [2]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [3]",
@@ -137,6 +139,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔒 SS | @NamiraConfigs [68]",
+                "🇺🇸 US | 🔒 SS | @NamiraConfigs [70]",
                 "🇬🇮 GI | 🔒 SS | @argo_vpn1 [1]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [2]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [3]",
@@ -256,6 +260,22 @@
                     "Host": "127.0.0.1"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [68]",
+            "type": "shadowsocks",
+            "server": "71.19.148.74",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "XUMTygEM1jVYIvysXKqA5T"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [70]",
+            "type": "shadowsocks",
+            "server": "71.19.148.74",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "gqkUCvmeOTghYJXF1YIuk5"
         },
         {
             "tag": "🇬🇮 GI | 🔒 SS | @argo_vpn1 [1]",
