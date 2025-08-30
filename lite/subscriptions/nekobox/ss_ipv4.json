@@ -80,8 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [68]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [70]",
                 "🇬🇮 GI | 🔒 SS | @argo_vpn1 [1]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [2]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [3]",
@@ -90,7 +88,6 @@
                 "🇮🇳 IN | 🔒 SS | @free4allvpn [15]",
                 "🇩🇪 DE | 🔒 SS | @free4allvpn [16]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
-                "🇳🇴 NO | 🔒 SS | @hope_net [18]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇬🇧 GB | 🔒 SS | @ir_netproxy [13]",
                 "🇳🇱 NL | 🔒 SS | @jiedianssr [6]",
@@ -102,9 +99,9 @@
                 "🇦🇹 AT | 🔒 SS | @mester_v2ray [18]",
                 "🇺🇸 US | 🔒 SS | @mester_v2ray [19]",
                 "🇬🇧 GB | 🔒 SS | @novinology [17]",
-                "🇪🇸 ES | 🔒 SS | @outlineopenkey [11]",
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [12]",
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [13]",
+                "🇬🇧 GB | 🔒 SS | @outlineopenkey [14]",
                 "🇸🇬 SG | 🔒 SS | @outlinereleasedkey [18]",
                 "🇺🇸 US | 🔒 SS | @proxyfull [14]",
                 "🇳🇱 NL | 🔒 SS | @satellitenewspersian [17]",
@@ -127,8 +124,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [68]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [70]",
                 "🇬🇮 GI | 🔒 SS | @argo_vpn1 [1]",
                 "🇮🇳 IN | 🔒 SS | @argo_vpn1 [2]",
                 "🇹🇷 TR | 🔒 SS | @argo_vpn1 [3]",
@@ -137,7 +132,6 @@
                 "🇮🇳 IN | 🔒 SS | @free4allvpn [15]",
                 "🇩🇪 DE | 🔒 SS | @free4allvpn [16]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
-                "🇳🇴 NO | 🔒 SS | @hope_net [18]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇬🇧 GB | 🔒 SS | @ir_netproxy [13]",
                 "🇳🇱 NL | 🔒 SS | @jiedianssr [6]",
@@ -149,9 +143,9 @@
                 "🇦🇹 AT | 🔒 SS | @mester_v2ray [18]",
                 "🇺🇸 US | 🔒 SS | @mester_v2ray [19]",
                 "🇬🇧 GB | 🔒 SS | @novinology [17]",
-                "🇪🇸 ES | 🔒 SS | @outlineopenkey [11]",
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [12]",
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [13]",
+                "🇬🇧 GB | 🔒 SS | @outlineopenkey [14]",
                 "🇸🇬 SG | 🔒 SS | @outlinereleasedkey [18]",
                 "🇺🇸 US | 🔒 SS | @proxyfull [14]",
                 "🇳🇱 NL | 🔒 SS | @satellitenewspersian [17]",
@@ -254,22 +248,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [68]",
-            "type": "shadowsocks",
-            "server": "71.19.148.74",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "XUMTygEM1jVYIvysXKqA5T"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [70]",
-            "type": "shadowsocks",
-            "server": "71.19.148.74",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "gqkUCvmeOTghYJXF1YIuk5"
-        },
-        {
             "tag": "🇬🇮 GI | 🔒 SS | @argo_vpn1 [1]",
             "type": "shadowsocks",
             "server": "94.131.22.134",
@@ -332,14 +310,6 @@
             "server_port": 43486,
             "method": "chacha20-ietf-poly1305",
             "password": "7vlJpFVhEpKh/VTTCvOab8eEoJo+MeXJpj9CDxLYm9o="
-        },
-        {
-            "tag": "🇳🇴 NO | 🔒 SS | @hope_net [18]",
-            "type": "shadowsocks",
-            "server": "51.107.210.52",
-            "server_port": 55622,
-            "method": "chacha20-ietf-poly1305",
-            "password": "VJS2hJbr8PQXCBfuSYGz9u"
         },
         {
             "tag": "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
@@ -430,14 +400,6 @@
             "password": "Q1qlRknoN9PwGeExWVyTKg"
         },
         {
-            "tag": "🇪🇸 ES | 🔒 SS | @outlineopenkey [11]",
-            "type": "shadowsocks",
-            "server": "194.87.45.189",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "tvHGheWwS61QeKoFRtZVs6"
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 SS | @outlineopenkey [12]",
             "type": "shadowsocks",
             "server": "81.19.141.45",
@@ -452,6 +414,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "BypRrPLd6vXb94OQKAriR6"
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 SS | @outlineopenkey [14]",
+            "type": "shadowsocks",
+            "server": "89.185.84.185",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "b8dBBr4A8OdLvXhVIInPBG"
         },
         {
             "tag": "🇸🇬 SG | 🔒 SS | @outlinereleasedkey [18]",

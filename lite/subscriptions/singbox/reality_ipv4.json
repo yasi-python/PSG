@@ -105,12 +105,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
                 "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
-                "🇸🇪 SE | 🔒 VLESS | @lranonline_new [9]",
+                "🇩🇪 DE | 🔒 VLESS | @lranonline_new [2]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [18]",
                 "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [15]",
                 "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [16]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
@@ -154,12 +153,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
                 "🇫🇮 FI | 🔒 VLESS | @kingofilter [2]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
-                "🇸🇪 SE | 🔒 VLESS | @lranonline_new [9]",
+                "🇩🇪 DE | 🔒 VLESS | @lranonline_new [2]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇮🇸 IS | 🔒 VLESS | @outline_vpn [18]",
                 "🇺🇸 US | 🔒 VLESS | @outlinev2rayng [15]",
                 "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [16]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
@@ -573,30 +571,26 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @lranonline_new [9]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @lranonline_new [2]",
             "type": "vless",
-            "server": "95.111.204.50",
-            "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE",
+            "server": "91.99.16.244",
+            "server_port": 443,
+            "uuid": "Parsashonam-304",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "stackoverflow.com",
+                "server_name": "Google.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "BVmKcYIJblNeFVaWuGrWX-gSHoTh0HozEqFBn_cAUU4",
-                    "short_id": "680731b9d2985fe7"
+                    "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
+                    "short_id": "61e683d41fdb"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE"
             }
         },
         {
@@ -692,29 +686,6 @@
                     "enabled": true,
                     "public_key": "e3dW-3-dYEVMkTUNOlqVZY2RuSXK-DxhvmdVn1lijxY",
                     "short_id": "8c0bcf"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇸 IS | 🔒 VLESS | @outline_vpn [18]",
-            "type": "vless",
-            "server": "45.83.21.107",
-            "server_port": 59997,
-            "uuid": "c3dd7afc-151f-44f6-8263-ad3c8420ae2f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI",
-                    "short_id": "816473be23c2"
                 }
             }
         },
