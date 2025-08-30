@@ -33,7 +33,7 @@
             "logo": ""
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B68%5D"
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B68%5D"
     },
     {
         "channel": {
@@ -42,7 +42,7 @@
             "logo": ""
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B69%5D"
+        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B69%5D"
     },
     {
         "channel": {
@@ -51,7 +51,7 @@
             "logo": ""
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B70%5D"
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40NamiraConfigs%20%5B70%5D"
     },
     {
         "channel": {
@@ -186,16 +186,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://e9979910-79d1-4621-a93c-b2a579c44ba7@45.131.209.36:8880?path=%2FJ5aLQOY1R9ONWYCM&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B46%5D"
-    },
-    {
-        "channel": {
-            "username": "unknown",
-            "title": "Unknown Channel",
-            "logo": ""
-        },
-        "type": "reality",
-        "config": "vless://859035ad-7cda-4bbc-ae7d-f4d4c0f1a091@157.180.91.49:2053?security=reality&type=tcp&headerType=&path=&host=&sni=www.yahoo.com&fp=chrome&pbk=xwF90Z17AR1-ORLgy59XonaFMW_ZJaYDQ8V7Sd8ZYRY&sid=402522a1ec224c96#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B47%5D"
+        "config": "vless://f361e882-e6d1-4839-aefe-91c83a839a70@37.152.183.131:35021?security=none&type=tcp&headerType=http&path=%2F&host=skyroom.online#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B31%5D"
     },
     {
         "channel": {
@@ -204,7 +195,16 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?type=raw&security=none#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B48%5D"
+        "config": "vless://b1061a7b-c92c-42a6-826b-aa1f19554089@161.35.17.146:6775?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B32%5D"
+    },
+    {
+        "channel": {
+            "username": "unknown",
+            "title": "Unknown Channel",
+            "logo": ""
+        },
+        "type": "reality",
+        "config": "vless://d59e4ded-9eb1-4081-ab50-b5aa65358acf@80.74.29.212:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B33%5D"
     },
     {
         "channel": {
@@ -366,7 +366,7 @@
             "logo": ""
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU0=@45.151.62.131:443#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40confing_chanel%20%5B5%5D"
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU0=@45.151.62.131:443#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40confing_chanel%20%5B4%5D"
     },
     {
         "channel": {
@@ -375,7 +375,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://48a8df2e-01db-4461-b793-ecebf7764f2f@216.126.236.48:35985?type=tcp&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40confing_chanel%20%5B6%5D"
+        "config": "vless://48a8df2e-01db-4461-b793-ecebf7764f2f@216.126.236.48:35985?type=tcp&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40confing_chanel%20%5B5%5D"
     },
     {
         "channel": {
@@ -384,7 +384,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://031335f5-d286-4671-a3d7-45c3a75e670c@172.66.40.99:8080?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=T.ubuntu-linuxmirror.ir&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40confing_chanel%20%5B7%5D"
+        "config": "vless://031335f5-d286-4671-a3d7-45c3a75e670c@172.66.40.99:8080?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=T.ubuntu-linuxmirror.ir&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40confing_chanel%20%5B6%5D"
     },
     {
         "channel": {
@@ -492,7 +492,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none%3D%2F%40Telegram-%7C%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774&host=F237qFxLw0.LiRa0Xc8.InFo&fp=chrome&type=ws&sni=F237qFxLw0.LiRa0Xc8.InFo#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40dalton_ping%20%5B3%5D"
+        "config": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none%3D%2F%40Telegram-%7C%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774--%40el774&host=F237qFxLw0.LiRa0Xc8.InFo&fp=chrome&type=ws&sni=F237qFxLw0.LiRa0Xc8.InFo#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40dalton_ping%20%5B3%5D"
     },
     {
         "channel": {
@@ -853,6 +853,15 @@
         },
         "type": "vless",
         "config": "vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws&security=tls&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40free1_vpn%20%5B8%5D"
+    },
+    {
+        "channel": {
+            "username": "unknown",
+            "title": "Unknown Channel",
+            "logo": ""
+        },
+        "type": "ss",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40free4allvpn%20%5B14%5D"
     },
     {
         "channel": {
@@ -1256,8 +1265,8 @@
             "title": "Unknown Channel",
             "logo": ""
         },
-        "type": "trojan",
-        "config": "trojan://auto@172.66.44.106:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=%2F#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D"
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjM3IiwiYWlkIjowLCJob3N0IjoiN3dpaC1kYXJrbmVzcy1mMGFmLmppdmVnb2gxMTYud29ya2Vycy5kZXYiLCJpZCI6IjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsIm5ldCI6IndzIiwicGF0aCI6IlwvZ2x3ZWlkZi5jZmRcL2xpbmt3cyIsInBvcnQiOjQ0MywidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiN3dpaC1kYXJrbmVzcy1mMGFmLmppdmVnb2gxMTYud29ya2Vycy5kZXYiLCJwcyI6Ilx1ZDgzZFx1ZGVhOSBDRiB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEBob3BlX25ldCBbMThdIn0"
     },
     {
         "channel": {
@@ -1266,7 +1275,7 @@
             "logo": ""
         },
         "type": "ss",
-        "config": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40hope_net%20%5B19%5D"
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.137.209:443#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40hope_net%20%5B19%5D"
     },
     {
         "channel": {
@@ -1274,8 +1283,8 @@
             "title": "Unknown Channel",
             "logo": ""
         },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjM3IiwiYWlkIjowLCJob3N0IjoiN3dpaC1kYXJrbmVzcy1mMGFmLmppdmVnb2gxMTYud29ya2Vycy5kZXYiLCJpZCI6IjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsIm5ldCI6IndzIiwicGF0aCI6IlwvZ2x3ZWlkZi5jZmRcL2xpbmt3cyIsInBvcnQiOjQ0MywidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiN3dpaC1kYXJrbmVzcy1mMGFmLmppdmVnb2gxMTYud29ya2Vycy5kZXYiLCJwcyI6Ilx1ZDgzZFx1ZGVhOSBDRiB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEBob3BlX25ldCBbMjBdIn0"
+        "type": "trojan",
+        "config": "trojan://535b4471-205d-435e-8d1f-f1aa0d78910a@18.136.195.54:8009?sni=n9.sps465ad81.top&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B20%5D"
     },
     {
         "channel": {
@@ -1356,7 +1365,7 @@
             "logo": ""
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiI0Ny43OS40MS4xNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNTA2MjhlZC1lNTY4LTRjZGUtZWRhOC0zZGNlMTVlZGMxYzEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2Y1MDYyOGVkIiwicG9ydCI6IjE1OTI0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpQIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQGlwdjJyYXluZyBbMTRdIn0"
+        "config": "vmess://eyJhZGQiOiI0Ny43OS40MS4xNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNTA2MjhlZC1lNTY4LTRjZGUtZWRhOC0zZGNlMTVlZGMxYzEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2Y1MDYyOGVkIiwicG9ydCI6IjE1OTI0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpQIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQGlwdjJyYXluZyBbMTZdIn0"
     },
     {
         "channel": {
@@ -1365,7 +1374,7 @@
             "logo": ""
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIyMjMuMTM1LjE1Ni4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzFiZjJmNmQtYTExMS00YjBmLWJkZTgtZWNlNjUyZmRlZTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA1MjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSlAgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAaXB2MnJheW5nIFsxNV0ifQ"
+        "config": "vmess://eyJhZGQiOiIyMjMuMTM1LjE1Ni4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzFiZjJmNmQtYTExMS00YjBmLWJkZTgtZWNlNjUyZmRlZTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA1MjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSlAgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAaXB2MnJheW5nIFsxN10ifQ"
     },
     {
         "channel": {
@@ -2300,8 +2309,8 @@
             "title": "Unknown Channel",
             "logo": ""
         },
-        "type": "vless",
-        "config": "vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.66.40.99:80?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.presskiwi.dpdns.org.&fp=random&type=ws&sni=barayeiran-mahsang.presskiwi.dpdns.org#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B3%5D"
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxMDQuMTcuMTQ4LjIyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJhcGkzLndhbHRvbndlYi5pciIsImlkIjoiOGFlNjU2NjQtODRlOC00MGUxLTk3MDgtOTIzNmYwODA4ZGZkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYW5lbD9lZD0yNTYwIiwicG9ydCI6IjIwODMiLCJzY3kiOiJhdXRvIiwic25pIjoiYXBpMy53YWx0b253ZWIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOSBDRiB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEBtb3dqcHJveHkgWzJdIn0"
     },
     {
         "channel": {
@@ -2310,7 +2319,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B4%5D"
+        "config": "vless://6da5e318-2e7b-4bfc-a806-eb41b1e5d76f@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B3%5D"
     },
     {
         "channel": {
@@ -2319,7 +2328,7 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://6da5e318-2e7b-4bfc-a806-eb41b1e5d76f@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B5%5D"
+        "config": "vless://45ff5b82-c665-4056-94a9-e77afdea2dbc@78.129.155.100:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B4%5D"
     },
     {
         "channel": {
@@ -3066,7 +3075,7 @@
             "logo": ""
         },
         "type": "reality",
-        "config": "vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40qrv2ray%20%5B9%5D"
+        "config": "vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40qrv2ray%20%5B9%5D"
     },
     {
         "channel": {
@@ -3822,15 +3831,6 @@
             "logo": ""
         },
         "type": "vless",
-        "config": "vless://45ff5b82-c665-4056-94a9-e77afdea2dbc@78.129.155.100:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayfree%20%5B8%5D"
-    },
-    {
-        "channel": {
-            "username": "unknown",
-            "title": "Unknown Channel",
-            "logo": ""
-        },
-        "type": "vless",
         "config": "vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=%2Fsg3%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2raying%20%5B6%5D"
     },
     {
@@ -4219,6 +4219,15 @@
         },
         "type": "vless",
         "config": "vless://Parsashonam-303@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B16%5D"
+    },
+    {
+        "channel": {
+            "username": "unknown",
+            "title": "Unknown Channel",
+            "logo": ""
+        },
+        "type": "ss",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40vpn_ioss%20%5B17%5D"
     },
     {
         "channel": {

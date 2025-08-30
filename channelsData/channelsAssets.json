@@ -93,8 +93,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -595,9 +595,9 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "trojan",
             "vmess",
+            "ss",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -1065,8 +1065,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2260,8 +2260,8 @@
         "types": [
             "vmess",
             "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/yasi-python/PSG/main/channelsData/logos/zerobaipiao.jpg"

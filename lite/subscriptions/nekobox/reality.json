@@ -93,13 +93,13 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [14]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇮🇪 IE | 🔒 VLESS | @qrv2ray [9]",
+                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇫🇮 FI | 🔒 VLESS | @config_proxy [47]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [33]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -159,13 +159,13 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [14]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
-                "🇮🇪 IE | 🔒 VLESS | @qrv2ray [9]",
+                "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇫🇮 FI | 🔒 VLESS | @config_proxy [47]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [33]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -615,7 +615,7 @@
             }
         },
         {
-            "tag": "🇮🇪 IE | 🔒 VLESS | @qrv2ray [9]",
+            "tag": "🇯🇵 JP | 🔒 VLESS | @qrv2ray [9]",
             "type": "vless",
             "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
@@ -769,16 +769,16 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @config_proxy [47]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [33]",
             "type": "vless",
-            "server": "157.180.91.49",
-            "server_port": 2053,
-            "uuid": "859035ad-7cda-4bbc-ae7d-f4d4c0f1a091",
+            "server": "80.74.29.212",
+            "server_port": 8443,
+            "uuid": "d59e4ded-9eb1-4081-ab50-b5aa65358acf",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.yahoo.com",
+                "server_name": "google.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -786,8 +786,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "xwF90Z17AR1-ORLgy59XonaFMW_ZJaYDQ8V7Sd8ZYRY",
-                    "short_id": "402522a1ec224c96"
+                    "public_key": "rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA",
+                    "short_id": ""
                 }
             }
         },

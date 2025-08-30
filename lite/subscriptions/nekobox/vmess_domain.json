@@ -96,9 +96,9 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [20]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [14]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [15]",
+                "🚩 CF | 🔓 VMESS | @hope_net [18]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -109,6 +109,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [2]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -155,9 +156,9 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [20]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [14]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [15]",
+                "🚩 CF | 🔓 VMESS | @hope_net [18]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
+                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
                 "🇫🇷 FR | 🔓 VMESS | @ir_netproxy [14]",
                 "🚩 CF | 🔒 VMESS | @iranvpnet [1]",
@@ -168,6 +169,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [2]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -551,7 +553,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🚩 CF | 🔓 VMESS | @hope_net [20]",
+            "tag": "🚩 CF | 🔓 VMESS | @hope_net [18]",
             "type": "vmess",
             "server": "173.245.58.37",
             "server_port": 443,
@@ -576,7 +578,7 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [14]",
+            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
             "type": "vmess",
             "server": "47.79.41.14",
             "server_port": 15924,
@@ -592,7 +594,7 @@
             }
         },
         {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [15]",
+            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
             "type": "vmess",
             "server": "223.135.156.179",
             "server_port": 20521,
@@ -735,6 +737,31 @@
             "uuid": "ad687825-5f77-428f-d3b0-34e59db68fa2",
             "security": "auto",
             "alter_id": 0
+        },
+        {
+            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [2]",
+            "type": "vmess",
+            "server": "104.17.148.22",
+            "server_port": 2083,
+            "uuid": "8ae65664-84e8-40e1-9708-9236f0808dfd",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "api3.waltonweb.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/panel?ed=2560",
+                "headers": {
+                    "Host": "api3.waltonweb.ir"
+                }
+            }
         },
         {
             "tag": "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
