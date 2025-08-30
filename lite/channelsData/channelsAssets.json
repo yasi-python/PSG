@@ -280,7 +280,8 @@
     "free4allvpn": {
         "types": [
             "ss",
-            "vmess"
+            "vmess",
+            "trojan"
         ],
         "title": "Shadowsocks Outline Vmess Open VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free4allvpn.jpg"
@@ -424,10 +425,10 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "ss",
-            "vless",
-            "vmess"
+            "vmess",
+            "trojan",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1319,7 +1320,8 @@
     "v2rayfree": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -1451,7 +1453,6 @@
     },
     "vmesc": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "Free V2ray",
