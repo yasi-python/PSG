@@ -80,9 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇮 GI | 🔒 SS | @argo_vpn1 [1]",
-                "🇮🇳 IN | 🔒 SS | @argo_vpn1 [2]",
-                "🇹🇷 TR | 🔒 SS | @argo_vpn1 [3]",
                 "🇷🇺 RU | 🔒 SS | @confing_chanel [4]",
                 "🇷🇺 RU | 🔒 SS | @confingv2raay [1]",
                 "🇮🇳 IN | 🔒 SS | @free4allvpn [15]",
@@ -104,7 +101,8 @@
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [12]",
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [13]",
                 "🇬🇧 GB | 🔒 SS | @outlineopenkey [14]",
-                "🇳🇱 NL | 🔒 SS | @outlinereleasedkey [20]",
+                "🇳🇱 NL | 🔒 SS | @outlinereleasedkey [19]",
+                "🇺🇸 US | 🔒 SS | @outlinereleasedkey [20]",
                 "🇺🇸 US | 🔒 SS | @proxyfull [14]",
                 "🇳🇱 NL | 🔒 SS | @satellitenewspersian [17]",
                 "🇺🇸 US | 🔒 SS | @selinc [3]",
@@ -134,9 +132,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇮 GI | 🔒 SS | @argo_vpn1 [1]",
-                "🇮🇳 IN | 🔒 SS | @argo_vpn1 [2]",
-                "🇹🇷 TR | 🔒 SS | @argo_vpn1 [3]",
                 "🇷🇺 RU | 🔒 SS | @confing_chanel [4]",
                 "🇷🇺 RU | 🔒 SS | @confingv2raay [1]",
                 "🇮🇳 IN | 🔒 SS | @free4allvpn [15]",
@@ -158,7 +153,8 @@
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [12]",
                 "🇩🇪 DE | 🔒 SS | @outlineopenkey [13]",
                 "🇬🇧 GB | 🔒 SS | @outlineopenkey [14]",
-                "🇳🇱 NL | 🔒 SS | @outlinereleasedkey [20]",
+                "🇳🇱 NL | 🔒 SS | @outlinereleasedkey [19]",
+                "🇺🇸 US | 🔒 SS | @outlinereleasedkey [20]",
                 "🇺🇸 US | 🔒 SS | @proxyfull [14]",
                 "🇳🇱 NL | 🔒 SS | @satellitenewspersian [17]",
                 "🇺🇸 US | 🔒 SS | @selinc [3]",
@@ -266,30 +262,6 @@
                     "Host": "127.0.0.1"
                 }
             }
-        },
-        {
-            "tag": "🇬🇮 GI | 🔒 SS | @argo_vpn1 [1]",
-            "type": "shadowsocks",
-            "server": "94.131.22.134",
-            "server_port": 40565,
-            "method": "chacha20-ietf-poly1305",
-            "password": "2PQVPJEWXxMkkdE82AW7qEj7jxQrZxqFUj3zheLjFArvtmuzUXNp9JUwzXGD1yJEHcDyH41HfPNo37vHWuLBp3guiRSuUZ6v"
-        },
-        {
-            "tag": "🇮🇳 IN | 🔒 SS | @argo_vpn1 [2]",
-            "type": "shadowsocks",
-            "server": "103.111.114.29",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "360e21d21977dc11"
-        },
-        {
-            "tag": "🇹🇷 TR | 🔒 SS | @argo_vpn1 [3]",
-            "type": "shadowsocks",
-            "server": "83.217.9.120",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7bO8akoRoM2M"
         },
         {
             "tag": "🇷🇺 RU | 🔒 SS | @confing_chanel [4]",
@@ -460,12 +432,20 @@
             "password": "b8dBBr4A8OdLvXhVIInPBG"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 SS | @outlinereleasedkey [20]",
+            "tag": "🇳🇱 NL | 🔒 SS | @outlinereleasedkey [19]",
             "type": "shadowsocks",
             "server": "193.29.139.235",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @outlinereleasedkey [20]",
+            "type": "shadowsocks",
+            "server": "144.126.146.38",
+            "server_port": 30789,
+            "method": "chacha20-ietf-poly1305",
+            "password": "8d73e088-dc5a-4dfe-8927-56351ee80407"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @proxyfull [14]",

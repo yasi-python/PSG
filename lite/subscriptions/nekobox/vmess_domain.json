@@ -96,7 +96,6 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔒 VMESS | @hope_net [19]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [15]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
@@ -109,7 +108,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🇸🇪 SE | 🔓 VMESS | @mowjproxy [4]",
+                "🇸🇪 SE | 🔓 VMESS | @mowjproxy [3]",
                 "🇪🇪 EE | 🔓 VMESS | @orange_vpns [13]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
@@ -123,7 +122,7 @@
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
-                "🇫🇷 FR | 🔓 VMESS | @v2rayfree [11]",
+                "🇷🇺 RU | 🔓 VMESS | @v2rayfree [1]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [4]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [5]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [6]",
@@ -159,7 +158,6 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔒 VMESS | @hope_net [19]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [15]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
@@ -172,7 +170,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🇸🇪 SE | 🔓 VMESS | @mowjproxy [4]",
+                "🇸🇪 SE | 🔓 VMESS | @mowjproxy [3]",
                 "🇪🇪 EE | 🔓 VMESS | @orange_vpns [13]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
@@ -186,7 +184,7 @@
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
-                "🇫🇷 FR | 🔓 VMESS | @v2rayfree [11]",
+                "🇷🇺 RU | 🔓 VMESS | @v2rayfree [1]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [4]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [5]",
                 "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [6]",
@@ -556,31 +554,6 @@
             "alter_id": 0
         },
         {
-            "tag": "🚩 CF | 🔒 VMESS | @hope_net [19]",
-            "type": "vmess",
-            "server": "104.20.20.165",
-            "server_port": 2096,
-            "uuid": "a9809295-34dc-4b58-8745-065021f67456",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "1732370477.speed.nlb.cccp.freefly.pp.ua",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "1732370477.speed.nlb.cccp.freefly.pp.ua"
-                }
-            }
-        },
-        {
             "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [15]",
             "type": "vmess",
             "server": "47.79.41.14",
@@ -742,7 +715,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇸🇪 SE | 🔓 VMESS | @mowjproxy [4]",
+            "tag": "🇸🇪 SE | 🔓 VMESS | @mowjproxy [3]",
             "type": "vmess",
             "server": "46.246.126.154",
             "server_port": 443,
@@ -973,22 +946,13 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔓 VMESS | @v2rayfree [11]",
+            "tag": "🇷🇺 RU | 🔓 VMESS | @v2rayfree [1]",
             "type": "vmess",
-            "server": "38.60.134.249",
-            "server_port": 443,
-            "uuid": "beb28159-7f4c-4c09-9313-6283515f150b",
+            "server": "45.67.230.79",
+            "server_port": 11052,
+            "uuid": "314185f7-931d-4656-922d-0857e7afd224",
             "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "alter_id": 0
         },
         {
             "tag": "🇩🇪 DE | 🔒 VMESS | @v2rayngchannelll [4]",

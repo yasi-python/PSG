@@ -25,7 +25,9 @@
     },
     "argo_vpn1": {
         "types": [
-            "ss"
+            "ss",
+            "hy2",
+            "hysteria"
         ],
         "title": "𝐀𝐫𝐠𝐨_𝐕𝐏𝐍1 /پل فالکن/هیدیفای",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/argo_vpn1.jpg"
@@ -75,8 +77,8 @@
     },
     "config_proxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -427,10 +429,10 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "trojan",
-            "vless",
-            "ss"
+            "ss",
+            "vmess",
+            "vless"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1323,7 +1325,6 @@
     },
     "v2rayfree": {
         "types": [
-            "vless",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",

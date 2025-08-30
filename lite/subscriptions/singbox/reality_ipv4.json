@@ -92,8 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [29]",
+                "🇨🇭 CH | 🔒 VLESS | @config_proxy [58]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
+                "🇷🇺 RU | 🔒 VLESS | @free1_vpn [9]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
@@ -107,7 +108,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @kingofilter [1]",
                 "🇩🇪 DE | 🔒 VLESS | @kingofilter [3]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
-                "🇩🇪 DE | 🔒 VLESS | @lranonline_new [2]",
+                "🇩🇪 DE | 🔒 VLESS | @lranonline_new [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇸🇪 SE | 🔒 VLESS | @mehrosaboran [9]",
@@ -130,7 +131,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [2]",
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
-                "🇷🇺 RU | 🔒 VLESS | @vpn_ioss [13]",
+                "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]"
             ],
             "tag": "proxy",
@@ -142,8 +143,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [29]",
+                "🇨🇭 CH | 🔒 VLESS | @config_proxy [58]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
+                "🇷🇺 RU | 🔒 VLESS | @free1_vpn [9]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [7]",
@@ -157,7 +159,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @kingofilter [1]",
                 "🇩🇪 DE | 🔒 VLESS | @kingofilter [3]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
-                "🇩🇪 DE | 🔒 VLESS | @lranonline_new [2]",
+                "🇩🇪 DE | 🔒 VLESS | @lranonline_new [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mastervpnshop1 [16]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇸🇪 SE | 🔒 VLESS | @mehrosaboran [9]",
@@ -180,7 +182,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [2]",
                 "🇫🇮 FI | 🔒 VLESS | @vipv2rayvip [2]",
-                "🇷🇺 RU | 🔒 VLESS | @vpn_ioss [13]",
+                "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]"
             ],
             "tag": "auto",
@@ -268,16 +270,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [29]",
+            "tag": "🇨🇭 CH | 🔒 VLESS | @config_proxy [58]",
             "type": "vless",
-            "server": "146.19.90.2",
-            "server_port": 443,
-            "uuid": "a87bf8a2-17a4-3054-b51e-876b5f1d0f24",
+            "server": "84.234.29.214",
+            "server_port": 8585,
+            "uuid": "9eb0500f-c906-4731-90a6-08ad66122d74",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "speed.cloudflare.com",
+                "server_name": "telwebion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -285,8 +287,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko",
-                    "short_id": ""
+                    "public_key": "gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc",
+                    "short_id": "c3fe60ab"
                 }
             }
         },
@@ -310,6 +312,29 @@
                     "enabled": true,
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔒 VLESS | @free1_vpn [9]",
+            "type": "vless",
+            "server": "94.26.228.10",
+            "server_port": 443,
+            "uuid": "1a6fe500-59da-4598-8576-256f06765ffb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ru.sfasti.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
+                    "short_id": "16895459a2c7768d"
                 }
             }
         },
@@ -621,7 +646,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @lranonline_new [2]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @lranonline_new [1]",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -1174,26 +1199,30 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpn_ioss [13]",
+            "tag": "🇮🇹 IT | 🔒 VLESS | @vpnowl [18]",
             "type": "vless",
-            "server": "94.26.228.10",
+            "server": "103.240.147.14",
             "server_port": 443,
-            "uuid": "1a6fe500-59da-4598-8576-256f06765ffb",
+            "uuid": "16e3ceaf-841e-4961-93f9-79085ffbbcf2",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ru.sfasti.ru",
+                "server_name": "tgju.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
-                    "short_id": "16895459a2c7768d"
+                    "public_key": "-BtPlG7KnJIIIgh77udPqDKTOIMPsJUy0kYhp3CWBwA",
+                    "short_id": "975cfc3c7441"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl"
             }
         },
         {
