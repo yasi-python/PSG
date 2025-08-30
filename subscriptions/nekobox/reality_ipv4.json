@@ -83,7 +83,7 @@
                 "🇺🇸 US | 🔒 VLESS | @ai_duet [3]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [8]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [19]",
+                "🇮🇱 IL | 🔒 VLESS | @config_proxy [26]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -232,7 +232,7 @@
                 "🇺🇸 US | 🔒 VLESS | @ai_duet [3]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [8]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [19]",
+                "🇮🇱 IL | 🔒 VLESS | @config_proxy [26]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -535,11 +535,11 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [19]",
+            "tag": "🇮🇱 IL | 🔒 VLESS | @config_proxy [26]",
             "type": "vless",
-            "server": "91.242.241.45",
+            "server": "185.239.48.109",
             "server_port": 8443,
-            "uuid": "c9bc7210-f350-477b-9fd5-9c7aeacd1938",
+            "uuid": "4b609dda-0b3e-4f81-ac3c-787ded8e1f27",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -552,7 +552,7 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM",
+                    "public_key": "wPXyRAB1bVkaTGgO5cHEylVAV8SscUQUPn_ggzx6Vxk",
                     "short_id": ""
                 }
             }

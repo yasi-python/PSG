@@ -93,12 +93,14 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🚩 CF | 🔓 VLESS | @Fr33C0nfig [13]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [70]",
                 "🚩 CF | 🔒 VLESS | @arv2ray [14]",
                 "🚩 CF | 🔒 VLESS | @arv2ray [15]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [28]",
-                "🇮🇷 IR | 🔓 VLESS | @config_proxy [29]",
+                "🚩 CF | 🔒 VLESS | @config_proxy [33]",
+                "🇮🇷 IR | 🔓 VLESS | @config_proxy [34]",
+                "🚩 CF | 🔓 VLESS | @config_proxy [35]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -140,7 +142,7 @@
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
                 "🚩 CF | 🔓 VLESS | @hiddify_f [1]",
                 "🇺🇸 US | 🔓 VLESS | @hiddify_f [2]",
-                "🇮🇪 IE | 🔒 VLESS | @hope_net [19]",
+                "🇺🇸 US | 🔓 VLESS | @hope_net [20]",
                 "🚩 CF | 🔒 VLESS | @hopev2ray [10]",
                 "🇮🇷 IR | 🔓 VLESS | @hormozvpn [2]",
                 "🇮🇷 IR | 🔓 VLESS | @hormozvpn [3]",
@@ -270,12 +272,14 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🚩 CF | 🔓 VLESS | @Fr33C0nfig [13]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [70]",
                 "🚩 CF | 🔒 VLESS | @arv2ray [14]",
                 "🚩 CF | 🔒 VLESS | @arv2ray [15]",
                 "🚩 CF | 🔒 VLESS | @buffalo_vpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @buffalo_vpn [8]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [28]",
-                "🇮🇷 IR | 🔓 VLESS | @config_proxy [29]",
+                "🚩 CF | 🔒 VLESS | @config_proxy [33]",
+                "🇮🇷 IR | 🔓 VLESS | @config_proxy [34]",
+                "🚩 CF | 🔓 VLESS | @config_proxy [35]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🚩 CF | 🔓 VLESS | @configms [4]",
                 "🚩 CF | 🔓 VLESS | @configms [5]",
@@ -317,7 +321,7 @@
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [1]",
                 "🚩 CF | 🔓 VLESS | @hiddify_f [1]",
                 "🇺🇸 US | 🔓 VLESS | @hiddify_f [2]",
-                "🇮🇪 IE | 🔒 VLESS | @hope_net [19]",
+                "🇺🇸 US | 🔓 VLESS | @hope_net [20]",
                 "🚩 CF | 🔒 VLESS | @hopev2ray [10]",
                 "🇮🇷 IR | 🔓 VLESS | @hormozvpn [2]",
                 "🇮🇷 IR | 🔓 VLESS | @hormozvpn [3]",
@@ -538,6 +542,31 @@
             }
         },
         {
+            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [70]",
+            "type": "vless",
+            "server": "104.26.0.73",
+            "server_port": 443,
+            "uuid": "c93b1359-c570-4703-894a-ce18883faac3",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "bsw8xmeczkaqznfcbu7sdx39baabahluzcnr9xyifcgpnzls6jsodqndaygtww3.yju9y2x.workers.Dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "bsw8xmeczkaqznfcbu7sdx39baabahluzcnr9xyifcgpnzls6jsodqndaygtww3.yju9y2x.workers.Dev"
+                }
+            }
+        },
+        {
             "tag": "🚩 CF | 🔒 VLESS | @arv2ray [14]",
             "type": "vless",
             "server": "172.66.40.99",
@@ -638,16 +667,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [28]",
+            "tag": "🚩 CF | 🔒 VLESS | @config_proxy [33]",
             "type": "vless",
-            "server": "167.82.97.49",
+            "server": "172.67.110.232",
             "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "uuid": "df434087-13a8-46c8-b03c-663b518c7451",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "cosmocare.ir",
+                "server_name": "fastpurnet.pages.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -656,20 +685,36 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/GGPPfZ3NKyOoKNiK?ed=2560fp=randomized",
+                "path": "/fastpurnet.pages.dev/?ed=2560",
                 "headers": {
-                    "Host": "cosmocare.ir"
+                    "Host": "fastpurnet.pages.dev"
                 }
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @config_proxy [29]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @config_proxy [34]",
             "type": "vless",
-            "server": "85.9.125.186",
-            "server_port": 16597,
-            "uuid": "011c3c13-fbfb-4783-eb12-ce30912321d2",
+            "server": "178.239.146.44",
+            "server_port": 32680,
+            "uuid": "759b4162-a20f-40d0-884d-f020ed05e60b",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @config_proxy [35]",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 80,
+            "uuid": "8c17092b-4d89-44e3-9dcb-a00c2bf28827",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "barayeiranmahsang.bahareh.dpdns.org"
+                }
+            }
         },
         {
             "tag": "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
@@ -1340,27 +1385,18 @@
             }
         },
         {
-            "tag": "🇮🇪 IE | 🔒 VLESS | @hope_net [19]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @hope_net [20]",
             "type": "vless",
-            "server": "52.213.44.140",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "server": "151.101.130.228",
+            "server_port": 80,
+            "uuid": "8e1a80da-bd61-4ee4-b480-c2d860aad9c3",
             "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "/telegram-channel-vlessconfig-ws",
+                "path": "/ws/?ed=2048Telegram : @JOKERRVPN -Telegram : @JOKERRVPN -Telegram : @JOKERRVPN -Telegram : @JOKERRVPN -Telegram : @JOKERRVPN -Telegram : @JOKERRVPN -Telegram : @JOKERRVPN -Telegram : @JOKERRVPN -Telegram : @JOKERRVPN -Telegram : @JOKERRVPN -Telegram : @JOKERRVPN",
                 "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                    "Host": "151.101.130.228"
                 }
             }
         },

@@ -108,7 +108,6 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [18]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
@@ -168,7 +167,6 @@
                 "🚩 CF | 🔓 VMESS | @freev2rays [20]",
                 "🇩🇪 DE | 🔓 VMESS | @game_file2020 [5]",
                 "🇮🇷 IR | 🔓 VMESS | @goldenvpn_v2rayy [2]",
-                "🚩 CF | 🔓 VMESS | @hope_net [18]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
                 "🇺🇸 US | 🔓 VMESS | @ir_netproxy [12]",
@@ -559,22 +557,6 @@
             "uuid": "f29ea77c-6842-4ee0-9fc1-9c7a871566b2",
             "security": "auto",
             "alter_id": 0
-        },
-        {
-            "tag": "🚩 CF | 🔓 VMESS | @hope_net [18]",
-            "type": "vmess",
-            "server": "104.16.68.38",
-            "server_port": 2095,
-            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/linde06.indiavideo.sbs/linkws",
-                "headers": {
-                    "Host": ""
-                }
-            }
         },
         {
             "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
