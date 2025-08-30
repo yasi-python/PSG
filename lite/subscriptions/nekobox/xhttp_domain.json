@@ -88,8 +88,7 @@
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇩🇪 DE | 🔓 VLESS | @lranonline_new [10]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [3]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayfree [7]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [3]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [12]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [14]"
             ],
@@ -110,8 +109,7 @@
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🇩🇪 DE | 🔓 VLESS | @lranonline_new [10]",
-                "🇺🇸 US | 🔒 VLESS | @proxystore11 [3]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayfree [7]",
+                "🚩 CF | 🔒 VLESS | @proxystore11 [3]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [12]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [14]"
             ],
@@ -285,7 +283,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxystore11 [3]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxystore11 [3]",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 8443,
@@ -301,15 +299,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayfree [7]",
-            "type": "vless",
-            "server": "EVAY_VPN.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "3b82c3ef-d428-4a62-ae97-f53c305f883d",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [12]",

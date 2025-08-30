@@ -98,6 +98,7 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
+                "🚩 CF | 🔓 TROJAN | @ghalagyann2 [7]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [2]",
@@ -113,6 +114,7 @@
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [2]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
+                "🚩 CF | 🔓 TROJAN | @v2raych [20]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
@@ -184,7 +186,7 @@
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]",
                 "🇭🇰 HK | 🔒 TROJAN | @v2ray_collector [27]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [12]",
+                "🇬🇧 GB | 🔒 TROJAN | @v2raych [10]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -221,6 +223,7 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
+                "🚩 CF | 🔓 TROJAN | @ghalagyann2 [7]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [2]",
@@ -236,6 +239,7 @@
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [2]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
+                "🚩 CF | 🔓 TROJAN | @v2raych [20]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
@@ -307,7 +311,7 @@
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]",
                 "🇭🇰 HK | 🔒 TROJAN | @v2ray_collector [27]",
                 "🇫🇮 FI | 🔒 TROJAN | @v2ray_n [14]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [12]",
+                "🇬🇧 GB | 🔒 TROJAN | @v2raych [10]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
@@ -516,6 +520,20 @@
                 "path": "/trojan-ntls",
                 "headers": {
                     "Host": "asia.artunnel57.host"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 TROJAN | @ghalagyann2 [7]",
+            "type": "trojan",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "password": "VPNCUSTOMIZE",
+            "transport": {
+                "type": "ws",
+                "path": "/tr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -794,6 +812,20 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 TROJAN | @v2raych [20]",
+            "type": "trojan",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "password": "VPNCUSTOMIZE",
+            "transport": {
+                "type": "ws",
+                "path": "/tr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -1998,25 +2030,18 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @v2raych [12]",
+            "tag": "🇬🇧 GB | 🔒 TROJAN | @v2raych [10]",
             "type": "trojan",
-            "server": "104.21.72.109",
-            "server_port": 443,
-            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "server": "51.195.255.103",
+            "server_port": 8443,
+            "password": "1ce1df7962f71c6f",
             "tls": {
                 "enabled": true,
-                "server_name": "vpn.stupidworld.web.id",
+                "server_name": "uk-03.allhubb.info",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect",
-                "headers": {
-                    "Host": "vpn.stupidworld.web.id"
                 }
             }
         },

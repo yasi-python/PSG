@@ -96,7 +96,8 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇺🇸 US | 🔒 TROJAN | @free4allvpn [14]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]"
             ],
@@ -113,7 +114,8 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇺🇸 US | 🔒 TROJAN | @free4allvpn [14]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [20]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
                 "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]"
             ],
@@ -266,14 +268,30 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [18]",
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [19]",
             "type": "trojan",
-            "server": "104.20.22.250",
+            "server": "104.24.151.117",
             "server_port": 443,
-            "password": "auto",
+            "password": "bpb-trojan",
             "tls": {
                 "enabled": true,
-                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
+                "server_name": "adagio.us.kg",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [20]",
+            "type": "trojan",
+            "server": "141.101.114.52",
+            "server_port": 443,
+            "password": "bpb-trojan",
+            "tls": {
+                "enabled": true,
+                "server_name": "fcspring.ggff.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -282,9 +300,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/b96ef9ae.trojanfree-76s.pages.dev/",
+                "path": "/tr?ed",
                 "headers": {
-                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
+                    "Host": "fcspring.ggff.net"
                 }
             }
         },

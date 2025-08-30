@@ -107,8 +107,9 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🇻🇳 VN | 🔓 VMESS | @mowjproxy [3]",
-                "🇹🇷 TR | 🔓 VMESS | @mowjproxy [4]",
+                "🇹🇷 TR | 🔓 VMESS | @mowjproxy [3]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [4]",
+                "🇵🇰 PK | 🔓 VMESS | @mowjproxy [5]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -166,8 +167,9 @@
                 "🇯🇵 JP | 🔓 VMESS | @mftizi [19]",
                 "🇨🇳 CN | 🔓 VMESS | @mftizi [20]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
-                "🇻🇳 VN | 🔓 VMESS | @mowjproxy [3]",
-                "🇹🇷 TR | 🔓 VMESS | @mowjproxy [4]",
+                "🇹🇷 TR | 🔓 VMESS | @mowjproxy [3]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [4]",
+                "🇵🇰 PK | 🔓 VMESS | @mowjproxy [5]",
                 "🇮🇷 IR | 🔓 VMESS | @pro_chaneel [2]",
                 "🇮🇷 IR | 🔒 VMESS | @public504 [11]",
                 "❔ XX | 🔓 VMESS | @pydriclub [4]",
@@ -696,25 +698,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇻🇳 VN | 🔓 VMESS | @mowjproxy [3]",
-            "type": "vmess",
-            "server": "38.54.14.110",
-            "server_port": 443,
-            "uuid": "a3277a72-32a8-4d3d-ab31-e50e50bc6e2b",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🔓 VMESS | @mowjproxy [4]",
+            "tag": "🇹🇷 TR | 🔓 VMESS | @mowjproxy [3]",
             "type": "vmess",
             "server": "38.54.105.192",
             "server_port": 443,
@@ -735,6 +719,49 @@
                 "path": "/",
                 "headers": {
                     "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [4]",
+            "type": "vmess",
+            "server": "104.17.148.22",
+            "server_port": 2083,
+            "uuid": "8ae65664-84e8-40e1-9708-9236f0808dfd",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "api3.waltonweb.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/panel?ed=2560",
+                "headers": {
+                    "Host": "api3.waltonweb.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇵🇰 PK | 🔓 VMESS | @mowjproxy [5]",
+            "type": "vmess",
+            "server": "38.60.217.146",
+            "server_port": 443,
+            "uuid": "9ea037cb-c7df-4282-ab10-7d6df9d146a3",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
