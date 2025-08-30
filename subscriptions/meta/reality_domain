@@ -25,6 +25,9 @@ dns:
 proxies: 
   - {"name":"🇩🇪 DE | 🔒 VLESS | @ai_duet [1]","type":"vless","server":"enamad.ir-snapp.ir-iran.ir-aparat.com.githubfiles.xyz","port":2087,"uuid":"fb557b79-8554-40d4-994f-0f4be3ca0cee","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"yahoo.com","grpc-opts":{"grpc-service-name":"enamad.ir-snapp.ir-iran.ir-aparat.com.githubfiles.xyz"},"reality-opts":{"public-key":"Co_fWsuPQ7frIIzkuH-Y0EjHz5vOSh3ZaWVqg0m0YV0"}}
   - {"name":"❔ XX | 🔒 VLESS | @catvpns [6]","type":"vless","server":"T.irimcs.org","port":2053,"uuid":"07af5265-c931-4b5a-a3e1-25de5c5b1fbf","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"greenpepper.ir","grpc-opts":{"grpc-service-name":"@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"},"reality-opts":{"public-key":"PsggSInMzoHJAFqzsxhCxpdL8BVJKbmdU_4KH5Cn-Hw","short-id":"46bef3"}}
+  - {"name":"🇳🇱 NL | 🔒 VLESS | @config_proxy [20]","type":"vless","server":"world-of.ru","port":443,"uuid":"e6668f42-34fd-4f79-b5b3-d600ceab32ca","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"9QOmx7k0-uCbUrgh7ee9x9qtLIOEVyeYiZI2aiimYEs","short-id":"71e48a"}}
+  - {"name":"🇱🇹 LT | 🔒 VLESS | @config_proxy [21]","type":"vless","server":"hield.ru","port":443,"uuid":"84d64365-df4e-443c-9c90-1833e72f2b19","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws","short-id":"06c6eb7423f24de5"}}
+  - {"name":"🇸🇮 SI | 🔒 VLESS | @config_proxy [22]","type":"vless","server":"tunnyl.ru","port":443,"uuid":"4b219c20-b8bb-42ce-9ed9-4fef7f1293ee","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI","short-id":"5c0333ed45b1"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @configasli [8]","type":"vless","server":"s1.aparat-movies-download.ir","port":4450,"uuid":"a19f4213-fcb8-4384-9c85-cb51cae8ab8b","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"zhaket.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @configtrapi [21]","type":"vless","server":"all32-vip.f-sub.com","port":2434,"uuid":"84e919b0-2a5d-4fad-8614-df01dd210b8e","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.chess.com","reality-opts":{"public-key":"yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA"}}
   - {"name":"❔ XX | 🔒 VLESS | @connectshu [1]","type":"vless","server":"Tabriz-Website.thorav.ir","port":443,"uuid":"a7f573cf-f042-4133-8fa5-b24088621d83","tls":true,"network":"grpc","client-fingerprint":"qq","udp":true,"servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8","short-id":"b1417d"}}
@@ -115,6 +118,9 @@ proxy-groups:
     proxies: 
       - '🇩🇪 DE | 🔒 VLESS | @ai_duet [1]'
       - '❔ XX | 🔒 VLESS | @catvpns [6]'
+      - '🇳🇱 NL | 🔒 VLESS | @config_proxy [20]'
+      - '🇱🇹 LT | 🔒 VLESS | @config_proxy [21]'
+      - '🇸🇮 SI | 🔒 VLESS | @config_proxy [22]'
       - '🇩🇪 DE | 🔒 VLESS | @configasli [8]'
       - '🇩🇪 DE | 🔒 VLESS | @configtrapi [21]'
       - '❔ XX | 🔒 VLESS | @connectshu [1]'

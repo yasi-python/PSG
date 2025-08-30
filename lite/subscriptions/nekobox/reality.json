@@ -98,7 +98,7 @@
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [60]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [29]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -167,7 +167,7 @@
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "🇮🇹 IT | 🔒 VLESS | @vpnowl [17]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
-                "🇬🇧 GB | 🔒 VLESS | @config_proxy [60]",
+                "🇺🇸 US | 🔒 VLESS | @config_proxy [29]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [6]",
@@ -748,16 +748,16 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @config_proxy [60]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [29]",
             "type": "vless",
-            "server": "159.65.20.117",
-            "server_port": 80,
-            "uuid": "af49c00f-a53b-4888-ba00-d9d021631dc2",
+            "server": "146.19.90.2",
+            "server_port": 443,
+            "uuid": "a87bf8a2-17a4-3054-b51e-876b5f1d0f24",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "orderup.com",
+                "server_name": "speed.cloudflare.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -765,8 +765,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "apMp75KQjgaRWegaiPc_ufULi0B7Mz-oUnSCJU9hRmc",
-                    "short_id": "0c4e1fcb8576e1"
+                    "public_key": "oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko",
+                    "short_id": ""
                 }
             }
         },
