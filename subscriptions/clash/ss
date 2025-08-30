@@ -79,7 +79,8 @@ proxies:
   - {"name":"🇸🇬 SG | 🔒 SS | @gh_v2rayng [8]","type":"ss","server":"188.166.220.70","port":37708,"password":"24Wk2NSszrfHn22zem1lYV","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @hackmodvpnservers [2]","type":"ss","server":"51.116.225.223","port":2148,"password":"2148","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @hackmodvpnservers [3]","type":"ss","server":"51.116.225.223","port":443,"password":"9b3b33c24f203e40","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸 US | 🔒 SS | @hope_net [13]","type":"ss","server":"69.50.92.72","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 US | 🔒 SS | @hope_net [9]","type":"ss","server":"69.50.92.72","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 US | 🔒 SS | @hope_net [20]","type":"ss","server":"69.50.95.191","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
   - {"name":"🇺🇸 US | 🔒 SS | @imhdiyvp [8]","type":"ss","server":"45.87.175.157","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🔒 SS | @injectormconf [40]","type":"ss","server":"51.142.171.150","port":49499,"password":"kTjlLxrncKx4i2HIjxfA3M","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🔒 SS | @ip_cf_config [4]","type":"ss","server":"45.87.175.164","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
@@ -180,8 +181,7 @@ proxies:
   - {"name":"🇬🇧 GB | 🔒 SS | @v2rayngrit [8]","type":"ss","server":"172.165.94.205","port":443,"password":"1xO2cqPazqjGfCfd","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇷🇺 RU | 🔒 SS | @v2rayprotocol [9]","type":"ss","server":"185.22.154.19","port":29910,"password":"f34579d0148b2581","cipher":"aes-256-gcm"}
   - {"name":"🇳🇱 NL | 🔒 SS | @vpn_ioss [9]","type":"ss","server":"103.104.247.45","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇳🇱 NL | 🔒 SS | @zerobaipiao [28]","type":"ss","server":"185.245.107.61","port":2222,"password":"qscavF5UviIL-8V-E4raBA","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸 US | 🔒 SS | @NamiraConfigs [36]","type":"ss","server":"45.87.175.154","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇳🇱 NL | 🔒 SS | @zerobaipiao [27]","type":"ss","server":"185.245.107.61","port":2222,"password":"qscavF5UviIL-8V-E4raBA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🔒 SS | @freevv2rayng [6]","type":"ss","server":"[2a12:5940:1527::2]","port":80,"password":"TItTywXQAj5+MCwRTh9nhxYw1TzJZRvQCwANErOIf5I=","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🔒 SS | @freevv2rayng [8]","type":"ss","server":"[2a12:5940:1527::2]","port":80,"password":"SaV68PD8ace6lAZkvukLqX3G6xBJ/PwMCalr+h3uxSo=","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🔒 SS | @freevv2rayng [9]","type":"ss","server":"[2a12:5940:1527::2]","port":80,"password":"T0fI0EdmSXqpdrFdsuW643yGO4MwlUBgQLfjhdRYWd4=","cipher":"chacha20-ietf-poly1305"}
@@ -254,7 +254,8 @@ proxy-groups:
       - '🇸🇬 SG | 🔒 SS | @gh_v2rayng [8]'
       - '🇩🇪 DE | 🔒 SS | @hackmodvpnservers [2]'
       - '🇩🇪 DE | 🔒 SS | @hackmodvpnservers [3]'
-      - '🇺🇸 US | 🔒 SS | @hope_net [13]'
+      - '🇺🇸 US | 🔒 SS | @hope_net [9]'
+      - '🇺🇸 US | 🔒 SS | @hope_net [20]'
       - '🇺🇸 US | 🔒 SS | @imhdiyvp [8]'
       - '🇬🇧 GB | 🔒 SS | @injectormconf [40]'
       - '🇺🇸 US | 🔒 SS | @ip_cf_config [4]'
@@ -355,8 +356,7 @@ proxy-groups:
       - '🇬🇧 GB | 🔒 SS | @v2rayngrit [8]'
       - '🇷🇺 RU | 🔒 SS | @v2rayprotocol [9]'
       - '🇳🇱 NL | 🔒 SS | @vpn_ioss [9]'
-      - '🇳🇱 NL | 🔒 SS | @zerobaipiao [28]'
-      - '🇺🇸 US | 🔒 SS | @NamiraConfigs [36]'
+      - '🇳🇱 NL | 🔒 SS | @zerobaipiao [27]'
       - '❔ XX | 🔒 SS | @freevv2rayng [6]'
       - '❔ XX | 🔒 SS | @freevv2rayng [8]'
       - '❔ XX | 🔒 SS | @freevv2rayng [9]'

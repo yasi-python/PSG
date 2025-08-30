@@ -80,6 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [58]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇷🇺 RU | 🔒 VLESS | @free1_vpn [9]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
@@ -100,8 +101,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [13]",
-                "🇦🇹 AT | 🔒 VLESS | @outlinev2rayng [15]",
+                "🇦🇹 AT | 🔒 VLESS | @outlinev2rayng [14]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -129,6 +129,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [58]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇷🇺 RU | 🔒 VLESS | @free1_vpn [9]",
                 "🇩🇪 DE | 🔒 VLESS | @freeiranianv2rey [15]",
@@ -149,8 +150,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [13]",
-                "🇦🇹 AT | 🔒 VLESS | @outlinev2rayng [15]",
+                "🇦🇹 AT | 🔒 VLESS | @outlinev2rayng [14]",
                 "🇺🇸 US | 🔒 VLESS | @proxycrone [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇦🇹 AT | 🔒 VLESS | @rnrifci [5]",
@@ -254,6 +254,29 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [58]",
+            "type": "vless",
+            "server": "85.234.65.120",
+            "server_port": 443,
+            "uuid": "fdc0229d-2037-48c4-94d3-496e67cce5d8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "github.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA",
+                    "short_id": "f90c"
                 }
             }
         },
@@ -734,30 +757,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [13]",
-            "type": "vless",
-            "server": "5.61.50.192",
-            "server_port": 34045,
-            "uuid": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
-                    "short_id": "e8ab71d0"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇹 AT | 🔒 VLESS | @outlinev2rayng [15]",
+            "tag": "🇦🇹 AT | 🔒 VLESS | @outlinev2rayng [14]",
             "type": "vless",
             "server": "5.181.21.152",
             "server_port": 24170,

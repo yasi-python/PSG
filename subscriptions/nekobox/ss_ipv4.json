@@ -110,7 +110,8 @@
                 "🇸🇬 SG | 🔒 SS | @gh_v2rayng [8]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [2]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [3]",
-                "🇺🇸 US | 🔒 SS | @hope_net [13]",
+                "🇺🇸 US | 🔒 SS | @hope_net [9]",
+                "🇺🇸 US | 🔒 SS | @hope_net [20]",
                 "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇺🇸 US | 🔒 SS | @ip_cf_config [4]",
@@ -211,8 +212,7 @@
                 "🇬🇧 GB | 🔒 SS | @v2rayngrit [8]",
                 "🇷🇺 RU | 🔒 SS | @v2rayprotocol [9]",
                 "🇳🇱 NL | 🔒 SS | @vpn_ioss [9]",
-                "🇳🇱 NL | 🔒 SS | @zerobaipiao [28]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [36]"
+                "🇳🇱 NL | 🔒 SS | @zerobaipiao [27]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -253,7 +253,8 @@
                 "🇸🇬 SG | 🔒 SS | @gh_v2rayng [8]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [2]",
                 "🇩🇪 DE | 🔒 SS | @hackmodvpnservers [3]",
-                "🇺🇸 US | 🔒 SS | @hope_net [13]",
+                "🇺🇸 US | 🔒 SS | @hope_net [9]",
+                "🇺🇸 US | 🔒 SS | @hope_net [20]",
                 "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
                 "🇬🇧 GB | 🔒 SS | @injectormconf [40]",
                 "🇺🇸 US | 🔒 SS | @ip_cf_config [4]",
@@ -354,8 +355,7 @@
                 "🇬🇧 GB | 🔒 SS | @v2rayngrit [8]",
                 "🇷🇺 RU | 🔒 SS | @v2rayprotocol [9]",
                 "🇳🇱 NL | 🔒 SS | @vpn_ioss [9]",
-                "🇳🇱 NL | 🔒 SS | @zerobaipiao [28]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [36]"
+                "🇳🇱 NL | 🔒 SS | @zerobaipiao [27]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -686,12 +686,20 @@
             "password": "9b3b33c24f203e40"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @hope_net [13]",
+            "tag": "🇺🇸 US | 🔒 SS | @hope_net [9]",
             "type": "shadowsocks",
             "server": "69.50.92.72",
             "server_port": 7306,
             "method": "aes-256-gcm",
             "password": "FoOiGlkAA9yPEGP"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @hope_net [20]",
+            "type": "shadowsocks",
+            "server": "69.50.95.191",
+            "server_port": 8882,
+            "method": "aes-256-gcm",
+            "password": "kDWvXYZoTBcGkC4"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @imhdiyvp [8]",
@@ -1494,20 +1502,12 @@
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 SS | @zerobaipiao [28]",
+            "tag": "🇳🇱 NL | 🔒 SS | @zerobaipiao [27]",
             "type": "shadowsocks",
             "server": "185.245.107.61",
             "server_port": 2222,
             "method": "chacha20-ietf-poly1305",
             "password": "qscavF5UviIL-8V-E4raBA"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [36]",
-            "type": "shadowsocks",
-            "server": "45.87.175.154",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4a2rfixophdjffa8KVA4Aa"
         }
     ],
     "route": {

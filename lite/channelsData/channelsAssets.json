@@ -10,7 +10,6 @@
     "NamiraConfigs": {
         "types": [
             "ss",
-            "trojan",
             "vless"
         ],
         "title": "NamiraNet",
@@ -430,9 +429,9 @@
     "hope_net": {
         "types": [
             "trojan",
-            "ss",
             "vmess",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1325,8 +1324,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
