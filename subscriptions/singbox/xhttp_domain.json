@@ -92,7 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [82]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
+                "🇸🇪 SE | 🔒 VLESS | @config_proxy [49]",
+                "🇫🇮 FI | 🔒 VLESS | @config_proxy [50]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -145,7 +147,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [82]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
+                "🇸🇪 SE | 🔒 VLESS | @config_proxy [49]",
+                "🇫🇮 FI | 🔒 VLESS | @config_proxy [50]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @configv2rayforfree [5]",
@@ -274,13 +278,49 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [82]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [48]",
             "type": "vless",
-            "server": "EVAY_VPN.fastly80.hosting-ip.com",
+            "server": "power.teampluss.ir",
             "server_port": 80,
-            "uuid": "3b82c3ef-d428-4a62-ae97-f53c305f883d",
+            "uuid": "21ea3f33-5aca-4e30-b732-518896a2e4bc",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇸🇪 SE | 🔒 VLESS | @config_proxy [49]",
+            "type": "vless",
+            "server": "ipv2.flstudioirani.ir",
+            "server_port": 443,
+            "uuid": "612b6650-f256-44fe-b5a1-cfbf882e713e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "test.flstudioirani.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @config_proxy [50]",
+            "type": "vless",
+            "server": "ipv1.flstudioirani.ir",
+            "server_port": 443,
+            "uuid": "612b6650-f256-44fe-b5a1-cfbf882e713e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "test.flstudioirani.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",

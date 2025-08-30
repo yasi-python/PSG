@@ -200,6 +200,7 @@
                 "🇺🇸 US | 🔒 SS | @v222ray [3]",
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
+                "🇨🇳 CN | 🔒 SS | @v2raych [9]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [2]",
                 "🇺🇸 US | 🔒 SS | @v2raying [7]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
@@ -212,16 +213,7 @@
                 "🇬🇧 GB | 🔒 SS | @v2rayngrit [8]",
                 "🇷🇺 RU | 🔒 SS | @v2rayprotocol [9]",
                 "🇳🇱 NL | 🔒 SS | @vpn_ioss [9]",
-                "🇳🇱 NL | 🔒 SS | @zerobaipiao [31]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [37]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [38]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [39]",
-                "🇳🇱 NL | 🔒 SS | @NamiraConfigs [40]",
-                "🇵🇪 PE | 🔒 SS | @NamiraConfigs [41]",
-                "🇸🇮 SI | 🔒 SS | @NamiraConfigs [43]",
-                "🇨🇴 CO | 🔒 SS | @NamiraConfigs [45]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [46]",
-                "🇹🇭 TH | 🔒 SS | @NamiraConfigs [47]"
+                "🇳🇱 NL | 🔒 SS | @zerobaipiao [31]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -352,6 +344,7 @@
                 "🇺🇸 US | 🔒 SS | @v222ray [3]",
                 "🇳🇱 NL | 🔒 SS | @v222ray [6]",
                 "🇫🇮 FI | 🔒 SS | @v2graphy [5]",
+                "🇨🇳 CN | 🔒 SS | @v2raych [9]",
                 "🇸🇪 SE | 🔒 SS | @v2raying [2]",
                 "🇺🇸 US | 🔒 SS | @v2raying [7]",
                 "🇷🇺 RU | 🔒 SS | @v2raymelliii [1]",
@@ -364,16 +357,7 @@
                 "🇬🇧 GB | 🔒 SS | @v2rayngrit [8]",
                 "🇷🇺 RU | 🔒 SS | @v2rayprotocol [9]",
                 "🇳🇱 NL | 🔒 SS | @vpn_ioss [9]",
-                "🇳🇱 NL | 🔒 SS | @zerobaipiao [31]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [37]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [38]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [39]",
-                "🇳🇱 NL | 🔒 SS | @NamiraConfigs [40]",
-                "🇵🇪 PE | 🔒 SS | @NamiraConfigs [41]",
-                "🇸🇮 SI | 🔒 SS | @NamiraConfigs [43]",
-                "🇨🇴 CO | 🔒 SS | @NamiraConfigs [45]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [46]",
-                "🇹🇭 TH | 🔒 SS | @NamiraConfigs [47]"
+                "🇳🇱 NL | 🔒 SS | @zerobaipiao [31]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1424,6 +1408,14 @@
             "password": "UlT89D0rvcr05tKft1NB5a"
         },
         {
+            "tag": "🇨🇳 CN | 🔒 SS | @v2raych [9]",
+            "type": "shadowsocks",
+            "server": "139.224.236.220",
+            "server_port": 40504,
+            "method": "aes-256-gcm",
+            "password": "0015b020-963b-450d-92f9-a8339de6332c"
+        },
+        {
             "tag": "🇸🇪 SE | 🔒 SS | @v2raying [2]",
             "type": "shadowsocks",
             "server": "135.225.124.80",
@@ -1526,78 +1518,6 @@
             "server_port": 2222,
             "method": "chacha20-ietf-poly1305",
             "password": "qscavF5UviIL-8V-E4raBA"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [37]",
-            "type": "shadowsocks",
-            "server": "45.87.175.22",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [38]",
-            "type": "shadowsocks",
-            "server": "45.87.175.192",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "cvII85TrW6n0OGyfpHVS1u"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [39]",
-            "type": "shadowsocks",
-            "server": "45.87.175.166",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "cvII85TrW6n0OGyfpHVS1u"
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 SS | @NamiraConfigs [40]",
-            "type": "shadowsocks",
-            "server": "193.29.139.202",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "tag": "🇵🇪 PE | 🔒 SS | @NamiraConfigs [41]",
-            "type": "shadowsocks",
-            "server": "185.47.252.251",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
-        },
-        {
-            "tag": "🇸🇮 SI | 🔒 SS | @NamiraConfigs [43]",
-            "type": "shadowsocks",
-            "server": "192.71.244.150",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
-        },
-        {
-            "tag": "🇨🇴 CO | 🔒 SS | @NamiraConfigs [45]",
-            "type": "shadowsocks",
-            "server": "181.119.30.20",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [46]",
-            "type": "shadowsocks",
-            "server": "45.87.175.178",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1RWwXhwfAB5gAEozU4G2Pg"
-        },
-        {
-            "tag": "🇹🇭 TH | 🔒 SS | @NamiraConfigs [47]",
-            "type": "shadowsocks",
-            "server": "119.59.98.58",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
         }
     ],
     "route": {
