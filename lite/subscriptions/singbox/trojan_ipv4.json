@@ -92,14 +92,13 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
+                "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇺🇸 US | 🔒 TROJAN | @free4allvpn [14]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [20]",
-                "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]"
+                "🇩🇪 DE | 🔒 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [19]",
+                "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,14 +109,13 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
+                "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇺🇸 US | 🔒 TROJAN | @free4allvpn [14]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [18]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [20]",
-                "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]"
+                "🇩🇪 DE | 🔒 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [19]",
+                "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -204,22 +202,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
-            "type": "trojan",
-            "server": "63.179.8.202",
-            "server_port": 22223,
-            "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [15]",
             "type": "trojan",
             "server": "3.78.75.41",
@@ -252,6 +234,22 @@
             }
         },
         {
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
+            "type": "trojan",
+            "server": "15.188.66.131",
+            "server_port": 22223,
+            "password": "telegram-id-directvpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔒 TROJAN | @free4allvpn [14]",
             "type": "trojan",
             "server": "192.3.107.252",
@@ -268,55 +266,9 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [18]",
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @hope_net [18]",
             "type": "trojan",
-            "server": "141.101.114.52",
-            "server_port": 443,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "fcspring.ggff.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tr?ed",
-                "headers": {
-                    "Host": "fcspring.ggff.net"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [20]",
-            "type": "trojan",
-            "server": "104.17.64.70",
-            "server_port": 443,
-            "password": "auto",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojanmz.pages.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/trojanmz.pages.dev/?ed=2560",
-                "headers": {
-                    "Host": "trojanmz.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-            "type": "trojan",
-            "server": "3.70.33.164",
+            "server": "3.122.68.191",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "tls": {
@@ -330,14 +282,37 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 TROJAN | @v2aryng_vpn [9]",
+            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [19]",
             "type": "trojan",
-            "server": "51.195.255.103",
-            "server_port": 8443,
-            "password": "1ce1df7962f71c6f",
+            "server": "172.66.44.131",
+            "server_port": 443,
+            "password": "auto",
             "tls": {
                 "enabled": true,
-                "server_name": "uk-03.allhubb.info",
+                "server_name": "e9464f45.trauma-2r4.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "e9464f45.trauma-2r4.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
+            "type": "trojan",
+            "server": "3.70.33.164",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
