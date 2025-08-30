@@ -13,14 +13,12 @@ DIRECT = direct
 🇫🇷 FR | 🔒 TROJAN | @directvpn [16] = trojan, 35.181.187.105, 22223, password = telegram-id-directvpn, skip-cert-verify = false
 🇫🇷 FR | 🔒 TROJAN | @directvpn [17] = trojan, 15.188.66.131, 22223, password = telegram-id-directvpn, skip-cert-verify = false
 🇺🇸 US | 🔒 TROJAN | @free4allvpn [14] = trojan, 192.3.107.252, 443, password = 2ee85121-31de-4581-a492-eb00f606e392, skip-cert-verify = false
-🇩🇪 DE | 🔒 TROJAN | @hope_net [18] = trojan, 3.122.68.191, 22222, password = telegram-id-privatevpns, skip-cert-verify = false
-🚩 CF | 🔒 TROJAN | @hope_net [19] = trojan, 172.66.44.131, 443, password = auto, skip-cert-verify = false
 🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7] = trojan, 3.70.33.164, 22222, password = telegram-id-privatevpns, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇩🇪 DE | 🔒 TROJAN | @directvpn [15], 🇫🇷 FR | 🔒 TROJAN | @directvpn [16], 🇫🇷 FR | 🔒 TROJAN | @directvpn [17], 🇺🇸 US | 🔒 TROJAN | @free4allvpn [14], 🇩🇪 DE | 🔒 TROJAN | @hope_net [18], 🚩 CF | 🔒 TROJAN | @hope_net [19], 🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]
-PSG-AUTO = url-test, 🇩🇪 DE | 🔒 TROJAN | @directvpn [15], 🇫🇷 FR | 🔒 TROJAN | @directvpn [16], 🇫🇷 FR | 🔒 TROJAN | @directvpn [17], 🇺🇸 US | 🔒 TROJAN | @free4allvpn [14], 🇩🇪 DE | 🔒 TROJAN | @hope_net [18], 🚩 CF | 🔒 TROJAN | @hope_net [19], 🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]
-PSG-FALLBACK = fallback, 🇩🇪 DE | 🔒 TROJAN | @directvpn [15], 🇫🇷 FR | 🔒 TROJAN | @directvpn [16], 🇫🇷 FR | 🔒 TROJAN | @directvpn [17], 🇺🇸 US | 🔒 TROJAN | @free4allvpn [14], 🇩🇪 DE | 🔒 TROJAN | @hope_net [18], 🚩 CF | 🔒 TROJAN | @hope_net [19], 🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇩🇪 DE | 🔒 TROJAN | @directvpn [15], 🇫🇷 FR | 🔒 TROJAN | @directvpn [16], 🇫🇷 FR | 🔒 TROJAN | @directvpn [17], 🇺🇸 US | 🔒 TROJAN | @free4allvpn [14], 🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]
+PSG-AUTO = url-test, 🇩🇪 DE | 🔒 TROJAN | @directvpn [15], 🇫🇷 FR | 🔒 TROJAN | @directvpn [16], 🇫🇷 FR | 🔒 TROJAN | @directvpn [17], 🇺🇸 US | 🔒 TROJAN | @free4allvpn [14], 🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]
+PSG-FALLBACK = fallback, 🇩🇪 DE | 🔒 TROJAN | @directvpn [15], 🇫🇷 FR | 🔒 TROJAN | @directvpn [16], 🇫🇷 FR | 🔒 TROJAN | @directvpn [17], 🇺🇸 US | 🔒 TROJAN | @free4allvpn [14], 🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]
 
 [Rule]
 GEOIP,IR,DIRECT
